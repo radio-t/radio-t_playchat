@@ -1,0 +1,88 @@
+{
+  "issue": 920,
+  "date": "2024-07-27",
+  "audio": "https://cdn.radio-t.com/rt_podcast920.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt920.jpg",
+  "start_time": 1722111006,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple Maps запустили beta для веба",
+      "links": [
+        "https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/"
+      ],
+      "time": "00:01:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI показал немного поиска",
+      "links": [
+        "https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival"
+      ],
+      "time": "00:23:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "CrowdStrike - что это было",
+      "links": [
+        "https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/"
+      ],
+      "time": "00:51:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Haystack - все иначе",
+      "links": [
+        "https://haystackeditor.com/"
+      ],
+      "time": "00:54:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Llama 3.1",
+      "links": [
+        "https://ai.meta.com/blog/meta-llama-3-1/"
+      ],
+      "time": "01:08:41"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Reddit теперь можно искать только через Google",
+      "links": [
+        "https://www.404media.co/google-is-the-only-search-engine-that-works-on-reddit-now-thanks-to-ai-deal/"
+      ],
+      "time": "01:14:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Работники сказали свое веское слово",
+      "links": [
+        "https://www.computerworld.com/article/2520794/the-workers-have-spoken-theyre-staying-home.html"
+      ],
+      "time": "01:20:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Борьба за демократичный AI",
+      "links": [
+        "https://www.washingtonpost.com/opinions/2024/07/25/sam-altman-ai-democracy-authoritarianism-future/"
+      ],
+      "time": "01:29:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/07/24/prep-920/"
+      ],
+      "time": "01:38:36"
+    }
+  ],
+  "tags": null
+}
