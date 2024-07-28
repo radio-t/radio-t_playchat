@@ -22,25 +22,19 @@
     {
       "id": "000000000000000000000000",
       "title": "GitHub Copilot победил недовольных",
-      "links": [
-        "https://www.theregister.com/2024/07/08/github_copilot_dmca/"
-      ],
+      "links": ["https://www.theregister.com/2024/07/08/github_copilot_dmca/"],
       "time": "00:25:57"
     },
     {
       "id": "000000000000000000000000",
       "title": "Zed теперь и на Linux",
-      "links": [
-        "https://zed.dev/blog/zed-on-linux"
-      ],
+      "links": ["https://zed.dev/blog/zed-on-linux"],
       "time": "00:45:30"
     },
     {
       "id": "000000000000000000000000",
       "title": "Code Review не так бесполезно, как кажется",
-      "links": [
-        "https://two-wrongs.com/code-reviews-do-find-bugs.html"
-      ],
+      "links": ["https://two-wrongs.com/code-reviews-do-find-bugs.html"],
       "time": "01:32:35"
     },
     {
@@ -54,11 +48,10 @@
     {
       "id": "000000000000000000000000",
       "title": "Темы слушателей",
-      "links": [
-        "https://radio-t.com/p/2024/07/09/prep-918/"
-      ],
+      "links": ["https://radio-t.com/p/2024/07/09/prep-918/"],
       "time": "02:28:45"
     }
   ],
+  "verified": true,
   "tags": null
 }
