@@ -1,0 +1,1016 @@
+{
+  "chat": [
+    {
+      "id": "66c1acbd2708eeda0b947584",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "лоток коммитов",
+      "datetime": 1723924917,
+      "text": "не знаю как насчет emacs, но у меня есть стойкое ощущение что айтишные книги уже никто не переводит. Их бы успеть издать раньше чем они устареют, а пока переводить будешь год уже никому не надо"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947585",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "лоток коммитов",
+      "datetime": 1723924928,
+      "text": "ой"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947586",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "verte_zerg",
+      "author_name": "Mikhail Zhuk",
+      "datetime": 1723925026,
+      "text": "Можно чуть унцию тише?)"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947587",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723925034,
+      "text": "хорошо"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947588",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor Miasnikov",
+      "datetime": 1723925036,
+      "text": "громко"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947589",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1723925038,
+      "text": "у берегов Камчатки землетрясение в море, 7 баллов. В США выпустили пиедупреждение о цунами."
+    },
+    {
+      "id": "66c1acbd2708eeda0b94758a",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "YAV",
+      "datetime": 1723925039,
+      "text": "голос очень тихо, унца громно"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94758b",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "apnix",
+      "author_name": "Artemiy Titov",
+      "datetime": 1723925042,
+      "text": "тихо"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94758c",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor Miasnikov",
+      "datetime": 1723925051,
+      "text": "все ок"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94758d",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723925065,
+      "text": "унца относительно голоса громкова-то"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94758e",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1723925076,
+      "text": "померло"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94758f",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "D",
+      "datetime": 1723925097,
+      "text": "Унцу сбавьте остальное было нормик"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947590",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1723925105,
+      "text": "Ожило"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947591",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723925106,
+      "text": "пошло"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947592",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Sympho",
+      "author_name": "Alexander Rassokhin",
+      "datetime": 1723925116,
+      "text": "Ух ты, помогло."
+    },
+    {
+      "id": "66c1acbd2708eeda0b947593",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1723925129,
+      "text": "Карусель-карусель.."
+    },
+    {
+      "id": "66c1acbd2708eeda0b947594",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "D",
+      "datetime": 1723925130,
+      "text": "Закусочная, сосисочная"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947595",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723925136,
+      "text": "унцу всё также можно убавить"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947596",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MustangDSG",
+      "author_name": "Dmitry Galashin",
+      "datetime": 1723925155,
+      "text": "О, спасибо за уровни :)"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947597",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1723925257,
+      "text": "люблю когда Грей говорит \u0026#34;ребучу\u0026#34; и \u0026#34;ребут\u0026#34;))"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947598",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voxpuibr",
+      "author_name": "Stanislav",
+      "datetime": 1723925310,
+      "text": "когда?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b947599",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723925311,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 8мин 30сек назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 51мин 29сек\u003cbr/\u003eЭто происходит в сериале \u0026#34;Секретные материалы\u0026#34;, когда Грей использует такие фразы в напряжённых ситуациях. Эти выражения добавляют комичности в его персонаж."
+    },
+    {
+      "id": "66c1acbd2708eeda0b94759a",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723925321,
+      "text": "только у меня подвисает?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94759b",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1723925329,
+      "text": "А почему нереально купить?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94759c",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1723925394,
+      "text": "Ну говорят мол эксклюзив, только по заказу и только проверенным и старым клиентам Порше. Типа нельзя зайти с пачкой денег и купить GT3."
+    },
+    {
+      "id": "66c1acbd2708eeda0b94759d",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723925405,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94759e",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1723925405,
+      "image_url": "https://chat.radio-t.com/logs/922/AgACAgUAAx0CUPxcWQABCG-BZsEDnbF-d79G9j_XCeLcHUGyMeYAAjDCMRu9rQlW0kUbj9u6f3gBAAMCAAN4AAM1BA",
+      "image_width": 738,
+      "image_height": 415,
+      "text": "Strong 7.0 magnitude earthquake hits E of Petropavlovsk-Kamchatsky, Russia 🇷🇺 (17.08.2024)\u003cbr/\u003e\u003cbr/\u003eSource: USGS\u003cbr/\u003eSubscribe to @D\u003ca class=\"mention\" href=\"https://t.me/saster_News\u0000\u0000\"\u003eisaster_News\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b94759f",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1723925422,
+      "text": "Ого как"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a0",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "brusnigin",
+      "author_name": "Aleksandr Brusnigin",
+      "datetime": 1723925434,
+      "text": "\u003ca href=\"https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000n7jv\u0026amp;extent=52.92546,158.42697\u0026amp;extent=53.15542,159.02298\"\u003ehttps://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000n7jv\u0026amp;extent=52.92546,158.42697\u0026amp;extent=53.15542,159.02298\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a1",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723925445,
+      "text": "Вроде ж далеко от тебя"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a2",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "brusnigin",
+      "author_name": "Aleksandr Brusnigin",
+      "datetime": 1723925446,
+      "image_url": "https://chat.radio-t.com/logs/922/AgACAgIAAx0CUPxcWQABCG-FZsEDxpt1OpUpk_bYlIp8XBNbFjAAAsfhMRt8nQlKisRdO9psQPMBAAMCAAN5AAM1BA",
+      "image_width": 1280,
+      "image_height": 569,
+      "text": ""
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a3",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Mr_Dee_334",
+      "author_name": "Dmytro K.",
+      "datetime": 1723925504,
+      "text": "Умпутун собирался новый мотоцикл покупать, надеюсь это несвязано с отсутствием новых выпусков."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a4",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1723925511,
+      "text": "тут думаю порядком людей у которых там друзья/родственники.\u003cbr/\u003e\u003cbr/\u003eя не очень верю в то что быстро оповестят людей. сейчас каждая секунда дорога. \u003cbr/\u003e\u003cbr/\u003eможет и принесет, конечно. тут лотерея конечно"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a5",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1723925517,
+      "text": "он его уже купил"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a6",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723925602,
+      "text": "⚠️ Pixel 9 Pro and Pro XL launch with Satellite SOS, Android 14, $999 starting price - \u003ca href=\"https://9to5google.com/2024/08/13/pixel-9-pro-and-pro-xl/\"\u003ehttps://9to5google.com/2024/08/13/pixel-9-pro-and-pro-xl/\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a7",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723925606,
+      "text": "\u003cstrong\u003ePixel 9 Pro and Pro XL: Satellite SOS, Android 14, $999 start price\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003ePixel 9 Pro и Pro XL были официально представлены как первые смартфоны серии Pro от Google, предлагая два размера, улучшенные функции камеры, поддержку связи через спутник и предустановленный Android 14. Цены начинают от $999, с предзаказами, открывающимися сегодня. \u003cbr/\u003e\u003cbr/\u003e- **Два размера:** Pixel 9 Pro (6.3 дюйма) и Pro XL (6.8 дюйма).\u003cbr/\u003e- **Камеры:** 50MP основная, 48MP ультраширокая и 48MP телеобъектив.\u003cbr/\u003e- **Производительность:** Новый чип Tensor G4, 16GB RAM и до 1TB хранилища.\u003cbr/\u003e- **Батарея:** 4700mAh на Pro и 5060mAh на Pro XL с быстрой зарядкой 45W.\u003cbr/\u003e- **Искусственный интеллект:** Gemini Live для разговоров и улучшенные функции редактирования изображений.\u003cbr/\u003e- **Спутниковая связь:** SOS-соединение доступно на устройстве при ограниченном мобильном покрытии.\u003cbr/\u003e- **Предзаказ и запуск:** Открытие предзаказов сегодня, доступность в магазинах с 22 августа."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a8",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Mr_Dee_334",
+      "author_name": "Dmytro K.",
+      "datetime": 1723925735,
+      "text": "Ваш ответ высказанные мною опасения не опровергает и не дополняет :("
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475a9",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "special4trash",
+      "author_name": "X Y",
+      "datetime": 1723925743,
+      "text": "Перископ только в большом Айфоне."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475aa",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor Miasnikov",
+      "datetime": 1723925777,
+      "text": "gemini live"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475ab",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "thezaff",
+      "author_name": "Zaff",
+      "datetime": 1723925850,
+      "text": "А почему сарказм не красит мужчину?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475ac",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1723925933,
+      "text": "потому что пассивная агрессия херня. я за активную если уж агрессию"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475ad",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723926250,
+      "text": "Приложения погоды на мобильных - это то что очень легко сделать и в то же время можно показать новый интерфейс. Многие пишут такие приложухи чтобы обкатать новые технологии в UI"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475ae",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1723926434,
+      "text": "Мне кажется этот спор гораздо фундаментальнее чем кажется и больше про непринятие рандомности Вселенной вообще и иллюзию контроля, как защитный механизм."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475af",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor Miasnikov",
+      "datetime": 1723926448,
+      "text": "есть вот такое приложение довольно отлично в течении часа показывает \u003ca href=\"https://apps.apple.com/app/id439839893\"\u003ehttps://apps.apple.com/app/id439839893\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b0",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1723926597,
+      "text": "Я не в теме, но там вроде как модели на всяких диффурах построены, которые фиг аналитически решаются, а процесс вычисления плохой и по классике небольшая ошибка исходных данных выдаёт случайный результат на выходе."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b1",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "k1nkard",
+      "author_name": "Stepan",
+      "datetime": 1723926621,
+      "text": "лазером в воздух можно светить и измерять рассеяние, но вроде в городской черте таким заниматься запрещенно, больно лазеры мощные требуются"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b2",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1723926637,
+      "text": "Меня больше напрягает когда аппловское приложение погоды и AccuWeather показывают разную погоду. Кому верить??"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b3",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723926682,
+      "text": "яндекс погоде)"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b4",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1723926697,
+      "text": "Посмотреть третье приложение. При навигации в море так и делают, сравниваем три-четыре модели и выбираем прогноз где больше всего моделей согласны."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b5",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1723926698,
+      "text": "\u003ca href=\"https://www.uavforecast.com/\"\u003ehttps://www.uavforecast.com/\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b6",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723926860,
+      "text": "Этот анекдот у грея каждый выпуск?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b7",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1723926897,
+      "text": "А не встречались какие-то исследования по историческим данным, какая модель лучше предсказывает?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b8",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723926912,
+      "text": "⚠️ Grok-2 Beta Release - \u003ca href=\"https://x.ai/blog/grok-2\"\u003ehttps://x.ai/blog/grok-2\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475b9",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723926916,
+      "text": "\u003cstrong\u003eGrok-2 Beta Release\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eВыпуск бета-версии Grok-2 предоставляет пользователям Premium и Premium+ доступ к новым моделям: Grok-2 и Grok-2 mini. Grok-2 – современный ИИ помощник с улучшенной текстовой и визуальной обработкой, доступный в приложении 𝕏. Также будут доступны API для разработчиков.\u003cbr/\u003e\u003cbr/\u003e- **Новые модели:** Grok-2 и Grok-2 mini для пользователей Premium и Premium+.\u003cbr/\u003e- **Улучшенные способности:** Grok-2 предлагает интуитивное взаимодействие и широкий спектр возможностей, включая текст и визуализацию.\u003cbr/\u003e- **Интеграция в 𝕏:** Модели доступны через вкладку Grok в приложении 𝕏.\u003cbr/\u003e- **API для разработчиков:** Grok-2 и Grok-2 mini будут доступны через новый корпоративный API с улучшенной безопасностью и управлением.\u003cbr/\u003e- **Развитие функций:** Ожидаются улучшения в поисковых возможностях и анализе публикаций благодаря Grok.\u003cbr/\u003e- **Новые технологии:** Планируется раскрытие мультимодального понимания как части опыта Grok.\u003cbr/\u003e- **Присоединение к команде:** Открыты вакансии для талантливых специалистов, желающих участвовать в инновациях."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475ba",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1723927197,
+      "image_url": "https://chat.radio-t.com/logs/922/AgACAgIAAx0CUPxcWQABCG-eZsEKnR8GMGFoLGrTCjoL54syBPIAArvhMRvwEAhK22Sx4oHMtIsBAAMCAAN5AAM1BA",
+      "image_width": 966,
+      "image_height": 1280,
+      "text": "Похож?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475bb",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723927198,
+      "text": "⚠️ Apple’s requirements to hit creators and fans on Patreon - \u003ca href=\"https://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon\"\u003ehttps://microsite-news.pages.dev/articles/understanding-apple-requirements-for-patreon\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475bc",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723927201,
+      "text": "\u003cstrong\u003eApple’s requirements to hit creators and fans on Patreon\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eApple\u0026#39;s new guidelines affect creators and fans using Patreon by imposing specific requirements for app monetization.\u003cbr/\u003e\u003cbr/\u003e- **Нововведения Apple**: Бренд вводит новые правила для создателей контента на Patreon.\u003cbr/\u003e- **Позволять пользователям**: Обеспечивается возможность выбора предпочитаемого языка в приложении.\u003cbr/\u003e- **Финансовые условия**: Возникают обязательства по уплате комиссий за транзакции.\u003cbr/\u003e- **Коммуникация**: Требуется больше прозрачности в коммуникации между создателями и пользователями.\u003cbr/\u003e- **Поддержка контента**: Критерии оказания поддержки контента через платформу Patreon.\u003cbr/\u003e- **Настройки настройки**: Упрощены процессы настройки предпочтений пользователей.\u003cbr/\u003e- **Влияние на аудиторию**: Эти изменения могут повлиять на взаимодействие аудитории с платформой."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475bd",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1723927415,
+      "text": "Ну я же погоду как таковую мало смотрю. На суше точность меня мало заботит, а в море - лучшая это французская модель AROME, но там 2 дня только. Вторая это GFS, и производная ECMWF."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475be",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor Miasnikov",
+      "datetime": 1723927759,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e так и для телеграмма так же можно ввезти"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475bf",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1723927781,
+      "text": "дак уже ввели же"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c0",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor Miasnikov",
+      "datetime": 1723927801,
+      "text": "ого"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c1",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723928085,
+      "text": "хорошее время вставить рекламу \u003ca href=\"https://friends.radio-t.com\"\u003efriends.radio-t.com\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c2",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1723928246,
+      "text": "Ну, Apple меня научили проверять стоимость подписки на сайте сначала, прежде чем подписываться через них. Многие подписки так и уехали с платформы Apple у меня как минимум"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c3",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723928364,
+      "text": "⚠️ Inside the \u0026#34;3 Billion People\u0026#34; National Public Data Breach - \u003ca href=\"https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/\"\u003ehttps://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c4",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723928368,
+      "text": "\u003cstrong\u003eTroy Hunt: Inside the \u0026#34;3 Billion People\u0026#34; National Public Data Breach\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eСтатья описывает один из крупнейших утечек данных – взлом базы данных National Public Data, в результате которого были опубликованы данные около 2.9 миллиарда человек. Описание также обсуждает сложность интерпретации и атрибуции данных, связанных с этой утечкой.\u003cbr/\u003e\u003cbr/\u003e- Утечка данных National Public Data считается одной из крупнейших в истории.\u003cbr/\u003e- Данные, предположительно, включают имена, адреса и номера социального страхования.\u003cbr/\u003e- Полные детали утечки все еще остаются неясными, количество уникальных записей вызывает вопросы.\u003cbr/\u003e- Публикация данных вызвала юридические последствия для компании.\u003cbr/\u003e- Утечка затронула как живых, так и умерших людей.\u003cbr/\u003e- Наличие множества дублированных записей вызывает у экспертов беспокойство о достоверности данных.\u003cbr/\u003e- Идентификация источников данных усложнена из-за обширности и разнородности представленной информации."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c5",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1723928727,
+      "text": "С мая 2025 нельзя будет летать без RealID"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c6",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1723928840,
+      "text": "В Вашингтоне DMV вообще нет, есть DOL. Все онлайн, в офисах очереди почти нет. Права по почте шлют, лично нужно ездить только в исключительных случаях"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c7",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shnup",
+      "author_name": "Aleksei Melnik",
+      "datetime": 1723928973,
+      "text": "для тех у кого есть паспорт, и не лень его таскать с собой внутри. То он пойдет как замена RealID это указано тут  \u003ca href=\"https://www.dhs.gov/real-id\"\u003ehttps://www.dhs.gov/real-id\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c8",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shnup",
+      "author_name": "Aleksei Melnik",
+      "datetime": 1723929006,
+      "image_url": "https://chat.radio-t.com/logs/922/AgACAgIAAx0CUPxcWQABCG-uZsERrv32xK2kqoaQrnwnRhLRsWUAAsXhMRvwEAhKDJ3RGfC11Q4BAAMCAAN5AAM1BA",
+      "image_width": 1280,
+      "image_height": 712,
+      "text": ""
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475c9",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723929048,
+      "image_url": "https://chat.radio-t.com/logs/922/AgACAgIAAx0CUPxcWQABCG-vZsER18SaIBcSQrXb7ncJayL6IB8AAsbhMRvwEAhKRb-K0e8t8TMBAAMCAANtAAM1BA",
+      "image_width": 320,
+      "image_height": 47,
+      "text": "немножко устарел интерфейс, но в целом работает"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475ca",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1723929083,
+      "text": "В других странах ID это просто  ID, но не служит как подтверждение личности. А чтобы подтвердить что-то то всё через электронную цифровую подпись."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475cb",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1723929114,
+      "text": "то есть ID  не секретный и можно нагуглить"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475cc",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1723929156,
+      "text": "надо просто ссн сделать не-сенситив информацией и чтобы он не являлся никаким ID"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475cd",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1723929183,
+      "text": "За этими однодневками не уследишь"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475ce",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723929260,
+      "text": "⚠️ Go is my hammer, and everything is a nail - \u003ca href=\"https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail\"\u003ehttps://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475cf",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723929264,
+      "text": "\u003cstrong\u003eGo is my hammer, and everything is a nail\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**: Markus, соло-разработчик, полагается исключительно на язык Go для всех своих проектов. Он считает, что использование одного инструмента улучшает производительность, уменьшает переключение контекста и углубляет знание.\u003cbr/\u003e\u003cbr/\u003e- Markus - независимый разработчик с желанием гибкости в работе.\u003cbr/\u003e- Он предпочитает использовать один язык программирования для всех задач.\u003cbr/\u003e- Go позволяет ему сосредоточиться на создании ценной продукции.\u003cbr/\u003e- Отказ от других языков упрощает его рабочий процесс.\u003cbr/\u003e- Markus углубляет свои знания, используя Go исключительно.\u003cbr/\u003e- Он производителен и стремится улучшить свои навыки.\u003cbr/\u003e- Обсуждения на Hacker News и Reddit поддерживают его идеи."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d0",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1723929395,
+      "text": "На питоне можно сделать больше чем на го"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d1",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1723929407,
+      "text": "на Cython"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d2",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1723929425,
+      "text": "го умеет в мобилки? в драйвера? в IoT?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d3",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1723929540,
+      "text": "чисто технически и на баше можно всё написать"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d4",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723929569,
+      "text": "⚠️ Go 1.23 Release Notes - The Go Programming Language - \u003ca href=\"https://go.dev/doc/go1.23\"\u003ehttps://go.dev/doc/go1.23\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d5",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723929573,
+      "text": "\u003cstrong\u003eGo 1.23 Release Notes - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткий обзор Go 1.23\u003cbr/\u003e\u003cbr/\u003eС выходом Go 1.23, спустя шесть месяцев после 1.22, добавлены новые функции и улучшены существующие. Изменения включают поддержку обобщённых типов, инструментальную телеметрию и обновления для системы времени.\u003cbr/\u003e\u003cbr/\u003e- **Изменения в языке:** Добавлена поддержка функции range-over-func в циклах for-range и обобщённых типов.\u003cbr/\u003e- **Телеметрия:** Новый инструмент для сбора статистики использования и ошибок, помогающий понять работу инструментов Go.\u003cbr/\u003e- **Команда Go:** Обновлены команды go env, go mod tidy и добавлен флаг -checklinkname.\u003cbr/\u003e- **Проверка Vet:** Новая подкоманда stdversionanalyzer сигнализирует о неактуальных символах.\u003cbr/\u003e- **Новая уникальная упаковка:** Позволяет унифицировать значения и сократить использование памяти.\u003cbr/\u003e- **Изменения в таймерах:** Таймеры теперь сразу становятся доступными для сборки мусора.\u003cbr/\u003e- **Безопасность:** Обновлены алгоритмы шифрования для соответствия новым стандартам безопасности."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d6",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1723929799,
+      "text": "\u003ca href=\"https://pkg.go.dev/iter\"\u003ehttps://pkg.go.dev/iter\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d7",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1723929812,
+      "text": "// Pairs returns an iterator over successive pairs of values from seq.\u003cbr/\u003efunc Pairs[V any](seq iter.Seq[V]) iter.Seq2[V, V] {\u003cbr/\u003e return func(yield func(V, V) bool) {\u003cbr/\u003e  next, stop := iter.Pull(seq)\u003cbr/\u003e  defer stop()\u003cbr/\u003e  for {\u003cbr/\u003e   v1, ok1 := next()\u003cbr/\u003e   if !ok1 {\u003cbr/\u003e    return\u003cbr/\u003e   }\u003cbr/\u003e   v2, ok2 := next()\u003cbr/\u003e   // If ok2 is false, v2 should be the\u003cbr/\u003e   // zero value; yield one last pair.\u003cbr/\u003e   if !yield(v1, v2) {\u003cbr/\u003e    return\u003cbr/\u003e   }\u003cbr/\u003e   if !ok2 {\u003cbr/\u003e    return\u003cbr/\u003e   }\u003cbr/\u003e  }\u003cbr/\u003e }\u003cbr/\u003e}"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d8",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "winogradoff",
+      "author_name": "Ivan Vinogradov",
+      "datetime": 1723930042,
+      "text": "Вроде код на Scala был проще"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475d9",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930406,
+      "text": "⚠️ Google’s ex-CEO Eric Schmidt blames remote working on the company’s AI woes | Fortune - \u003ca href=\"https://fortune.com/2024/08/14/google-eric-schmidt-working-from-home-ai-openai/\"\u003ehttps://fortune.com/2024/08/14/google-eric-schmidt-working-from-home-ai-openai/\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475da",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930408,
+      "text": "\u003cstrong\u003eGoogle’s ex-CEO Eric Schmidt blames remote working on the company’s AI woes | Fortune\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eБывший CEO Google Эрик Шмидт считает, что удаленная работа является причиной проблем компании в области искусственного интеллекта. Он утверждает, что недостаток офисной работы приводит к отставанию в конкурентной борьбе с стартапами.\u003cbr/\u003e\u003cbr/\u003e- Эрик Шмидт критикует политику удаленной работы Google.\u003cbr/\u003e- Удаленная работа, по его словам, мешает инновациям.\u003cbr/\u003e- Шмидт считает, что стартапы работают больше, чтобы преуспеть.\u003cbr/\u003e- Работники Google обязаны приходить в офис около трех раз в неделю.\u003cbr/\u003e- Исследования показывают, что сотрудники могут покинуть компанию из-за строгих указаний по офисной работе.\u003cbr/\u003e- Лидеры, не учитывающие предпочтения работников, сталкиваются с уходом сотрудников.\u003cbr/\u003e- Работа в офисе не всегда гарантирует больший уровень вовлеченности."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475db",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Sympho",
+      "author_name": "Alexander Rassokhin",
+      "datetime": 1723930588,
+      "text": "Ну в потом Гугл медленно спускается с гор и скупает всех дизрапторов, проблем-то."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475dc",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Deathdefier666",
+      "author_name": "RumS",
+      "datetime": 1723930592,
+      "text": "\u003ca href=\"https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile\"\u003egomobile\u003c/a\u003e?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475dd",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723930918,
+      "text": "а что сейчас максимально похоже на бейсик? питон?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475de",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "winogradoff",
+      "author_name": "Ivan Vinogradov",
+      "datetime": 1723930980,
+      "text": "Я раньше думал, что они одноразовые. Типа раз в год покупать новые надо"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475df",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930980,
+      "text": "⚠️ Темы слушателей 922 - \u003ca href=\"https://radio-t.com/p/2024/08/13/prep-922/\"\u003ehttps://radio-t.com/p/2024/08/13/prep-922/\u003c/a\u003e"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e0",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930991,
+      "text": "[1/12] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eMikhail\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eЕрик Шмидт сначала заявил, что работа из дома вредна для производительности Гугла в области ИИ.\u003cbr/\u003eНа следующий день передумал и заявил о важности WLB\u003cbr/\u003e\u003cbr/\u003eПо моему в Гугле не видят бревна, связанного с менежментом и отсутствием успешных новых продуктов в течении долгого времени.\u003cbr/\u003e\u003cbr/\u003ePS друзья из Гугла рассказывали, что их RTO выглядел так: две разные команды шарят одни и теже столы в офисе, но делят дни недели, когда работают одни, а в какие дни работают другие\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.wsj.com/tech/ai/google-eric-schmidt-ai-remote-work-stanford-f92f4ca5\"\u003ehttps://www.wsj.com/tech/ai/google-eric-schmi...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://wsj.com\"\u003ewsj.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткий обзор:**  \u003cbr/\u003eСтатья на сайте WSJ предлагает пользователям отключить блокировщики рекламы и включить JavaScript для лучшего опыта просмотра. Это необходимо для полного доступа к контенту сайта.\u003cbr/\u003e\u003cbr/\u003e- Включите JavaScript для корректной работы сайта.\u003cbr/\u003e- Отключите блокировщики рекламы, чтобы поддержать контент.\u003cbr/\u003e- Доступ к полному содержимому невозможен с активными блокировщиками.\u003cbr/\u003e- Обновите браузер для улучшенной производительности.\u003cbr/\u003e- Некоторые функции могут быть недоступны без JavaScript.\u003cbr/\u003e- Пользователи могут столкнуться с ограничениями при использовании сайта.\u003cbr/\u003e- Рекомендуется использовать последние версии браузеров для оптимизации."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e1",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930992,
+      "text": "[2/12] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eDenis Mishankov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСоздатель PocketBase против SSR \u003c/em\u003e\u003ca href=\"https://github.com/pocketbase/pocketbase/discussions/5313\"\u003ehttps://github.com/pocketbase/pocketbase/disc...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eJS SSR - issues and recommendations when interacting with PocketBase · pocketbase/pocketbase · Discussion #5313 · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eОбсуждение на GitHub о проблемах и рекомендациях при взаимодействии с PocketBase в контексте серверного рендеринга JavaScript.\u003cbr/\u003e\u003cbr/\u003e- Взаимодействие PocketBase с JS SSR требует оптимизации для производительности.\u003cbr/\u003e- Некоторые пользователи сталкиваются с проблемами при загрузке данных на стороне сервера.\u003cbr/\u003e- Рекомендуется использование кэширования для ускорения ответов.\u003cbr/\u003e- Появляются ошибки при работе с асинхронными запросами.\u003cbr/\u003e- Участники обсуждения предлагают активное тестирование кода.\u003cbr/\u003e- Возможен конфликт версий при обновлениях PocketBase.\u003cbr/\u003e- Рекомендовано следить за обновлениями документации для улучшений."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e2",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930992,
+      "text": "[3/12] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eVladimir Morozov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://pglite.dev/\"\u003ehttps://pglite.dev/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eЗнаю тут любят Postgres)) завезли в браузере\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003ePGlite\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка:**  \u003cbr/\u003ePGlite - это полнофункциональный Postgres, работающий в вашем браузере, который включает в себя поддержку pgvector.\u003cbr/\u003e\u003cbr/\u003e- Полная версия PostgreSQL доступна в браузере.\u003cbr/\u003e- Поддержка pgvector для работы с векторными данными.\u003cbr/\u003e- Удобный интерфейс для разработчиков и пользователей.\u003cbr/\u003e- Легкий доступ к базе данных без установки.\u003cbr/\u003e- Подходит для тестирования и обучения.\u003cbr/\u003e- Не требует дополнительных ресурсов для запуска.\u003cbr/\u003e- Совместим с популярными языками программирования."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e3",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930992,
+      "text": "[4/12] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eAlex Martsinovich\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGo 1.23 Release:\u003cbr/\u003e– “range-over-func” функциональность\u003cbr/\u003e– оптимизация сборки с Profile Guided Optimization\u003cbr/\u003e–  изменения в реализации \u003c/em\u003e\u003ccode\u003etime.Timer\u003c/code\u003e\u003cem\u003e и \u003c/em\u003e\u003ccode\u003etime.Ticker\u003c/code\u003e\u003cem\u003e\u003cbr/\u003e– \u003c/em\u003e\u003ccode\u003eunique\u003c/code\u003e\u003cem\u003e \u0026amp; \u003c/em\u003e\u003ccode\u003eiter\u003c/code\u003e\u003cem\u003e packages\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://tip.golang.org/doc/go1.23\"\u003ehttps://tip.golang.org/doc/go1.23\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGo 1.23 Release Notes - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание:\u003cbr/\u003eGo 1.23 представляет изменения в инструментальных средствах, времени выполнения и библиотеках. Он подтверждает совместимость с Go 1. Приняты новые языковые конструкции и улучшен сбор статистики использования, включая новое управление таймерами.\u003cbr/\u003e\u003cbr/\u003e## Основные моменты:\u003cbr/\u003e- **Поддержка итераторов**: Новый пакет `iter` предоставляет функции для работы с пользовательскими итераторами, такими как Collect и Sorted.\u003cbr/\u003e- **Таймеры**: Таймеры становятся доступными для сборки мусора сразу, если на них нет ссылок, и их канал теперь не имеет буферизации.\u003cbr/\u003e- **Генерики**: Включена предварительная поддержка обобщенных типов алиасов.\u003cbr/\u003e- **Улучшенная производительность**: Оптимизировано время сборки при использовании PGO, снижено увеличение на 100% до однозначных процентов.\u003cbr/\u003e- **Телеметрия**: Новая возможность сбора статистики использования для улучшения инструментов Go.\u003cbr/\u003e- **Функции управления версиями**: Новая версия go vet идентифицирует символы, которые слишком новые для используемой версии Go.\u003cbr/\u003e- **Новая библиотека `structs`**: Предоставляет возможности для изменения свойств полей структур, таких как порядок размещения в памяти."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e4",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1723930992,
+      "text": "[5/12] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eAndrey Kabanets\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGoogle’s New “Mesop” Is An Open-Source Python UI Framework\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://google.github.io/mesop/\"\u003ehttps://google.github.io/mesop/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMesop\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eMesop — это новый фреймворк для быстрого создания AI приложений на Python, предлагающий простой способ разработки интерфейсов без необходимости изученияFrontend. Он интегрируется с компонентами JS и позволяет пользователю быстро прототипировать и разрабатывать.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- **Быстрое создание приложений**: Позволяет разработать AI-приложение за считанные минуты, используя знакомый Python.\u003cbr/\u003e  \u003cbr/\u003e- **Декларативный UI**: Простой подход к разработке интерфейсов с использованием чистого, понятного кода.\u003cbr/\u003e\u003cbr/\u003e- **Готовые компоненты**: Более 30 доступных компонентов для быстрой сборки ML-приложений или пользовательских интерфейсов.\u003cbr/\u003e\u003cbr/\u003e- **Интеграция с JS**: Возможность использования библиотек JS вместе с Python для улучшенной функциональности.\u003cbr/\u003e\u003cbr/\u003e- **Простое развертывание**: Легкое развертывание в облаке с пошаговыми инструкциями для Google Cloud Run или других услуг.\u003cbr/\u003e\u003cbr/\u003e- **Отличный опыт разработки**: Поддержка instant hot reload и типов данных улучшают продуктивность разработчика.\u003cbr/\u003e\u003cbr/\u003e- **Сообщество**: Активные обсуждения и отзывы от разработчиков, подтверждающие эффективность Mesop."
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e5",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723931356,
+      "text": "так Евгений девочку учил на Го ил Питоне?"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e6",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maksim_surmach",
+      "author_name": "Maksim Surmach",
+      "datetime": 1723931462,
+      "text": "\u0026#34;Когда купил новый молоток\u0026#34; про то, что Женя всё переписал"
+    },
+    {
+      "id": "66c1acbd2708eeda0b9475e7",
+      "issue": 922,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1723932075,
+      "text": "Всем спасибо за выпуск!"
+    }
+  ]
+}
