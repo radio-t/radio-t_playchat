@@ -1,0 +1,72 @@
+{
+  "issue": 924,
+  "date": "2024-08-31",
+  "audio": "https://cdn.radio-t.com/rt_podcast924.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt924.jpg",
+  "start_time": 1725135146,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Наезд на Telegram и его начальника",
+      "links": [
+        "https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news"
+      ],
+      "time": "00:01:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Бразилия против X",
+      "links": [
+        "https://www.nytimes.com/2024/08/30/world/americas/brazil-elon-musk-x-blocked.html?unlocked_article_code=1.G04.O5te.d3h_9ENaaL8x"
+      ],
+      "time": "00:42:44"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Elasticsearch опять open source",
+      "links": [
+        "https://www.elastic.co/blog/elasticsearch-is-open-source-again"
+      ],
+      "time": "00:54:23"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Tumblr переносит сотни миллионов блогов на WordPress",
+      "links": [
+        "https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/?guccounter=1"
+      ],
+      "time": "01:00:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Шокирующее решение по секции 230",
+      "links": [
+        "https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on"
+      ],
+      "time": "01:09:23"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Шрифт с подсветкой языков программирования",
+      "links": [
+        "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
+      ],
+      "time": "01:24:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/08/30/prep-924/"
+      ],
+      "time": "01:42:04"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,1320 @@
+{
+  "chat": [
+    {
+      "id": "66d4605eaad6cd29108e2251",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "adobromilskiy",
+      "author_name": "Alexander Dobromilskiy",
+      "datetime": 1725134316,
+      "text": "у меня одного нет никакого звука?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2252",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Sympho",
+      "author_name": "Alexander Rassokhin",
+      "datetime": 1725134321,
+      "text": "Тишина."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2253",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725134372,
+      "text": "унц"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2254",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725134448,
+      "text": "пошло"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2255",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Sympho",
+      "author_name": "Alexander Rassokhin",
+      "datetime": 1725134449,
+      "text": "Голоса без унцы."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2256",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Evgeny",
+      "datetime": 1725134463,
+      "text": "голоса есть, унции нет"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2257",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1725134490,
+      "text": "Умпутуна на фоне Грея слишком громко слышно"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2258",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725134512,
+      "text": "Грея тихо. Умпутун норм."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2259",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nothingelsematters7",
+      "author_name": "Andrey",
+      "datetime": 1725134540,
+      "text": "Пошла тепленькая"
+    },
+    {
+      "id": "66d4605eaad6cd29108e225a",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725134547,
+      "text": "верните маринку"
+    },
+    {
+      "id": "66d4605eaad6cd29108e225b",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1725134568,
+      "text": "Грей дышит, контора пишет"
+    },
+    {
+      "id": "66d4605eaad6cd29108e225c",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ivan_osipov",
+      "author_name": "Ivan Osipov",
+      "datetime": 1725134575,
+      "text": "Бобука не слышно\u003cbr/\u003e\u003cbr/\u003eно его и нет"
+    },
+    {
+      "id": "66d4605eaad6cd29108e225d",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alaija",
+      "author_name": "Alan Kochev",
+      "datetime": 1725134596,
+      "text": "Вроде норм, но унцу можно потише."
+    },
+    {
+      "id": "66d4605eaad6cd29108e225e",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maksim_surmach",
+      "author_name": "Maksim Surmach",
+      "datetime": 1725134604,
+      "text": "Грэй, дыши!"
+    },
+    {
+      "id": "66d4605eaad6cd29108e225f",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alaija",
+      "author_name": "Alan Kochev",
+      "datetime": 1725134632,
+      "text": "И бобук из унцы вынырнул"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2260",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725134633,
+      "text": "вроде норм"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2261",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1725134661,
+      "image_url": "https://chat.radio-t.com/logs/924/AgACAgEAAx0CUPxcWQABCHvmZtN3RThq6znS-3ydfcLJ3FRqy00AAg-tMRvy7plGNVC_uIgtZ_sBAAMCAAN5AAM1BA",
+      "image_width": 810,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "66d4605eaad6cd29108e2262",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725134700,
+      "text": "а вдруг кто решит сыр натирать."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2263",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1725134727,
+      "text": "с пяток"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2264",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725134736,
+      "text": "бобука тише слышно малость"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2265",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ivan_osipov",
+      "author_name": "Ivan Osipov",
+      "datetime": 1725134936,
+      "text": "Когда уже кто-то сделает тул, чтобы унца менялась в зависимости от обсуждения, например, счастливая унца, страшная унца, унца - саспенс"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2266",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725135013,
+      "text": "унца-беннихил"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2267",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725135021,
+      "text": "только ради подкаста поставил eqmac чтобы занижать 32Гца на 17Дб, иначе басы прям бьют по ушам"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2268",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1725135054,
+      "text": "The тема"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2269",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725135141,
+      "image_url": "https://chat.radio-t.com/logs/924/AgACAgIAAx0CUPxcWQABCHvwZtN5JSt46PB_muEccom5XhhbIxYAAkrlMRtXYphKwj0atBX2p3wBAAMCAAN4AAM1BA",
+      "image_width": 800,
+      "image_height": 668,
+      "text": "раз про дурова подняли тему, закину мемчик"
+    },
+    {
+      "id": "66d4605eaad6cd29108e226a",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725135146,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e226b",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1725135147,
+      "text": "Всем нужно собраться и решить раз и на всегда вопросы сетевой нейтральности и уровня приватности."
+    },
+    {
+      "id": "66d4605eaad6cd29108e226c",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1725135150,
+      "text": "Поток подсознания :))"
+    },
+    {
+      "id": "66d4605eaad6cd29108e226d",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725135216,
+      "text": "только у меня заикается?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e226e",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725135219,
+      "text": "⚠️ All the news on Telegram CEO Pavel Durov’s arrest - The Verge - \u003ca href=\"https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news\"\u003ehttps://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e226f",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725135222,
+      "text": "\u003cstrong\u003eAll the news on Telegram CEO Pavel Durov’s arrest - The Verge\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eГенеральный директор Telegram Павел Дуров был арестован во Франции в рамках расследования. Хотя обвинений против него нет, власти предполагают его причастность к распространению преступной деятельности.\u003cbr/\u003e\u003cbr/\u003e- Дуров не обвиняется, но под следствием.\u003cbr/\u003e- Арест связан с расследованием по неназванному лицу.\u003cbr/\u003e- Обвинения включают распространение CSAM, наркотиков и хакерских инструментов.\u003cbr/\u003e- Дуров отказался сотрудничать с правоохранительными органами.\u003cbr/\u003e- Telegram утверждает, что у Дурова «нет ничего скрывать».\u003cbr/\u003e- Французское правительство сделало официальное заявление о причинах ареста.\u003cbr/\u003e- Расследование продолжается, и ситуация может измениться."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2270",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725135258,
+      "text": "с бензопилы"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2271",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dimentium",
+      "author_name": "DK",
+      "datetime": 1725135282,
+      "text": "Просил сейчас на него скидка - 200€ без АМС и 350€ с АМС. \u003cbr/\u003e\u003cbr/\u003eУ меня как раз А1 мини и я могу сказать что ни шума особого ни запаха не замечаю ни я ни кто из членов семьи 🤔"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2272",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725135307,
+      "text": "ну камон, нельзя в качестве первого брать без АМС"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2273",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dimentium",
+      "author_name": "DK",
+      "datetime": 1725135416,
+      "text": "Эээээээ. Почему. Я купил по предзаказу комбо сет (с АМС) но в итоге он до сих пор в коробке, а я печатаю одним цветом.  Некуда поставить пока. \u003cbr/\u003e\u003cbr/\u003eПлюс я почитал/посмотрел как растёт время печати и количество лишнего филамента при многоцветной печати и понял что не готов пока к такому )"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2274",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dimentium",
+      "author_name": "DK",
+      "datetime": 1725135597,
+      "text": "К А1 мини  у меня пока одна претензия - размер платформы. Недавно уткнулся что не могу распечатать одну модель. Но тут аппетит приходит во время еды. Буду менять когда нибудь, когда поменяются жилищные условия )"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2275",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sandrey",
+      "author_name": "Андрей",
+      "datetime": 1725135705,
+      "text": "а что вы на них печатаете?  интересно спросить"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2276",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Anna_Frolova3",
+      "author_name": "Анна Фролова",
+      "datetime": 1725136011,
+      "text": "Есть несложная удаленная paбoта! \u003cbr/\u003eДoxoд от 225$ в день, oплaтa каждый день, времени займет в день 1-2 часа, белый вид зapaбoтka.\u003cbr/\u003e\u003cbr/\u003eСтавьте + в лс"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2277",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🥟",
+      "datetime": 1725136110,
+      "text": "Так а с боксом все равно надо кришку откривать \u003cbr/\u003eТак что запах никуда не денется"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2278",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🥟",
+      "datetime": 1725136230,
+      "text": "А1 мини єто вот такой принтер и есть \u003cbr/\u003e\u003cbr/\u003eВсе сам калибрует, нажал кнопку и смотриш"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2279",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725136248,
+      "text": "только если печать дольше пары часов. иначе можно забить"
+    },
+    {
+      "id": "66d4605eaad6cd29108e227a",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1725136251,
+      "text": "А как же та манца про то что в телеге можно пересылать огромные файлы и они как-то кешируются и быстро скачиваются второй раз?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e227b",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "m_0_0_d_y",
+      "author_name": "Moody",
+      "datetime": 1725136319,
+      "text": "Имхо в телеге лучшее качество"
+    },
+    {
+      "id": "66d4605eaad6cd29108e227c",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1725136338,
+      "text": "таки да, файл с тем же хешем \u0026#34;заливается\u0026#34; быстро второй раз. а скачивается как позволяет подключение на конкретном устройстве"
+    },
+    {
+      "id": "66d4605eaad6cd29108e227d",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Radbek",
+      "datetime": 1725136353,
+      "text": "У Threema як на мене вища якість при поганому зв\u0026#39;язку"
+    },
+    {
+      "id": "66d4605eaad6cd29108e227e",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725136382,
+      "text": "самый лушчший юзкейс был выше описан - ребёнок что-то потерял (как правило мелкие вещи, фигурки всякие) и нужно восстановить."
+    },
+    {
+      "id": "66d4605eaad6cd29108e227f",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1725136386,
+      "text": "Вот они и говорили что не инкриптят энд ту энд из-за этого по умолчанию"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2280",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1725136392,
+      "text": "В  WhatsApp лучше звонки чем в телеграме. Телегу корежит если хреновая связь, все как Бобук говорит"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2281",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1725136404,
+      "text": "попробуй какой-нибудь фейсбук"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2282",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725136483,
+      "text": "WA даёт гудки звонящему, даже если вызываемый абонент совсем не в сети и никакого звонка у него не проходит. Поубывав бы"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2283",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1725136539,
+      "text": "Действительно неожиданный поворот в деле Дурова для меня был когда ОАЭ вписалось в борьбу за Дурова \u003ca href=\"https://www.financialexpress.com/business/defence-uae-cancels-20-billion-rafale-deal-with-france-despite-telegram-ceos-release-3595771/\"\u003ehttps://www.financialexpress.com/business/defence-uae-cancels-20-billion-rafale-deal-with-france-despite-telegram-ceos-release-3595771/\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2284",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1725136560,
+      "text": "Мне вот интересно, если вдруг телеграм начнёт сотрудничать со всеми, то государства будто бы внезапно начнут бороться со всякой нечистью сильно эффективнее, чем это делает сам телеграм?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2285",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725136579,
+      "text": "это разве не фейк?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2286",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1725136696,
+      "text": "А то что кроме ТОНа сделали звезды которые можно использовать для оплаты гадостей всяких и вывода - это  conspiracy?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2287",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1725136898,
+      "text": "Я не проверял. Надеюсь что нет"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2288",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dimentium",
+      "author_name": "DK",
+      "datetime": 1725137001,
+      "text": "Детальки для железной дороги от Брио - переходники на Лего, элементы для нестандартных развязок."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2289",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "InSafeWorld",
+      "author_name": "Udom Bunchu",
+      "datetime": 1725137047,
+      "image_url": "https://chat.radio-t.com/logs/924/AgACAgUAAx0CUPxcWQABCHwTZtOAl56lBPjDB5B1VpO1pqvT0RMAAm-9MRvZGphWSi1357X2Cj4BAAMCAAN5AAM1BA",
+      "image_width": 1114,
+      "image_height": 590,
+      "text": "Для Умпутуна"
+    },
+    {
+      "id": "66d4605eaad6cd29108e228a",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Pomoinytskyi",
+      "author_name": "Vitalii Pomoinytskyi",
+      "datetime": 1725137155,
+      "image_url": "https://chat.radio-t.com/logs/924/AgACAgIAAx0CUPxcWQABCHwUZtOBA_Fm_Hfgpo81WczsFly8zOYAAgPmMRshVplK3PkAAfdE93ZMAQADAgADeQADNQQ",
+      "image_width": 699,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "66d4605eaad6cd29108e228b",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Pomoinytskyi",
+      "author_name": "Vitalii Pomoinytskyi",
+      "datetime": 1725137166,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e у вас вот так выглядит послений меседж"
+    },
+    {
+      "id": "66d4605eaad6cd29108e228c",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dimentium",
+      "author_name": "DK",
+      "datetime": 1725137169,
+      "text": "Корпуса для клавиатуры, опять же. \u003cbr/\u003e\u003cbr/\u003eНедавно жене пробки для бутылочек от Актимеля нарисовал и напечатал."
+    },
+    {
+      "id": "66d4605eaad6cd29108e228d",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725137231,
+      "text": "это у вас он так выглядит ) реклама показывается только у вас в клиенте же"
+    },
+    {
+      "id": "66d4605eaad6cd29108e228e",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ivan_osipov",
+      "author_name": "Ivan Osipov",
+      "datetime": 1725137264,
+      "text": "Вообще обидно, получается не видишь что твои конкуренты рекламируют, а так мог бы анализировать"
+    },
+    {
+      "id": "66d4605eaad6cd29108e228f",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🥟",
+      "datetime": 1725137270,
+      "text": "Бімби )\u003cbr/\u003e\u003cbr/\u003eНо вообще много чего, можно зайти на malerworld и приблизительно понять возможности"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2290",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725137278,
+      "text": "там щас вроде пополам и нет большинства"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2291",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Pomoinytskyi",
+      "author_name": "Vitalii Pomoinytskyi",
+      "datetime": 1725137293,
+      "image_url": "https://chat.radio-t.com/logs/924/AgACAgIAAx0CUPxcWQABCHwbZtOBjemN01Z29SOqxTUrofUWAAFBAAIF5jEbIVaZSi4GGXwHQwhiAQADAgADeQADNQQ",
+      "image_width": 698,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "66d4605eaad6cd29108e2292",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Pomoinytskyi",
+      "author_name": "Vitalii Pomoinytskyi",
+      "datetime": 1725137304,
+      "text": "Это всегда последний меседж, рекламный, вот еще пример"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2293",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dimentium",
+      "author_name": "DK",
+      "datetime": 1725137317,
+      "text": "maKerword вероятно )\u003cbr/\u003eЕщё на thingverse"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2294",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1725137331,
+      "text": "да какой смысл меряться рекламой?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2295",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1725137368,
+      "text": "У Макрона партия \u0026#34;социал-либеральная\u0026#34; если что"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2296",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725137446,
+      "text": "никакого. Я несколько лет пользуюсь телеграммом. Видимо не правильно пользуюсь, я сейчас только рекламу увидел и то, потому что её сюда занесли."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2297",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1725137562,
+      "text": "премиум?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e2298",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725137632,
+      "text": "пробовал премиум в прошлом месяце, но отказался от подписки и зарепортил как организацию поддерживающую терроризм."
+    },
+    {
+      "id": "66d4605eaad6cd29108e2299",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725137711,
+      "text": "⚠️ Brazil Blocks X After Musk Ignores Court Orders - The New York Times - \u003ca href=\"https://www.nytimes.com/2024/08/30/world/americas/brazil-elon-musk-x-blocked.html?unlocked_article_code=1.G04.O5te.d3h_9ENaaL8x\"\u003ehttps://www.nytimes.com/2024/08/30/world/americas/brazil-elon-musk-x-blocked.html?unlocked_article_code=1.G04.O5te.d3h_9ENaaL8x\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e229a",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725137713,
+      "text": "\u003cstrong\u003eBrazil Blocks X After Musk Ignores Court Orders - The New York Times\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eБразилия заблокировала X после игнорирования судом приказов Маска. X считает приказы незаконными, а Маск утверждает, что свобода слова в опасности. Судья приказал заблокировать доступ к X и пригрозил штрафами за использование VPN.\u003cbr/\u003e\u003cbr/\u003e- Бразилия заблокировала социальную сеть X из-за несоблюдения приказов суда.\u003cbr/\u003e- Элон Маск считает, что свобода слова под угрозой.\u003cbr/\u003e- Судья Александре де Мораес из Бразилии угрожает штрафами за использование VPN.\u003cbr/\u003e- Musk закрыл офис X в Бразилии перед угрозами арестов.\u003cbr/\u003e- X объявила, что рассматривает судебные приказы как незаконные.\u003cbr/\u003e- Блокировка затрагивает 200 миллионов человек в стране.\u003cbr/\u003e- Это испытание для Маска в его преобразовании X в цифровую площадку."
+    },
+    {
+      "id": "66d4605eaad6cd29108e229b",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1725138249,
+      "text": "есть еще Бангладеш. там 170 миллионов населения и они мусульмане в основном"
+    },
+    {
+      "id": "66d4605eaad6cd29108e229c",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ivan_osipov",
+      "author_name": "Ivan Osipov",
+      "datetime": 1725138250,
+      "text": "так вот кто виноват, видимо это была последняя капля"
+    },
+    {
+      "id": "66d4605eaad6cd29108e229d",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1725138253,
+      "text": "с твиттером как с icq - зря забанили сторонние клиенты"
+    },
+    {
+      "id": "66d4605eaad6cd29108e229e",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1725138347,
+      "text": "И Нигерия - 200+ млн."
+    },
+    {
+      "id": "66d4605eaad6cd29108e229f",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725138409,
+      "text": "⚠️ Elasticsearch is Open Source, Again | Elastic Blog - \u003ca href=\"https://www.elastic.co/blog/elasticsearch-is-open-source-again\"\u003ehttps://www.elastic.co/blog/elasticsearch-is-open-source-again\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a0",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725138413,
+      "text": "\u003cstrong\u003eElasticsearch is Open Source, Again | Elastic Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eElasticsearch вновь становится открытым программным обеспечением с добавлением лицензии AGPL. В Elastic рады этому, считая открытость частью своей ДНК. Изменение лицензии связано с проблемами на рынке, в частности с AWS, но теперь они уверены в своем будущем.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Elasticsearch и Kibana снова могут называться открытым ПО.\u003cbr/\u003e- AGPL станет новой лицензией наряду с ELv2 и SSPL.\u003cbr/\u003e- Период смены лицензии был сложным, но позволил укрепить партнерство с AWS.\u003cbr/\u003e- Появление AGPL помогает устранить путаницу на рынке.\u003cbr/\u003e- Elastic считает открытость важной и работает над улучшением лицензирования.\u003cbr/\u003e- Успехи продуктов Elastic продолжают вдохновлять команду.\u003cbr/\u003e- Elastic смотрит в будущее с оптимизмом и уверенностью в своих действиях."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a1",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725138600,
+      "text": "я тоже так подумал."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a2",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akostenko",
+      "author_name": "😕 🍴",
+      "datetime": 1725138610,
+      "text": "у opensearch есть бесплатный kubernetes operator"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a3",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725138651,
+      "text": "какой терроризм кстати?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a4",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1725138738,
+      "text": "авторы же могут промто добавить к имеющейся лицензии ещё одну"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a5",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725138750,
+      "text": "⚠️ Tumblr to move its half a billion blogs to WordPress | TechCrunch - \u003ca href=\"https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/?guccounter=1\"\u003ehttps://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/?guccounter=1\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a6",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725138753,
+      "text": "\u003cstrong\u003eTumblr to move its half a billion blogs to WordPress | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка:** Tumblr переходит на платформу WordPress после приобретения компанией Automattic за 3 миллиона долларов в 2019 году. Этот переход обещает улучшить функционал и доходность, хотя столкнется с техническими трудностями из-за большого объема контента.\u003cbr/\u003e\u003cbr/\u003e- Tumblr будет работать на платформе WordPress без изменений в пользовательском интерфейсе.\u003cbr/\u003e- Automattic видит в этом процессе преимущество для интеграции инструментов между двумя платформами.\u003cbr/\u003e- Переход представляет собой одну из крупнейших технических миграций в истории интернета.\u003cbr/\u003e- Предыдущий опыт с изменением архитектуры существовал у Twitter и Slack.\u003cbr/\u003e- Tumblr испытывает финансовые трудности, теряя 30 миллионов долларов в год.\u003cbr/\u003e- Acquisition не решило финансовые проблемы, несмотря на кратковременный всплеск нового трафика.\u003cbr/\u003e- Automattic еще не огласила временные рамки завершения проекта."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a7",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1725138836,
+      "text": "Марисой Терезой"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a8",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1725139013,
+      "text": "Эх, ко мне как-то пришли automattic и попросили отдать владение пакетом \u003ca href=\"https://www.npmjs.com/package/photon\"\u003ehttps://www.npmjs.com/package/photon\u003c/a\u003e , нужно было денег просить)"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22a9",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725139019,
+      "text": "“We’re talking about one of the largest technical migrations in internet history. Some people think it’s impossible. But we say, ‘challenge accepted,’” the company’s announcement boasted."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22aa",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ivan_osipov",
+      "author_name": "Ivan Osipov",
+      "datetime": 1725139269,
+      "text": "сколько тысяч лет будет окупаться ютуб?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22ab",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725139309,
+      "text": "⚠️ Judges Rule Big Tech\u0026#39;s Free Ride on Section 230 Is Over - \u003ca href=\"https://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on\"\u003ehttps://www.thebignewsletter.com/p/judges-rule-big-techs-free-ride-on\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22ac",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725139313,
+      "text": "\u003cstrong\u003eJudges Rule Big Tech\u0026#39;s Free Ride on Section 230 Is Over\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eСуд Третьего округа США отменил защиту, предоставляемую большим технологическим компаниям по разделу 230 Закона о приличии в коммуникациях. Это решение может значительно повлиять на бизнес-модели таких платформ, как TikTok, ответственных за рекомендации контента и его последствия.\u003cbr/\u003e\u003cbr/\u003e- Суд обнародовал решение, которое сужает область действия Закона 230, отменяя immunity для крупных технокомпаний.\u003cbr/\u003e- TikTok стал ответчиком по делу о ненадлежащем контенте, который привел к гибели 10-летней девочки.\u003cbr/\u003e- Большие техники больше не смогут ссылаться на 230, чтобы избежать ответственности за алгоритмическое содержание.\u003cbr/\u003e- Это может привести к изменению бизнес-моделей платформ, зависящих от неограниченного показа контента.\u003cbr/\u003e- Решение может вызвать широкую правовую дискуссию о регулировании больших технологий и их ответственности.\u003cbr/\u003e- Влияние может оказаться двусторонним: люди получат платформы, более ответственные за контент, или встревожатся о свободе слова.\u003cbr/\u003e- Возможно, дело дойдет до Верховного суда, что приведет к множеству юридических дебатов и комментариев."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22ad",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725139652,
+      "text": "так вот почему у бобука одно порно"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22ae",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725139676,
+      "text": "у меня не одно, у меня разное"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22af",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725139863,
+      "text": "- ну штаб квартира в Дубаи - много главарей террористических организаций обидают там.\u003cbr/\u003e- постоянные прогибы под администрацию РФ - начиналось всё хорошо, но то что было последние годы это чистая поддержка терроризма. Взять хотя бы чат жён мобилизованных (я их осуждаю тоже).\u003cbr/\u003e- армия РФ выполняя незаконные приказы главного террориста привратилась в террористическую организацию, телеграм обеспечивает их связью."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b0",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1725139897,
+      "text": "Звук сегодня классный. Все одинаково звучат. Унца сромно. Спасибо. Сохраните настройки."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b1",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725140220,
+      "text": "⚠️ Font with Built-In Syntax Highlighting - \u003ca href=\"https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/\"\u003ehttps://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b2",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725140224,
+      "text": "\u003cstrong\u003eGlyphDrawing.Club -blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**\u003cbr/\u003eGlyphDrawing.Club обсуждает проблему синтаксического выделения кода в HTML и CSS при ручном кодировании. Авторы предлагают использовать возможности OpenType для создания встроенного синтаксического выделителя без JavaScript, упрощая процесс создания блога.\u003cbr/\u003e\u003cbr/\u003e- Обратная связь с Mastodon и Hacker News улучшила шрифт.\u003cbr/\u003e- Проблема синтаксического выделения усложняет ручное кодирование.\u003cbr/\u003e- Использование библиотек, как Prism, добавляет сложность и долю внешнего кода.\u003cbr/\u003e- Метод с использованием OpenType позволяет избежать JavaScript.\u003cbr/\u003e- Преимущества: простота установки, отсутствие необходимости в сторонних скриптах.\u003cbr/\u003e- Есть ограничения в замене языков и доступности для большинства пользователей.\u003cbr/\u003e- Описан процесс создания шрифта и применения OpenType."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b3",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725140284,
+      "text": "а разве не обсуждали? или это похожее?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b4",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1725140403,
+      "text": "похожее было когда шрифтом крипту майниои или типа того"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b5",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andmed",
+      "author_name": "andmеd",
+      "datetime": 1725140410,
+      "text": "так пропустил, почему теперь от зеда отказываемся?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b6",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725140473,
+      "image_url": "https://chat.radio-t.com/logs/924/AgACAgIAAx0CUPxcWQABCHxAZtON-be1YTe3PHmfL9o4JbHDz_4AAjvmMRshVplKOIUzycJyjywBAAMCAAN4AAM1BA",
+      "image_width": 455,
+      "image_height": 436,
+      "text": ""
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b7",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1725140618,
+      "text": "блокировка кривая. гдето видел похожее."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b8",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1725140915,
+      "text": "curier вроде ж можно кириллицей писать"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22b9",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1725141191,
+      "text": "померло"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22ba",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1725141200,
+      "text": "+"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22bb",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1725141212,
+      "text": "рефрешните"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22bc",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1725141214,
+      "text": "ожило"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22bd",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725141217,
+      "text": "на фразе мужик сказал"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22be",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1725141227,
+      "text": "угу как то странно чить лагануло"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22bf",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725141271,
+      "text": "⚠️ Темы слушателей 924 - \u003ca href=\"https://radio-t.com/p/2024/08/30/prep-924/\"\u003ehttps://radio-t.com/p/2024/08/30/prep-924/\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c0",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725141278,
+      "text": "[1/11] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eLeonid Nikolaev\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.elastic.co/blog/elasticsearch-is-open-source-again\"\u003ehttps://www.elastic.co/blog/elasticsearch-is-...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eЭлкстик передумали. Они снова доступны по хорошим лицензиям\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eElasticsearch is Open Source, Again | Elastic Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eElasticsearch вновь становится открытым программным обеспечением с добавлением лицензии AGPL. В Elastic рады этому, считая открытость частью своей ДНК. Изменение лицензии связано с проблемами на рынке, в частности с AWS, но теперь они уверены в своем будущем.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Elasticsearch и Kibana снова могут называться открытым ПО.\u003cbr/\u003e- AGPL станет новой лицензией наряду с ELv2 и SSPL.\u003cbr/\u003e- Период смены лицензии был сложным, но позволил укрепить партнерство с AWS.\u003cbr/\u003e- Появление AGPL помогает устранить путаницу на рынке.\u003cbr/\u003e- Elastic считает открытость важной и работает над улучшением лицензирования.\u003cbr/\u003e- Успехи продуктов Elastic продолжают вдохновлять команду.\u003cbr/\u003e- Elastic смотрит в будущее с оптимизмом и уверенностью в своих действиях."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c1",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725141278,
+      "text": "[2/11] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eAlex Martsinovich\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003e25 августа Linux исполнилось 33 года!\u003c/em\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c2",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725141279,
+      "text": "[3/11] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eIvan Osipov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eГолосование на редите\u003cbr/\u003eОсновной поинт: доколе ноушену можно не соблюдать принцип отсутствия обратной силы и банить аккаунты за факт использования российского билинга в прошлом, когда это было не запрещено\u003cbr/\u003e\u003cbr/\u003eТема для обсуждения: Должны ли частные компании хотя бы стараться сохранять правила унаследованные из общества или им можно всё?\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.reddit.com/r/Notion/comments/1f4rxmd/if_notion_bans_a_user_if_heshe_has_ever_used/\"\u003ehttps://www.reddit.com/r/Notion/comments/1f4r...\u003c/a\u003e"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c3",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725141279,
+      "text": "[4/11] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eAli Aliyev\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eВторое издание книги Мартина Клеппмана Designing Data-Intensive Applications находится в процессе написания, а его релиз запланирован на декабрь 2025 года. Уже доступны первые три части на O’Reilly: \u003c/em\u003e\u003ca href=\"https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/\"\u003ehttps://learning.oreilly.com/library/view/des...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDesigning Data-Intensive Applications, 2nd Edition[Book]\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eКнига \u0026#34;Проектирование приложений, интенсивно использующих данные, 2-е издание\u0026#34; предлагает расширенные знания о проектировании и разработке эффективных систем обработки данных. Доступен бесплатный 10-дневный пробный период на платформе O\u0026#39;Reilly.\u003cbr/\u003e\u003cbr/\u003e- Полный доступ к \u0026#34;Проектированию приложений, интенсивно использующих данные\u0026#34;.\u003cbr/\u003e- Включает 60,000+ других материалов и книг.\u003cbr/\u003e- Доступны живые мероприятия для обучающихся.\u003cbr/\u003e- Курс, отобранный по ролям на рабочем месте.\u003cbr/\u003e- Визуализация принципов проектирования баз данных.\u003cbr/\u003e- Обсуждение современных технологий обработки данных.\u003cbr/\u003e- Рекомендуется для разработчиков и архитекторов ПО."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c4",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1725141279,
+      "text": "[5/11] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eAlex Martsinovich\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eОколо половины безопасников OpenAI покинули компанию за последние пару месяцев.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eПо словам Дэниела Кокотайло, бывшего исследователя OpenAI в области управления, почти половина сотрудников OpenAI, которые когда-то были сосредоточены на долгосрочных рисках сверхмощного ИИ, покинули компанию за последние несколько месяцев.\u003cbr/\u003e(…)\u003cbr/\u003eИз примерно 30 сотрудников, работавших над вопросами безопасности AGI, осталось всего около 16.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://finance.yahoo.com/news/exodus-openai-nearly-half-agi-200000302.html\"\u003ehttps://finance.yahoo.com/news/exodus-openai-...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eExodus at OpenAI: Nearly half of AGI safety staffers have left, says former researcher\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eВ OpenAI 48% сотрудников, занимающихся безопасностью AGI, уволились. Это вызывает обеспокоенность по поводу рисков, связанных с разработкой ИИ, и приводит к мнениям, что акцент на прибыль может угрожать долгосрочным целям безопасности.\u003cbr/\u003e\u003cbr/\u003e- Почти половина сотрудников, занимающихся безопасностью AGI, покинули OpenAI в последние месяцы.\u003cbr/\u003e- Увольнения включают ключевых исследователей и соучредителя Джона Шульмана.\u003cbr/\u003e- Смена фокуса компании на коммерческие продукты вызывает опасения по поводу безопасности технологий.\u003cbr/\u003e- Kokotajlo предупреждает о \u0026#34;холодном эффекте\u0026#34; и влиянии маркетинга на исследование.\u003cbr/\u003e- Критики считают, что сосредоточенность на рисках AGI гипертрофирована и отвлекает от реальных угроз.\u003cbr/\u003e- Принятый законопроект SB 1047 вызывает дебаты о регулировании ИИ.\u003cbr/\u003e- OpenAI создаёт новый комитет по безопасности для решения критических вопросов безопасности."
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c5",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ivan_osipov",
+      "author_name": "Ivan Osipov",
+      "datetime": 1725141741,
+      "text": "Понятно что частным компаниям можно, но почему не сделать как сделали miro"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c6",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725141813,
+      "text": "Отличная книжка"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c7",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1725141823,
+      "text": "эт кабан?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c8",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725141823,
+      "text": "в каком далеком детстве, она вышла в 2018 вроде)"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22c9",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725141825,
+      "text": "потому что новшн не заинтересован в бесплатных юзерах"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22ca",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725141839,
+      "text": "да"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22cb",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1725141881,
+      "text": "Выступает мальчик с феноменальной памятью :-)"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22cc",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ivan_osipov",
+      "author_name": "Ivan Osipov",
+      "datetime": 1725141967,
+      "text": "почему miro заинтересованы, есть предположения?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22cd",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1725142077,
+      "text": "потому что миро пытаются обойти санкции. но долго не получится, прижмут"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22ce",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "theurs",
+      "author_name": "theurs",
+      "datetime": 1725142263,
+      "text": "Чисто теоретически можно ли угнать из Яндекс браузера tts голос Алисы. Он там вшит как универсальный ключ к их апи или сложнее?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22cf",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1725142647,
+      "text": "а где стримят?"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22d0",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1725142742,
+      "text": "всем спасибо за выпуск!"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22d1",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1725142804,
+      "text": "akko pingvi я люблю, akko pingvi я люблю"
+    },
+    {
+      "id": "66d4605eaad6cd29108e22d2",
+      "issue": 924,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1725142827,
+      "text": "пака"
+    }
+  ]
+}
