@@ -1,0 +1,72 @@
+{
+  "issue": 925,
+  "date": "2024-09-07",
+  "audio": "https://cdn.radio-t.com/rt_podcast925.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt925.jpg",
+  "start_time": 1725740505,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "2M пользователей, но нет денег",
+      "links": [
+        "https://exercism.org/blog/september-2024-restructure"
+      ],
+      "time": "00:03:25"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "А вот этот собрал $1М только через GitHub Sponsors",
+      "links": [
+        "https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook"
+      ],
+      "time": "00:11:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Откровения бывшего инженера Sonos",
+      "links": [
+        "https://old.reddit.com/r/sonos/comments/1f79vk6/former_sonos_engineer_here_heartbroken_by_the_app/"
+      ],
+      "time": "00:30:56"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Оптимизация кода для grep",
+      "links": [
+        "https://morizbuesing.com/blog/greppability-code-metric/"
+      ],
+      "time": "01:01:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Goja: нативный JavaScript для Go",
+      "links": [
+        "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime"
+      ],
+      "time": "01:14:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Go против Python для лямбд",
+      "links": [
+        "https://atakanerbas.com/programming/2024/08/29/go-vs-python-serverless.html"
+      ],
+      "time": "01:29:26"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/09/03/prep-925/"
+      ],
+      "time": "01:38:38"
+    }
+  ],
+  "tags": null
+}
