@@ -1,0 +1,56 @@
+{
+  "issue": 926,
+  "date": "2024-09-14",
+  "audio": "https://cdn.radio-t.com/rt_podcast926.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt926.jpg",
+  "start_time": 1726346011,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Скучные новинки от Apple",
+      "links": [
+        "https://www.theverge.com/24239739/apple-iphone-16-event-announcements-watch-series-10-airpods"
+      ],
+      "time": "00:01:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Поиск баланса в нашей работе",
+      "links": [
+        "https://www.16elt.com/2024/09/07/future-proof-code/index.html"
+      ],
+      "time": "01:08:31"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI показали модели o1 с большим умом",
+      "links": [
+        "https://www.theverge.com/2024/9/12/24242439/openai-o1-model-reasoning-strawberry-chatgpt"
+      ],
+      "time": "01:34:03"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google NotebookLM научился говорить",
+      "links": [
+        "https://techcrunch.com/2024/09/11/googles-ai-note-taking-app-notebooklm-can-now-explain-complex-topics-to-you-out-loud/"
+      ],
+      "time": "01:53:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/09/10/prep-926/"
+      ],
+      "time": "02:02:02"
+    }
+  ],
+  "tags": null
+}
