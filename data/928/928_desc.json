@@ -1,0 +1,48 @@
+{
+  "issue": 928,
+  "date": "2024-09-28",
+  "audio": "https://cdn.radio-t.com/rt_podcast928.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt928.jpg",
+  "start_time": 1727554711,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI меняет планы",
+      "links": [
+        "https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/"
+      ],
+      "time": "00:18:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "WordPress.org против WP Engine",
+      "links": [
+        "https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/"
+      ],
+      "time": "00:30:40"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Meta Connect 2024",
+      "links": [
+        "https://www.theverge.com/2024/9/25/24250234/meta-connect-rayban-glasses-orion-ai-llama"
+      ],
+      "time": "01:42:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/09/24/prep-928/"
+      ],
+      "time": "02:00:26"
+    }
+  ],
+  "tags": null
+}
