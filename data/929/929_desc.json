@@ -1,0 +1,80 @@
+{
+  "issue": 929,
+  "date": "2024-10-05",
+  "audio": "https://cdn.radio-t.com/rt_podcast929.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt929.jpg",
+  "start_time": 1728158891,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Meta Movie Gen – не первые, но лучшие",
+      "links": [
+        "https://ai.meta.com/research/movie-gen/"
+      ],
+      "time": "00:28:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google не пошел кривым путем Amazon",
+      "links": [
+        "https://www.entrepreneur.com/business-news/google-recommits-to-hybrid-work-schedule-unlike-amazon/480683"
+      ],
+      "time": "00:34:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Хорошее пожертвование в $300,000 в пользу Zig",
+      "links": [
+        "https://mitchellh.com/writing/zig-donation"
+      ],
+      "time": "00:40:25"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Cloudflare на автопилоте отбили 3.8 Tbps DDoS",
+      "links": [
+        "https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack"
+      ],
+      "time": "00:45:41"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Обновелние GitHub Issues",
+      "links": [
+        "https://github.blog/changelog/2024-10-01-evolving-github-issues-public-beta/"
+      ],
+      "time": "01:14:01"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Усталость от AI",
+      "links": [
+        "https://www.ontestautomation.com/i-am-tired-of-ai/"
+      ],
+      "time": "01:26:24"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Что хорошего в Python 3.13",
+      "links": [
+        "https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/"
+      ],
+      "time": "01:42:48"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/10/01/prep-929/"
+      ],
+      "time": "01:51:49"
+    }
+  ],
+  "tags": null
+}
