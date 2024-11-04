@@ -1,0 +1,88 @@
+{
+  "issue": 933,
+  "date": "2024-11-02",
+  "audio": "https://cdn.radio-t.com/rt_podcast933.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt933.jpg",
+  "start_time": 1730578637,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новые iMac на M4",
+      "links": [
+        "https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/"
+      ],
+      "time": "00:08:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новые Mac mini порадовали",
+      "links": [
+        "https://9to5mac.com/2024/11/01/new-mac-mini-m4-pro-geekbench/"
+      ],
+      "time": "00:12:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новые MacBook Pro",
+      "links": [
+        "https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/"
+      ],
+      "time": "00:19:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход ChatGPT поиска",
+      "links": [
+        "https://openai.com/index/introducing-chatgpt-search/"
+      ],
+      "time": "00:54:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude упаковали страницу в приложение",
+      "links": [
+        "https://claude.ai/download"
+      ],
+      "time": "01:08:26"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Четверть кода в Google написал AI",
+      "links": [
+        "https://archive.is/X43PU"
+      ],
+      "time": "01:14:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GitHub Copilot теперь умеет Anthropic и Google модели",
+      "links": [
+        "https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement"
+      ],
+      "time": "01:35:48"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Код, который легко удалить",
+      "links": [
+        "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to"
+      ],
+      "time": "01:41:07"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/10/29/prep-933/"
+      ],
+      "time": "02:11:14"
+    }
+  ],
+  "tags": null
+}

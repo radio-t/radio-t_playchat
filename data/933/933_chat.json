@@ -1,0 +1,1295 @@
+{
+  "chat": [
+    {
+      "id": "6729102a58d1f09083cc8efe",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730577857,
+      "text": "дабнёнка?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8eff",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Deathdefier666",
+      "author_name": "RumS",
+      "datetime": 1730577871,
+      "text": "Звучало капец"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f00",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1730578073,
+      "text": "если много передергивать - результат налицо"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f01",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Deathdefier666",
+      "author_name": "RumS",
+      "datetime": 1730578187,
+      "text": "Сценка \u0026#34;пользователи эплл\u0026#34;"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f02",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1730578249,
+      "text": "мне двадцать минут надо досмотреть фильм, надеюсь микрофоны еще не настроили?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f03",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1730578289,
+      "text": "надо комплбктер перезагрузить"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f04",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730578304,
+      "text": "секвоя новая заруинила наверно"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f05",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730578356,
+      "text": "мне уведомления в календаре поломала первая секвоя"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f06",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1730578445,
+      "image_url": "https://chat.radio-t.com/logs/933/AgACAgEAAx0CUPxcWQABCMEeZyaIDUx29-0Z0qQSVYlD3WMmjRIAAoitMRv5CjFF7nzLt2N5LHIBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 686,
+      "text": ""
+    },
+    {
+      "id": "6729102a58d1f09083cc8f07",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Radbek",
+      "datetime": 1730578505,
+      "text": "\u0026#34;Ви прослухали звичайний суботній перфоманс - налаштування апаратури під час трансляції\u0026#34;"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f08",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Deathdefier666",
+      "author_name": "RumS",
+      "datetime": 1730578558,
+      "text": "Люблю эту рубрику"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f09",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Radbek",
+      "datetime": 1730578578,
+      "text": "👍"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f0a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730578593,
+      "text": "нужен стандарт"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f0b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730578637,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f0c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1730578837,
+      "text": "\u003ca href=\"https://github.com/go-pkgz/cronrange\"\u003ehttps://github.com/go-pkgz/cronrange\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f0d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730578844,
+      "text": "А че нельзя просто два кронтаба писать?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f0e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730579058,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e это ты после презентации TigerBeetle решил сделать?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f0f",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730579152,
+      "text": "⚠️ Apple introduces new iMac supercharged by M4 and Apple Intelligence - \u003ca href=\"https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/\"\u003ehttps://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f10",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730579155,
+      "text": "\u003cstrong\u003eApple introduces new iMac supercharged by M4 and Apple Intelligence - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eApple представила новый iMac с процессором M4 и Apple Intelligence.\u003cbr/\u003e\u003cbr/\u003e- Apple революционизировала личные технологии с выходом Macintosh в 1984 году.\u003cbr/\u003e- Компания лидирует в области инноваций с устройствами, такими как iPhone и iPad.\u003cbr/\u003e- Шесть программных платформ Apple обеспечивают бесшовный опыт на всех устройствах.\u003cbr/\u003e- Apple Music, App Store и другие сервисы предлагают непревзойденный опыт пользователю.\u003cbr/\u003e- Более 150,000 сотрудников компании стремятся создавать лучшие продукты на планете.\u003cbr/\u003e- Apple активно работает над улучшением условий на Земле.\u003cbr/\u003e- Инновации остаются в центре стратегии компании в 2023 году."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f11",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730579275,
+      "text": "после того, как все подостыли с M процами, спрощу прямо: у армов есть таки на декстопе будущее?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f12",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e3m1r0",
+      "author_name": "Egor",
+      "datetime": 1730579325,
+      "text": "десктом это не мобаил или ты про вин/линукс десктоп?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f13",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730579407,
+      "text": "⚠️ The new Mac mini will be Apple\u0026#39;s fastest desktop Mac, as shown by M4 Pro Geekbench scores - 9to5Mac - \u003ca href=\"https://9to5mac.com/2024/11/01/new-mac-mini-m4-pro-geekbench/\"\u003ehttps://9to5mac.com/2024/11/01/new-mac-mini-m4-pro-geekbench/\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f14",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730579410,
+      "text": "\u003cstrong\u003eThe new Mac mini will be Apple\u0026#39;s fastest desktop Mac, as shown by M4 Pro Geekbench scores - 9to5Mac\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eНовый Mac mini с чипом M4 Pro станет самым быстрым настольным Mac от Apple, превосходя производительность M2 Ultra. M4 Pro демонстрирует впечатляющие результаты в тестах Geekbench, обеспечивая значительный прирост по сравнению с предыдущими моделями.\u003cbr/\u003e\u003cbr/\u003e- Новый Mac mini с чипом M4 Pro является самым быстрым настольным Mac.\u003cbr/\u003e- Производительность M4 Pro превышает M2 Ultra по многоядерным вычислениям.\u003cbr/\u003e- M4 Pro на 20% быстрее в одноядерных и на 45% быстрее в многоядерных задачах по сравнению с M3 Pro.\u003cbr/\u003e- Базовая модель M4 также продемонстрирует высокую производительность.\u003cbr/\u003e- Ожидается выпуск чипа M4 Ultra в 2025 году для моделей Mac Studio и Mac Pro.\u003cbr/\u003e- Mac mini и MacBook Pro с новыми чипами уже доступны для предзаказа.\u003cbr/\u003e- Официальный релиз новых устройств запланирован на 8 ноября."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f15",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1730579595,
+      "text": "Зачем Mac Studio нужен, если Mac Mini уже 64 gb ram поддерживает?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f16",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "reznic_a",
+      "author_name": "Alexandr Reznic",
+      "datetime": 1730579623,
+      "text": "Ну если компилировать, то нужен"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f17",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730579624,
+      "text": "\u003ca href=\"https://github.com/willmcgugan/terminal-tree\"\u003ehttps://github.com/willmcgugan/terminal-tree\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f18",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "reznic_a",
+      "author_name": "Alexandr Reznic",
+      "datetime": 1730579740,
+      "text": "Кстати 128гб нужно? 64 не хватило бы? \u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f19",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730579782,
+      "text": "⚠️ New MacBook Pro features M4 family of chips and Apple Intelligence - \u003ca href=\"https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/\"\u003ehttps://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f1a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730579786,
+      "text": "\u003cstrong\u003eNew MacBook Pro features M4 family of chips and Apple Intelligence - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eНовая MacBook Pro с чипами M4 и Apple Intelligence предлагает улучшенную производительность, защиту личной информации и новые функции macOS Sequoia, включая возможность зеркалирования iPhone и множество возможностей для игр, с акцентом на экологичность и долговечность устройства.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Чипы M4 и Apple Intelligence**: Обеспечивают на 10x быстрее производительность для ИИ-задач и до 20x для графических задач по сравнению с Intel.\u003cbr/\u003e  \u003cbr/\u003e- **Функции macOS Sequoia**: Включают беспроводное взаимодействие с iPhone, улучшенный Safari и инновационные инструменты для управления окнами и видеозвонками.\u003cbr/\u003e\u003cbr/\u003e- **Акцент на безопасность**: Платформа обеспечивает конфиденциальность пользователей при работе с данными и доступом к ChatGPT без регистрации.\u003cbr/\u003e\u003cbr/\u003e- **Обновления для MacBook Air**: Теперь стартовая память увеличена до 16 ГБ при сохранении цены в $999, что делает его еще более привлекательным выбором.\u003cbr/\u003e\u003cbr/\u003e- **Экологическая устойчивость**: Новая MacBook Pro использует 100% переработанный алюминий и редкиеearth materials, с целью нулевого уровня углеродного следа к 2030 году.\u003cbr/\u003e\u003cbr/\u003e- **Увеличенное время работы от батареи**: До 24 часов работы на новом MacBook Pro, что на 14 часов больше, чем у предыдущих моделей."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f1b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gram2hmel",
+      "author_name": "51av",
+      "datetime": 1730579803,
+      "text": "thunderbold 5 в прошке поставили"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f1c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730579901,
+      "text": "ну да, про  это все"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f1d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "valerian5633",
+      "author_name": "Валериан",
+      "datetime": 1730580085,
+      "text": "Ищy людeй желaющих хорoшо зaрабатывaть в удалeнном фopмате. Зa подрoбностями пишитe в личныe соoбщeния"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f1e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Radbek",
+      "datetime": 1730580087,
+      "text": "В Мах також 2 моделі, через конфігуратор"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f1f",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1730580150,
+      "text": "погоди SSD надо брать в 2 раза больше чем ты поанируешь использовать"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f20",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Radbek",
+      "datetime": 1730580245,
+      "text": "Там щє є підводні камені, в залежності від кількості ядер в пропускній спроможності пам\u0026#39;яті"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f21",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1730580279,
+      "text": "там да зависит еще и скорость шины памяти"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f22",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shevchenco",
+      "author_name": "Євген",
+      "datetime": 1730580352,
+      "text": "А кому-то нужно на практике больше терабайта, если не заниматься монтажем видео/фото?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f23",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730580409,
+      "text": "че такая оперативка у эпл дорогая?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f24",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "reznic_a",
+      "author_name": "Alexandr Reznic",
+      "datetime": 1730580545,
+      "text": "Thunderbolt 5 только у Max вроде"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f25",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1730580546,
+      "text": "M1 Max отличался от M1 pro только по gpu"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f26",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "reznic_a",
+      "author_name": "Alexandr Reznic",
+      "datetime": 1730580563,
+      "text": "И скорости оперативки"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f27",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1730580572,
+      "text": "чтобы тушканы платили, т.к. альтернативы они убрали и низя давно добавить самим"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f28",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1730580585,
+      "text": "да )"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f29",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730580594,
+      "text": "а что такое стикеры...?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f2a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "reznic_a",
+      "author_name": "Alexandr Reznic",
+      "datetime": 1730580610,
+      "text": "Наклейки на крышке"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f2b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "wzooff",
+      "author_name": "Andrii 🇪🇺 Veklychev",
+      "datetime": 1730580633,
+      "text": "Трушньіе стикерьі бьіли когда яблочко светилось"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f2c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gram2hmel",
+      "author_name": "51av",
+      "datetime": 1730580645,
+      "text": "уже начиная с pro есть"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f2d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shevchenco",
+      "author_name": "Євген",
+      "datetime": 1730580657,
+      "text": "Наклейки для повыщения скорости RAM"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f2e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730580672,
+      "text": "понял, ведущие шутят..."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f2f",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730580697,
+      "text": "руки на стэк"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f30",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730580734,
+      "text": "фифачка :)"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f31",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730581077,
+      "text": "вроде ж рекомендуют чтобы глаза были на уровне верхней грани"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f32",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alek566",
+      "author_name": "Alek",
+      "datetime": 1730581095,
+      "text": "Я не буду говорить за всех дизайнеров, но VFX в большом кино сидит на  Intel/amd + Linux. Макбуки только у координаторов."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f33",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1730581170,
+      "text": "в тему эйров.\u003cbr/\u003e\u003cbr/\u003eНа работе есть большой Жава проект.\u003cbr/\u003e\u003cbr/\u003e• 2013 MacBook i7 gen 3 4 cores (x2 hyperthreading) build 4:30\u003cbr/\u003e•  HP 13\u0026#34;  i7 gen 11 4 cores (x2 hyperthreading) build 11:42\u003cbr/\u003e• HP 13\u0026#34; i7 gen 13 10 cores (+2 hyperthreading) build 8:33\u003cbr/\u003e• HP Z book i7 gen 11 high performance 8 cores (x2 hyperthreading) build 4:14\u003cbr/\u003e• MacBook Air M2 - build 1:33\u003cbr/\u003e\u003cbr/\u003eСегодня нагрел свой M2 до прийтно тёплого - 16GB 4K 60fps видео кусками нужно было в одно FHD 30fps перегнать - 9 минут."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f34",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1730581256,
+      "text": "Это скорее в тему Apple Silicon"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f35",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1730581307,
+      "text": "у меня примерно так"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f36",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1730581528,
+      "text": "Алексей и Умпутун обсуждали, что взять Эйр для всего. Я чуть-чуть припозднился с постом."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f37",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Va1ery",
+      "author_name": "Valery",
+      "datetime": 1730581620,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e Trumph только 400 собирают в индии на заводе баджадж, остальные в Британии, в тему обсуждения"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f38",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1730581657,
+      "text": "У меня подгорать начало, когда 10 летний процессор на тойже архитектуре но на macOS даёт туже производительность."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f39",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Va1ery",
+      "author_name": "Valery",
+      "datetime": 1730581694,
+      "text": "Через пару недель кстати nec motoshow в Бирмингеме, можно на всем сразу посидеть и посмотреть"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f3a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1730581707,
+      "text": "я три раза прочёл - \u003cem\u003eТрамп только 400\u003c/em\u003e\u003cbr/\u003e🤣"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f3b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730581847,
+      "text": "суперсус"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f3c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730581881,
+      "text": "⚠️ Introducing ChatGPT search - \u003ca href=\"https://openai.com/index/introducing-chatgpt-search/\"\u003ehttps://openai.com/index/introducing-chatgpt-search/\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f3d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730581883,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eТекущая информация подразумевает действия или ожидания, требующие небольшой паузы или внимания.\u003cbr/\u003e\u003cbr/\u003e- Ожидание может быть связано с важным событием.\u003cbr/\u003e- Требует сосредоточенности на текущем моменте.\u003cbr/\u003e- Может быть динамичным или статическим процессом.\u003cbr/\u003e- Способствует подготовке к следующему шагу.\u003cbr/\u003e- Часто используется в повседневном общении.\u003cbr/\u003e- Подчеркивает значимость терпения.\u003cbr/\u003e- Означает необходимость внимание к деталям."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f3e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1730582495,
+      "image_url": "https://chat.radio-t.com/logs/933/AgACAgIAAx0CUPxcWQABCMFYZyaX3yZv6i1-iUt20dWxeTvecEYAAiPlMRsTmzlJrAq4KFiOPRgBAAMCAAN4AAM2BA",
+      "image_width": 800,
+      "image_height": 84,
+      "text": ""
+    },
+    {
+      "id": "6729102a58d1f09083cc8f3f",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730582743,
+      "text": "⚠️ Download Claude - \u003ca href=\"https://claude.ai/download\"\u003ehttps://claude.ai/download\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f40",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730582745,
+      "text": "\u003cstrong\u003eDownload Claude\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме:  \u003cbr/\u003eНастройки файлов cookie позволяют улучшать и персонализировать услуги, анализировать использование сайта и настраивать маркетинг в соответствии с вашими предпочтениями.\u003cbr/\u003e\u003cbr/\u003e- Используем файлы cookie для улучшения услуг.  \u003cbr/\u003e- Анализируем, как используется сайт.  \u003cbr/\u003e- Персонализируем ваш опыт на сайте.  \u003cbr/\u003e- Настраиваем маркетинг по вашим предпочтениям.  \u003cbr/\u003e- Читайте нашу Политику файлов cookie.  \u003cbr/\u003e- Согласие на использование файлов cookie необходимо.  \u003cbr/\u003e- Файлы cookie помогают в улучшении взаимодействия с пользователями."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f41",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1730583066,
+      "text": "нужно попросить его открыть код в канвасе и он тогда перейдет в новый UI"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f42",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730583113,
+      "text": "⚠️ More Than a Quarter of New Code at Google Is Created by AI - Business… - \u003ca href=\"https://archive.is/X43PU\"\u003ehttps://archive.is/X43PU\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f43",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730583116,
+      "text": "\u003ca href=\"https://archive.is\"\u003earchive.is\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**\u003cbr/\u003eЧтобы предотвратить проблемы с сетью в будущем, важно провести антивирусное сканирование устройств, особенно если вы используете общую сеть или работаете из дома.\u003cbr/\u003e\u003cbr/\u003e- Запустите антивирусное сканирование на личном устройстве.\u003cbr/\u003e- Проверьте наличие вредоносного ПО на компьютере.\u003cbr/\u003e- Обратитесь к администратору сети в офисе.\u003cbr/\u003e- Проведите сканирование всей сети на наличие уязвимых устройств.\u003cbr/\u003e- Настройте брандмауэр для дополнительной защиты.\u003cbr/\u003e- Регулярно обновляйте программное обеспечение.\u003cbr/\u003e- Обучите пользователей о безопасном использовании сети."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f44",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730584007,
+      "text": "Почти как в пхп"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f45",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730584042,
+      "text": "да ладно, с bash check пишешь и норм"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f46",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730584052,
+      "text": "АВК вкусные конфеты делает"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f47",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730584086,
+      "text": "ShellCheck который"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f48",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730584153,
+      "text": "Не понял, но мне же говорили что пайтон медленный)"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f49",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1730584154,
+      "text": "Не, если более высокий уровень абстракции llm более стабильно поддерживают код"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f4a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1730584205,
+      "text": "Я прям пробывал на vanilla js и на реакте с готовой библиотекой делать сайт \u003cbr/\u003eОчевидно оказалось что изменения второй версии были более стабильными"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f4b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730584233,
+      "text": "последнее, что гуглил в баше - thread pool. вот где жесть. Нет, не надо bash."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f4c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730584385,
+      "text": "⚠️ GitHub Copilot will support models from Anthropic, Google, and OpenAI - The Verge - \u003ca href=\"https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement\"\u003ehttps://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f4d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730584388,
+      "text": "\u003cstrong\u003eGitHub Copilot will support models from Anthropic, Google, and OpenAI - The Verge\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eGitHub Copilot is expanding support to models from Anthropic, Google, and OpenAI, allowing users to select the best model for their tasks. GitHub is also introducing Spark, an AI tool to facilitate web app creation using natural language.\u003cbr/\u003e\u003cbr/\u003e- GitHub Copilot will support Anthropic, Google, and OpenAI models.\u003cbr/\u003e- Users can toggle models during conversations with Copilot Chat.\u003cbr/\u003e- GitHub announces Spark for easier web app development using natural language.\u003cbr/\u003e- Spark allows code manipulation for experienced developers and easy app creation for novices.\u003cbr/\u003e- The aim is to enable 1 billion users to create micro apps on GitHub.\u003cbr/\u003e- Multi-file editing in GitHub Copilot for VS Code is coming on November 1.\u003cbr/\u003e- Copilot Extensions and new features like code review will be available in 2025.\u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003eGitHub Copilot расширяет поддержку моделей от Anthropic, Google и OpenAI, позволяя пользователям выбирать лучшую модель для своих задач. GitHub также представляет Spark, инструмент ИИ для упрощения создания веб-приложений с использованием естественного языка.\u003cbr/\u003e\u003cbr/\u003e- GitHub Copilot будет поддерживать модели Anthropic, Google и OpenAI.\u003cbr/\u003e- Пользователи могут переключать модели во время общения с Copilot Chat.\u003cbr/\u003e- GitHub представляет Spark для упрощенной разработки веб-приложений с использованием естественного языка.\u003cbr/\u003e- Spark позволяет опытным разработчикам изменять код, а новичкам — легко создавать приложения.\u003cbr/\u003e- Цель — дать возможность 1 миллиарду пользователей создавать микро-приложения на GitHub.\u003cbr/\u003e- Редактирование нескольких файлов в GitHub Copilot для VS Code появится 1 ноября.\u003cbr/\u003e- Расширения Copilot и новые функции, такие как код-ревью, станут доступны в 2025 году."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f4e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1730584426,
+      "text": "А у меня кстати очень глючили даже о1 когда я просил отдеюажить код микроконтроллера и клиента на питоне который передавал звук с микрофона по BLE\u003cbr/\u003eВидимо понимания нюансов физики процесса не хватает"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f4f",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1730584667,
+      "text": "в школах и институтах учат еще и моник выключать"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f50",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730584703,
+      "text": "⚠️ Write code that is easy to delete, not easy to extend. - \u003ca href=\"https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to\"\u003ehttps://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f51",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730584708,
+      "text": "\u003cstrong\u003eWrite code that is easy to delete, not easy to... â€” programming is terrible\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткий обзор\u003cbr/\u003eКод следует писать так, чтобы его можно было легко удалить, вместо того чтобы постоянно поддерживать. Упрощая зависимости и разделяя функциональность, разработчики могут облегчить будущие изменения и уменьшить стоимость обслуживания. \u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Линии кода**: Следует рассматривать строки кода как затраты и стараться их уменьшить.\u003cbr/\u003e- **Копирование кода**: Копирование может быть полезным на первых этапах, но приводит к потенциальным зависимостям.\u003cbr/\u003e- **Минимизация зависимостей**: Сложную логику стоит изолировать от кода, который необходимо менять.\u003cbr/\u003e- **Неписание шаблонного кода**: Упрощение библиотеки может увеличить удобство использования, но не должно усложнять код.\u003cbr/\u003e- **Экспериментирование**: Предпочле́ние написанию одной большой части кода может ускорить тестирование идей.\u003cbr/\u003e- **Разделение кода**: Изолирование трудно изменяемых модулей упрощает процесс редактирования и удаления.\u003cbr/\u003e- **Гибкость**: Легкая смена стратегий и адаптация к изменениям позволяет избегать больших затрат на поддержку."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f52",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1730585128,
+      "text": "на iOS 18.1, вроде как Siri должна быть умной (Intellegent). Я решил начать пользоваться ей. Она довела меня до слёз.\u003cbr/\u003eТо отвечает, то нет. А потом так неожиданно на запрос добавить ремайндер или будильник говорит - разблокируйте ваш телефон (я в наушниках за рулём, а телефон в кармане, в настройках Allow Siri When Locked = true).\u003cbr/\u003eЕсли бы я мог телефон разблокировать, я бы её и не просил. Она иногда отказывается позвонить.\u003cbr/\u003e\u003cbr/\u003eА ещё страшно бесит, когда её спрашиваешь голосом. И она отвечает голосом - \u003cem\u003eя тут подобрала ответы, почитай\u003c/em\u003e.\u003cbr/\u003e\u003cbr/\u003eЯ в iOS новый пользователь - около месяца. Есть какой-нибудь способ её заставить отвечать всегда и голосом говорить вместо предложения почитать?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f53",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "npanov2020",
+      "author_name": "Nikolay",
+      "datetime": 1730585184,
+      "text": "Нет, новая сири вроде в .2 запланирована."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f54",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1730585237,
+      "text": "спасибо. тогда подожду ещё и дам ей второй шанс."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f55",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730585238,
+      "text": "Чтобы было красиво, нужно не на Го писать)"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f56",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1730585359,
+      "text": "Го как раз один из самых элегантных языков на которых я писал"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f57",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730585404,
+      "text": "Элегантный это хаскел, или кложа, а го деревянный"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f58",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1730585435,
+      "text": "Хаскел как раз на мой любительский взгляд довольно уродливый язык. Мощный, но отвратительный."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f59",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730585621,
+      "text": "угу, структурная типизация круто, у пайтона подрезали, и со струкрурами такой проблемы нет)"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f5a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1730585640,
+      "text": "У Пайтона повилась типизация?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f5b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730585647,
+      "text": "всегда была"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f5c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1730585650,
+      "text": "++ к Алексею, это реально одна из лучших фич го"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f5d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Va1ery",
+      "author_name": "Valery",
+      "datetime": 1730585670,
+      "text": "Никогда не было, тайпинг не в счет"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f5e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alexlenspb",
+      "author_name": "Alex Lenyashin",
+      "datetime": 1730585686,
+      "text": "ну типа"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f5f",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730585690,
+      "text": "утиной типизации никогда не было?)"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f60",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1730585695,
+      "text": "Ну вообще структурная типизация это и не Го и не Пайтон изобрели, это довольно старая конструкция"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f61",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kurkulyonok",
+      "author_name": "Ilja",
+      "datetime": 1730585707,
+      "text": "Я думаю, вы под элегантностью разное понимаете. Сказать заковыристо не значит элеганто"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f62",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Va1ery",
+      "author_name": "Valery",
+      "datetime": 1730585859,
+      "text": "утинная была, структурной нет"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f63",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730585895,
+      "text": "так не было или было, ты в показаниях путаешься"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f64",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Va1ery",
+      "author_name": "Valery",
+      "datetime": 1730585938,
+      "text": "Речь идет о структурной типизации, это про структуры данных, а утинная это про поведение"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f65",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730585963,
+      "text": "вопрос звучал \u0026#34;у пайтона появилась типизация?\u0026#34;"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f66",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kurkulyonok",
+      "author_name": "Ilja",
+      "datetime": 1730585972,
+      "text": "В целом, GRASP говорит про coupling и cohesion. Думаю, что писать код, который легко удалить - это писать код с минимальным coupling между модулями"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f67",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1730585984,
+      "text": "Ну для языка без статической типизации странно говорить что у него есть \u0026#34;структурная\u0026#34;. Да никакой нет, в общем-то. Наверное тайпчекеры могут работать как будто бы со структурной типизацией, но логический шаг от \u0026#34;тайпчекер может примерно так же\u0026#34; и \u0026#34;Го украл фичу у Питона\u0026#34; довольной большой."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f68",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1730586080,
+      "text": "\u003ca href=\"https://peps.python.org/pep-0544/\"\u003ehttps://peps.python.org/pep-0544/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eа когда не было протоколов, да и тайпхинтов в целом, использовали \u003ccode\u003e__instancecheck__\u003c/code\u003e и \u003ccode\u003e__subclasscheck__\u003c/code\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f69",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1730586192,
+      "text": "А, ну значит была, молодцы."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f6a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730586511,
+      "text": "⚠️ Темы слушателей 933 - \u003ca href=\"https://radio-t.com/p/2024/10/29/prep-933/\"\u003ehttps://radio-t.com/p/2024/10/29/prep-933/\u003c/a\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f6b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730586521,
+      "text": "[1/13] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003evlaship\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eЧистый убыток Intel за квартал составил почти $17 млрд\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.cnbc.com/2024/10/31/intel-intc-q3-earnings-report-2024.html\"\u003ehttps://www.cnbc.com/2024/10/31/intel-intc-q3...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e– Выручка Intel за квартал упала на 6%, до $13,3 млрд\u003cbr/\u003e– Компания зафиксировала чистый убыток $16,6 млрд\u003cbr/\u003e– Аналитики ждали, что чистый убыток будет $1,1 млрд\u003cbr/\u003e– Год назад она показала чистую прибыль на $310 млн\u003cbr/\u003e– Компания прогнозирует рост продаж за новый квартал\u003cbr/\u003e– Расходы Intel на реструктуризацию будут $2,8 млрд\u003cbr/\u003e– На обесценение расходы Intel составили $15,9 млрд\u003cbr/\u003e– Выручка от компьютерных чипов – $7,33 млрд (-7%)\u003cbr/\u003e– Доход сегмента ЦОД и ИИ составил $3,35 млрд (+9%)\u003cbr/\u003e– Общая выручка за новый квартал будет $13,3-14,3 млрд\u003cbr/\u003e– В этом году Intel отказался от выплаты всех дивидендов\u003cbr/\u003e– Также компания сократила около 15 тыс. сотрудников\u003cbr/\u003e– Из-за проблем стоимость Intel за год упала в 2+ раза\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eIntel (INTC) Q3 earnings report 2024\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eВ третьем квартале 2024 года Intel сообщила о более высоких, чем ожидалось, доходах, несмотря на общую потерю. Акции компании выросли на 7%, но общий доход снизился на 6% по сравнению с прошлым годом.\u003cbr/\u003e\u003cbr/\u003e- Intel сообщила о прибыли в размере 17 центов на акцию, превышающей прогноз в убытке 2 цента.\u003cbr/\u003e- Выручка составила 13,28 миллиарда долларов, превысив ожидания в 13,02 миллиарда долларов.\u003cbr/\u003e- Чистый убыток составил 16,99 миллиарда долларов, по сравнению с прибылью 310 миллионов долларов годом ранее.\u003cbr/\u003e- Реорганизация приводит к сокращению более 16,500 рабочих мест в рамках плана по снижению затрат.\u003cbr/\u003e- Выручка от сегмента центров обработки данных и ИИ выросла на 9%, составив 3,35 миллиарда долларов.\u003cbr/\u003e- Intel планирует запустить независимое подразделение для своего производства и сократить свои активы.\u003cbr/\u003e- Акции Intel снизились на 57% в 2024 году, в то время как индекс S\u0026amp;P 500 вырос на 20%."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f6c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730586521,
+      "text": "[2/13] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eАлександр\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?ref=selfh.st\"\u003ehttps://matrix.org/blog/2024/10/29/matrix-2.0...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eMatrix 2.0 с кучей улучшений\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://Matrix.org\"\u003eMatrix.org\u003c/a\u003e\u003cstrong\u003e - Matrix 2.0 Is Here!\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Matrix 2.0: A New Era of Decentralized Communication**\u003cbr/\u003e\u003cbr/\u003eMatrix 2.0 brings significant enhancements, focusing on speed, usability, and mainstream readiness. Key features include instant login and launch, next-generation authentication, group VoIP/video capabilities, and improved seamless encryption. These updates position Matrix as a competitive alternative to centralized communication platforms.\u003cbr/\u003e\u003cbr/\u003e- **Упрощённый Синхронный Синх**: Обеспечивает мгновенный вход, запуск и синхронизацию, улучшая производительность приложения.\u003cbr/\u003e- **Аутентификация следующего поколения**: Переводит систему на стандарты OpenID Connect для более безопасного и зрелого управления аутентификацией.\u003cbr/\u003e- **Видеозвонки MatrixRTC**: Групповая видеосвязь с шифрованием, устраняющая зависимость от сторонних систем для повышения безопасности.\u003cbr/\u003e- **Невидимое шифрование**: Упрощает использование шифрования, минимизируя ошибки расшифровки и улучшая пользовательский опыт.\u003cbr/\u003e- **Поддержка при многопользовательских вызовах**: Включает мультимедийные звонки, обеспечивая совместное использование между устройствами.\u003cbr/\u003e- **Ожидаемые обновления**: Постоянные улучшения и исправления, чтобы пользователи могли пользоваться всеми новыми функциями.\u003cbr/\u003e- **Безопасность и удобство**: Непрерывное развитие безопасности шифрования для надежной передачи данных."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f6d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730586521,
+      "text": "[3/13] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eIlia Aleksandrov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/\"\u003ehttps://www.pixelmator.com/blog/2024/11/01/a-...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eApple купила фоторедактор Pixelmator\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e\u003cbr/\u003e    A new home for Pixelmator - Pixelmator Blog  \u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003ePixelmator объявила о своем намерении присоединиться к Apple, что позволит достичь более широкой аудитории. Приложения останутся без изменений, пока ожидается одобрение сделки.\u003cbr/\u003e\u003cbr/\u003e- Pixelmator подписала соглашение о приобретении Apple.\u003cbr/\u003e- Ожидается получение одобрения регулирующих органов.\u003cbr/\u003e- Приложения Pixelmator Pro и Photomator останутся неизменными.\u003cbr/\u003e- Поддержка пользователей помогла сформировать приложение.\u003cbr/\u003e- Pixelmator команда выражает благодарность своим пользователям.\u003cbr/\u003e- Планируются обновления и новые возможности.\u003cbr/\u003e- Новая глава в истории Pixelmator."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f6e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730586521,
+      "text": "[4/13] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eVitaly Tokarenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eКорпорация Google получает сверхприбыли, увольняя сотрудников и заменяя их ИИ\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.theregister.com/2024/10/30/alphabet_q3_2024/\"\u003ehttps://www.theregister.com/2024/10/30/alphab...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAlphabet posts big revenue and profit growth • The Register\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eAlphabet сообщила о значительном росте доходов и прибыли, несмотря на угрозу антимонопольных мер. Выручка за третий квартал 2024 года составила $88,25 млрд, а чистая прибыль достигла $26,3 млрд.\u003cbr/\u003e\u003cbr/\u003e- **Деньги:** Выручка Alphabet за третий квартал 2024 года составила $88,25 млрд, увеличившись с $76,7 млрд годом ранее.\u003cbr/\u003e- **Прибыль:** Чистая прибыль компании возросла до $26,3 млрд, что выше прошлогодних $19,7 млрд.\u003cbr/\u003e- **Сокращения:** Количество сотрудников уменьшилось всего на 1,112, что оставило 181,269.\u003cbr/\u003e- **AI Обзоры:** Стоимость обслуживания AI-обзоров снизилась на 90%, улучшая конкурентоспособность.\u003cbr/\u003e- **Google Cloud:** Выручка Google Cloud выросла на $2,9 млрд до $11,3 млрд благодаря ИИ-услугам.\u003cbr/\u003e- **Кодирование:** 25% нового кода Alphabet создается машинами, что ускоряет процесс разработки.\u003cbr/\u003e- **YouTube:** Суммарная выручка YouTube от рекламы и подписок превышает $50 млрд за четыре квартала."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f6f",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1730586521,
+      "text": "[5/13] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eyakimka\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eКомпанию названную \u003c/em\u003e\u003ccode\u003e\u0026gt;\u0026lt;SCRIPT SRC=HTTPS://MJT.XSS.HT\u0026gt; LTD\u003c/code\u003e\u003cem\u003e заставили сменить имя\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk\"\u003ehttps://www.theguardian.com/uk-news/2020/nov/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCompany forced to change name that could be used to hack websites | UK news | The Guardian\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Summary\u003cbr/\u003eКомпания была вынуждена изменить название, которое могло быть использовано для взлома веб-сайтов. Первоначальное имя, содержащее HTML-теги, было изменено после того, как выяснили, что оно могло представлять угрозу безопасности.\u003cbr/\u003e\u003cbr/\u003e### Bullet Points\u003cbr/\u003e- Компания называлась “\u0026amp;gt;\u0026amp;lt;SCRIPT SRC=\u003ca href=\"HTTPS://MJT.XSS.HT\"\u003eHTTPS://MJT.XSS.HT\u003c/a\u003e\u0026amp;gt; LTD”.\u003cbr/\u003e- Имя использовало простую технику “межсайтового скриптинга”.\u003cbr/\u003e- Это позволяло злоумышленникам выполнять код одного сайта на другом.\u003cbr/\u003e- Оригинальное имя было изменено по требованию Companies House.\u003cbr/\u003e- Директор компании не осознавал потенциальный риск.\u003cbr/\u003e- Компании с игривыми именами ранее регистрировались без проблем.\u003cbr/\u003e- Специалисты Companies House уверяют в безопасности своих услуг."
+    },
+    {
+      "id": "6729102a58d1f09083cc8f70",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1730586995,
+      "text": "я пол часа назад хотел купить Pixelmator Pro.\u003cbr/\u003eВсё ещё $50\u003cbr/\u003e\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e , что делать? покупать? Или подождать как с GarageBand?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f71",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730587148,
+      "text": "они чего, по скраму работали??"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f72",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "TheLevius",
+      "author_name": "Nikita",
+      "datetime": 1730587164,
+      "text": "так а каким торрент клиентом пользуются? он вроде основной на маке"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f73",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730587178,
+      "text": "неужто беклог можно когда-то разобрать?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f74",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1730587188,
+      "text": "подумали бы ведущие на предмет критериев отбора тем для выпуска"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f75",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1730587213,
+      "text": "это что значит вообще?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f76",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1730587256,
+      "image_url": "https://chat.radio-t.com/logs/933/AgACAgEAAx0CUPxcWQABCMGQZyaqeL8gCo-fbzU-VmT3bcMuNmgAAo2tMRv5CjFFDyI7kcMmbK0BAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 518,
+      "text": "вот тебе критерии"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f77",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1730587271,
+      "text": "вот про это и подумать"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f78",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1730587323,
+      "text": "это не ответ, но пустое сотрясание воздуха. если есть что сказать - говори, а не делай умное лицо"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f79",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1730587369,
+      "text": "а у меня нет ответа, я вижу что этот механизм не работает и не дает интересных тем. поэтому \u0026#34;подумать\u0026#34;"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f7a",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1730587399,
+      "text": "ну это не к нам, какие темы приносят те и есть"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f7b",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "TheLevius",
+      "author_name": "Nikita",
+      "datetime": 1730587401,
+      "text": "а что значит не работает?"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f7c",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1730588143,
+      "text": "ukit:\u003cbr/\u003e\u003ca href=\"https://github.com/uikit/uikit\"\u003ehttps://github.com/uikit/uikit\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eused by 13k\u003cbr/\u003econtributors 37"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f7d",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kristi_Yakusheva",
+      "author_name": "Кристина Якушева",
+      "datetime": 1730588434,
+      "text": "\u003cstrong\u003eТребуются люди на онлайн занятость!  Зарплата 100-150$ в день времени займет 1-2 часа \u003cbr/\u003e\u003cbr/\u003eОбращайтесь в лс\u003c/strong\u003e"
+    },
+    {
+      "id": "6729102a58d1f09083cc8f7e",
+      "issue": 933,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akgor",
+      "author_name": "Igor Nizovtsev",
+      "datetime": 1730588439,
+      "text": "обратно 11 часов"
+    }
+  ]
+}
