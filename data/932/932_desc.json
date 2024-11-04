@@ -1,0 +1,80 @@
+{
+  "issue": 932,
+  "date": "2024-10-26",
+  "audio": "https://cdn.radio-t.com/rt_podcast932.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt932.jpg",
+  "start_time": 1729973651,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "UNAS Pro - надо брать",
+      "links": [
+        "https://store.ui.com/us/en/products/unas-pro"
+      ],
+      "time": "00:03:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Почему уходят из Big Tech",
+      "links": [
+        "https://newsletter.pragmaticengineer.com/p/leaving-big-tech?utm_source=substack"
+      ],
+      "time": "00:19:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Еще один сгорел на работе",
+      "links": [
+        "https://gushogg-blake.com/p/blog-burnout/"
+      ],
+      "time": "01:10:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Notion Mail",
+      "links": [
+        "https://www.notion.so/product/mail"
+      ],
+      "time": "01:28:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Линус разогнал всех русских мэйнтейнеров",
+      "links": [
+        "https://www.phoronix.com/news/Linus-Torvalds-Russian-Devs"
+      ],
+      "time": "01:39:07"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как все плохо в Java",
+      "links": [
+        "https://t.me/nikitonsky_pub/739"
+      ],
+      "time": "01:58:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новая Claude с выходом в настоящий мир",
+      "links": [
+        "https://www.anthropic.com/news/3-5-models-and-computer-use"
+      ],
+      "time": "02:05:32"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/10/22/prep-932/"
+      ],
+      "time": "02:22:42"
+    }
+  ],
+  "tags": null
+}

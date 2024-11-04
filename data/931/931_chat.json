@@ -1,7 +1,7 @@
 {
   "chat": [
     {
-      "id": "6715dbc9c04e7b74456db3ee",
+      "id": "671dd547a9339179d10dfc99",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -11,7 +11,7 @@
       "text": "Увы эти технологии утеряны)"
     },
     {
-      "id": "6715dbc9c04e7b74456db3ef",
+      "id": "671dd547a9339179d10dfc9a",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -21,7 +21,7 @@
       "text": "что-то с сигналом а точнее с каналом жмется по цифровому =("
     },
     {
-      "id": "6715dbc9c04e7b74456db3f0",
+      "id": "671dd547a9339179d10dfc9b",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -31,7 +31,7 @@
       "text": "У меня норм звук"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f1",
+      "id": "671dd547a9339179d10dfc9c",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -41,7 +41,7 @@
       "text": "Да, что-то похрустывает временами"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f2",
+      "id": "671dd547a9339179d10dfc9d",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -51,7 +51,7 @@
       "text": "на 11 ноде вот заикалось =)"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f3",
+      "id": "671dd547a9339179d10dfc9e",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -61,7 +61,7 @@
       "text": "Это возрастное"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f4",
+      "id": "671dd547a9339179d10dfc9f",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -71,7 +71,7 @@
       "text": "Заикание было :)"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f5",
+      "id": "671dd547a9339179d10dfca0",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -81,7 +81,7 @@
       "text": "Было б интерестно перед стримом пустить подкаст сгенерирован Гугловым интеллектом, на темы подкаста"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f6",
+      "id": "671dd547a9339179d10dfca1",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -91,7 +91,7 @@
       "text": "вообще не интересно"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f7",
+      "id": "671dd547a9339179d10dfca2",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -101,7 +101,7 @@
       "text": "Маринку!"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f8",
+      "id": "671dd547a9339179d10dfca3",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -111,7 +111,7 @@
       "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db3f9",
+      "id": "671dd547a9339179d10dfca4",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -121,7 +121,7 @@
       "text": "без унцы"
     },
     {
-      "id": "6715dbc9c04e7b74456db3fa",
+      "id": "671dd547a9339179d10dfca5",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -130,7 +130,7 @@
       "text": "Эпичное интервью) а сколько комментариев в результате )"
     },
     {
-      "id": "6715dbc9c04e7b74456db3fb",
+      "id": "671dd547a9339179d10dfca6",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -140,7 +140,7 @@
       "text": "⚠️ Focus on decisions, not tasks - \u003ca href=\"https://technicalwriting.dev/strategy/decisions.html\"\u003ehttps://technicalwriting.dev/strategy/decisions.html\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db3fc",
+      "id": "671dd547a9339179d10dfca7",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -150,7 +150,7 @@
       "text": "\u003cstrong\u003eFocus on decisions, not tasks\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**\u003cbr/\u003eФокусируйтесь на принятии решений, а не на задачах в техническом письме. Важнее предоставлять информацию для поддержки решений, чем только обучать процессам. Документирование контекста помогает пользователям принимать обоснованные решения.\u003cbr/\u003e\u003cbr/\u003e- В техническом письме акцент на поддержке решений.\u003cbr/\u003e- Информация полезнее, чем просто инструкции по операциям.\u003cbr/\u003e- Документация должна передавать контекст ситуации.\u003cbr/\u003e- Осведомляйте пользователей о необходимых решениях.\u003cbr/\u003e- Показывайте последствия принимаемых решений.\u003cbr/\u003e- Направляйте к ресурсам для поддержки выбора.\u003cbr/\u003e- Простой документ не всегда достаточен для понимания."
     },
     {
-      "id": "6715dbc9c04e7b74456db3fd",
+      "id": "671dd547a9339179d10dfca8",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -160,7 +160,7 @@
       "text": "Поставил в pre-commit ruff check на наличие документации в каждой функции кода."
     },
     {
-      "id": "6715dbc9c04e7b74456db3fe",
+      "id": "671dd547a9339179d10dfca9",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -170,7 +170,7 @@
       "text": "кнопку ткнул - миллион потерял"
     },
     {
-      "id": "6715dbc9c04e7b74456db3ff",
+      "id": "671dd547a9339179d10dfcaa",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -180,7 +180,7 @@
       "text": "⚠️ Meet the all-new Kindle family, including the first color Kindle - \u003ca href=\"https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry\"\u003ehttps://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db400",
+      "id": "671dd547a9339179d10dfcab",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -190,7 +190,7 @@
       "text": "\u003cstrong\u003eAmazon reveals first color Kindle, new Kindle Scribe, and more\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eAmazon представляет первый цветной Kindle и новый Kindle Scribe, предлагающий уникальную возможность писать прямо в книге. С помощью встроенного ИИ можно быстро суммировать заметки, поддерживая их ясность и выразительность.\u003cbr/\u003e\u003cbr/\u003e- Новый Kindle Scribe предлагает уникальный опыт написания в книге.\u003cbr/\u003e- Возможность написания заметок прямо на страницах книги с изменяемым шрифтом.\u003cbr/\u003e- Заметки сохраняются в контексте, даже при изменении макета.\u003cbr/\u003e- Встроенная функция активного холста для удобного внесения идей.\u003cbr/\u003e- Заметки можно скрывать в боковой панели, если они не нужны.\u003cbr/\u003e- ИИ-ноутбук быстро суммирует множество заметок в сокращенные списки.\u003cbr/\u003e- Заметки можно оформлять в шрифт, чтобы они выглядели как рукописные."
     },
     {
-      "id": "6715dbc9c04e7b74456db401",
+      "id": "671dd547a9339179d10dfcac",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -200,7 +200,7 @@
       "text": "я пользуюсь, а как книги читать?"
     },
     {
-      "id": "6715dbc9c04e7b74456db402",
+      "id": "671dd547a9339179d10dfcad",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -210,7 +210,7 @@
       "text": "фи, ушами"
     },
     {
-      "id": "6715dbc9c04e7b74456db403",
+      "id": "671dd547a9339179d10dfcae",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -220,7 +220,7 @@
       "text": "ушами тяжело заметки делать и потом возвращаться к ним"
     },
     {
-      "id": "6715dbc9c04e7b74456db404",
+      "id": "671dd547a9339179d10dfcaf",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -230,7 +230,7 @@
       "text": "книжки с кодом ушами тоже сложно слушать)"
     },
     {
-      "id": "6715dbc9c04e7b74456db405",
+      "id": "671dd547a9339179d10dfcb0",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -240,7 +240,7 @@
       "text": "Kindle Oasis имеет Audible и bluetooth"
     },
     {
-      "id": "6715dbc9c04e7b74456db406",
+      "id": "671dd547a9339179d10dfcb1",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -250,7 +250,7 @@
       "text": "у меня до сих пор пейпервайт 3го поколения"
     },
     {
-      "id": "6715dbc9c04e7b74456db407",
+      "id": "671dd547a9339179d10dfcb2",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -260,7 +260,7 @@
       "text": "разве что ради смены теплоты экрана поменять можно"
     },
     {
-      "id": "6715dbc9c04e7b74456db408",
+      "id": "671dd547a9339179d10dfcb3",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -269,7 +269,7 @@
       "text": "Мне казалось Umputun в отпуске изучает новые языки программирования"
     },
     {
-      "id": "6715dbc9c04e7b74456db409",
+      "id": "671dd547a9339179d10dfcb4",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -279,7 +279,7 @@
       "text": "Oasis был лучшим среди всех kindle"
     },
     {
-      "id": "6715dbc9c04e7b74456db40a",
+      "id": "671dd547a9339179d10dfcb5",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -289,7 +289,7 @@
       "text": "я подкаст не слушаю, но Oasis реально лучший"
     },
     {
-      "id": "6715dbc9c04e7b74456db40b",
+      "id": "671dd547a9339179d10dfcb6",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -299,7 +299,7 @@
       "text": "лучший софтрок коллектив нашего времени"
     },
     {
-      "id": "6715dbc9c04e7b74456db40c",
+      "id": "671dd547a9339179d10dfcb7",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -309,7 +309,7 @@
       "text": "Paperwhite помещается в задний карман джинс, а Оазис нет"
     },
     {
-      "id": "6715dbc9c04e7b74456db40d",
+      "id": "671dd547a9339179d10dfcb8",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -319,7 +319,7 @@
       "text": "Зато у Oasis батарейка в чехле"
     },
     {
-      "id": "6715dbc9c04e7b74456db40e",
+      "id": "671dd547a9339179d10dfcb9",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -328,7 +328,7 @@
       "text": "Там главное не заметки, 10\u0026#34; для pdf"
     },
     {
-      "id": "6715dbc9c04e7b74456db40f",
+      "id": "671dd547a9339179d10dfcba",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -338,7 +338,7 @@
       "text": "есть такой метод как правильно читать, через какое-то время после прочтения возвращаешься к заметкам, и значительно улучшается то что ты запомнил из книги"
     },
     {
-      "id": "6715dbc9c04e7b74456db410",
+      "id": "671dd547a9339179d10dfcbb",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -348,7 +348,7 @@
       "text": "А какие модели будут с глянцем, какие без?"
     },
     {
-      "id": "6715dbc9c04e7b74456db411",
+      "id": "671dd547a9339179d10dfcbc",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -357,7 +357,7 @@
       "text": "Как вам такая новость - \u003cstrong\u003eAmazon discontinues the last Kindle with physical buttons\u003c/strong\u003e / The company says it won’t be restocking the Kindle Oasis once it’s sold out"
     },
     {
-      "id": "6715dbc9c04e7b74456db412",
+      "id": "671dd547a9339179d10dfcbd",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -367,7 +367,7 @@
       "text": "Blur же"
     },
     {
-      "id": "6715dbc9c04e7b74456db413",
+      "id": "671dd547a9339179d10dfcbe",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -377,7 +377,7 @@
       "text": "блер не софтрок. ну и рэдиохед больше блюра"
     },
     {
-      "id": "6715dbc9c04e7b74456db414",
+      "id": "671dd547a9339179d10dfcbf",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -387,7 +387,7 @@
       "text": "Ну это больше шутка про Blur vs Oasis. Так-то конечно The Verve наше все."
     },
     {
-      "id": "6715dbc9c04e7b74456db415",
+      "id": "671dd547a9339179d10dfcc0",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -397,7 +397,7 @@
       "text": "А что лучше Kindle Scribe или Remarkable 2?"
     },
     {
-      "id": "6715dbc9c04e7b74456db416",
+      "id": "671dd547a9339179d10dfcc1",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -410,7 +410,7 @@
       "text": ""
     },
     {
-      "id": "6715dbc9c04e7b74456db417",
+      "id": "671dd547a9339179d10dfcc2",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -420,7 +420,7 @@
       "text": "умеет умеет, там БТ"
     },
     {
-      "id": "6715dbc9c04e7b74456db418",
+      "id": "671dd547a9339179d10dfcc3",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -430,7 +430,7 @@
       "text": "к сожалению Umputun прав - если смотреть на популярность статьи или книги в тексте, и её ютуб аналагом, большинство \u0026#34;читателей\u0026#34; у \u0026#34;ютуба\u0026#34;.\u003cbr/\u003eс другой стороны детей лучше на e-ink подсаживать, а не тиктоки. минимум для глаз e-ink круто"
     },
     {
-      "id": "6715dbc9c04e7b74456db419",
+      "id": "671dd547a9339179d10dfcc4",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -440,7 +440,7 @@
       "text": "я все жду когда хайсенс выпустят смартфон с еинк и NFC"
     },
     {
-      "id": "6715dbc9c04e7b74456db41a",
+      "id": "671dd547a9339179d10dfcc5",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -450,7 +450,7 @@
       "text": "если что, миф про “для глаз вредно” про экраны уже сто лет как опровергнут"
     },
     {
-      "id": "6715dbc9c04e7b74456db41b",
+      "id": "671dd547a9339179d10dfcc6",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -460,7 +460,7 @@
       "text": "для глаз вредно рассматривать мелкие обьекты все время. а светится этот экран или это бумага - пофигу"
     },
     {
-      "id": "6715dbc9c04e7b74456db41c",
+      "id": "671dd547a9339179d10dfcc7",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -470,7 +470,7 @@
       "text": "душнила"
     },
     {
-      "id": "6715dbc9c04e7b74456db41d",
+      "id": "671dd547a9339179d10dfcc8",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -480,7 +480,7 @@
       "text": "Душнила"
     },
     {
-      "id": "6715dbc9c04e7b74456db41e",
+      "id": "671dd547a9339179d10dfcc9",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -490,7 +490,7 @@
       "text": "это называется Грей"
     },
     {
-      "id": "6715dbc9c04e7b74456db41f",
+      "id": "671dd547a9339179d10dfcca",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -500,7 +500,7 @@
       "text": "Так Ютуб ещё лучше для глаз, можно чисто слушать"
     },
     {
-      "id": "6715dbc9c04e7b74456db420",
+      "id": "671dd547a9339179d10dfccb",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -510,7 +510,7 @@
       "text": "для меня встроеный AI будет полезным когда научится сам рекламу в тиктоке и на сайтах проматывать"
     },
     {
-      "id": "6715dbc9c04e7b74456db421",
+      "id": "671dd547a9339179d10dfccc",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -520,7 +520,7 @@
       "text": "а так отдал кучу денег и совсем не пользуешься?"
     },
     {
-      "id": "6715dbc9c04e7b74456db422",
+      "id": "671dd547a9339179d10dfccd",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -530,7 +530,7 @@
       "text": "⚠️ Build Systems, Not Heroes - \u003ca href=\"https://vitonsky.net/blog/2024/10/11/system-approach/\"\u003ehttps://vitonsky.net/blog/2024/10/11/system-approach/\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db423",
+      "id": "671dd547a9339179d10dfcce",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -540,7 +540,7 @@
       "text": "\u003cstrong\u003eBuild Systems, Not Heroes\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eСоздание систем, а не зависимость от героев, помогает управлять сложностью в программировании. Важно полагаться на процессы и системы, чтобы избежать ошибок и обеспечить стабильность, несмотря на смену персонала.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Системный подход**: Оптимизация рабочих процессов важнее, чем индивидуальные достижения сотрудников.\u003cbr/\u003e- **Стабильность системы**: Процессы должны оставаться эффективными, даже если команда полностью меняется.\u003cbr/\u003e- **Предотвращение ошибок**: Автоматизируйте управление ошибками через четкие правила и тестирование.\u003cbr/\u003e- **Роль артефактов**: Работа должна производить заметные артефакты, такие как документация и код.\u003cbr/\u003e- **Сопротивление изменениям**: Внедрение систем может встретить сопротивление со стороны экспертов из-за страха потерять влияние.\u003cbr/\u003e- **Обоснованность решений**: Любые изменения должны основываться на фактических данных и анализе.\u003cbr/\u003e- **Качество кода**: Требуйте тестирования изменений кода и соблюдения строгих стандартов."
     },
     {
-      "id": "6715dbc9c04e7b74456db424",
+      "id": "671dd547a9339179d10dfccf",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -550,7 +550,7 @@
       "text": "а как же сайтики на тильде?"
     },
     {
-      "id": "6715dbc9c04e7b74456db425",
+      "id": "671dd547a9339179d10dfcd0",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -560,7 +560,7 @@
       "text": "тьфу на вас, вордпресс еще обсудим обязательно"
     },
     {
-      "id": "6715dbc9c04e7b74456db426",
+      "id": "671dd547a9339179d10dfcd1",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -570,7 +570,7 @@
       "text": "во фронтенде если объект не мемоизировать то будут перерендеры, а они во фронтеде считаются самым страшным злом"
     },
     {
-      "id": "6715dbc9c04e7b74456db427",
+      "id": "671dd547a9339179d10dfcd2",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -580,7 +580,7 @@
       "text": "1. Не во фронтенде, а в реакте\u003cbr/\u003e2. Только если ты объект каждый раз новый создаешь, когда он на самом деле меняться не должен"
     },
     {
-      "id": "6715dbc9c04e7b74456db428",
+      "id": "671dd547a9339179d10dfcd3",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -590,7 +590,7 @@
       "text": "⚠️ Why GitHub Actually Won - \u003ca href=\"https://blog.gitbutler.com/why-github-actually-won/\"\u003ehttps://blog.gitbutler.com/why-github-actually-won/\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db429",
+      "id": "671dd547a9339179d10dfcd4",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -600,7 +600,7 @@
       "text": "Voyage был лучшим. Очень лёгкий!"
     },
     {
-      "id": "6715dbc9c04e7b74456db42a",
+      "id": "671dd547a9339179d10dfcd5",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -610,7 +610,7 @@
       "text": "\u003cstrong\u003eWhy GitHub Actually Won\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eGitHub стал доминирующей платформой для размещения кода благодаря удачному времени и акценту на пользовательском опыте. Основатели GitHub понимали потребности разработчиков, предлагая простые и интуитивно понятные инструменты, что стало их ключевым преимуществом.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Удачное время**: GitHub появился на фоне роста интереса к распределённым системам контроля версий.\u003cbr/\u003e  \u003cbr/\u003e- **Фокус на пользователе**: Основатели GitHub знали, что важно создать удобный опыт использования для разработчиков.\u003cbr/\u003e\u003cbr/\u003e- **Проблемы конкурентов**: Другие платформы, такие как SourceForge, не предоставили соответствующий опыт или функциональность.\u003cbr/\u003e\u003cbr/\u003e- **Упрощённый процесс**: GitHub упростил процесс, позволяя легко делиться проектами и вносить изменения.\u003cbr/\u003e\u003cbr/\u003e- **Поддержка сообщества**: Линус Торвальдс и сообщество Linux сыграли значительную роль в популяризации Git.\u003cbr/\u003e\u003cbr/\u003e- **Кроссплатформенная поддержка**: GitHub легко интегрировался с различными операционными системами и платформами.\u003cbr/\u003e\u003cbr/\u003e- **Постоянные улучшения**: GitHub последовательно внедрял новшества для улучшения пользовательского опыта и функциональности."
     },
     {
-      "id": "6715dbc9c04e7b74456db42b",
+      "id": "671dd547a9339179d10dfcd6",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -620,7 +620,7 @@
       "text": "Поясни за дизлайк 🗿"
     },
     {
-      "id": "6715dbc9c04e7b74456db42c",
+      "id": "671dd547a9339179d10dfcd7",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -630,7 +630,7 @@
       "text": "⚠️ Response to DHH | Matt Mullenweg - \u003ca href=\"https://archive.is/2024.10.15-041615/https://ma.tt/2024/10/on-dhh/\"\u003ehttps://archive.is/2024.10.15-041615/https://ma.tt/2024/10/on-dhh/\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db42d",
+      "id": "671dd547a9339179d10dfcd8",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -640,7 +640,7 @@
       "text": "\u003ca href=\"https://archive.is\"\u003earchive.is\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eЧтобы предотвратить заражение устройства, выполните сканирование на вирусы, если вы подключены к личной сети, или попросите администратора сети просканировать общее подключение.\u003cbr/\u003e\u003cbr/\u003e- Проводите регулярное сканирование на вирусы на своих устройствах.\u003cbr/\u003e- Если вы используете общую сеть, обращайтесь к администратору.\u003cbr/\u003e- Проверяйте конфигурацию своих сетевых устройств на наличие проблем.\u003cbr/\u003e- Обновляйте программное обеспечение для защиты от вирусов.\u003cbr/\u003e- Избегайте открывания подозрительных ссылок или вложений.\u003cbr/\u003e- Используйте надежные и защищенные сети Wi-Fi.\u003cbr/\u003e- Поддерживайте безопасность вашего домашнего окружения."
     },
     {
-      "id": "6715dbc9c04e7b74456db42e",
+      "id": "671dd547a9339179d10dfcd9",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -650,7 +650,7 @@
       "text": "душный комментарий который непонятно зачем нужен ибо непонятно что он контраргументирует\u003cbr/\u003e\u003cbr/\u003eреакт является частью фронтенда, это первое, второе что во vue тоже может быть ситуация с перерендером в случае передачи нового объекта структура которого повторяет предыдущий объект\u003cbr/\u003e\u003cbr/\u003eвторой пункт ещё более непонятный зачем нужен, понятное дело что перерендеры будут если передавать новый объект — для этого и делается мемоизация"
     },
     {
-      "id": "6715dbc9c04e7b74456db42f",
+      "id": "671dd547a9339179d10dfcda",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -660,7 +660,7 @@
       "text": "фронтенд это не только react или vue"
     },
     {
-      "id": "6715dbc9c04e7b74456db430",
+      "id": "671dd547a9339179d10dfcdb",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -670,7 +670,7 @@
       "text": "второй абзац моего предыдущего сообщения, часть предложения до первой запятой"
     },
     {
-      "id": "6715dbc9c04e7b74456db431",
+      "id": "671dd547a9339179d10dfcdc",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -680,7 +680,7 @@
       "text": "Изначальный комментарий «объекты надо мемоизироваьть», оч спорный без контекста)"
     },
     {
-      "id": "6715dbc9c04e7b74456db432",
+      "id": "671dd547a9339179d10dfcdd",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -690,7 +690,7 @@
       "text": "у меня не было такого комментария"
     },
     {
-      "id": "6715dbc9c04e7b74456db433",
+      "id": "671dd547a9339179d10dfcde",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -700,7 +700,7 @@
       "text": "\u003ca href=\"https://x.com/photomatt/status/1846392547989663965?s=61\u0026amp;t=VSJktTe3wNnIDwBdRQiYjA\"\u003ehttps://x.com/photomatt/status/1846392547989663965?s=61\u0026amp;t=VSJktTe3wNnIDwBdRQiYjA\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db434",
+      "id": "671dd547a9339179d10dfcdf",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -710,7 +710,7 @@
       "text": "shots fired"
     },
     {
-      "id": "6715dbc9c04e7b74456db435",
+      "id": "671dd547a9339179d10dfce0",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -720,7 +720,7 @@
       "text": "⚠️ Using Cloudflare on your website could be blocking RSS users - \u003ca href=\"https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users\"\u003ehttps://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db436",
+      "id": "671dd547a9339179d10dfce1",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -730,7 +730,7 @@
       "text": "\u003cstrong\u003eUsing Cloudflare on your website could be blocking RSS users - Open RSS\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eИспользование Cloudflare на сайте может блокировать пользователей RSS, не осознающих этого. Защитные инструменты Cloudflare, такие как режим борьбы с ботами, блокируют доступ законных RSS-ридеров, что создает трудности для пользователей и владельцев сайтов.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Cloudflare блокирует RSS-ридеры, распознавая их как злонамеренные боты.\u003cbr/\u003e- Пользователям приходится обращаться к владельцам сайтов для разблокировки доступов RSS.\u003cbr/\u003e- Возможно создание пользовательских правил для разблокировки на уровне IP-адреса или user agent.\u003cbr/\u003e- Существует программа верификации ботов, не гарантирующая успех и обладающая проблемами.\u003cbr/\u003e- Verified RSS-ридеры все равно могут быть заблокированы Cloudflare.\u003cbr/\u003e- Необходимо улучшение механизмов разблокировки RSS-ридеров для удобства пользователей и владельцев сайтов.\u003cbr/\u003e- Open RSS — некоммерческая организация, зависящая от добровольных пожертвований, предлагает следить за этой проблемой через специальные фиды."
     },
     {
-      "id": "6715dbc9c04e7b74456db437",
+      "id": "671dd547a9339179d10dfce2",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -743,7 +743,7 @@
       "text": "\u003cstrong\u003e👑 Пополнил 3000р, за 3 минуты поднял 20к.\u003cbr/\u003e\u003cbr/\u003e💸 Играю тут ➡️ t.\u003c/strong\u003e\u003ca href=\"me/jeton_games/bonus?startapp=cdUEARBGdwq\\x00\\x00\"\u003eme/jeton_games/bonus?startapp=cdUEARBGdwq\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db438",
+      "id": "671dd547a9339179d10dfce3",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -753,7 +753,7 @@
       "text": "⚠️ Темы слушателей 931 - \u003ca href=\"https://radio-t.com/p/2024/10/15/prep-931/\"\u003ehttps://radio-t.com/p/2024/10/15/prep-931/\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db439",
+      "id": "671dd547a9339179d10dfce4",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -763,7 +763,7 @@
       "text": "[1/14] \u003cstrong\u003e+11\u003c/strong\u003e от \u003cstrong\u003eAlex Lavrenov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/HEZBOLLAH-PAGERS/mopawkkwjpa/\"\u003ehttps://www.reuters.com/graphics/ISRAEL-PALES...\u003c/a\u003e\u003cem\u003e на случай если ведущие захотят вернуться к обсуждению того как с помощью специальной батарейки взрывали пейджеры. Теперь подтверждено расследованием\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eHow Israel’s bulky pager fooled Hezbollah\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eИзраиль поразил Хезболлах, используя изменённые пейджеры с невидимыми взрывчатыми веществами. Упаковка скрыла взрывное устройство, и тысячи пейджеров одновременно взорвались, приведя к жертвам. Операция обозначила новую эскалацию конфликта в регионе.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Пейджеры и взрывчатка**: Пейджеры содержали взрывное вещество, невидимое для рентгеновских лучей.\u003cbr/\u003e- **Создание легенды**: Израильские агенты разработали фальшивые онлайн-магазины для внедрения в Хезболлах.\u003cbr/\u003e- **Взрывы в Ливане**: В сентябре 2023 года произошло массовое взрывоопасное событие, унесшее 39 жизней.\u003cbr/\u003e- **Отказ от комментариев**: Израиль и Хезболлах не комментируют операции.\u003cbr/\u003e- **Необычная конструкция**: В пейджерах использовался специальный активатор для взрывчатки, лишенный металлических деталей.\u003cbr/\u003e- **Последствия конфликта**: Эскалация на фоне солидарности с ХАМАС; началась полномасштабная война.\u003cbr/\u003e- **Внутреннее расследование**: Хезболлах проводит расследование, пытаясь выявить мoles."
     },
     {
-      "id": "6715dbc9c04e7b74456db43a",
+      "id": "671dd547a9339179d10dfce5",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -773,7 +773,7 @@
       "text": "[2/14] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eNikita Podelenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.tomshardware.com/tech-industry/winamp-owner-deletes-open-source-repository-after-a-bumpy-month-on-github\"\u003ehttps://www.tomshardware.com/tech-industry/wi...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eСпустя месяц исходный код Winamp пропал с гитхаба\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWinamp owner deletes \u0026#39;Open Source\u0026#39; repository after a bumpy month on GitHub | Tom\u0026#39;s Hardware\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Summary:**\u003cbr/\u003eWinamp\u0026#39;s GitHub repository was deleted after criticism from the FOSS community over its restrictive license. The original license prohibited forking and distribution of modified versions of the software, revealing confusion over its open-source status and ownership of certain code pieces.\u003cbr/\u003e\u003cbr/\u003e- Winamp\u0026#39;s “open source” repository deleted after less than a month.\u003cbr/\u003e- Llama Group faced backlash for the restrictive Winamp Collaborative License (WCL).\u003cbr/\u003e- Original license prohibited forking; revised to restrict distribution of modified versions.\u003cbr/\u003e- Users noted non-owned code in Winamp’s release, including Shoutcast DNAS.\u003cbr/\u003e- Llama Group sold Shoutcast, losing rights to associated code.\u003cbr/\u003e- Proprietary code from Microsoft and Intel led to potential legal issues.\u003cbr/\u003e- Difficulties in transforming Winamp into a true open-source platform remain.  \u003cbr/\u003e\u003cbr/\u003e**Русский перевод:**\u003cbr/\u003e**Краткое содержание:**\u003cbr/\u003eРепозиторий Winamp на GitHub был удалён после критики сообщества FOSS по поводу его ограничительной лицензии. Исходная лицензия запрещала форкинг и распространение модифицированных версий программного обеспечения, что выявило путаницу в его статусе открытого исходного кода и прав на определённые кодовые части.\u003cbr/\u003e\u003cbr/\u003e- Репозиторий Winamp \u0026#34;открытого исходного кода\u0026#34; удалён менее чем через месяц.\u003cbr/\u003e- Группа Llama столкнулась с критикой за ограничительную лицензию Winamp Collaborative License (WCL).\u003cbr/\u003e- Исходная лицензия запрещала форкинг; пересмотрена с ограничением на распространение модифицированных версий.\u003cbr/\u003e- Пользователи отметили отсутствие прав на код в релизе Winamp, включая Shoutcast DNAS.\u003cbr/\u003e- Группа Llama продала Shoutcast, потеряв права на связанный код.\u003cbr/\u003e- Обнаружен проприетарный код от Microsoft и Intel, что может привести к legales проблемам.\u003cbr/\u003e- Преобразование Winamp в истинный открытый исходный код остаётся затруднительным."
     },
     {
-      "id": "6715dbc9c04e7b74456db43b",
+      "id": "671dd547a9339179d10dfce6",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -783,7 +783,7 @@
       "text": "[3/14] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eRoganik\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eНовые Kindle.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eKindle \u0026amp; Kindle paperwhite – инкрементальные улучшения\u003cbr/\u003e\u003cbr/\u003eKindle colorsoft – теперь с цветным e-ink экраном\u003cbr/\u003e\u003cbr/\u003eKindle scribe – теперь с AI (суммаризация текста; выравнивание своих кривых рукописных заметок)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eКто-нибудь из ведущих еще пользуется e-ink читалками? Или ipad победил?\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.amazon.com/b?node=6669702011\"\u003ehttps://www.amazon.com/b?node=6669702011\u003c/a\u003e"
     },
     {
-      "id": "6715dbc9c04e7b74456db43c",
+      "id": "671dd547a9339179d10dfce7",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -793,7 +793,7 @@
       "text": "[4/14] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eGrayZone\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСотрудники Apple опубликовали исследование об AI, в котором утверждается, что текущие SoTA модели не умеют в рассуждения.\u003cbr/\u003e\u003cbr/\u003eAdding a single clause that seems relevant to the question causes significant performance drops (up to 65%) across all state-of-the-art models, even though the clause doesn’t contribute to the reasoning chain needed for the final answer.\u003cbr/\u003e\u003cbr/\u003eОбзор:\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://aialmanac.substack.com/p/apple-drops-ai-bomb-claiming-theres\"\u003ehttps://aialmanac.substack.com/p/apple-drops-...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eСамо исследование:\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://arxiv.org/abs/2410.05229\"\u003ehttps://arxiv.org/abs/2410.05229\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eЧто думают ведущие насчет новой «Зимы ИИ», наступит ли она и как долго продержится до очередного качественного скачка?\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eApple Drops AI Bomb Claiming There\u0026#39;s ZERO Evidence LLM\u0026#39;s Can Reason (+Tesla Optimus Robot Scandal)\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eApple обнародовала данные, утверждая, что большие языковые модели (LLMs) не обладают способностью к логическому рассуждению, полагаясь лишь на распознавание шаблонов, что вызывает волну обсуждений в AI-сообществе.\u003cbr/\u003e\u003cbr/\u003e- Apple представила исследование, утверждающее отсутствие доказательств логического рассуждения у LLM.\u003cbr/\u003e- Новое тестирование GSM Symbolic benchmark показало снижение производительности LLM в условиях изменений.\u003cbr/\u003e- Тесты продемонстрировали, что модели не справляются с нерелевантной информацией.\u003cbr/\u003e- Широкие последствия для доверия LLM в критических областях, таких как здравоохранение и правительство.\u003cbr/\u003e- Tesla представила роботов Optimus, но было много вопросов о реальных возможностях.\u003cbr/\u003e- Meta запустила MovieGen, новый AI-модель для генерации видео и аудио, вызывающую споры.\u003cbr/\u003e- Nvidia планирует 100 миллионов AI-сотрудников, что поднимает вопросы трудоустройства и этики."
     },
     {
-      "id": "6715dbc9c04e7b74456db43d",
+      "id": "671dd547a9339179d10dfce8",
       "issue": 931,
       "type": "chat",
       "author_type": "bot",
@@ -803,7 +803,7 @@
       "text": "[5/14] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eMikhail\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eРедизайн Chatgpt на что-то намекает\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://t.me/denissexy/8840\"\u003ehttps://t.me/denissexy/8840\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eTelegram: Contact \u003c/strong\u003e\u003ca class=\"mention\" href=\"https://t.me/denissexy\"\u003e@denissexy\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:** Контакт в Telegram: \u003ca class=\"mention\" href=\"https://t.me/denissexy\"\u003e@denissexy\u003c/a\u003e - инструмент для общения и обмена информацией.\u003cbr/\u003e\u003cbr/\u003e- Легкий доступ к чату с пользователем \u0026#34;\u003ca class=\"mention\" href=\"https://t.me/denissexy\"\u003e@denissexy\u003c/a\u003e\u0026#34;.\u003cbr/\u003e- Возможность обмена медиафайлами и сообщениями.\u003cbr/\u003e- Поддержка различных языков для международных пользователей.\u003cbr/\u003e- Бесплатное использование с базовыми функциями.\u003cbr/\u003e- Широкие возможности для создания групповых чатов.\u003cbr/\u003e- Возможность интеграции с другими приложениями.\u003cbr/\u003e- Защита личных данных пользователей."
     },
     {
-      "id": "6715dbc9c04e7b74456db43e",
+      "id": "671dd547a9339179d10dfce9",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -813,7 +813,7 @@
       "text": "а там разве не любой желающий с легкостью может купить рекламу? На тайм сквер"
     },
     {
-      "id": "6715dbc9c04e7b74456db43f",
+      "id": "671dd547a9339179d10dfcea",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -823,7 +823,7 @@
       "text": "А почему \u0026#34;бывшая\u0026#34; дочка в законе?"
     },
     {
-      "id": "6715dbc9c04e7b74456db440",
+      "id": "671dd547a9339179d10dfceb",
       "issue": 931,
       "type": "chat",
       "author_type": "host",
@@ -833,7 +833,7 @@
       "text": "я же говорю — programmativ"
     },
     {
-      "id": "6715dbc9c04e7b74456db441",
+      "id": "671dd547a9339179d10dfcec",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -843,7 +843,7 @@
       "text": "Леша просто в один глаз смотрит квалификацию в Формуле =)"
     },
     {
-      "id": "6715dbc9c04e7b74456db442",
+      "id": "671dd547a9339179d10dfced",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -853,7 +853,7 @@
       "text": "можно"
     },
     {
-      "id": "6715dbc9c04e7b74456db443",
+      "id": "671dd547a9339179d10dfcee",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -863,7 +863,7 @@
       "text": "spa"
     },
     {
-      "id": "6715dbc9c04e7b74456db444",
+      "id": "671dd547a9339179d10dfcef",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -873,7 +873,7 @@
       "text": "single page application"
     },
     {
-      "id": "6715dbc9c04e7b74456db445",
+      "id": "671dd547a9339179d10dfcf0",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",
@@ -883,7 +883,7 @@
       "text": "Wpa?"
     },
     {
-      "id": "6715dbc9c04e7b74456db446",
+      "id": "671dd547a9339179d10dfcf1",
       "issue": 931,
       "type": "chat",
       "author_type": "listener",

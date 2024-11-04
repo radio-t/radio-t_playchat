@@ -1,0 +1,1642 @@
+{
+  "chat": [
+    {
+      "id": "671dd4f7bc1efc6ed310929d",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729972988,
+      "text": "Маринкин холодильник пока молчит"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310929e",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729973040,
+      "text": "А в чем он консистентный? И если убрать префикс пакета из имена то он станет менее консистентным? Тот же мой пример выше, чем короткая версия \u0026#34;помойка\u0026#34;, а длинная это \u0026#34;конститентно\u0026#34;?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310929f",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729973090,
+      "text": "Ну в общем, вы даже вдвоем меня не убедили. Я больше с Тонским, странно все это пахнет."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a0",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1729973317,
+      "text": "WTF)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a1",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "chadgptt",
+      "author_name": "Mr. M ѣ 🇦🇶",
+      "datetime": 1729973358,
+      "text": "ну і де вєщаніє"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a2",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729973363,
+      "text": "так ты админку не получишь)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a3",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ilmarranen",
+      "author_name": "ilmarranen",
+      "datetime": 1729973412,
+      "text": "Консистентно тем, что в имя  засунули все уровни иерархии. Вот оцени два конкурирующих утверждения: 1. засовывайте в полное имя класса вообще всё 2. Засовывайте в имя класса что-нибудь.\u003cbr/\u003eС наличием какого из этих правил в сообществе будет проще обеспечить консистентность результата?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a4",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ilmarranen",
+      "author_name": "ilmarranen",
+      "datetime": 1729973504,
+      "text": "Я не то чтобы спорю, просто говорю, что у такого подхода тоже есть плюсы - некоторые правила приходится возводить в абсолют и доводить до крайности, просто чтобы они выполнялись."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a5",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "D",
+      "datetime": 1729973521,
+      "text": "Холодненькая унца пошла"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a6",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1729973521,
+      "text": "Я слушаю радио-т еще со времен когда Умпутуну вопросы приходили по бумажной почте. Но админки так и не получил)))))"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a7",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729973522,
+      "text": "Так, подождите, расходимся, все зря. Тонскому выговор, вы оба \u003ca class=\"mention\" href=\"https://t.me/ilmarranen\"\u003e@ilmarranen\u003c/a\u003e и \u003ca class=\"mention\" href=\"https://t.me/aih1013\"\u003e@aih1013\u003c/a\u003e можете придумывать другую теорию и объяснение почему так - все  нормально в Джетти пишут, никаких JettyWebServer префиксов у всего, нормальные имена классов \u003ca href=\"https://github.com/jetty/jetty.project/tree/jetty-12.0.x/jetty-core/jetty-server/src/main/java/org/eclipse/jetty/server\"\u003ehttps://github.com/jetty/jetty.project/tree/jetty-12.0.x/jetty-core/jetty-server/src/main/java/org/eclipse/jetty/server\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a8",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Sympho",
+      "author_name": "Alexander Rassokhin",
+      "datetime": 1729973619,
+      "text": "Очень унылые пятнадцать минут сплошной унцы, давайте бубнёж уже."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092a9",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ilmarranen",
+      "author_name": "ilmarranen",
+      "datetime": 1729973645,
+      "text": "😂 очень хорошо, но я даже не знаю что такое jetty. Впрочем я уже объяснил выше - это не попытка спора и не оправдание, скорее заметка о возможных мотивах 😊"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092aa",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729973651,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ab",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1729973666,
+      "text": "эм"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ac",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729973672,
+      "text": "щелк"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ad",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729973675,
+      "text": "чтото щёлкнуло)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ae",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1729973685,
+      "text": "Как то по новому начинается шоу"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092af",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729973686,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e если ты думаешь что ты в эфире, это не так)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b0",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1729973687,
+      "text": "Хруст стула)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b1",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1729973703,
+      "text": "никаких голосов нет!"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b2",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lnExtremo",
+      "author_name": "Max",
+      "datetime": 1729973710,
+      "text": "Пробки выбило"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b3",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "chadgptt",
+      "author_name": "Mr. M ѣ 🇦🇶",
+      "datetime": 1729973711,
+      "text": "це шо, голос Бобука?)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b4",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729973711,
+      "text": "лол)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b5",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729973721,
+      "text": "Не благодарите)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b6",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "D",
+      "datetime": 1729973722,
+      "text": "Тепленькая пошла"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b7",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1729973763,
+      "text": "Ну вот, не услышали историю про программиста"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b8",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729973794,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e \u003ca href=\"https://t.me/radio_t_chat/571864\"\u003ehttps://t.me/radio_t_chat/571864\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092b9",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rzbbt",
+      "author_name": "r",
+      "datetime": 1729973801,
+      "text": "миссия невыполнима"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ba",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1729973806,
+      "text": "\u003ca href=\"https://neon.tech/radio\"\u003ehttps://neon.tech/radio\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092bb",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1729973811,
+      "text": "Ух мощный api пошел"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092bc",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1729973811,
+      "text": "this"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092bd",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1729973813,
+      "text": "Всё пред шоу не услышали"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092be",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729973837,
+      "text": "⚠️ UNAS Pro - Ubiquiti Store - \u003ca href=\"https://store.ui.com/us/en/products/unas-pro\"\u003ehttps://store.ui.com/us/en/products/unas-pro\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092bf",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729973841,
+      "text": "\u003cstrong\u003eUNAS Pro - Ubiquiti Store \u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eUNAS Pro - это NAS-система в 2U, предназначенная для крупных компаний, обеспечивающая высокую производительность и гибкость хранения данных.\u003cbr/\u003e\u003cbr/\u003e- 2U форм-фактор для удобства установки в стойку.\u003cbr/\u003e- Поддержка до 7 дисков 2.5/3.5\u0026#34; HDD/SSD.\u003cbr/\u003e- Высокая скорость передачи данных до 10 Гбит/с.\u003cbr/\u003e- RAID-технология для защиты данных и повышения надежности.\u003cbr/\u003e- Подключение через 10G SFP+ и GbE RJ45 порты.\u003cbr/\u003e- Готовность к использованию с UniFi Power Backup.\u003cbr/\u003e- 1.3\u0026#34; сенсорный экран для простого управления."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c0",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1729973847,
+      "text": "а может можно сделать отправку сообщения в Telegram? когда кто-то начинает говорить? Кто знает код бота radio-t? )"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c1",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729973885,
+      "text": "это какойто оверинжиниринг"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c2",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1729973911,
+      "text": "согласен ) А как проще предотвратить этот баг? )"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c3",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1729973938,
+      "text": "кнопка типа \u0026#34;вещание началось\u0026#34;, только \u0026#34;предшоу началось\u0026#34;"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c4",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729973940,
+      "text": "перенести хост из дома Ампатана в облако и все автоматизировать"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c5",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1729973986,
+      "text": "Вместо мотика купить стойку"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c6",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1729974000,
+      "text": "Как можно в 24 жить без наса"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c7",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729974016,
+      "text": "nas ставить на рабочий стол?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c8",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1729974068,
+      "text": "И чтоб синхронизация была тоже по щелчку)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092c9",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rzbbt",
+      "author_name": "r",
+      "datetime": 1729974074,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLrSZx1POjWZmeRWivzgPpk3TPq1zngAApbnMRuEyehIqgMyOqmpKG0BAAMCAAN4AAM2BA",
+      "image_width": 640,
+      "image_height": 639,
+      "text": "икеевский столик"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ca",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729974110,
+      "text": "у меня такой же есть, но без железа)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092cb",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729974141,
+      "text": "зная икеевское качество как-то стремно.."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092cc",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1729974192,
+      "text": "Разлитие кофе к апгрейду"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092cd",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729974253,
+      "text": "Та нормальный столик из прессованого картона, крепкий)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ce",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1729974291,
+      "text": "ну у Synology ssd для кеша используют"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092cf",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stanislav_svistunov",
+      "author_name": "Cpt. Stanislav Svistunov",
+      "datetime": 1729974356,
+      "text": "Кто каким приложениями на андроид слушает аудиокниги ?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d0",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1729974385,
+      "text": "Там даже тип интерфейса дисков не указан."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d1",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1729974465,
+      "text": "plex, как минимум, семья счастлива"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d2",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1729974482,
+      "text": "aka гараж или кладовка"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d3",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxibuster",
+      "author_name": "Maxibuster",
+      "datetime": 1729974495,
+      "text": "все можно найти в usenet"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d4",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1729974522,
+      "text": "smart audiobook reader"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d5",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1729974572,
+      "text": "стриминг = трафик, который может прерываться"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d6",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729974608,
+      "text": "некоторые виды видео онлайн-сервисы активно банят)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d7",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "macw0rd",
+      "author_name": "Хомякович",
+      "datetime": 1729974623,
+      "text": "hi all"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d8",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1729974720,
+      "text": "а общиее место для синхронизаций локальное"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092d9",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729974771,
+      "text": "Лёха не настоящий параноик, че пристали)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092da",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729974841,
+      "text": "⚠️ Why techies leave Big Tech - by Gergely Orosz - \u003ca href=\"https://newsletter.pragmaticengineer.com/p/leaving-big-tech?utm_source=substack\"\u003ehttps://newsletter.pragmaticengineer.com/p/leaving-big-tech?utm_source=substack\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092db",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729974846,
+      "text": "\u003cstrong\u003eWhy techies leave Big Tech - by Gergely Orosz\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Технические специалисты покидают крупные технологические компании\u003cbr/\u003e\u003cbr/\u003eВсё больше инженеров уходит из крупных технологических компаний, несмотря на сильные накопленные преимущества. В этом тексте анализируются причины таких увольнений, от нестабильности и отсутствия профессионального роста до снижения компенсаций.\u003cbr/\u003e\u003cbr/\u003e- **Нестабильность Big Tech** — последние годы массовые увольнения стали обычным делом для компаний, таких как Google и Meta, вызывая неопределенность среди сотрудников.\u003cbr/\u003e- **Профессиональный рост** — многие устали от медленного развития карьеры, которым ограничены в крупных корпорациях, и предпочитают динамичную среду стартапов.\u003cbr/\u003e- **Закрытые карьерные пути** — получение руководящих позиций становится сложнее в Big Tech, где продвижение более конкурентоспособно.\u003cbr/\u003e- **Политика внутри компаний** — в крупных организациях сталкиваются с внутренними конфликтами и интригами, что может приводить к увольнениям.\u003cbr/\u003e- **Падение компенсаций** — снижение акций компаний влияет на общую выплату, подстегивая профессионалов искать лучшие предложения.\u003cbr/\u003e- **Привязанности к хорошей зарплате** — высокий уровень компенсаций является мощным сдерживающим фактором, который удерживает многих от ухода.\u003cbr/\u003e- **Опыт и страх рисков** — многие обеспокоены риском, связанным с переходом к стартапам, однако новые вызовы способны значительно продвинуть карьеру."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092dc",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729974925,
+      "text": "kek)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092dd",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729974978,
+      "text": "\u0026gt; есть люди у которых есть ощущение никчемномсти, например они жили в россии\u003cbr/\u003e\u003cbr/\u003eА Ксюша прям молодец)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092de",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729974981,
+      "text": "это те кто за пределами россии не были"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092df",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1729974985,
+      "text": "то есть индусы таки хороши?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e0",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729975004,
+      "text": "Все с которыми я работал - да, вполне себе крутые ребята были."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e1",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729975008,
+      "text": "та норм индусы, есть плохие есть хорошие"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e2",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729975113,
+      "text": "Ksenia ты мыслишь как рациональный человек, это ошибка)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e3",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729975176,
+      "text": "люди сидят в россии и видят что программисты уезжают - значит \u0026#34;там\u0026#34; русские программеры ценятся"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e4",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729975389,
+      "text": "В израиле просто по жизни расслабленные"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e5",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729975446,
+      "text": "а \u0026#34;годы взяло\u0026#34; это калька с иврита)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e6",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1729975468,
+      "text": "took years to get"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e7",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1729975565,
+      "text": "получается, работники бигтеха круче стартаперов?)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e8",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729976241,
+      "text": "Дежавю"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092e9",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729976265,
+      "text": "А Умпутун на своём мотоцикле ездит или только чинит?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ea",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1729976562,
+      "text": "он не чинит, он на сервис сдает"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092eb",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729976739,
+      "text": "мачо при уравниловке?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ec",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "1.2 .",
+      "datetime": 1729976868,
+      "text": "\u003cstrong\u003e🔞 Нейросеть для поиска интим фото \u003cbr/\u003e\u003cbr/\u003e💎 Найди обнаженные фото и видео, любой девушки \u003cbr/\u003e\u003cbr/\u003e➡️ t.\u003c/strong\u003e\u003ca href=\"me/NN_CgrICd_bot?start=3173\\x00\\x00\"\u003eme/NN_CgrICd_bot?start=3173\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ed",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1729976934,
+      "text": "Ну Гриша и дорос до начальника =)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ee",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729977269,
+      "text": "на созвонах побыл - заработал"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ef",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1729977717,
+      "text": "так где 1 такой случай там и 2, это же про теорию разбитых окон"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f0",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729977820,
+      "text": "Короче Лёха программист типа \u0026#34;не, ну работает же\u0026#34;)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f1",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729977880,
+      "text": "Ну работает, безопасно, решает задачу, поддерживается, помогает развивать продукт и прочее, но не совсем идеально. А так да."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f2",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729977898,
+      "text": "⚠️ Another burnout post | Blog | Gus Hogg-Blake - \u003ca href=\"https://gushogg-blake.com/p/blog-burnout/\"\u003ehttps://gushogg-blake.com/p/blog-burnout/\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f3",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729977902,
+      "text": "\u003cstrong\u003eAnother burnout post | Blog | Gus Hogg-Blake\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**  \u003cbr/\u003eГус Хогг-Блейк делится своим опытом выгорания в программировании и радостью от создания собственного бизнеса. Он размышляет о сложностях профессии и о том, как делать что-то свое, привнося ценность в свою жизнь. \u003cbr/\u003e\u003cbr/\u003e- Гус покинул свою работу в августе 2023 года, с £40,000 долга и без дохода.\u003cbr/\u003e- Погружение в программирование для других может вызывать выгорание, ощущение бессмысленности.\u003cbr/\u003e- Работая над собственными проектами, он испытывает удовольствие и удовлетворение.\u003cbr/\u003e- Важно понимать различие между важными и незначительными профессиями. \u003cbr/\u003e- Гус запускает бизнес по доставке еды, основываясь на принципах предков.\u003cbr/\u003e- Он также пишет о своем лечении для расширения челюсти и стратегии распространения информации.\u003cbr/\u003e- В данный момент он испытывает смешанные чувства по поводу своего будущего."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f4",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maksim_surmach",
+      "author_name": "Maksim Surmach",
+      "datetime": 1729977924,
+      "text": "Бизнес потребность закрывает и хорошо"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f5",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729977937,
+      "text": "А ты всё еще программист или больше менеджер? (без подвохов, просто инетересно)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f6",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729977944,
+      "text": "Критериев у меня много и строгих, но я довольно либерально отношусь к несовершенству кода."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f7",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1729978077,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgQAAx0CUPxcWQABCLsBZx1e3c3wuxS7JXDmteNbT_gtjP0AApjJMRtqFOhQgIE6J3sHYBgBAAMCAAN4AAM2BA",
+      "image_width": 625,
+      "image_height": 161,
+      "text": ""
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f8",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729978087,
+      "text": "Не, я 100% программист (IC). Не в смысле что только код пишу, много архитектуры, коммуникации и т.п., но я не управляю людьми."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092f9",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729978204,
+      "text": "Функция рендерить хтмл таблицы?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092fa",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "🎀🎀🎀🎀🎀",
+      "datetime": 1729978214,
+      "text": "\u003cstrong\u003e🔞 Нейросеть для поиска интим фото \u003cbr/\u003e\u003cbr/\u003e💎 Найди обнаженные фото и видео, любой девушки \u003cbr/\u003e\u003cbr/\u003e➡️ t.\u003c/strong\u003e\u003ca href=\"me/NN_CgrICd_bot?start=3173\\x00\\x00\"\u003eme/NN_CgrICd_bot?start=3173\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092fb",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1729978249,
+      "text": "лиспоподобные языки красивы"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092fc",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729978255,
+      "text": "котлин после джавы вполне красив"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092fd",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729978278,
+      "text": "Вот даже что-то пуртанское, типа Scheme."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092fe",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Ufian",
+      "author_name": "Mikhail Ufian",
+      "datetime": 1729978529,
+      "text": "До директора майкрософта"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed31092ff",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729978630,
+      "text": "Уж ~полночь~ 40 минут близится, а харлея всё нет."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109300",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729978942,
+      "text": "🔥"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109301",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729978991,
+      "text": "⚠️ Notion Mail - Join the waitlist - \u003ca href=\"https://www.notion.so/product/mail\"\u003ehttps://www.notion.so/product/mail\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109302",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729978994,
+      "text": "\u003cstrong\u003eNotion Mail - Join the waitlist\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eNotion Mail предлагает упрощение процесса написания писем с помощью однокнопочных фрагментов и предложений от ИИ. Приемы помогут сэкономить время и сделать общение более персонализированным.\u003cbr/\u003e\u003cbr/\u003e- Удобные однокнопочные фрагменты для быстрого написания писем.\u003cbr/\u003e- ИИ может предложить подходящие фрагменты писем.\u003cbr/\u003e- Позволяет избежать повторного написания одного и того же письма.\u003cbr/\u003e- Персонализированные письма для более эффективной коммуникации.\u003cbr/\u003e- В ожидании новых пользователей на списке ожидания. \u003cbr/\u003e- Удобно для профессионалов и бизнеса.\u003cbr/\u003e- Экономит время и усилия в переписке."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109303",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1729979425,
+      "text": "кольце ереоценено добавьте 70долларовую подписку  на 3 года к цене"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109304",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729979514,
+      "text": "кольцо не зафиксировало контакты с внеземными цивилизациями"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109305",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729979564,
+      "text": "да, есть такое"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109306",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729979574,
+      "text": "а еще и уснуть бывает очень сложно"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109307",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729979599,
+      "text": "⚠️ Linus Torvalds Comments On The Russian Linux Maintainers Being Delisted - Phoronix - \u003ca href=\"https://www.phoronix.com/news/Linus-Torvalds-Russian-Devs\"\u003ehttps://www.phoronix.com/news/Linus-Torvalds-Russian-Devs\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109308",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729979603,
+      "text": "\u003cstrong\u003eLinus Torvalds Comments On The Russian Linux Maintainers Being Delisted - Phoronix\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eЛинус Торвальдс прокомментировал удаление российских мейнтейнеров из ядра Linux. Он поддерживает это решение, ссылаясь на санкции против России и подчеркивая, что соблюдение новых требований не связано только с США.\u003cbr/\u003e\u003cbr/\u003e- Линус Торвальдс обсудил удаление российских мейнтейнеров из ядра Linux.\u003cbr/\u003e- Изменение вызвало смешанные реакции и обеспокоенность среди сообщества.\u003cbr/\u003e- Торвальдс указал на санкции против России как на причину.\u003cbr/\u003e- Он утверждает, что не поддерживает российскую агрессию.\u003cbr/\u003e- Некоторые мейнтейнеры удивлены отсутствием ясности по новым требованиям.\u003cbr/\u003e- Неясно, будут ли приняты патчи от удалённых мейнтейнеров в будущем.\u003cbr/\u003e- Торвальдс отказывается обсуждать юридические вопросы с интернет-аудиторией."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109309",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1729980083,
+      "text": "линус и адекватно?)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310930a",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729980150,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLsUZx1m9gduAcC2_EOdtI_bKAPV62sAAqHfMRuEyfBI0bp7Hbf8l6EBAAMCAAN5AAM2BA",
+      "image_width": 933,
+      "image_height": 1280,
+      "text": "Меня больше хамство Линуса взбесило."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310930b",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729980197,
+      "text": "Так это наверняка был ответ на хамство в обсуждении"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310930c",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729980253,
+      "text": "Почему наверняка? Типа он не может нахамить первым?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310930d",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729980271,
+      "text": "А ему не могли нахамить перед этим?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310930e",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729980273,
+      "text": "Да, это возможно. В обсуждениях реакция может быть ответом на предшествующее хамство. Люди иногда отвечают агрессией на агрессию."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310930f",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729980306,
+      "text": "Могли и не нахамить, но ты ведь пишешь «наверняка»"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109310",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729980338,
+      "text": "ну и ты пишешь \u0026#34;хамство\u0026#34;, я там хамства не вижу"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109311",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729980371,
+      "text": "По-моему самая настоящая ксенофобия, домен в зоне ну не означает поддержку агрессии."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109312",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729980390,
+      "text": "Ру"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109313",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729980431,
+      "text": "Тут и в чате писали и ведущие уже разжевали, хз что еще тут сказать"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109314",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729980748,
+      "text": "⚠️ Telegram: Contact \u003ca class=\"mention\" href=\"https://t.me/nikitonskypub\"\u003e@nikitonskypub\u003c/a\u003e\u003cem\u003e - \u003c/em\u003e\u003ca href=\"https://t.me/nikitonskypub/739\"\u003ehttps://t.me/nikitonskypub/739\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109315",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729980749,
+      "text": "\u003cstrong\u003eTelegram: Contact \u003c/strong\u003e\u003ca class=\"mention\" href=\"https://t.me/nikitonsky_pub\"\u003e@nikitonsky_pub\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eTelegram предлагает пользователям возможность связаться с \u003ca class=\"mention\" href=\"https://t.me/nikitonsky_pub\"\u003e@nikitonsky_pub\u003c/a\u003e, что предоставляет доступ к дополнительным ресурсам и функциям.\u003cbr/\u003e\u003cbr/\u003e- Пользовательский контакт: \u003ca class=\"mention\" href=\"https://t.me/nikitonsky_pub\"\u003e@nikitonsky_pub\u003c/a\u003e.\u003cbr/\u003e- Доступ к дополнительным ресурсам.\u003cbr/\u003e- Удобный способ общения.\u003cbr/\u003e- Возможность скачивания контента.\u003cbr/\u003e- Встраивание в различные форматы.\u003cbr/\u003e- Обсуждения на канале.\u003cbr/\u003e- Поддержка актуальных обновлений."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109316",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729980991,
+      "text": "Зато если посмотришь на имя класса, сразу понятно что это и где лежит."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109317",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729981184,
+      "text": "⚠️ Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku \\ Anthropic - \u003ca href=\"https://www.anthropic.com/news/3-5-models-and-computer-use\"\u003ehttps://www.anthropic.com/news/3-5-models-and-computer-use\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109318",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729981186,
+      "text": "\u003cstrong\u003eIntroducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eAnthropic представляет обновленный Claude 3.5 Sonnet и новый Claude 3.5 Haiku, одновременно запуская бета-версию функции использования компьютера. Эти модели улучшают производительность и предлагают новые возможности для разработчиков и пользователей.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Обновленный Claude 3.5 Sonnet демонстрирует улучшения в кодировании и использовании инструментов.\u003cbr/\u003e- Новый Claude 3.5 Haiku предлагает конкурентоспособные характеристики при аналогичных ценах.\u003cbr/\u003e- Функция использования компьютера позволяет Claude взаимодействовать с интерфейсами, как человек.\u003cbr/\u003e- Разработчики могут автоматизировать процессы и проводить исследования с помощью новой API.\u003cbr/\u003e- В настоящее время функция использования компьютера находится в экспериментальной стадии, требует улучшений.\u003cbr/\u003e- Мы приветствуем обратную связь от пользователей для оптимизации новых функций.\u003cbr/\u003e- Заходите послушать о безопасности и исследованиях, связанных с использованием компьютера."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109319",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729981498,
+      "text": "час сорок, как и обещали"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310931a",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Ira🥷🏼🖤",
+      "datetime": 1729981920,
+      "text": "\u003cstrong\u003e💎 НЕЙРОСЕТЬ ДЛЯ ПОИСКА ИНТИМНЫХ ФОТО\u003cbr/\u003e\u003cbr/\u003e🔞 ПРОВЕРЬ ЛЮБУЮ ДЕВУШКУ, НА НАЛИЧИЕ ВИДЕО И ФОТО 18\u003cbr/\u003e\u003cbr/\u003e➡️ t.\u003c/strong\u003e\u003ca href=\"me/NN_pmWwUo_bot?start=3173\\x00\\x00\"\u003eme/NN_pmWwUo_bot?start=3173\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310931b",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729981924,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLsmZx1t5IGI1lfr3EY_eMMYdOdJ9GAAAq7fMRuEyfBI9LS7veD0XrgBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 587,
+      "text": "O1 правильно считает"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310931c",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkryuk",
+      "author_name": "Maxim",
+      "datetime": 1729981935,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLsnZx1t7xIw18MwajTrqg3uWY5h3m4AAq_fMRuEyfBIDnYdEkHL6HgBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 387,
+      "text": "Та вроде ж норм считает"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310931d",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1729981989,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLspZx1uJR3cChN-wnDiyzn5V1Zw14MAArDfMRuEyfBIEyKqblbyaHABAAMCAAN5AAM2BA",
+      "image_width": 597,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310931e",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Serj_Om",
+      "author_name": "Sergey",
+      "datetime": 1729981993,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLsrZx1uKWx92JlW80z66xf8n4TA4OoAArHfMRuEyfBIpXcECUdN5VEBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 456,
+      "text": ""
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310931f",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1729982088,
+      "text": "в слове strawberry нет буквы \u0026#34;R\u0026#34;, только \u0026#34;r\u0026#34;"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109320",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1729982187,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgEAAx0CUPxcWQABCLstZx1u6zENk_-m3g7dZT2nJc0KNFgAAt2tMRu95vFEdaNrDSlEEcUBAAMCAAN5AAM2BA",
+      "image_width": 591,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109321",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982214,
+      "text": "⚠️ Темы слушателей 932 - \u003ca href=\"https://radio-t.com/p/2024/10/22/prep-932/\"\u003ehttps://radio-t.com/p/2024/10/22/prep-932/\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109322",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982214,
+      "text": "⚠️ Темы слушателей 932 - \u003ca href=\"https://radio-t.com/p/2024/10/22/prep-932/\"\u003ehttps://radio-t.com/p/2024/10/22/prep-932/\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109323",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982226,
+      "text": "[1/15] \u003cstrong\u003e+19\u003c/strong\u003e от \u003cstrong\u003e______\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://habr.com/ru/news/852632/\"\u003ehttps://habr.com/ru/news/852632/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eПолитика дошла до OpenSource ( не в первый раз конечно)\u003cbr/\u003eРяд российских разработчиков убрали из списка мейнейров ядра линукса под туманным предлогом.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eИз списка мейнтейнеров проекта ядра Linux удалили 11 разработчиков, предположительно работающих в российских компаниях / Хабр\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003eИз списка мейнтейнеров ядра Linux исключили 11 разработчиков, предположительно связанных с российскими компаниями. Причиной удаления названы требования комплаенса. Возвращение в список возможно при предоставлении определенной документации.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Удалены 11 разработчиков из списка мейнтейнеров ядра Linux.\u003cbr/\u003e- Удаление связано с вопросами соблюдения комплаенса.\u003cbr/\u003e- Некоторые разработчики могут быть восстановлены при предоставлении документации.\u003cbr/\u003e- Обсуждения о ненадежности формулировок требуют разъяснений.\u003cbr/\u003e- Эксперты поднимают вопросы о политическом контексте решения.\u003cbr/\u003e- Сообщество откритым проектом обеспокоено ситуацией с русскими мейнтейнерами.\u003cbr/\u003e- Проект вызывает опасения о возможных дальнейших действиях в отношении разработчиков."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109324",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982226,
+      "text": "[2/15] \u003cstrong\u003e+14\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eArm отзывает лицензию у Qualcomm\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://techcrunch.com/2024/10/23/arm-reportedly-cancels-qualcomm-design-license/\"\u003ehttps://techcrunch.com/2024/10/23/arm-reporte...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eArm reportedly cancels Qualcomm design license | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Summary:**  \u003cbr/\u003eArm has reportedly canceled Qualcomm\u0026#39;s chip design license, potentially disrupting the global supply chain for smartphones relying on Qualcomm chips, amid ongoing legal disputes over contracts and trademarks.\u003cbr/\u003e\u003cbr/\u003e**Bullet Points:**\u003cbr/\u003e\u003cbr/\u003e- Arm issued a 60-day cancellation notice to Qualcomm for chip design licensing.\u003cbr/\u003e- This decision may significantly impact smartphone manufacturers dependent on Qualcomm.\u003cbr/\u003e- The dispute arises from contract and trademark disagreements between Arm and Qualcomm.\u003cbr/\u003e- Qualcomm claims Arm\u0026#39;s termination notice is an attempt to disrupt legal proceedings.\u003cbr/\u003e- The upcoming trial in December may escalate the conflict further.\u003cbr/\u003e- Arm insists its actions are justified, but Qualcomm refers to them as anticompetitive.\u003cbr/\u003e- Both companies continue to assert their legal rights while preparing for the trial.\u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eСообщается, что Arm аннулировала лицензию на проектирование чипов для Qualcomm, что может нарушить глобальную цепочку поставок для смартфонов, зависящих от чипов Qualcomm, на фоне текущих юридических споров по контрактам и товарным знакам.\u003cbr/\u003e\u003cbr/\u003e**Пункты:**\u003cbr/\u003e\u003cbr/\u003e- Arm направила Qualcomm уведомление об аннулировании лицензии на проектирование чипов на 60 дней.\u003cbr/\u003e- Это решение может значительно повлиять на производителей смартфонов, зависящих от Qualcomm.\u003cbr/\u003e- Спор возник из-за разногласий по контрактам и товарным знакам между Arm и Qualcomm.\u003cbr/\u003e- Qualcomm утверждает, что уведомление Arm об аннулировании является попыткой нарушить юридические процедуры.\u003cbr/\u003e- Конфликт может обостриться во время предстоящего судебного разбирательства в декабре.\u003cbr/\u003e- Arm настаивает на справедливости своих действий, но Qualcomm квалифицирует их как антиконкурирующие.\u003cbr/\u003e- Обе компании продолжают утверждать свои юридические права и готовятся к суду."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109325",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982226,
+      "text": "[3/15] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eWiegerWolf\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eBitwarden is no longer free software \u003c/em\u003e\u003ca href=\"https://github.com/bitwarden/clients/issues/11611\"\u003ehttps://github.com/bitwarden/clients/issues/11611\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDesktop version 2024.10.0 is no longer free software · Issue #11611 · bitwarden/clients · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eВерсия настольного приложения Bitwarden 2024.10.0 больше не является бесплатным программным обеспечением, что вызывает недовольство пользователей и разногласия в сообществе.\u003cbr/\u003e\u003cbr/\u003e- Bitwarden теперь вводит запрещающую лицензию для использования SDK, нарушающую свободу программного обеспечения.\u003cbr/\u003e- Обсуждение в GitHub показывает реакцию сообщества на изменения в лицензии.\u003cbr/\u003e- Пользователи выражают озабоченность по поводу перехода Bitwarden к проприетарному ПО.\u003cbr/\u003e- Некоторые пользователи решили перейти на альтернативные решения после изменений.\u003cbr/\u003e- Вопросы о том, насколько надежен Bitwarden, теперь становятся актуальными.\u003cbr/\u003e- Обсуждаются возможные форки предыдущих версий как решение проблемы.\u003cbr/\u003e- Сообщество заинтересовано в альтернативных продуктах или форках для защиты данных."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109326",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982226,
+      "text": "[4/15] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eSviataslau Shchaurouski\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eWebStorm і Rider становятся бесплатнымі для некоммерческого іспользованія\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/\"\u003ehttps://blog.jetbrains.com/blog/2024/10/24/we...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWebStorm and Rider Are Now Free for Non-Commercial Use | The JetBrains Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003eWebStorm и Rider теперь бесплатны для некоммерческого использования. Это изменение лицензирования направлено на более широкую доступность IDE для разработчиков, позволяя использовать их для обучения, разработки открытого кода и хобби без платы.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Новая лицензия:** WebStorm и Rider теперь предлагаются бесплатно для некоммерческого использования, включая обучение и открытые проекты. \u003cbr/\u003e\u003cbr/\u003e- **Коммерческое использование:** Коммерческое лицензирование остаётся без изменений.\u003cbr/\u003e\u003cbr/\u003e- **Цели изменений:** Снижение барьеров для разработки и обучение с использованием IDE JetBrains.\u003cbr/\u003e\u003cbr/\u003e- **Социальные исследования:** 68% разработчиков кодируют вне работы как хобби, что повлияло на выбор этих продуктов.\u003cbr/\u003e\u003cbr/\u003e- **Исследовательские данные:** JetBrains будет собирать анонимную статистику использования для улучшения своих продуктов.\u003cbr/\u003e\u003cbr/\u003e- **Процедура получения лицензии:** Зарегистрироваться можно непосредственно в IDE, выбрав опцию \u0026#34;Для некоммерческого использования\u0026#34;.\u003cbr/\u003e\u003cbr/\u003e- **Поддержка:** Бесплатное лицензирование не включает поддержку через частные тикеты, но доступны общественные форумы для вопросов и решения проблем."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109327",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982227,
+      "text": "[5/15] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eDenis “denis0k” Pukhov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eflibusta сначала была всё, теперь вроде не всё\u003c/em\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109328",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982234,
+      "text": "[1/15] \u003cstrong\u003e+19\u003c/strong\u003e от \u003cstrong\u003e______\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://habr.com/ru/news/852632/\"\u003ehttps://habr.com/ru/news/852632/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eПолитика дошла до OpenSource ( не в первый раз конечно)\u003cbr/\u003eРяд российских разработчиков убрали из списка мейнейров ядра линукса под туманным предлогом.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eИз списка мейнтейнеров проекта ядра Linux удалили 11 разработчиков, предположительно работающих в российских компаниях / Хабр\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание**  \u003cbr/\u003eИз списка мейнтейнеров ядра Linux удалено 11 разработчиков, предположительно работающих в российских компаниях, из-за соблюдения требований комплаенса. Участники сообществ требуют разъяснений по этой ситуации.\u003cbr/\u003e\u003cbr/\u003e- Удаление 11 мейнтейнеров вызвано соблюдением \u0026#34;различных требований комплаенса\u0026#34;.\u003cbr/\u003e- Ответственный мейнтейнер Грег Кроа-Хартман сообщил о возможности возврата при предоставлении документов.\u003cbr/\u003e- Разработчики выражают недовольство из-за неопределённости терминов и рисков злоупотреблений.\u003cbr/\u003e- Вопросы относились к драйверам для оборудования компании \u0026#39;Байкал Электроникс\u0026#39;.\u003cbr/\u003e- Мейнтейнеры и сообщество требуют объяснений от Linux Foundation по поводу решения.\u003cbr/\u003e- Александер Шиян отметил, что причина \u0026#34;очевидна - домен RU\u0026#34;.\u003cbr/\u003e- Ситуация вызывает опасения по поводу будущего открытых лицензий и управления проектами."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109329",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982234,
+      "text": "[2/15] \u003cstrong\u003e+14\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eArm отзывает лицензию у Qualcomm\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://techcrunch.com/2024/10/23/arm-reportedly-cancels-qualcomm-design-license/\"\u003ehttps://techcrunch.com/2024/10/23/arm-reporte...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eArm reportedly cancels Qualcomm design license | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:** Arm аннулировала лицензию на проектирование чипов для Qualcomm, что может повлиять на глобальную цепочку поставок. Данная ситуация возникла в результате судебных разбирательств между компаниями.\u003cbr/\u003e\u003cbr/\u003e- Arm выдала Qualcomm уведомление о прекращении лицензии на 60 дней.\u003cbr/\u003e- Это решение может затронуть большинство производителей смартфонов.\u003cbr/\u003e- Arm и Qualcomm ведут долгое судебное разбирательство.\u003cbr/\u003e- Спор связан с контрактами и торговыми марками.\u003cbr/\u003e- Qualcomm считает уведомление попыткой помешать юридическому процессу.\u003cbr/\u003e- Ожидается судебное разбирательство в декабре.\u003cbr/\u003e- Qualcomm уверена в своих правах согласно соглашению с Arm."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310932a",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982234,
+      "text": "[3/15] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eWiegerWolf\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eBitwarden is no longer free software \u003c/em\u003e\u003ca href=\"https://github.com/bitwarden/clients/issues/11611\"\u003ehttps://github.com/bitwarden/clients/issues/11611\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDesktop version 2024.10.0 is no longer free software · Issue #11611 · bitwarden/clients · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме  \u003cbr/\u003eВерсия Bitwarden Desktop 2024.10.0 больше не является бесплатным программным обеспечением, что вызывает обеспокоенность у пользователей. Наличие новых лицензий и ограничений на SDK привело к неудачным попыткам сборки и переходу многих пользователей на альтернативы.\u003cbr/\u003e\u003cbr/\u003e- Версия 2024.10.0 требует использования \u003ca class=\"mention\" href=\"https://t.me/bitwarden\"\u003e@bitwarden\u003c/a\u003e/sdk-internal.\u003cbr/\u003e- Это ограничение противоречит свободе разработки (freedom 0).\u003cbr/\u003e- Пользователи сообщают о затруднениях при сборке новой версии.\u003cbr/\u003e- Многие пользователи намерены перейти к альтернативным продуктам.\u003cbr/\u003e- Беспокойство по поводу потери прозрачности и открытости Bitwarden.\u003cbr/\u003e- Возможные опасения о прекращении поддержки SDK в будущем.\u003cbr/\u003e- Рекомендуются форки и другие системы управления паролями."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310932b",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982235,
+      "text": "[4/15] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eSviataslau Shchaurouski\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eWebStorm і Rider становятся бесплатнымі для некоммерческого іспользованія\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/\"\u003ehttps://blog.jetbrains.com/blog/2024/10/24/we...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWebStorm and Rider Are Now Free for Non-Commercial Use | The JetBrains Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003eWebStorm и Rider теперь бесплатны для некоммерческого использования. Это изменение лицензирования направлено на более широкую доступность IDE для разработчиков, позволяя использовать их для обучения, разработки открытого кода и хобби без платы.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Новая лицензия:** WebStorm и Rider теперь предлагаются бесплатно для некоммерческого использования, включая обучение и открытые проекты. \u003cbr/\u003e\u003cbr/\u003e- **Коммерческое использование:** Коммерческое лицензирование остаётся без изменений.\u003cbr/\u003e\u003cbr/\u003e- **Цели изменений:** Снижение барьеров для разработки и обучение с использованием IDE JetBrains.\u003cbr/\u003e\u003cbr/\u003e- **Социальные исследования:** 68% разработчиков кодируют вне работы как хобби, что повлияло на выбор этих продуктов.\u003cbr/\u003e\u003cbr/\u003e- **Исследовательские данные:** JetBrains будет собирать анонимную статистику использования для улучшения своих продуктов.\u003cbr/\u003e\u003cbr/\u003e- **Процедура получения лицензии:** Зарегистрироваться можно непосредственно в IDE, выбрав опцию \u0026#34;Для некоммерческого использования\u0026#34;.\u003cbr/\u003e\u003cbr/\u003e- **Поддержка:** Бесплатное лицензирование не включает поддержку через частные тикеты, но доступны общественные форумы для вопросов и решения проблем."
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310932c",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1729982235,
+      "text": "[5/15] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eDenis “denis0k” Pukhov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eflibusta сначала была всё, теперь вроде не всё\u003c/em\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310932d",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1729982242,
+      "text": "\u003ca href=\"https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct\"\u003ehttps://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310932e",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1729982534,
+      "text": "nuvia"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310932f",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729983166,
+      "text": "Потому что апдейт это про фикс того что есть, а длц это новый игровой контент"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109330",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rzbbt",
+      "author_name": "r",
+      "datetime": 1729983180,
+      "text": "factorio 2.0 большой DLC бесплатен для тех, у кого уже куплена игра"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109331",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729983350,
+      "text": "Напоминаю\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/radio_t_chat/571864\"\u003ehttps://t.me/radio_t_chat/571864\u003c/a\u003e"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109332",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rzbbt",
+      "author_name": "r",
+      "datetime": 1729983351,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLs_Zx1zd6rKTaZkOoZz6vYOiK62DKAAArbfMRuEyfBItBo5fbd4ZxsBAAMCAANtAAM2BA",
+      "image_width": 240,
+      "image_height": 128,
+      "text": "пали, твой тезка!)"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109333",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729983360,
+      "text": "Вау!"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109334",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1729983363,
+      "text": "то есть это уникальный онлайн-онли выпуск?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109335",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1729983391,
+      "text": "хорошо что умпутун не пошел в пилоты, там никуда без чеклистов"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109336",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1729983394,
+      "text": "3 часа подкаст, прям как Трамп у Рогана"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109337",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zotio",
+      "author_name": "Denis Sobyanin",
+      "datetime": 1729983409,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgIAAx0CUPxcWQABCLtEZx1zsT0E8T_32Zw04TtY2QwnjaoAArffMRuEyfBInKiYpsZ8vKABAAMCAAN5AAM2BA",
+      "image_width": 1046,
+      "image_height": 343,
+      "text": ""
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109338",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1729983497,
+      "image_url": "https://chat.radio-t.com/logs/932/AgACAgEAAx0CUPxcWQABCLtFZx10CQ1RbgPyfQO8wjlutoac_5gAAuKtMRu95vFEfejv66rrn-QBAAMCAAN4AAM2BA",
+      "image_width": 646,
+      "image_height": 456,
+      "text": "на это вся надежда"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed3109339",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1729983546,
+      "text": "\u003ca href=\"https://youtube.com/@radio-t_asis?si=bAp10OPnbWm257Dt\"\u003ehttps://youtube.com/@radio-t_asis?si=bAp10OPnbWm257Dt\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eесть кто-то кто с прешоу и послешоу записывает"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310933a",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729983567,
+      "text": "Они еще и в разные дни у всех переводятся?\u003cbr/\u003eНенавижу таймзоны"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310933b",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1729983594,
+      "text": "Голосовать только лично и с фото id"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310933c",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1729983650,
+      "text": "О, а кто там отлетел?"
+    },
+    {
+      "id": "671dd4f7bc1efc6ed310933d",
+      "issue": 932,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1729983651,
+      "text": "нет, Америка традиционно на неделю позже переводит"
+    }
+  ]
+}
