@@ -1,0 +1,64 @@
+{
+  "issue": 935,
+  "date": "2024-11-16",
+  "audio": "https://cdn.radio-t.com/rt_podcast935.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt935.jpg",
+  "start_time": 1731788759,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "JetBrains AI в версии 2024.3 пошел в нужную сторону",
+      "links": [
+        "https://blog.jetbrains.com/ai/2024/11/jetbrains-ai-assistant-2024-3/"
+      ],
+      "time": "00:06:23"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Akka 3",
+      "links": [
+        "https://sdtimes.com/softwaredev/lightbend-releases-akka-3-renames-company-to-akka/"
+      ],
+      "time": "00:42:29"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Против абсурдных задач по программированию",
+      "links": [
+        "https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/"
+      ],
+      "time": "01:03:57"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Эксперименты с рекламой",
+      "links": [
+        "https://www.perplexity.ai/hub/blog/why-we-re-experimenting-with-advertising"
+      ],
+      "time": "01:30:19"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Go стукнуло 15 лет",
+      "links": [
+        "https://go.dev/blog/15years"
+      ],
+      "time": "01:45:10"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/11/12/prep-935/"
+      ],
+      "time": "01:50:51"
+    }
+  ],
+  "tags": null
+}
