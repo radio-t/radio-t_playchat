@@ -1,0 +1,72 @@
+{
+  "issue": 936,
+  "date": "2024-11-23",
+  "audio": "https://cdn.radio-t.com/rt_podcast936.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt936.jpg",
+  "start_time": 1732393043,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "10 лет Let’s Encrypt",
+      "links": [
+        "https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/"
+      ],
+      "time": "00:16:14"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GitHub Copilot Extensions",
+      "links": [
+        "https://github.com/features/copilot/extensions"
+      ],
+      "time": "00:34:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google разделят, Chrome продадут",
+      "links": [
+        "https://apnews.com/article/google-search-monopoly-penalty-justice-department-84e07fec51c5c59751d846118cb900a7"
+      ],
+      "time": "00:45:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Hyrum Law",
+      "links": [
+        "https://abenezer.org/blog/hyrum-law-in-golang"
+      ],
+      "time": "00:52:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "ChatGPT научился лишнему",
+      "links": [
+        "https://techcrunch.com/2024/11/14/chatgpt-can-now-read-some-of-your-macs-desktop-apps/"
+      ],
+      "time": "01:20:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как эстимэйты превратились в точные сроки",
+      "links": [
+        "https://domainanalysis.io/p/architecture-modernization-execution"
+      ],
+      "time": "01:22:26"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/11/19/prep-936/"
+      ],
+      "time": "01:52:46"
+    }
+  ],
+  "tags": null
+}
