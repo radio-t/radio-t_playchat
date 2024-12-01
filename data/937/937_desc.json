@@ -1,0 +1,64 @@
+{
+  "issue": 937,
+  "date": "2024-11-30",
+  "audio": "https://cdn.radio-t.com/rt_podcast937.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt937.jpg",
+  "start_time": 1732997957,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Два года ChatGPT",
+      "links": [
+        "https://openai.com/index/chatgpt/"
+      ],
+      "time": "00:07:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI ведущих уволили",
+      "links": [
+        "https://www.wired.com/story/the-ai-reporter-who-took-my-old-job-just-got-fired/"
+      ],
+      "time": "00:20:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Bluesky - самый быстро-растущий из второго эшелона",
+      "links": [
+        "https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads"
+      ],
+      "time": "00:36:48"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Model Context Protocol",
+      "links": [
+        "https://www.anthropic.com/news/model-context-protocol"
+      ],
+      "time": "01:23:15"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Еще один ушел из k8s",
+      "links": [
+        "https://blog.stackademic.com/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0?gi=3a6fbb0acfa6"
+      ],
+      "time": "01:34:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/11/26/prep-937/"
+      ],
+      "time": "02:00:50"
+    }
+  ],
+  "tags": null
+}
