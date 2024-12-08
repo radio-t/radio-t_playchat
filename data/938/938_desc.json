@@ -1,0 +1,64 @@
+{
+  "issue": 938,
+  "date": "2024-12-07",
+  "audio": "https://cdn.radio-t.com/rt_podcast938.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt938.jpg",
+  "start_time": 1733603381,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход ChatGPT Pro",
+      "links": [
+        "https://openai.com/index/introducing-chatgpt-pro/"
+      ],
+      "time": "00:12:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Проблема 70% для AI программирования",
+      "links": [
+        "https://addyo.substack.com/p/the-70-problem-hard-truths-about"
+      ],
+      "time": "00:28:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI делает вас хуже",
+      "links": [
+        "https://slopwatch.com/posts/bad-programmer/"
+      ],
+      "time": "00:54:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Слабые указатели в Go",
+      "links": [
+        "https://victoriametrics.com/blog/go-weak-pointer/index.html"
+      ],
+      "time": "01:38:30"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Ошибки новых менеджеров",
+      "links": [
+        "https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/"
+      ],
+      "time": "01:59:56"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 938",
+      "links": [
+        "https://radio-t.com/p/2024/12/03/prep-938/"
+      ],
+      "time": "02:25:37"
+    }
+  ],
+  "tags": null
+}
