@@ -1,0 +1,80 @@
+{
+  "issue": 940,
+  "date": "2024-12-21",
+  "audio": "https://cdn.radio-t.com/rt_podcast940.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt940.jpg",
+  "start_time": 1734812281,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Итоги 2024 от Cloudflare",
+      "links": [
+        "https://blog.cloudflare.com/radar-2024-year-in-review/"
+      ],
+      "time": "00:01:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Veo 2 and Imagen 3 внушают уважение",
+      "links": [
+        "https://blog.google/technology/google-labs/video-image-generation-update-december-2024/"
+      ],
+      "time": "00:24:18"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google AI научился трюкам О1",
+      "links": [
+        "https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/"
+      ],
+      "time": "00:34:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI представили o3 модели",
+      "links": [
+        "https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/"
+      ],
+      "time": "00:45:20"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Grok для всех, но не такой, как обещали",
+      "links": [
+        "https://x.ai/blog/grok-1212"
+      ],
+      "time": "00:51:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "mouseless для энтузиастов клавиатуры",
+      "links": [
+        "https://mouseless.click/"
+      ],
+      "time": "01:11:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Go опрос за 2024",
+      "links": [
+        "https://go.dev/blog/survey2024-h2-results"
+      ],
+      "time": "01:19:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/12/17/prep-940/"
+      ],
+      "time": "02:18:07"
+    }
+  ],
+  "tags": null
+}

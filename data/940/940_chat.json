@@ -1,0 +1,2026 @@
+{
+  "chat": [
+    {
+      "id": "6767a7f06d3e84455ea1a5d7",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bulat5",
+      "author_name": "Bulat",
+      "datetime": 1734811291,
+      "text": "Новая унца?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5d8",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734811303,
+      "text": "диверсия"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5d9",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1734811310,
+      "text": "Радио джаза фм"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5da",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734811320,
+      "text": "ой как громко бобук"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5db",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ambuu19",
+      "author_name": "Anna",
+      "datetime": 1734811326,
+      "text": "ASMR"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5dc",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734811337,
+      "text": "ага"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5dd",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1734811351,
+      "text": "Эх, а я уж обрадовался что будет атмосферный предновогодний"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5de",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734811372,
+      "text": "так до нг еще выпуск"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5df",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1734811406,
+      "text": "Хоть один выпуск помните с другой умцей?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e0",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1734811536,
+      "text": "Вот надо бы попросить нейронку в умцу колокольчики и бубенцы добавить для новогоднего выпуска"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e1",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "galashov",
+      "author_name": "Vladislav Galashov",
+      "datetime": 1734811615,
+      "text": "Кто победит в главном бою?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e2",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734811616,
+      "text": "Трудно предсказать, ведь всё зависит от подготовки, стратегии и везения участников. Но такой бой всегда интригует!"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e3",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734811618,
+      "text": "блин, тоже огурцами хрущу, будто мне сказали.."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e4",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ambuu19",
+      "author_name": "Anna",
+      "datetime": 1734811675,
+      "text": "где новороссия, где новоукраинский сыр..."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e5",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734811678,
+      "text": "блин, жалко про сыр этот не гуглится, хотел друзьям показать :D"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e6",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734811695,
+      "text": "народ хотел по новогоднему. ведущие выполнили желание."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e7",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734811699,
+      "text": "а, гуглится, я просто неправильно услышал"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e8",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1734811727,
+      "text": "wtf?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5e9",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734811727,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/ambuu19\"\u003e@ambuu19\u003c/a\u003e получает бан на 27дн 18ч (666 часов)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5ea",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1734811806,
+      "text": "мы слышим всех а Бобук никого?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5eb",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "natanmsk",
+      "author_name": "Антон Владимирович",
+      "datetime": 1734811815,
+      "text": "Дочку пора укладывать, мои уже на боку сопят"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5ec",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734812044,
+      "text": "Мне такое не приходило в голову. Но я обнаружил что каждая половинка хранит свою раскладку."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5ed",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734812135,
+      "text": "у Бобука хром как у одного сокурсника Вынь 95 была урезана до того, что вместо Проводника запускалась Дьябло. Это было всё для чего Вынь использовалась."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5ee",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734812214,
+      "text": "а можете попробовать? У меня Drop ALT и я этим часто пользуюсь."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5ef",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734812221,
+      "text": "Я вот понял, что мне надо либо больше стол, либо больше столов, так как не куда все клавиатуры ставить :)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f0",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734812281,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f1",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734812391,
+      "text": "⚠️ Cloudflare 2024 Year in Review - \u003ca href=\"https://blog.cloudflare.com/radar-2024-year-in-review/\"\u003ehttps://blog.cloudflare.com/radar-2024-year-in-review/\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f2",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734812393,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКонечно! Пожалуйста, дайте знать, когда вы будете готовы продолжить."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f3",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1734812509,
+      "text": "там апи для бизнесов только"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f4",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734812518,
+      "text": "Попробовал. Микрофон подключил, клавиатуру подключил - не работает."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f5",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "🎴",
+      "datetime": 1734812562,
+      "text": "как можно было пропустить вацап до появления/популяризации тг?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f6",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734812588,
+      "text": "легко"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f7",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1734812599,
+      "text": "там есть апи через веб-хуки"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f8",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734812627,
+      "text": "вайбером и xmpp :D"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5f9",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "🎴",
+      "datetime": 1734812678,
+      "text": "xmmpp вроде для людей так и не был никогда, вайбер умпутун и сбоку поди не видел)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5fa",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734812721,
+      "text": "значит многие из нас не люди :)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5fb",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ag",
+      "datetime": 1734812723,
+      "text": "Я Google hangouts до телеграма использовал"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5fc",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "InSafeWorld",
+      "author_name": "Udom Bunchu",
+      "datetime": 1734812744,
+      "text": "google talk"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5fd",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ag",
+      "datetime": 1734812747,
+      "text": "И ВК мессенджер"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5fe",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "malihin",
+      "author_name": "Alexey",
+      "datetime": 1734812757,
+      "text": "Надо делать массадж бас через телегу.."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a5ff",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1734812885,
+      "text": "\u003ca href=\"https://core.telegram.org/bots/api#paid-broadcasts\"\u003ehttps://core.telegram.org/bots/api#paid-broadcasts\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a600",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ag",
+      "datetime": 1734812910,
+      "text": "Talk был раньше\u003cbr/\u003eИ у него был большой плюс - он был доступен в qip\u003cbr/\u003eПоэтому на десктопе все мессенджеры были удобно сгруппированы в 1 приложении qip\u003cbr/\u003eЯ даже твиттер из qip читал. В то время лента более текстовой была, не так как сейчас: лента фоток и видео с вкраплениями текста"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a601",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734812938,
+      "text": "у него был большой плюс - он был доступен через xmpp ;)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a602",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ag",
+      "datetime": 1734812962,
+      "text": "Ну да"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a603",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "bakanych",
+      "author_name": "Alex",
+      "datetime": 1734813006,
+      "text": "Skype же"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a604",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734813021,
+      "text": "намерено. Я долго собирался. Только собрался его купил Фейсбук."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a605",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734813186,
+      "text": "да. скрипя зубами после того, как его купил Майкрософт.\u003cbr/\u003eОднако, я пользовался парк раз для звонков на телефоны в РФ лет 5 назад."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a606",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734813324,
+      "text": "При Бадене такого не было :))"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a607",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "bakanych",
+      "author_name": "Alex",
+      "datetime": 1734813324,
+      "text": "Буквально пару месяцев назад через скайп звонил в РФ.  А есть более адекватная альтернатива?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a608",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "malihin",
+      "author_name": "Alexey",
+      "datetime": 1734813463,
+      "text": "Эх, \u003ca href=\"https://foo.bar\"\u003efoo.bar\u003c/a\u003e занят("
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a609",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734813480,
+      "text": "мне было лень ждать мастера дойче телекома и я просто купил старлинк"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a60a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734813513,
+      "text": "--- \u003ca href=\"https://ya.ru\"\u003eya.ru\u003c/a\u003e ping statistics ---\u003cbr/\u003e5 packets transmitted, 5 packets received, 0.0% packet loss\u003cbr/\u003eround-trip min/avg/max/stddev = 66.665/74.257/84.645/7.648 ms"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a60b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734813531,
+      "text": "(\u003ca href=\"https://5.255.255.242\"\u003e5.255.255.242\u003c/a\u003e из Баварии)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a60c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734813570,
+      "text": "64 bytes from \u003ca href=\"https://8.8.8.8\"\u003e8.8.8.8\u003c/a\u003e: icmp_seq=0 ttl=115 time=47.400 ms\u003cbr/\u003e64 bytes from \u003ca href=\"https://8.8.8.8\"\u003e8.8.8.8\u003c/a\u003e: icmp_seq=1 ttl=115 time=33.328 ms\u003cbr/\u003e64 bytes from \u003ca href=\"https://8.8.8.8\"\u003e8.8.8.8\u003c/a\u003e: icmp_seq=2 ttl=115 time=24.680 ms"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a60d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "jskripnik",
+      "author_name": "Юрий",
+      "datetime": 1734813718,
+      "text": "про o3 будет?)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a60e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734813739,
+      "text": "⚠️ State-of-the-art video and image generation with Veo 2 and Imagen 3 - \u003ca href=\"https://blog.google/technology/google-labs/video-image-generation-update-december-2024/\"\u003ehttps://blog.google/technology/google-labs/video-image-generation-update-december-2024/\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a60f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734813742,
+      "text": "\u003cstrong\u003eUpdates to Veo, Imagen and VideoFX, plus introducing Whisk in Google Labs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eОбновления Veo, Imagen, VideoFX и запуск Whisk в Google Labs. Veo 2 производит более реалистичные видеовыходы с меньшим количеством \u0026#34;галлюцинаций\u0026#34;. Модель будет доступна через VideoFX и YouTube, а также получит идентификатор SynthID для уменьшения дезинформации.\u003cbr/\u003e\u003cbr/\u003e- Veo 2 реже создает нежелательные детали в видео.\u003cbr/\u003e- Обеспечением безопасности и качеством занимается Google.\u003cbr/\u003e- Доступность Veo 2 увеличивается постепенно.\u003cbr/\u003e- SynthID водяной знак помогает распознавать AI-контент.\u003cbr/\u003e- Veo 2 будет доступен через VideoFX и YouTube.\u003cbr/\u003e- Записаться в лист ожидания можно в Google Labs.\u003cbr/\u003e- Расширение возможностей Veo 2 запланировано на следующий год."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a610",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dbobylev",
+      "author_name": "Dmitry Bobylev",
+      "datetime": 1734813770,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e бродилка-стрелялка"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a611",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "malihin",
+      "author_name": "Alexey",
+      "datetime": 1734814148,
+      "text": "Теперь и видео-банки напряглись"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a612",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1734814301,
+      "text": "creepy"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a613",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734814321,
+      "text": "⚠️ Google releases its own \u0026#39;reasoning\u0026#39; AI model | TechCrunch - \u003ca href=\"https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/\"\u003ehttps://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a614",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1734814323,
+      "text": "они уже давно, с анонса соры"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a615",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734814325,
+      "text": "\u003cstrong\u003eGoogle releases its own \u0026#39;reasoning\u0026#39; AI model | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**\u003cbr/\u003e\u003cbr/\u003eGoogle презентовал свою новую \u0026#34;разумную\u0026#34; модель ИИ под названием Gemini 2.0 Flash Thinking Experimental, находящуюся на стадии эксперимента. Модель предназначена для многомодального понимания и решения сложных задач, но требует улучшений в своей работе.\u003cbr/\u003e\u003cbr/\u003e- Google представил модель Gemini 2.0 Flash Thinking Experimental для решения сложных задач в различных областях.\u003cbr/\u003e- Модель доступна в AI Studio и описывается как работающая лучше всего в понимании и кодировании.\u003cbr/\u003e- Gemini 2.0 анализирует вопросы и объясняет свои выводы, однако иногда допускает ошибки в простых задачах.\u003cbr/\u003e- Разработка модели была инициирована в ответ на конкуренцию со стороны таких компаний, как OpenAI и Alibaba.\u003cbr/\u003e- Обучение моделей требует значительных вычислительных ресурсов, что может привести к высоким затратам.\u003cbr/\u003e- Существуют сомнения в долговременной эффективности моделей рассуждений и их способности поддерживать прогресс.\u003cbr/\u003e- Google имеет более 200 исследователей, работающих над технологиями модели рассуждений."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a616",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "steve_kite",
+      "author_name": "Steve Korshakov",
+      "datetime": 1734814479,
+      "text": "flash это типа 8-16b параметров оч небольшая"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a617",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734814514,
+      "text": "вроде o1 это ризонинг, а не 4o?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a618",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1734814563,
+      "text": "нет, это другая"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a619",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "steve_kite",
+      "author_name": "Steve Korshakov",
+      "datetime": 1734814599,
+      "text": "ну я не про 8б, флеш такого же размера +- спекулируют что просто они не хотят шарить как они контекст так скейлят"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a61a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1734814664,
+      "text": "Я с одним openai учусь общаться, тем более сложно знать, где какие задачи лучше решаются"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a61b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1734814671,
+      "text": "не верю в в то что флеш меньше 40b"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a61c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "b87776",
+      "author_name": "Avonar",
+      "datetime": 1734814716,
+      "text": "второе видео лол"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a61d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alekanon",
+      "author_name": "Alex",
+      "datetime": 1734814878,
+      "text": "Cursor юзайте. С контекстом проблем не будет"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a61e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "malihin",
+      "author_name": "Alexey",
+      "datetime": 1734814914,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e у курсора есть Composer Agent - описываешь все свои привычки, стиль, библиотеки, любые инструкции, можно положить в репу для команды. (\u003ca href=\"https://medium.com/@ashinno43/cursor-v0-43-3-with-composer-agent-is-insane-d770dc5b61ea\"\u003ehttps://medium.com/@ashinno43/cursor-v0-43-3-with-composer-agent-is-insane-d770dc5b61ea\u003c/a\u003e)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a61f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734815001,
+      "text": "⚠️ OpenAI announces new o3 models | TechCrunch - \u003ca href=\"https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/\"\u003ehttps://techcrunch.com/2024/12/20/openai-announces-new-o3-model/\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a620",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734815006,
+      "text": "\u003cstrong\u003eOpenAI announces new o3 models | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eOpenAI представила o3, новый поколенческий модель рассуждения, которая якобы приближается к AGI. Модель включает вариацию o3-mini и обещает значительные улучшения в производительности. Ожидаются испытания безопасности и открытие доступа для исследователей.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Новая модель**: o3 и o3-mini предлагают более точные решения по сравнению с o1.\u003cbr/\u003e- **Проверка безопасности**: Начало тестирования о3 для выявления потенциальных рисков и попыток обмана.\u003cbr/\u003e- **Обработка информации**: o3 использует “делиберативное выравнивание” для улучшения безопасности и надежности моделей.\u003cbr/\u003e- **Время размышлений**: Модель может настраивать время на размышления, что улучшает результаты.\u003cbr/\u003e- **Достижения AGI**: Модель демонстрирует улучшение в оценке ARC-AGI, но существуют ограничения.\u003cbr/\u003e- **Тенденция рынка**: Конкуренты также выпускают модели рассуждений после успеха o1 и o3.\u003cbr/\u003e- **Уход ученого**: Уход главного автора предыдущих моделей указывает на изменения в OpenAI."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a621",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1734815164,
+      "text": "Там и по arc датасету вроде как новая sota"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a622",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734815346,
+      "text": "⚠️ Bringing Grok to Everyone - \u003ca href=\"https://x.ai/blog/grok-1212\"\u003ehttps://x.ai/blog/grok-1212\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a623",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734815356,
+      "text": "\u003cstrong\u003eBringing Grok to Everyone\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eGrok-2 улучшен с новыми функциями, включая веб-поиск и генератор изображений. Новый вариант модели Grok-2, в три раза быстрее и точнее, теперь доступен для всех пользователей на 𝕏.\u003cbr/\u003e\u003cbr/\u003e- Grok-2 был запущен в августе и регулярно обновляется.\u003cbr/\u003e- Добавлены новые функции: веб-поиск, цитаты и генератор изображений.\u003cbr/\u003e- Новый вариант Grok-2 предлагает улучшенные способности обработки.\u003cbr/\u003e- Модель теперь в три раза быстрее с лучшей точностью.\u003cbr/\u003e- Поддержка мультиязычности для широкого круга пользователей.\u003cbr/\u003e- Premium-пользователи имеют повышенные лимиты использования.\u003cbr/\u003e- Первые новшества будут доступныPremium и Premium+ пользователям."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a624",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734815793,
+      "text": "Бобук нормальна история всех вставило"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a625",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734815836,
+      "text": "Бобук, нормальная история, всех торкнуло!"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a626",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "malihin",
+      "author_name": "Alexey",
+      "datetime": 1734815953,
+      "text": "Я не смог ко всему в курсоре привыкнуть, до сих пор идею на фоне запускаю"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a627",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1734815962,
+      "text": "Жаль aider не на функциях работает"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a628",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alekanon",
+      "author_name": "Alex",
+      "datetime": 1734816076,
+      "text": "Cursor еще индексирует всю кодовую базу через RAG так что хорошо ориентируется"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a629",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Vasiliypetrov0",
+      "author_name": "arm",
+      "datetime": 1734816138,
+      "text": "Зачем нужен Ии с точки зрения эволюции?  Философский вопрос. Я придумал ответ.  Конечно это смело но запощу моё мнение тут."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a62a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isnifer",
+      "author_name": "Anton Kuznetsov",
+      "datetime": 1734816151,
+      "text": "А потом 0.43.6 снова стала топ"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a62b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1734816163,
+      "text": "В vscode мультифайловое редактирование появилось, осталисьагенты, запускающие команды в терминале, и будет примерно как в курсоре"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a62c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734816166,
+      "text": "психопатор, не понятно что от него сегодня ожидать"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a62d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alekanon",
+      "author_name": "Alex",
+      "datetime": 1734816215,
+      "text": "Umpitun, переходи на VSC. Я с Idea слез и не жалею. Сильно тормозная она"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a62e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1734816240,
+      "text": "У aider можно буквально любую настройку через конфиг задать, а нужно может 5 из них"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a62f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734816250,
+      "text": "у вас компьютер медленный"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a630",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1734816284,
+      "text": "У aider 5% рандом, что аналитика выпадет, при установке"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a631",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alekanon",
+      "author_name": "Alex",
+      "datetime": 1734816316,
+      "text": "Mac m1 pro. На том же VSC летает по ощущениям"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a632",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "malihin",
+      "author_name": "Alexey",
+      "datetime": 1734816363,
+      "text": "Что-то не так, она даже на i9 летает без намёка на затупы"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a633",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "steve_kite",
+      "author_name": "Steve Korshakov",
+      "datetime": 1734816457,
+      "text": "zed - это нано для богатых"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a634",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734816458,
+      "text": "запуск на большом проекте всегда медленно. Нужно ждать пока индексация закончится.\u003cbr/\u003eА так да и на i7 Вынь нормально."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a635",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734816600,
+      "text": "⚠️ mouseless - \u003ca href=\"https://mouseless.click/\"\u003ehttps://mouseless.click/\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a636",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734816606,
+      "text": "\u003cstrong\u003emouseless\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eMouseless — это концепция или программа, которая помогает пользователям использовать компьютер без мыши, полагаясь исключительно на клавиатуру для навигации и выполнения команд.\u003cbr/\u003e\u003cbr/\u003e- Улучшение скорости работы за счет клавиатурного управления.\u003cbr/\u003e- Уменьшение напряжения рук, вызванного использованием мыши.\u003cbr/\u003e- Повышение продуктивности, особенно для программистов и писателей.\u003cbr/\u003e- Возможность полной концентрации на задачах без отвлечений.\u003cbr/\u003e- Поощрение использования горячих клавиш и команд.\u003cbr/\u003e- Совместимость с большинством операционных систем.\u003cbr/\u003e- Обучение пользователей эффективным методам навигации."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a637",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734816630,
+      "text": "Закидывать мозгами 😱"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a638",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1734816720,
+      "image_url": "https://chat.radio-t.com/logs/940/AgACAgIAAx0CUPxcWQABCP3JZ2cz0EN0iFCpTd5n2nQY6hokvkkAAnfmMRtZh0FLkgR3fOTHzYcBAAMCAAN4AAM2BA",
+      "image_width": 740,
+      "image_height": 740,
+      "text": ""
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a639",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1734816748,
+      "text": "\u003ca href=\"https://shortcat.app\"\u003ehttps://shortcat.app\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a63a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734816846,
+      "text": "вспомнилось ещё это \u003ca href=\"https://github.com/nchudleigh/homerow\"\u003ehttps://github.com/nchudleigh/homerow\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a63b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734816931,
+      "text": "Как Umputun за две недели научился быстро в vim? Стрелками передвигался и delete / backspace использовал? Bobuk, разве так можно?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a63c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734817023,
+      "image_url": "https://chat.radio-t.com/logs/940/AgACAgIAAx0CUPxcWQABCPzLZ2aW4uE6QIRDntl76OAvBzoK9uwAAhHoMRtZhzlL3prhBDxsthQBAAMCAAN5AAM2BA",
+      "image_width": 960,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a63d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734817042,
+      "text": "Слева home home справа end end"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a63e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1734817055,
+      "text": "SA"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a63f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734817056,
+      "text": "⚠️ Go Developer Survey 2024 H2 Results - The Go Programming Language - \u003ca href=\"https://go.dev/blog/survey2024-h2-results\"\u003ehttps://go.dev/blog/survey2024-h2-results\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a640",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734817061,
+      "text": "\u003cstrong\u003eGo Developer Survey 2024 H2 Results - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Результаты опроса разработчиков Go 2024 H2\u003cbr/\u003e\u003cbr/\u003eОпрос разработчиков Go показывает положительные отзывы о языке, высокий уровень использования AI помощников и некоторые проблемы с поддержанием стандартов кодирования.\u003cbr/\u003e\u003cbr/\u003e- 93% респондентов довольны использованием Go за последний год, отмечая его простоту и набор инструментов.\u003cbr/\u003e- Наиболее популярными платформами для развертывания Go являются AWS (50%) и собственные серверы (37%).\u003cbr/\u003e- 70% участников используют AI помощников, чаще всего для автодополнения кода.\u003cbr/\u003e- Главной проблемой для команд является поддержание единых стандартов кодирования из-за различий в опыте разработчиков.\u003cbr/\u003e- Сравнение ожидаемых и фактических функций AI показывает пробелы в предложенных возможностях.\u003cbr/\u003e- Microsoft Azure показывала наименьшую удовлетворенность среди облачных провайдеров.\u003cbr/\u003e- Наиболее предпочитаемыми редакторами кода остаются VS Code и GoLand, с предпочтением VS Code у 38% респондентов."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a641",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734817063,
+      "text": "Что подошло, что и вставил :)))"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a642",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734817215,
+      "text": "это нездоровый подход. ;)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a643",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734817288,
+      "text": "а кавычки где? они чаще при напоре используются."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a644",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nico_nico_nico_nico",
+      "author_name": "Nico",
+      "datetime": 1734817383,
+      "text": "Еще более сложный вопрос: где православный shift?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a645",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kwasd",
+      "author_name": "time flies 🏴",
+      "datetime": 1734817559,
+      "text": "причём bash 2008 года ;)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a646",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1734818069,
+      "text": "разные версии питона еще могут быть"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a647",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734818074,
+      "text": "опа. то что Бобук сказал. У меня за годы сложилось впечатление, что Умпутун адепт ничего лишнего не устанавливать в систему."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a648",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1734818091,
+      "text": "или библиотеки типа openssl"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a649",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1734818150,
+      "text": "А что олучше\u003cbr/\u003e$ python -m venv .venv\u003cbr/\u003eили использовать pipenv\u003cbr/\u003e$ pipenv install …\u003cbr/\u003e?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a64a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pantafive",
+      "author_name": "Михаил",
+      "datetime": 1734818293,
+      "text": "\u003ca href=\"https://github.com/air-verse/air\"\u003ehttps://github.com/air-verse/air\u003c/a\u003e - 18К звезд. я пользуюсь."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a64b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pantafive",
+      "author_name": "Михаил",
+      "datetime": 1734818305,
+      "text": "а, я ж питонист в душе..."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a64c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isnifer",
+      "author_name": "Anton Kuznetsov",
+      "datetime": 1734818309,
+      "text": "уволен"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a64d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isnifer",
+      "author_name": "Anton Kuznetsov",
+      "datetime": 1734818331,
+      "image_url": "https://chat.radio-t.com/logs/940/AgACAgIAAx0CUPxcWQABCP3eZ2c6GxkxRD0zukwCcoSz3bmKrIIAApPmMRtZh0FLPnWR56kqcE0BAAMCAAN5AAM2BA",
+      "image_width": 1200,
+      "image_height": 1167,
+      "text": "air здорового человека"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a64e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pantafive",
+      "author_name": "Михаил",
+      "datetime": 1734818334,
+      "text": "ой, тут нужного эмоджи для тебя нет. но, думаю, ты догадался"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a64f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1734818420,
+      "text": "Чтобы работал принцип \u0026#39;minimal version satisfied\u0026#39; нужно bacward compatibility. А уому это нафиг нужно?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a650",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1734818447,
+      "text": "А вы разве не про это говорите? \u003ca href=\"https://pip.pypa.io/en/stable/topics/dependency-resolution/#backtracking\"\u003ehttps://pip.pypa.io/en/stable/topics/dependency-resolution/#backtracking\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a651",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1734818496,
+      "text": "Так что фиксируйте окружение до последнего байта и не вые..."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a652",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734818521,
+      "text": "На какой минуте Ксюша ворвалась? 😍"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a653",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1734818605,
+      "text": "все цветы хорошо в начале, лет через 5 должно происходить слияние"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a654",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734819176,
+      "text": "а где почитать о том, что невозможно жить в Го без энумов/инумов?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a655",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1734819236,
+      "text": "А вы не забыли выбрать новость?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a656",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734819271,
+      "text": "Shift’ы на месте. Просто что слева на кнопке написано ctrl. Но я уже заменил на что-то абстрактное. Так как мой мозг отказывался верить, что там не ctrl а shift. А кавычка на месте. Правда если её нажать и держать, то это ctrl :)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a657",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734819306,
+      "text": "Так же и на месте caps lock - это esc, но если держать, что ctrl"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a658",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1734819322,
+      "text": "Вобщем, нельзя верить тому, что написано"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a659",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1734819736,
+      "text": "\u0026#34;ошибка выжившего\u0026#34;"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a65a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1734819791,
+      "text": "выбирать неизчего пайсон, шарп, джава и го"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a65b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1734819878,
+      "text": "раст"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a65c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1734819911,
+      "text": "однопоточный"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a65d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "monaSax",
+      "author_name": "Mona Sax",
+      "datetime": 1734819939,
+      "text": "про пайтон по факту"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a65e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "GrayZone",
+      "datetime": 1734819952,
+      "text": "то есть только java остается?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a65f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1734819958,
+      "text": "Chapel 😊"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a660",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1734820057,
+      "text": "в пайсоне надо руками многопоточность"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a661",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "GrayZone",
+      "datetime": 1734820062,
+      "text": "spice must flow"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a662",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734820068,
+      "text": "Многопоточность а сверху суперпоток))))"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a663",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734820084,
+      "text": "как Пайк сказал - го готов для конкурентного исполнения.\u003cbr/\u003eпоток и процессоры нужно просто завезти."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a664",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isnifer",
+      "author_name": "Anton Kuznetsov",
+      "datetime": 1734820174,
+      "text": "Нода тоже многопоточная с worker_threads 🙂"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a665",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1734820186,
+      "text": "Пусть го и многопоточный.... но на кой черт каналы не являются враперами над реальными дескрипторами по крайней мере в  ситуациях, где они таковыми должны быть - я не понимаю..."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a666",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734820203,
+      "text": "именно поэтому для долго исполняющихся горутин рекомендуется запускать  ‘runtime.Gosched()’\u003cbr/\u003e\u003cbr/\u003eмоё понимание, я ещё учусь"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a667",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1734820258,
+      "text": "Erlang, Elixir"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a668",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isnifer",
+      "author_name": "Anton Kuznetsov",
+      "datetime": 1734820331,
+      "text": "Вот мы и перешли к классике \u0026#34;concurrency vs. parallelism\u0026#34;"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a669",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1734820357,
+      "text": "Какими дескрипторами? Каналы - ведь по сути очереди"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a66a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1734820377,
+      "text": "Там акторы, тоже строго говоря не потоки. Это verilog какой-нибудь иди типа того надо смотреть"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a66b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1734820385,
+      "text": "горутины тоже что такси в с#"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a66c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734820414,
+      "text": "зеленоглазое? 😉"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a66d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1734820449,
+      "text": "Разве горутины - это не зеленые потоки из эрланга (или файберы в windows)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a66e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alxchk",
+      "author_name": "alxchk",
+      "datetime": 1734820451,
+      "text": "на  питоне не нужно это делать, пушо всю полезную работу делают модули на С (вне гил) \u0026gt;_\u0026lt;"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a66f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1734820484,
+      "text": "В том же самом смысле файловые дескрипторы - тоже очереди"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a670",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1734820543,
+      "text": "кто кого троллит))"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a671",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1734820546,
+      "text": "Ну такое... спорить не буду, но согласиться не могу"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a672",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1734820555,
+      "text": "В питоне тоже ведь корутины есть."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a673",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1734820568,
+      "text": "А как в го поток запустить настоящий?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a674",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734820568,
+      "text": "⚠️ Темы слушателей 940 - \u003ca href=\"https://radio-t.com/p/2024/12/17/prep-940/\"\u003ehttps://radio-t.com/p/2024/12/17/prep-940/\u003c/a\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a675",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734820577,
+      "text": "[1/9] \u003cstrong\u003e+11\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003enew free tier for GitHub Copilot in VS Code\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/\"\u003ehttps://github.blog/news-insights/product-new...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAnnouncing 150M developers and a new free tier for GitHub Copilot in VS Code - The GitHub Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003eGitHub анонсировал запуск бесплатного доступа к GitHub Copilot и достиг 150 миллионов разработчиков. Пользователи VS Code могут использовать до 2000 автозаполнений кода и 50 сообщений чата в месяц, просто войдя в свою учетную запись GitHub.\u003cbr/\u003e\u003cbr/\u003e- Запущен GitHub Copilot Free для всех пользователей.\u003cbr/\u003e- Автоматическая интеграция с VS Code.\u003cbr/\u003e- Доступно 2000 автозаполнений кода и 50 сообщений в чате в месяц.\u003cbr/\u003e- Возможность выбирать между моделями Claude 3.5 и GPT-4o.\u003cbr/\u003e- Полная поддержка Copilot Chat с главной страницы GitHub.\u003cbr/\u003e- Безлимитный доступ к Copilot Pro для студентов и соавторов.\u003cbr/\u003e- GitHub отмечает 150 миллионов разработчиков на платформе."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a676",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734820577,
+      "text": "[2/9] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003enucleus-crystal\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСатья Наделла: Microsoft Зажгите 2024\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.theverge.com/2024/11/19/24300001/microsoft-ignite-2024-news-ai-announcements-copilot-windows-azure-office\"\u003ehttps://www.theverge.com/2024/11/19/24300001/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMicrosoft Ignite 2024: all the news from Microsoft’s IT pro event - The Verge\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**  \u003cbr/\u003eНа мероприятии Microsoft Ignite 2024 представили Windows Hotpatch, функцию, позволяющую загружать обновления без перезагрузки. Она работает в фоновом режиме и автоматически активируется после установки, что упрощает процесс обновлений для корпоративных клиентов.\u003cbr/\u003e\u003cbr/\u003e- Windows Hotpatch позволяет загружать обновления без необходимости перезагрузки.\u003cbr/\u003e- Обновления становятся активными сразу после установки, что повышает удобство.\u003cbr/\u003e- Функция работает в тандеме с Windows Autopatch для автоматизации обновлений.\u003cbr/\u003e- Windows Autopatch охватывает Windows, Microsoft 365, Edge и Teams.\u003cbr/\u003e- Currently, Windows Hotpatch доступен в предварительной версии для коммерческих клиентов.\u003cbr/\u003e- Обновления происходят в фоновом режиме, что минимизирует прерывания в работе.\u003cbr/\u003e- Microsoft продолжает поддерживать IT-специалистов с новыми функциями и улучшениями."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a677",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734820577,
+      "text": "[3/9] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eRoman Dryndik\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGrok теперь будет \u003c/em\u003e\u003ca href=\"https://x.ai/blog/grok-1212\"\u003eбесплатным\u003c/a\u003e\u003cem\u003e для всех пользователей \u003c/em\u003e\u003cem\u003eтвиттера X.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eBringing Grok to Everyone\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eGrok-2 улучшен с новыми функциями, включая веб-поиск и генератор изображений. Новый вариант модели Grok-2, в три раза быстрее и точнее, теперь доступен для всех пользователей на 𝕏.\u003cbr/\u003e\u003cbr/\u003e- Grok-2 был запущен в августе и регулярно обновляется.\u003cbr/\u003e- Добавлены новые функции: веб-поиск, цитаты и генератор изображений.\u003cbr/\u003e- Новый вариант Grok-2 предлагает улучшенные способности обработки.\u003cbr/\u003e- Модель теперь в три раза быстрее с лучшей точностью.\u003cbr/\u003e- Поддержка мультиязычности для широкого круга пользователей.\u003cbr/\u003e- Premium-пользователи имеют повышенные лимиты использования.\u003cbr/\u003e- Первые новшества будут доступныPremium и Premium+ пользователям."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a678",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734820577,
+      "text": "[4/9] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eBzzzz\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003efish переписали с C++ на Rust\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/fish-shell/fish-shell/pull/9512\"\u003ehttps://github.com/fish-shell/fish-shell/pull/9512\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eError: \u003cpre\u003ecan\u0026#39;t get content for https://github.com/fish-shell/fish-shell/pull/9512: can\u0026#39;t get summary for https://github.com/fish-shell/fish-shell/pull/9512: Get \u0026#34;https://ureadability.radio-t.com/api/content/v1/parser?token=undefined\u0026amp;url=https://github.com/fish-shell/fish-shell/pull/9512\u0026#34;: context deadline exceeded (Client.Timeout exceeded while awaiting headers)\u003c/pre\u003e"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a679",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1734820577,
+      "text": "[5/9] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eBzzzz\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://mitchellh.com/ghostty\"\u003eGhostty\u003c/a\u003e\u003cem\u003e (terminal emulator на zig, \u003c/em\u003e\u003ca href=\"https://www.youtube.com/watch?v=cPaGkEesw20\u0026amp;t=3015s\"\u003eworld fastest\u003c/a\u003e\u003cem\u003e) выйдет в паблик ориентировочно в неделю между рождеством (24) и новым годом.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGhostty 👻 – Mitchell Hashimoto\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e## Сводка\u003cbr/\u003eGhostty – это проект Mitchella Hashimoto, находящийся на стадии закрытого бета-тестирования с более чем 1,100 тестировщиками. Проект получит открытый доступ и станет открытым исходным кодом.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Ghostty находится в частном бета-тестировании.\u003cbr/\u003e- Более 1,100 бета-тестеров имеют доступ к исходному коду.\u003cbr/\u003e- Проект станет общедоступным в будущем.\u003cbr/\u003e- Ghostty вскоре станет открытым исходным кодом.\u003cbr/\u003e- Заинтересованные пользователи могут стать бета-тестерами.\u003cbr/\u003e- Присоединиться можно через Discord-сервер.\u003cbr/\u003e- Для участия требуется регистрация."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a67a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1734820624,
+      "text": "И они - главный кирпич асинхронного програмирования. Как то, что можно уложить в  epoll и слушать на чтегие и запись"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a67b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isnifer",
+      "author_name": "Anton Kuznetsov",
+      "datetime": 1734820643,
+      "text": "Тайсон ютуберу проиграл и сегодня проиграет"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a67c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Rinatlt",
+      "author_name": "Rinat Tarzumanov",
+      "datetime": 1734820749,
+      "text": "Както севодня Умпутуна слабо слышно.. А бобука громко и звонко :)"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a67d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "🎴",
+      "datetime": 1734820827,
+      "text": "не в вскоде ж вроде"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a67e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "🎴",
+      "datetime": 1734820843,
+      "text": "а в visual studio"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a67f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dark side",
+      "datetime": 1734820876,
+      "text": "забавно, что реально лимиты в 50 сообщений в чат не работают"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a680",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dark side",
+      "datetime": 1734820940,
+      "text": "в intellij поддерживается же, и бесплатная тоже работает"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a681",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dark side",
+      "datetime": 1734820952,
+      "text": "только там фичей сильно меньше и менее удобно работает"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a682",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1734820955,
+      "text": "customer feedback:\u003cbr/\u003eв начале и середине трансляции через телеграм периодически слышно трещание, но последние минут 40 вроде всё ок. через веб всё ок всегда"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a683",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1734820963,
+      "text": "Они раньше вроде бесплатно месяц делали. Как можно было не попробовать?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a684",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1734820990,
+      "text": "Где смотреть бокс?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a685",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734821025,
+      "text": "Не грогнутый))"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a686",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "monaSax",
+      "author_name": "Mona Sax",
+      "datetime": 1734821162,
+      "text": "про вентиляторный завод чтоли?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a687",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1734821182,
+      "text": "ВАМ ПОРА! И ВАМ ПОРА!"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a688",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nsvvch",
+      "author_name": "Nikolay S",
+      "datetime": 1734821193,
+      "text": "Зазнался"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a689",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1734821292,
+      "text": "search! oura ring 4"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a68a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1734821575,
+      "text": "Гавайская пицца - самая вкусная"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a68b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734821608,
+      "text": "Ксюша, жиза!"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a68c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isnifer",
+      "author_name": "Anton Kuznetsov",
+      "datetime": 1734821618,
+      "text": "Жена с трудом тормошит меня на прогулках с собакой в такие моменты"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a68d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1734821688,
+      "text": "Не дает мне работа именно погрузиться в задачу... Счастливая..."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a68e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "monaSax",
+      "author_name": "Mona Sax",
+      "datetime": 1734821789,
+      "text": "бутылку с виски"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a68f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734821804,
+      "text": "А это целый день?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a690",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1734821817,
+      "text": "а еще если и без копайлота"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a691",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734821869,
+      "text": "Мотоцикл похож на член"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a692",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734821875,
+      "text": "есть риск выйти из тела на совсем"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a693",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "🎴",
+      "datetime": 1734821882,
+      "text": "мотоТаня не маскулинная вроде была"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a694",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "🎴",
+      "datetime": 1734821938,
+      "text": "надо было этот промпт на прошлый эфир"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a695",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1734821953,
+      "text": "\u0026#34;Meditation is concentrating the front of the mind with a mundane task so the rest of the mind can find peace.\u0026#34; J.J. Connolly, Layer Cake."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a696",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734821958,
+      "text": "Поток тоже похож на член"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a697",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734822017,
+      "text": "Шутка юмора"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a698",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734822210,
+      "text": "шутка шуткой, а два ведущих сказали, что это продолжение тела."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a699",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734822226,
+      "text": "Я тоже заметил"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a69a",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1734822228,
+      "text": "нельзя угнать"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a69b",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734822236,
+      "text": "Ручка ручкой"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a69c",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "monaSax",
+      "author_name": "Mona Sax",
+      "datetime": 1734822252,
+      "text": "возможно сложнее обслуживать еще если 3%"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a69d",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734822383,
+      "text": "если теслу и брать то дизельную и на ручке"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a69e",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "monaSax",
+      "author_name": "Mona Sax",
+      "datetime": 1734822407,
+      "text": "в каги искал?"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a69f",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1734822521,
+      "text": "Чтобы нормальная интеграция в сафари была, нужно чтобы каждый из пользователей открыл тикет в Аппл, как это сделал я."
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a6a0",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1734822579,
+      "text": "всем спасибо за выпуск!"
+    },
+    {
+      "id": "6767a7f06d3e84455ea1a6a1",
+      "issue": 940,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pavelhaim",
+      "author_name": "Pavel",
+      "datetime": 1734822580,
+      "text": "Спасибо!"
+    }
+  ]
+}
