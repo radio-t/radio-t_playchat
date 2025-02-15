@@ -1,0 +1,56 @@
+{
+  "issue": 946,
+  "date": "2025-02-01",
+  "audio": "https://cdn.radio-t.com/rt_podcast946.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt946.jpg",
+  "start_time": 1738440000,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI o3-mini",
+      "links": [
+        "https://openai.com/index/openai-o3-mini/"
+      ],
+      "time": "00:39:55"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Разговоры вокруг DeepSeek",
+      "links": [
+        "https://semianalysis.com/2025/01/31/deepseek-debates/"
+      ],
+      "time": "01:02:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Эффективное использование AI для анализа кода и PR",
+      "links": [
+        "https://www.qodo.ai/blog/effective-code-suggestions-llms-less-is-more/"
+      ],
+      "time": "01:37:20"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Go 1.24 и его спорное улучшение зависимостей",
+      "links": [
+        "https://www.jvt.me/posts/2025/01/27/go-tools-124/"
+      ],
+      "time": "01:50:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/01/30/prep-946/"
+      ],
+      "time": "01:59:56"
+    }
+  ],
+  "tags": null
+}
