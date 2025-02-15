@@ -1,0 +1,48 @@
+{
+  "issue": 942,
+  "date": "2025-01-04",
+  "audio": "https://cdn.radio-t.com/rt_podcast942.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt942.jpg",
+  "start_time": 1736022078,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "iTerm подвел",
+      "links": [
+        "https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog"
+      ],
+      "time": "00:25:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "О программировании по ночам",
+      "links": [
+        "https://tej.as/blog/coding-nights-weekends-good-work-life-balance"
+      ],
+      "time": "01:22:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google проигрывает OpenAI в поиске",
+      "links": [
+        "https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook"
+      ],
+      "time": "01:38:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2024/12/31/prep-942/"
+      ],
+      "time": "02:00:44"
+    }
+  ],
+  "tags": null
+}
