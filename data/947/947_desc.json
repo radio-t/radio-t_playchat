@@ -1,0 +1,48 @@
+{
+  "issue": 947,
+  "date": "2025-02-08",
+  "audio": "https://cdn.radio-t.com/rt_podcast947.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt947.jpg",
+  "start_time": 1739046084,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Кризис в продвижении Rust в ядро",
+      "links": [
+        "https://www.opennet.me/opennews/art.shtml?num=62685"
+      ],
+      "time": "00:08:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Docker Bake завезли",
+      "links": [
+        "https://www.docker.com/blog/ga-launch-docker-bake/"
+      ],
+      "time": "00:37:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Изменение отношения к аксиомам в программистской области",
+      "links": [
+        "https://chriskiehl.com/article/thoughts-after-10-years"
+      ],
+      "time": "01:08:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/02/05/prep-947/"
+      ],
+      "time": "02:41:40"
+    }
+  ],
+  "tags": null
+}
