@@ -1,0 +1,72 @@
+{
+  "issue": 943,
+  "date": "2025-01-11",
+  "audio": "https://cdn.radio-t.com/rt_podcast943.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt943.jpg",
+  "start_time": 1736626612,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Ошибки, которые мы делаем в старом коде",
+      "links": [
+        "https://www.seangoedecke.com/large-established-codebases/"
+      ],
+      "time": "00:25:52"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выбрать Clojure и постичь истину",
+      "links": [
+        "https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/"
+      ],
+      "time": "00:50:40"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI устраивает атаки на бедные сайты",
+      "links": [
+        "https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/"
+      ],
+      "time": "01:04:23"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Попытка PR от Devin",
+      "links": [
+        "https://github.com/dagger/dagger/pull/9134"
+      ],
+      "time": "01:15:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Salesforce больше не будет нанимать программистов",
+      "links": [
+        "https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/"
+      ],
+      "time": "01:21:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Meta откатывает цензуру",
+      "links": [
+        "https://techcrunch.com/2025/01/07/meta-to-phase-back-in-political-content-on-facebook-instagram-and-threads/"
+      ],
+      "time": "01:36:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/01/07/prep-943/"
+      ],
+      "time": "01:54:32"
+    }
+  ],
+  "tags": null
+}
