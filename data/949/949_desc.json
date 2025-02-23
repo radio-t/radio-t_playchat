@@ -1,0 +1,80 @@
+{
+  "issue": 949,
+  "date": "2025-02-22",
+  "audio": "https://cdn.radio-t.com/rt_podcast949.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt949.jpg",
+  "start_time": 1740255799,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple iPhone 16e",
+      "links": [
+        "https://9to5mac.com/2025/02/19/apple-unveils-new-iphone-16e-heres-everything-you-need-to-know/"
+      ],
+      "time": "00:06:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Docker Hub стал совсем никаким",
+      "links": [
+        "https://docs.docker.com/docker-hub/usage/"
+      ],
+      "time": "00:27:22"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Программистский подход не всегда работает",
+      "links": [
+        "https://www.wired.com/story/elon-musk-doge-social-security-150-year-old-benefits/"
+      ],
+      "time": "00:34:15"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Go 1.24",
+      "links": [
+        "https://go.dev/blog/go1.24"
+      ],
+      "time": "00:48:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Еще один опыт использвоание LLM для задач с кодом",
+      "links": [
+        "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/"
+      ],
+      "time": "01:12:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Интервью в пост-AI эпоху",
+      "links": [
+        "https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/"
+      ],
+      "time": "01:40:52"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Вышел и хлопнул дверью",
+      "links": [
+        "https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/"
+      ],
+      "time": "01:56:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/02/18/prep-949/"
+      ],
+      "time": "02:12:11"
+    }
+  ],
+  "tags": null
+}
