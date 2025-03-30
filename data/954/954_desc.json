@@ -1,0 +1,64 @@
+{
+  "issue": 954,
+  "date": "2025-03-29",
+  "audio": "https://cdn.radio-t.com/rt_podcast954.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt954.jpg",
+  "start_time": 1743279454,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Gemini 2.5 очень неплох",
+      "links": [
+        "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/"
+      ],
+      "time": "00:08:19"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google переведет разработку Android в закрытый режим",
+      "links": [
+        "https://www.androidauthority.com/google-android-development-aosp-3538503/"
+      ],
+      "time": "00:24:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI 4o Image Generation",
+      "links": [
+        "https://openai.com/index/introducing-4o-image-generation/"
+      ],
+      "time": "00:43:26"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "golangci-lint стал на грабли питона",
+      "links": [
+        "https://ldez.github.io/blog/2025/03/23/golangci-lint-v2/"
+      ],
+      "time": "01:00:18"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как программисты используют AI в работе",
+      "links": [
+        "https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/"
+      ],
+      "time": "01:25:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/03/26/prep-954/"
+      ],
+      "time": "02:02:40"
+    }
+  ],
+  "tags": null
+}
