@@ -1,0 +1,72 @@
+{
+  "issue": 952,
+  "date": "2025-03-15",
+  "audio": "https://cdn.radio-t.com/rt_podcast952.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt952.jpg",
+  "start_time": 1742069831,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как они ускорили TypeScript в десять раз",
+      "links": [
+        "https://devblogs.microsoft.com/typescript/typescript-native-port/"
+      ],
+      "time": "00:28:52"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple уже не торт, от его фаната",
+      "links": [
+        "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino"
+      ],
+      "time": "00:46:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Manus наверное хорош, но никто его не видел",
+      "links": [
+        "https://www.technologyreview.com/2025/03/11/1113133/manus-ai-review/"
+      ],
+      "time": "01:05:21"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Zed с поддержкой Git",
+      "links": [
+        "https://zed.dev/git"
+      ],
+      "time": "01:30:27"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "DDoS на X - непонятно, но заметно",
+      "links": [
+        "https://www.wired.com/story/x-ddos-attack-march-2025/"
+      ],
+      "time": "01:42:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Борьба с AI в процессе интервью",
+      "links": [
+        "https://newsletter.pragmaticengineer.com/p/ai-fakers?utm_source=substack\u0026utm_medium=email"
+      ],
+      "time": "01:57:01"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/03/11/prep-952/"
+      ],
+      "time": "02:11:12"
+    }
+  ],
+  "tags": null
+}
