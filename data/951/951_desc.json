@@ -1,0 +1,80 @@
+{
+  "issue": 951,
+  "date": "2025-03-08",
+  "audio": "https://cdn.radio-t.com/rt_podcast951.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt951.jpg",
+  "start_time": 1741465103,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple переставили новые Mac Studio для богатых",
+      "links": [
+        "https://www.theverge.com/news/624193/apple-mac-studio-m4-max-m3-ultra-launch-price-specs-availability"
+      ],
+      "time": "00:09:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "MacBook Air 13 и 15 - оба хороши, особенно голубенький",
+      "links": [
+        "https://www.apple.com/macbook-air/"
+      ],
+      "time": "00:22:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GitHub Copilot code review - странно и бестолково",
+      "links": [
+        "https://docs-internal.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review"
+      ],
+      "time": "00:38:22"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GitHub Spark шаг в интересную сторону",
+      "links": [
+        "https://githubnext.com/projects/github-spark"
+      ],
+      "time": "01:08:27"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Mistral OCR решает реальную проблему",
+      "links": [
+        "https://mistral.ai/en/news/mistral-ocr"
+      ],
+      "time": "01:20:39"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Diffusion модели для первоклассников",
+      "links": [
+        "https://rnikhil.com/2025/03/06/diffusion-models-eval"
+      ],
+      "time": "01:32:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple уже не торт, в софте",
+      "links": [
+        "https://www.eliseomartelli.it/blog/2025-03-02-apple-quality"
+      ],
+      "time": "01:55:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/03/04/prep-951/"
+      ],
+      "time": "02:13:16"
+    }
+  ],
+  "tags": null
+}
