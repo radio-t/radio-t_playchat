@@ -1,0 +1,72 @@
+{
+  "issue": 956,
+  "date": "2025-04-12",
+  "audio": "https://cdn.radio-t.com/rt_podcast956.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt956.jpg",
+  "start_time": 1744489874,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "20 лет Git",
+      "links": [
+        "https://blog.gitbutler.com/20-years-of-git/"
+      ],
+      "time": "00:11:11"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Augment Agent",
+      "links": [
+        "https://www.augmentcode.com/blog/meet-augment-agent"
+      ],
+      "time": "00:47:33"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "В Zed тоже завезли агентов",
+      "links": [
+        "https://zed.dev/ai/agent?x=50"
+      ],
+      "time": "00:58:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Почему не нужны опытные джуниоры",
+      "links": [
+        "https://world.hey.com/dhh/why-we-won-t-hire-a-junior-with-five-years-of-experience-0a548994"
+      ],
+      "time": "01:26:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Firebase Studio",
+      "links": [
+        "https://firebase.studio"
+      ],
+      "time": "01:34:27"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI теперь заставляют использовать",
+      "links": [
+        "https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink"
+      ],
+      "time": "01:40:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/04/08/prep-956/"
+      ],
+      "time": "02:30:07"
+    }
+  ],
+  "tags": null
+}
