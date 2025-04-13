@@ -1,0 +1,72 @@
+{
+  "issue": 955,
+  "date": "2025-04-05",
+  "audio": "https://cdn.radio-t.com/rt_podcast955.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt955.jpg",
+  "start_time": 1743885463,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "JEP который сделает нам настоящий, честный final",
+      "links": [
+        "https://openjdk.org/jeps/8349536"
+      ],
+      "time": "00:07:40"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Празднуем 50 лет Microsoft",
+      "links": [
+        "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code"
+      ],
+      "time": "00:33:33"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI 2027",
+      "links": [
+        "https://ai-2027.com/"
+      ],
+      "time": "00:41:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Все эстимейты отстой, и как их надо делать",
+      "links": [
+        "https://newsletter.techworld-with-milan.com/p/all-estimations-are-wrong-but-none"
+      ],
+      "time": "01:10:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GitHub Copilot Pro+",
+      "links": [
+        "https://github.blog/changelog/2025-04-04-announcing-github-copilot-pro/"
+      ],
+      "time": "01:34:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Nintendo Switch 2",
+      "links": [
+        "https://www.theverge.com/nintendo/642420/nintendo-switch-2-hands-on-preview"
+      ],
+      "time": "01:50:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/04/03/prep-955/"
+      ],
+      "time": "02:11:08"
+    }
+  ],
+  "tags": null
+}
