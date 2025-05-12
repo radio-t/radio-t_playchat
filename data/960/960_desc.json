@@ -1,0 +1,56 @@
+{
+  "issue": 960,
+  "date": "2025-05-10",
+  "audio": "https://cdn.radio-t.com/rt_podcast960.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt960.jpg",
+  "start_time": 1746908053,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Проклятие знания как надо",
+      "links": [
+        "https://notashelf.dev/posts/curse-of-knowing"
+      ],
+      "time": "00:15:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Zed официально с агентским AI",
+      "links": [
+        "https://zed.dev/agentic"
+      ],
+      "time": "00:41:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI купит Windsurf за три инстаграма",
+      "links": [
+        "https://venturebeat.com/ai/openais-3b-windsurf-move-the-real-reason-behind-its-enterprise-ai-agent-code-push/"
+      ],
+      "time": "01:10:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Anthropic API добавили web поиск",
+      "links": [
+        "https://www.anthropic.com/news/web-search-api"
+      ],
+      "time": "01:50:55"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/05/06/prep-960/"
+      ],
+      "time": "01:59:15"
+    }
+  ],
+  "tags": null
+}
