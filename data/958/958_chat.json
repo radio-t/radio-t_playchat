@@ -1,0 +1,1867 @@
+{
+  "chat": [
+    {
+      "id": "6821dabe46dcc0c5cdbb094a",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1745697488,
+      "text": "наконецто"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb094b",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ㅤM ㅤV",
+      "datetime": 1745697500,
+      "text": "понял, спасибо. я решил спросить прежде чем изобретать велосипед. В intellij idea вроде есть плагин, но что-то нет желания работать с текстом в идее)"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb094c",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hleb_albau",
+      "author_name": "Hleb Albau",
+      "datetime": 1745697518,
+      "text": "Эль классиков или подкаст…."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb094d",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745697865,
+      "text": "Ping"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb094e",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745697865,
+      "text": "\u003cem\u003epong\u003c/em\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb094f",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1745697868,
+      "text": "Подкаст, конечно.\u003cbr/\u003eфутбол без звука"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0950",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rustam_giliaziev",
+      "author_name": "Rustam 🌊",
+      "datetime": 1745697895,
+      "text": "слышим"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0951",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GeologUA",
+      "author_name": "Люмпен",
+      "datetime": 1745697896,
+      "text": "Слышно"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0952",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kat_tek",
+      "author_name": "Kate",
+      "datetime": 1745697901,
+      "text": "Слышно"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0953",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1745697905,
+      "text": "слышно лучше чем обычно"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0954",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1745697908,
+      "text": "Бобука не слышно"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0955",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745697925,
+      "text": "Грея не перебиваем"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0956",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1745697969,
+      "text": "окей гугл как перебить грея"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0957",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1745698016,
+      "text": "У Грея звук лучше, чем у Умпутуна"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0958",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745698262,
+      "text": "можно просто Грею звук ухудшить"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0959",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1745698326,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/grayodesa\"\u003e@grayodesa\u003c/a\u003e, ДПИ и Сивохо - форева!"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb095a",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1745698369,
+      "text": "холодильник в наших сердцах"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb095b",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1745698402,
+      "text": "А я в прямом эфире ту игру смотрел"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb095c",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1745698414,
+      "text": "И я"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb095d",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1745698423,
+      "text": "ну и все пропали?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb095e",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1745698427,
+      "text": "Троекратное против и голоса пропали"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb095f",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1745698434,
+      "text": "хорошего помаленьку"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0960",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sblvkr",
+      "author_name": "Kirill Sobolev",
+      "datetime": 1745698442,
+      "text": "против... против..."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0961",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pribor86",
+      "author_name": "Aleksandr Grigorjev",
+      "datetime": 1745698452,
+      "text": "Отвалились🫣"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0962",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1745698456,
+      "text": "пока лучший выпуск за всё время"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0963",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1745698463,
+      "text": "Это меня уже забанили?\u003cbr/\u003eКакой-то новый вид бана.\u003cbr/\u003eУ меня звук подкаста пропал"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0964",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1745698501,
+      "text": "щас починят"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0965",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ㅤM ㅤV",
+      "datetime": 1745698515,
+      "text": "пока не забанили, но в будущем про звук, Иллинощину и Одессу лучше ничего не говорить)"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0966",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pribor86",
+      "author_name": "Aleksandr Grigorjev",
+      "datetime": 1745698517,
+      "text": "Унция осталась"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0967",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pribor86",
+      "author_name": "Aleksandr Grigorjev",
+      "datetime": 1745698539,
+      "text": "Появились"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0968",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Konstantin",
+      "datetime": 1745698540,
+      "text": "Трансляция пошла"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0969",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745698606,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb096a",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pribor86",
+      "author_name": "Aleksandr Grigorjev",
+      "datetime": 1745698932,
+      "text": "Может генератор?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb096b",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MustangDSG",
+      "author_name": "Dmitry Galashin",
+      "datetime": 1745699265,
+      "text": "Инструктор по триммингу 👀"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb096c",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745699283,
+      "text": "приходи в чат другого подкаста умпутуна там все уже перетерли 🙂"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb096d",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745699303,
+      "text": "бгг. из мотоцикла позвонили"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb096e",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pribor86",
+      "author_name": "Aleksandr Grigorjev",
+      "datetime": 1745699323,
+      "text": "Кидай ссылку"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb096f",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745699366,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/uwp_chat\"\u003e@uwp_chat\u003c/a\u003e хз правильно ли скопировал 🙂"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0970",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serhey_ka",
+      "author_name": "Sergey",
+      "datetime": 1745699650,
+      "text": "Как приложение называется?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0971",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1745699659,
+      "text": "Edits"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0972",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745699712,
+      "text": "\u003ca href=\"https://apps.apple.com/us/app/edits-an-instagram-app/id6738967378\"\u003eэто?\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0973",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1745699748,
+      "text": "Ксюща защищает свое дитя )"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0974",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "artemius",
+      "author_name": "ΛΡΤΞΜ▌",
+      "datetime": 1745699826,
+      "image_url": "https://chat.radio-t.com/logs/958/AgACAgIAAx0CUPxcWQABCYRoaA1D8v51xqNBIU-svmQzWOY30-EAAi70MRvOMXFI79FeZj8-sD4BAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 460,
+      "text": "А что с переносами?\u003cbr/\u003eь      ь      ь"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0975",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kotchuprik",
+      "author_name": "Constantine",
+      "datetime": 1745699838,
+      "text": "англ включи"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0976",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "artemius",
+      "author_name": "ΛΡΤΞΜ▌",
+      "datetime": 1745699848,
+      "text": "А если я не хочу?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0977",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kotchuprik",
+      "author_name": "Constantine",
+      "datetime": 1745699858,
+      "text": "то страдай"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0978",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alexander_Pavluchenko",
+      "author_name": "Alexander Pavluchenko",
+      "datetime": 1745699909,
+      "text": "+1 default language E"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0979",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1745699976,
+      "text": "Apple заставляет поддерживать авторизацию через них если добавлена авторизация через  третьи сервисы, А нет условия поддежривать share системный если хоть какая-нибудь share кнопка есть? :)"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb097a",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745699999,
+      "text": "а мовави есть на мобилках?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb097b",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alexander_Pavluchenko",
+      "author_name": "Alexander Pavluchenko",
+      "datetime": 1745700133,
+      "text": "\u003cstrong\u003eMovavi App?\u003c/strong\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb097c",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "artemius",
+      "author_name": "ΛΡΤΞΜ▌",
+      "datetime": 1745700171,
+      "image_url": "https://chat.radio-t.com/logs/958/AgACAgIAAx0CUPxcWQABCYRwaA1FSwsH06rG12SnUfmT5IeOM_IAAjz0MRvOMXFI8ZpYygdVZ1MBAAMCAAN5AAM2BA",
+      "image_width": 1187,
+      "image_height": 536,
+      "text": "Вот тут еще что-то пошло не так"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb097d",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1745700203,
+      "text": "Ксюша пропала"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb097e",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745700226,
+      "text": "не знаю app или еще что, там полно смежных приложений. именно редактор, на айпад вроде есть, а на айфон есть ли непонятно"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb097f",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1745700226,
+      "text": "Ксюша мы с тобой,  держись"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0980",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745700306,
+      "text": "Что за прога для Инстаграма?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0981",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1745700313,
+      "text": "мета продвигает свои ресурсы, не понимаю почему Ксюша это отрицает. Это совершенно нормально. Да можно из камеры по шарить, но это похоже на дарк паттерн"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0982",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alexander_Pavluchenko",
+      "author_name": "Alexander Pavluchenko",
+      "datetime": 1745700343,
+      "text": "сорян. не понимаю вопроса. что мешает поискать то что надо?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0983",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1745700370,
+      "text": "За бесплатно, хотите ещё и удобства sharingа?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0984",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745700372,
+      "text": "Ну, именно! Просчитывают, как пользователей привлечь. Но бесплатный сыр, сами знаете... А Ксюше просто нравится обсуждать это. Инсту тоже не статично держат, постоянно что-то новенькое."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0985",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745700374,
+      "text": "айфона нет) а показываются вроде только доступные для устройства"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0986",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1745700454,
+      "text": "В Edits можно без Instagram аккаунта зайти?.."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0987",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745700475,
+      "text": "Голых мужиков не банят?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0988",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1745700495,
+      "text": "ну нет конечно"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0989",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1745700503,
+      "text": "банят, но не за это..."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb098a",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ㅤM ㅤV",
+      "datetime": 1745700527,
+      "text": "Вот именно, почему такая несправедливость - мужчины могут оголять торс, а женщины - нет?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb098b",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1745700544,
+      "text": "Отвратительно! Конечно забанить"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb098c",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745700582,
+      "text": "Это не эвристика. Это стереотипы и сегрегация."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb098d",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1745700682,
+      "text": "Кто нибудь обслуживал кальпоскоп? Нельзя смотерть на содержимое. Отвратительно!"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb098e",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745700688,
+      "text": "мальчик, девочка, какая разница)"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb098f",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1745700823,
+      "text": "На самом деле в итоге торс будет забанен. А если одетый, и новый пользователь с первым комментарием, то все отправится в LLM, которая скажет, что это спам. Если комментарий совершенно ни про что."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0990",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745700873,
+      "text": "Извращение какое-то черипикинг."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0991",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1745701331,
+      "text": "\u003ca href=\"https://github.com/magnitudedev/magnitude\"\u003ehttps://github.com/magnitudedev/magnitude\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0992",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745701355,
+      "text": "⚠️ magnitudedev/magnitude: Open source, AI-native testing framework for web apps - \u003ca href=\"https://github.com/magnitudedev/magnitude\"\u003ehttps://github.com/magnitudedev/magnitude\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0993",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745701360,
+      "text": "\u003cstrong\u003eGitHub - magnitudedev/magnitude: Open source, AI-native testing framework for web apps\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eMagnitude - это открытая платформа для тестирования веб-приложений с использованием ИИ, обеспечивающая высокую степень автоматизации и интеграции с современными технологиями разработки.\u003cbr/\u003e\u003cbr/\u003e- **Открытый исходный код**: Magnitude доступен для использования и модификации, что способствует сообществу разработчиков.\u003cbr/\u003e- **Искусственный интеллект**: Использует ИИ для улучшения процессов тестирования веб-приложений.\u003cbr/\u003e- **Современные технологии**: Интеграция с передовыми инструментами разработки и управления проектами.\u003cbr/\u003e- **Поддержка сообщества**: Активное сообщество в Discord для обмена опытом и помощи.\u003cbr/\u003e- **Документация**: Обширная документация, доступная для быстрого старта и освоения фреймворка.\u003cbr/\u003e- **Легкость в использовании**: Упрощает процесс написания и выполнения тестов для разработчиков.\u003cbr/\u003e- **Актуальность**: Поддержка последних обновлений и технологий в сфере веб-разработки."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0994",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745701432,
+      "text": "Будь здоров!"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0995",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1745701531,
+      "text": "ушли в вайбкодинг"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0996",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745701620,
+      "text": "ИИ зря тратят электричество."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0997",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745701783,
+      "text": "⚠️ shrtdb :: Synology Expands Drive Restrictions to Plus Models - \u003ca href=\"http://shrtdb.com/6b972128-c5cf-43cf-ae81-107156f0c3a6\"\u003ehttp://shrtdb.com/6b972128-c5cf-43cf-ae81-107156f0c3a6\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0998",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745701786,
+      "text": "\u003cstrong\u003eshrtdb :: Synology Expands Drive Restrictions to Plus Models\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eSynology расширяет ограничения на использование своих дисков, включая модельный ряд Plus. С 2025 года пользователи должны использовать только сертифицированные диски Synology для оптимальной работы, что может увеличить затраты и ограничить функции с несовместимыми дисками.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Со 2025 года Plus-модели должны использовать сертифицированные диски Synology.\u003cbr/\u003e- Ранее ограничения касались только корпоративных моделей.\u003cbr/\u003e- Использование неподдерживаемых дисков может привести к предупреждениям.\u003cbr/\u003e- Некоторые функции, такие как автоматические обновления прошивки, откажутся работать с третьими сторонами.\u003cbr/\u003e- Переход на новые системы с несовместимыми дисками возможен без штрафов.\u003cbr/\u003e- Более старые модели Plus не подвержены изменениям.\u003cbr/\u003e- Принятие этой стратегии пользователями будет отслеживаться в течение года."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0999",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745701861,
+      "text": "там вроде как фичи по типу времени жизни диска. 🙂"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb099a",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745701884,
+      "text": "но я с бобуком тут - с большой вероятностью накатят еще ограничения"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb099b",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745701955,
+      "text": "вендор лок просто. и без альтернатив"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb099c",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1745702189,
+      "text": "А чего не публичные облака? Гугл, эппл?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb099d",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745702244,
+      "text": "эм. облака тоже имеют место быть, но я не хочу свое чтото заливать на внешку"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb099e",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "more_then_proud",
+      "author_name": "✙ Кряк Лапчатый ✙",
+      "datetime": 1745702283,
+      "text": "А проект Хренолоджи ещё развивается?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb099f",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745702284,
+      "text": "Для порно"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a0",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1745702287,
+      "text": "ну давайте самый базовый кейс NAS: бэкапы своей машины и plex для семьи, \u003cem\u003eхотя бы\u003c/em\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a1",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745702335,
+      "text": "🙂 4 по 20. буржуй 🙂"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a2",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745702401,
+      "text": "80тб под node_modules"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a3",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745702428,
+      "text": "Можно ещё от raid отказаться."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a4",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745702465,
+      "text": "я просто цену когда 12 смотрел уже подумал что жирно для дома… но 20 еще больше"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a5",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1745702466,
+      "text": "плюс исходники видео"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a6",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745702530,
+      "text": "ну на андроиде у них тоже не очень."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a7",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1745702618,
+      "text": "это тот чулан в который ты складируешь старые лыжи и никогда их не выбрасываешь 😊"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a8",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1745702762,
+      "text": "у мужчин нет чувств - них мышцы (с) Г. Симпсон"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09a9",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745702774,
+      "text": "Ксюша конечно переобулись. Сначала спрашивает зачем это надо. А потом сама топит за саморефлексию."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09aa",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "magic314",
+      "author_name": "Magic",
+      "datetime": 1745702849,
+      "text": "все так. а еще я в какой-то момент понял что место стоит сильно дешевле чем тратить время на разобрать что оставить, а что удалить. главное научится пользоваться этим чуланом"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ab",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1745702956,
+      "text": "главное научиться его расширять когда у тебя SHR на нем RAID1, потому что не вмещается\u003cbr/\u003e\u003cbr/\u003eпользоваться это уже опция 🙂"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ac",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745703052,
+      "text": "В блокчейн положить спеки."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ad",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "magic314",
+      "author_name": "Magic",
+      "datetime": 1745703068,
+      "text": "ну я как-то начал с shr и так и живу. там все конечно сильно проще чем с зеркалированием. и понятно почему, но добавление дисков это конечно тоже прямо на неделю история"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ae",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Barcelona How",
+      "datetime": 1745703073,
+      "text": "А тут вещания нет?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09af",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1745703075,
+      "text": "Мне кажется obsidian на такой формат идиально ложится \u003cbr/\u003eВ отличии от any type("
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b0",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1745703114,
+      "text": "Для поиска есть тулы вроде Stork, которые умеют по файликам сгенерить полнотекстовый поиск, который в страничку можно запихнуть."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b1",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1745703134,
+      "text": "с shr были вот опасения по поводу текущего сабжа, что съехать с синолоджи не получится, поэтому выбирался сначала raid"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b2",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1745703172,
+      "text": "XPEnology"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b3",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1745703184,
+      "text": "Note station не развивают вообще."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b4",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1745703189,
+      "text": "не, вот тут попробуйте \u003ca href=\"https://github.com/vdsm/virtual-dsm\"\u003ehttps://github.com/vdsm/virtual-dsm\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b5",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745703301,
+      "text": "Ага ИИ там за бобука пол кода написал это без ИИ."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b6",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "more_then_proud",
+      "author_name": "✙ Кряк Лапчатый ✙",
+      "datetime": 1745703332,
+      "text": "Персональный раб чтоль?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b7",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745703335,
+      "text": "оО. пошла фантазия домохозяек. там вон робот пылесос сяоми носки собирает ужо"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b8",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1745703415,
+      "text": "нанять работника за те же деньги?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09b9",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745703451,
+      "text": "Робота купил один раз. А работник почасовой."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ba",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745703505,
+      "text": "робот сломался, покупай новый. домработник умер, нанял нового"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09bb",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1745703506,
+      "text": "У робота тоже есть амортизация и затраты на расходники/электричество, считать нужно всё равно."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09bc",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1745703507,
+      "text": "а работы всё на материнский корабль будут докладывать"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09bd",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745703538,
+      "text": "чирфул… пока не восстали 🙂"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09be",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1745703544,
+      "text": "ну машины или телефоны же не раз в жизни покупаем"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09bf",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745703576,
+      "text": "А почасового работника к ещё есть инфляция."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c0",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745703579,
+      "text": "мда. есть такая хрень называется - насрать 🙂"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c1",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1745703586,
+      "text": "Я просто не поняла, что для Бобика это саморефлексия) просто для саморефлексии не обязательно такие объемы"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c2",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1745703622,
+      "text": "Бобика?)"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c3",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1745703625,
+      "text": "Бобика :)))"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c4",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1745703674,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e  он изза того что если он упадет или еще чего произойдет, чтобы не отвечать за это. потому он сам и он застрахован"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c5",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1745703678,
+      "text": "Ну все)\u003cbr/\u003eПопробуй теперь это развидеть"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c6",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1745703729,
+      "text": "Ksenia \u003ca href=\"https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/\"\u003ehttps://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c7",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1745703792,
+      "text": "\u003ca href=\"https://x.com/DaveShapi/status/1916188978727784847\"\u003ehttps://x.com/DaveShapi/status/1916188978727784847\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c8",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745703863,
+      "text": "⚠️ Gemini Robotics brings AI into the physical world - Google DeepMind - \u003ca href=\"https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/\"\u003ehttps://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09c9",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745703869,
+      "text": "\u003cstrong\u003eGemini Robotics brings AI into the physical world - Google DeepMind\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eGemini Robotics от Google DeepMind представляет свою новую модель для робототехники, содействуя достижениям в области искусственного интеллекта. Новые модели Gemini Robotics и Gemini Robotics-ER обеспечивают более широкие возможности взаимодействия с физическим окружением, обеспечивая интерктивность, универсальность и точность.\u003cbr/\u003e\u003cbr/\u003e- **Gemini Robotics** - новая модель, интегрирующая физические действия в робототехнику, основанная на Gemini 2.0.\u003cbr/\u003e- **Интерактивность** - модели обладают улучшенными языковыми навыками, позволяя роботам эффективно понимать команды.\u003cbr/\u003e- **Универсальность** - Gemini Robotics справляется с новыми задачами и объектами, демонстрируя выдающиеся результаты в обобщении.\u003cbr/\u003e- **Маневренность** - модель выполняет сложные задачи с высокой точностью, включая точные манипуляции.\u003cbr/\u003e- **Адаптивность** - Gemini Robotics может быть настроена для различных типов роботов, включая гуманоидов.\u003cbr/\u003e- **Безопасность** - разработаны меры безопасности для предотвращения несчастных случаев в взаимодействии с людьми.\u003cbr/\u003e- **Ответственное развитие** - сотрудничество с экспертами для обеспечения этических границ в разработке ИИ и робототехники."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ca",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1745704107,
+      "text": "\u003ca href=\"https://www.figure.ai/\"\u003ehttps://www.figure.ai/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09cb",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1745704139,
+      "text": "Пусть достигают)\u003cbr/\u003eПотребять будет некому так как многие превратятся в безработных"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09cc",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745704212,
+      "text": "Про электроовец то он хоть мечтает?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09cd",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745704213,
+      "text": "Ну, мечты – это хорошо! Но пока до реальности ещё далеко. Пора подумать о том, как адаптироваться к новым условиям. Что думаешь, есть идеи?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ce",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1745704320,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e так может потому что строят так как себе представляют модели. Так и с обработкой данных во сне. Нам это кажется типа естественным мы и роботов так проектируем :) Фантасты представляют будущее и потом все остальные воплощают эти образы."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09cf",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745704346,
+      "text": "Роботесса"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d0",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1745704355,
+      "text": "Они."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d1",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745704374,
+      "text": "ai! Женский род от слова робот."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d2",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745704375,
+      "text": "А, поняла! Забавно, значит, у нас есть роботесса! Надо будет использовать это в разговоре. Получается, они тоже могут быть такими же креативными и умными, как и мужчины?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d3",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1745704500,
+      "text": "\u003ca href=\"https://www.riders-share.com/listing/z8g3BeDfjyyfGvnwq\"\u003ehttps://www.riders-share.com/listing/z8g3BeDfjyyfGvnwq\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d4",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1745704528,
+      "image_url": "https://chat.radio-t.com/logs/958/AgACAgEAAx0CUPxcWQABCYTLaA1WUGAwdl5jQo29mDdSIw9hP2sAAsitMRsa32lEa_726aY-iY4BAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 1228,
+      "text": ""
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d5",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1745704545,
+      "image_url": "https://chat.radio-t.com/logs/958/AgACAgIAAx0CUPxcWQABCYTMaA1WYYjFa0sK2Hrfxke9qnYCvUcAApb0MRvOMXFIKrd9VheFOA8BAAMCAAN5AAM2BA",
+      "image_width": 1070,
+      "image_height": 330,
+      "text": "все пошли рисовать роботесс в chatgpt?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d6",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745704548,
+      "text": "Эстония не забанена"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d7",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "InSafeWorld",
+      "author_name": "Udom Bunchu",
+      "datetime": 1745704569,
+      "text": "Франция есть коннект"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d8",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1745704598,
+      "text": "Подозрительно, что из Беларуси открывается, обычно всё побанено 🤷‍♂️"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09d9",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745704667,
+      "text": "⚠️ Meta rolls out live translations to all Ray-Ban smart glasses users - \u003ca href=\"https://www.theverge.com/news/654387/meta-smart-glasses-ray-ban-live-translation-ai\"\u003ehttps://www.theverge.com/news/654387/meta-smart-glasses-ray-ban-live-translation-ai\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09da",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745704672,
+      "text": "\u003cstrong\u003eMeta rolls out live translations to all Ray-Ban smart glasses users | The Verge\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eMeta расширила доступ к популярным функциям умных очков Ray-Ban, включая живой перевод, отправку сообщений и звонки через Instagram. Функции теперь доступны в большем количестве стран с улучшенными возможностями для пользователей.\u003cbr/\u003e\u003cbr/\u003e- Meta анонсировала новые комбинации цветных линз для умных очков Ray-Ban.\u003cbr/\u003e- Живой перевод доступен на английском, французском, итальянском и испанском языках.\u003cbr/\u003e- Можно использовать живой перевод без Wi-Fi с загруженным языковым пакетом.\u003cbr/\u003e- Доступ к музыкальным приложениям, таким как Spotify, расширяется за пределами США и Канады.\u003cbr/\u003e- Meta AI будет доступен в странах ЕС на следующей неделе.\u003cbr/\u003e- Умные очки Ray-Ban планируют выпустить в Мексике, Индии и ОАЭ.\u003cbr/\u003e- Функции, такие как AI и обмен сообщениями в Instagram, скоро будут доступны в США и Канаде."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09db",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745704973,
+      "text": "а с диоптриями линзы можно будет?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09dc",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zakerik",
+      "author_name": "Zakerik",
+      "datetime": 1745705153,
+      "text": "ядерные батарейки нужны\u003cbr/\u003e\u003ca href=\"https://www.tomshardware.com/pc-components/power-supplies/chinese-developed-nuclear-battery-has-a-50-year-lifespan\"\u003ehttps://www.tomshardware.com/pc-components/power-supplies/chinese-developed-nuclear-battery-has-a-50-year-lifespan\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09dd",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745705157,
+      "text": "Проверять что телефон в кармане очень легко."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09de",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "InSafeWorld",
+      "author_name": "Udom Bunchu",
+      "datetime": 1745705304,
+      "text": "\u003ca href=\"https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/\"\u003ehttps://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09df",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1745705532,
+      "text": "Очень дорогая подставка под напиток."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e0",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1745705545,
+      "text": "А не Умпутун в прошлом отгонял всех с едой и крушками от своего ноутпука???"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e1",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745705619,
+      "text": "⚠️ ChatGPT head tells court OpenAI is interested in buying Chrome - \u003ca href=\"https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/\"\u003ehttps://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e2",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745705624,
+      "text": "\u003cstrong\u003eOpenAI wants to buy Chrome and make it an “AI-first” experience - Ars Technica\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eOpenAI is expressing interest in acquiring Chrome to enhance its AI offerings amidst Google\u0026#39;s antitrust trial. The Department of Justice is proposing severe penalties, including the potential sale of Chrome, to counteract Google\u0026#39;s monopolistic practices.\u003cbr/\u003e\u003cbr/\u003e- OpenAI aims to create an “AI-first” experience with Chrome.\u003cbr/\u003e- The DOJ\u0026#39;s trial explores significant penalties against Google.\u003cbr/\u003e- Selling Chrome could level the competitive landscape online.\u003cbr/\u003e- OpenAI believes access to Google\u0026#39;s search index would improve its products.\u003cbr/\u003e- The partnership between OpenAI and Microsoft is not sufficient for desired data.\u003cbr/\u003e- Judge Amit Mehta is skeptical about divesting Chrome.\u003cbr/\u003e- The identity of potential buyers for Chrome remains unclear.\u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003eOpenAI выражает интерес в приобретении Chrome для улучшения своих AI предложений на фоне антимонопольного суда против Google. Министерство юстиции предлагает жесткие меры, включая потенциальную продажу Chrome, для противодействия монополистическим практикам Google.\u003cbr/\u003e\u003cbr/\u003e- OpenAI стремится создать «AI-превалирующий» опыт с Chrome.\u003cbr/\u003e- Судебный процесс Министерства юстиции исследует серьезные наказания против Google.\u003cbr/\u003e- Продажа Chrome может выровнять конкурентную среду в сети.\u003cbr/\u003e- OpenAI считает, что доступ к поисковым индексам Google улучшит их продукты.\u003cbr/\u003e- Партнёрство между OpenAI и Microsoft недостаточно для желаемых данных.\u003cbr/\u003e- Судья Амит Мехта скептически относится к продаже Chrome.\u003cbr/\u003e- Личность потенциальных покупателей для Chrome остается неясной."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e3",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745705675,
+      "text": "Трамп купит Хром."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e4",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1745705728,
+      "text": "Где тут продают хром?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e5",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1745705750,
+      "text": "антимопольный коммитет заставляет."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e6",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeyperekrestov",
+      "author_name": "Sergei Perekrestov",
+      "datetime": 1745705760,
+      "text": "Маск"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e7",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1745705784,
+      "text": "А Apple не монополисты?\u003cbr/\u003eТогда и Safari надо продать?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e8",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745705797,
+      "text": "а гугл после продажи гугл-хрома можешь форкнуть хромиум?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09e9",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "issue666",
+      "author_name": "Константин 🪬",
+      "datetime": 1745705808,
+      "text": "imessages"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ea",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "theurs",
+      "author_name": "theurs",
+      "datetime": 1745705829,
+      "text": "Продать хром, сделать новый браузер, который генерирует контент сам."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09eb",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "issue666",
+      "author_name": "Константин 🪬",
+      "datetime": 1745705861,
+      "text": "броузер gpt это новый шаг"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ec",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745706086,
+      "text": "Почему тогда гугл не смог сделать нормальный ИИ имея хром?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ed",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1745706179,
+      "text": "бабло течёт рекой от рекламы, можно вообще ничего не делать."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ee",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeyperekrestov",
+      "author_name": "Sergei Perekrestov",
+      "datetime": 1745706188,
+      "text": "Мне кажется что поиск чата GPT уже и так достаточно хороший в своем сегодняшнем сосотоянии"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ef",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745706473,
+      "text": "At\u0026amp;t разделили насильно. Все плохо кончилось. Для неё."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f0",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vlamic",
+      "author_name": "Vlad",
+      "datetime": 1745706589,
+      "text": "Роботка 😁"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f1",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1745706729,
+      "text": "\u003ca href=\"https://www.perplexity.ai/comet\"\u003ehttps://www.perplexity.ai/comet\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f2",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745706812,
+      "text": "⚠️ Getting Forked by Microsoft - \u003ca href=\"https://philiplaine.com/posts/getting-forked-by-microsoft/\"\u003ehttps://philiplaine.com/posts/getting-forked-by-microsoft/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f3",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745706818,
+      "text": "\u003cstrong\u003eGetting Forked by Microsoft • Philip Laine\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание:\u003cbr/\u003eФилип Лэйн делится опытом разработки проекта Spegel и трудностями, с которыми он столкнулся, когда Microsoft создала форк его проекта под названием Peerd, вызывая путаницу среди пользователей и ставя под сомнение его ценность.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты:\u003cbr/\u003e- **Разработка Spegel**: Филип Лэйн создал Spegel для решения проблем масштабируемости в Kubernetes, избегая традиционных подходов.\u003cbr/\u003e- **Сотрудничество с Microsoft**: Он надеялся на сотрудничество, когда Microsoft заинтересовалась его проектом.\u003cbr/\u003e- **Копирование кода**: Microsoft использовала его идеи и код без должных упоминаний в своем форке Peerd.\u003cbr/\u003e- **Проблемы путаницы**: Пользователи путают Spegel и Peerd, что создает трудности для Филипа.\u003cbr/\u003e- **Недоверие и уязвимость**: Лэйн чувствует себя неуверенно в условиях конкуренции с крупной корпорацией.\u003cbr/\u003e- **Поддержка сообщества**: Для финансирования Spegel Филип запустил программу спонсорства на GitHub.\u003cbr/\u003e- **Обсуждение лицензии**: Он рассматривает возможность изменения лицензии Spegel после своего опыта с Microsoft."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f4",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745706955,
+      "text": "Майкрософт получается враг опенсорса?"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f5",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gingerbradley",
+      "author_name": "Ginger Bradley",
+      "datetime": 1745707066,
+      "text": "Уже жаловались, что на n10 ротация сертификатов не настроена? Vlc жалуется и лайвстрим пропал"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f6",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745707214,
+      "text": "⚠️ Темы слушателей 958 - \u003ca href=\"https://radio-t.com/p/2025/04/25/prep-958/\"\u003ehttps://radio-t.com/p/2025/04/25/prep-958/\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f7",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745707224,
+      "text": "[1/3] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eIlja Hämäläinen\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eБобук, а ты уже нашёл альтернативу Synology для домашнего NAS, после новости, что те планируют запретить использование неоригинальных дисков?\u003c/em\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f8",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745707224,
+      "text": "[2/3] \u003cstrong\u003e+1\u003c/strong\u003e от \u003cstrong\u003eStanislav Deviatov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/\"\u003ehttps://www.cncf.io/blog/2025/04/24/protectin...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003esome drama in the NATS space as Synadia (the creators) want to take it BACK from the CNFC under their own license\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eProtecting NATS and the integrity of open source: CNCF’s commitment to the community | CNCF\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eCNCF стремится защитить проект NATS и ценности открытого исходного кода от действий Synadia, стремящейся изменить лицензии и взять под контроль сообщество проекта. CNCF будет поддерживать NATS, гарантируя его доступность и независимое управление.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Поддержка открытого исходного кода:** CNCF защищает ценности открытого сотрудничества и нейтрального управления для предотвращения доминирования одной компании.\u003cbr/\u003e  \u003cbr/\u003e- **Угроза лицензированию:** Synadia намерена отозвать проект NATS и изменить лицензию на BUSL, что нарушает принципы открытого исходного кода.\u003cbr/\u003e  \u003cbr/\u003e- **Структура управления:** Synadia требует передачи домена \u003ca href=\"https://nats.io\"\u003enats.io\u003c/a\u003e и организации GitHub nats-io, которые управляются CNCF с 2018 года.\u003cbr/\u003e  \u003cbr/\u003e- **Нарушение обязательств:** Synadia не выполнила обещание передать товарный знак NATS CNCF, несмотря на финансовую и юридическую поддержку от фонда.\u003cbr/\u003e  \u003cbr/\u003e- **Защита NATS:** CNCF будет поддерживать NATS под лицензией Apache-2.0, гарантируя открытое управление и защиту от односторонних действий.\u003cbr/\u003e  \u003cbr/\u003e- **Призыв к сообществу:** CNCF призывает пользователей и участников проекта NATS поддерживать его, увеличивая свои вклады и участия в управлении.\u003cbr/\u003e  \u003cbr/\u003e- **Коммуникация**: CNCF будет информировать сообщество о мерах по защите проекта, поощряя обсуждение вопросов управления и будущего NATS."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09f9",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1745707224,
+      "text": "[3/3] \u003cstrong\u003e+0\u003c/strong\u003e от \u003cstrong\u003eNikita Podelenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://deepwiki.com/umputun/remark42\"\u003ehttps://deepwiki.com/umputun/remark42\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eСоздатели Devin прогнали все гихаб репозитории и построили wiki про каждый потратив 300тыс. долларов на LLM.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://x.com/silasalberti/status/1915821553465626791\"\u003ehttps://x.com/silasalberti/status/19158215534...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eumputun/remark42 | DeepWiki\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eRemark42 — это легкий и самоуправляемый движок комментариев, ориентированный на защиту конфиденциальности, который легко интегрируется на блоги и веб-сайты. Он предлагает множество функций, сохраняя при этом простоту развертывания и минимальный размер.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Remark42 позволяет аутентификацию через социальные сети и электронную почту.\u003cbr/\u003e- Обеспечивает многоуровневое вложенное комментирование и поддерживает Markdown.\u003cbr/\u003e- Имеет панель администрирования для управления комментариями и пользователями.\u003cbr/\u003e- Поддерживает импорт из Disqus и WordPress, а также экспорт в JSON.\u003cbr/\u003e- Легко развертывается через Docker или как отдельное приложение.\u003cbr/\u003e- Не отслеживает пользователей и не использует куки, кроме аутентификации.\u003cbr/\u003e- Конфиденциальность является основным приоритетом, с минимально необходимым хранением данных."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09fa",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1745707344,
+      "text": "у меня ни разу не жаловались vlc, что на макоси что на андроиде"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09fb",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1745707392,
+      "text": "ну так они за это всему миру отомстили. А потом объединились."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09fc",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1745707451,
+      "image_url": "https://chat.radio-t.com/logs/958/AgACAgEAAx0CUPxcWQABCYT0aA1hu7oOECmMK3kU5sxgAvUkqlgAAs2tMRsa32lExCTpkbJDm5wBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 1124,
+      "text": ""
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09fd",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1745707515,
+      "text": "возможно казах-ин-дэ-мидл"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09fe",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1745707543,
+      "text": "Даже не все что в vault"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb09ff",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1745707929,
+      "text": "\u003ca href=\"https://www.langchain.com/langsmith\"\u003ehttps://www.langchain.com/langsmith\u003c/a\u003e"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0a00",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1745707947,
+      "text": "А прикольно было бы langfuse в Клод код интегрировать да"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0a01",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1745707964,
+      "text": "Ну они закрытые("
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0a02",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1745708204,
+      "text": "LLM as a judge ;)"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0a03",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1745708336,
+      "text": "Мы во всех промптах рядом с CoT reasoning рядом делаем поле с объяснением для дебага)"
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0a04",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1745708616,
+      "text": "С хорошим человеком приятно и помолчать."
+    },
+    {
+      "id": "6821dabe46dcc0c5cdbb0a05",
+      "issue": 958,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1745708881,
+      "text": "Спасибо, было хорошо!"
+    }
+  ]
+}

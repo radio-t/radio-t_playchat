@@ -1,0 +1,72 @@
+{
+  "issue": 958,
+  "date": "2025-04-26",
+  "audio": "https://cdn.radio-t.com/rt_podcast958.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt958.jpg",
+  "start_time": 1745698606,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "magnitude для тестирования web ui",
+      "links": [
+        "https://github.com/magnitudedev/magnitude"
+      ],
+      "time": "00:45:48"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Synology запретит все чужие диски",
+      "links": [
+        "http://shrtdb.com/6b972128-c5cf-43cf-ae81-107156f0c3a6"
+      ],
+      "time": "00:52:56"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Gemini Robotics приводит роботов в реальный мир",
+      "links": [
+        "https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/"
+      ],
+      "time": "01:27:37"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Meta добавляет перевод в Ray-Ban очки",
+      "links": [
+        "https://www.theverge.com/news/654387/meta-smart-glasses-ray-ban-live-translation-ai"
+      ],
+      "time": "01:41:01"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI хочет купить Chrome",
+      "links": [
+        "https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/"
+      ],
+      "time": "01:56:53"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как Microsoft обижает авторов",
+      "links": [
+        "https://philiplaine.com/posts/getting-forked-by-microsoft/"
+      ],
+      "time": "02:16:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/04/25/prep-958/"
+      ],
+      "time": "02:23:28"
+    }
+  ],
+  "tags": null
+}

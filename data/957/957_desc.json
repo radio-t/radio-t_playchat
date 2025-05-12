@@ -1,0 +1,80 @@
+{
+  "issue": 957,
+  "date": "2025-04-19",
+  "audio": "https://cdn.radio-t.com/rt_podcast957.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt957.jpg",
+  "start_time": 1745094320,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как правильно готовить Claude Code",
+      "links": [
+        "https://www.anthropic.com/engineering/claude-code-best-practices"
+      ],
+      "time": "00:06:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Против AI hype",
+      "links": [
+        "https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html"
+      ],
+      "time": "00:44:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход GPT-4.1",
+      "links": [
+        "https://openai.com/index/gpt-4-1/"
+      ],
+      "time": "01:11:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "codex - как cloude code, но пока не работает",
+      "links": [
+        "https://github.com/openai/codex/blob/main/README.md"
+      ],
+      "time": "01:21:29"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "JetBrains IDE и AI – это какой-то позор",
+      "links": [
+        "https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/"
+      ],
+      "time": "01:30:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "sequentialthinking по советам лучших знатоков AI",
+      "links": [
+        "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking"
+      ],
+      "time": "01:48:10"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google принимает MCP как стандарт",
+      "links": [
+        "https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/"
+      ],
+      "time": "01:55:21"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/04/15/prep-957/"
+      ],
+      "time": "02:06:02"
+    }
+  ],
+  "tags": null
+}
