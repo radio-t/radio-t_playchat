@@ -1,0 +1,1289 @@
+{
+  "chat": [
+    {
+      "id": "68221223aa1947728789259a",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kemko",
+      "author_name": "Dmitry Andreev",
+      "datetime": 1746302085,
+      "text": "Юзеи принял, а pr потом мог не создать. Или потом отревертить и заново начать сессию, если понял, что агент пошел совсем не туда. А еще pr могли отклонить за мусорность.\u003cbr/\u003e\u003cbr/\u003eТак что нагенерировал, но сколько из этого совсем-совсем принято не понятно.\u003cbr/\u003e\u003cbr/\u003eС другой стороны, курсору как бизнесу это интересно только опосредованно. Деньги он берет за генерацию, а не за судьбу результата."
+    },
+    {
+      "id": "68221223aa1947728789259b",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1746302176,
+      "text": "А кто сказал, что остальные строки кода, написанные без AI, непременно идут в дело?"
+    },
+    {
+      "id": "68221223aa1947728789259c",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kemko",
+      "author_name": "Dmitry Andreev",
+      "datetime": 1746302306,
+      "text": "И те не идут все, и другие не идут все. Но процент отбраковки хорошо бы как-то сравнивать"
+    },
+    {
+      "id": "68221223aa1947728789259d",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tutunak",
+      "author_name": "tutunak",
+      "datetime": 1746302618,
+      "text": "when?"
+    },
+    {
+      "id": "68221223aa1947728789259e",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746302619,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 3мин 38сек назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 56мин 21сек"
+    },
+    {
+      "id": "68221223aa1947728789259f",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tutunak",
+      "author_name": "tutunak",
+      "datetime": 1746302629,
+      "text": "доколе?"
+    },
+    {
+      "id": "68221223aa194772878925a0",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746302629,
+      "text": "\u003cem\u003eникто не знает. пока не надоест\u003c/em\u003e"
+    },
+    {
+      "id": "68221223aa194772878925a1",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "strinkelon",
+      "author_name": "Andrew",
+      "datetime": 1746302698,
+      "text": "Уже?"
+    },
+    {
+      "id": "68221223aa194772878925a2",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "prepareuranus",
+      "author_name": "Артём Весс",
+      "datetime": 1746302701,
+      "text": "кто?"
+    },
+    {
+      "id": "68221223aa194772878925a3",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746302701,
+      "text": "\u003cem\u003eмы! Ksenks, Umputun, Bobuk, Gray и Alek.sys\u003c/em\u003e"
+    },
+    {
+      "id": "68221223aa194772878925a4",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "prepareuranus",
+      "author_name": "Артём Весс",
+      "datetime": 1746302713,
+      "text": "wtf!"
+    },
+    {
+      "id": "68221223aa194772878925a5",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746302713,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/prepareuranus\"\u003e@prepareuranus\u003c/a\u003e получает бан на 5дн 8ч 42мин 23сек"
+    },
+    {
+      "id": "68221223aa194772878925a6",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "strinkelon",
+      "author_name": "Andrew",
+      "datetime": 1746302719,
+      "text": "А Ксюша есть?"
+    },
+    {
+      "id": "68221223aa194772878925a7",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kemko",
+      "author_name": "Dmitry Andreev",
+      "datetime": 1746302755,
+      "text": "Пока вовремя пришла только унца"
+    },
+    {
+      "id": "68221223aa194772878925a8",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1746302852,
+      "text": "У меня ушла("
+    },
+    {
+      "id": "68221223aa194772878925a9",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1746302853,
+      "text": "и ушла"
+    },
+    {
+      "id": "68221223aa194772878925aa",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1746302886,
+      "text": "появилось"
+    },
+    {
+      "id": "68221223aa194772878925ab",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1746302894,
+      "text": "все есть"
+    },
+    {
+      "id": "68221223aa194772878925ac",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kemko",
+      "author_name": "Dmitry Andreev",
+      "datetime": 1746302895,
+      "text": "Унцует"
+    },
+    {
+      "id": "68221223aa194772878925ad",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1746302910,
+      "text": "каннект"
+    },
+    {
+      "id": "68221223aa194772878925ae",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "JOj",
+      "datetime": 1746302918,
+      "text": "Заработало!"
+    },
+    {
+      "id": "68221223aa194772878925af",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kemko",
+      "author_name": "Dmitry Andreev",
+      "datetime": 1746302948,
+      "text": "Да, Ксюша сегодня выйдет."
+    },
+    {
+      "id": "68221223aa194772878925b0",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1746302949,
+      "text": "рассказ про claude code max будет-то?"
+    },
+    {
+      "id": "68221223aa194772878925b1",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1746302963,
+      "text": "Бобук придет ?"
+    },
+    {
+      "id": "68221223aa194772878925b2",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746303025,
+      "text": "Грей, как всегда, всё обо всём знает )"
+    },
+    {
+      "id": "68221223aa194772878925b3",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1746303028,
+      "text": "наверняка"
+    },
+    {
+      "id": "68221223aa194772878925b4",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1746303045,
+      "text": "И вообще менеджеры виноваты, установившие сроки)"
+    },
+    {
+      "id": "68221223aa194772878925b5",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1746303049,
+      "text": "Как в том анекдоте “говорите и вы”"
+    },
+    {
+      "id": "68221223aa194772878925b6",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kemko",
+      "author_name": "Dmitry Andreev",
+      "datetime": 1746303088,
+      "text": "Даже Карл?"
+    },
+    {
+      "id": "68221223aa194772878925b7",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1746303093,
+      "text": "\u0026#34;у меня на комп все работало\u0026#34;"
+    },
+    {
+      "id": "68221223aa194772878925b8",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1746303096,
+      "text": "Ксюша не может не есть :)"
+    },
+    {
+      "id": "68221223aa194772878925b9",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kemko",
+      "author_name": "Dmitry Andreev",
+      "datetime": 1746303102,
+      "text": "Так мы и узнали, что Карл все же молодец"
+    },
+    {
+      "id": "68221223aa194772878925ba",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1746303121,
+      "text": "Ну и если бы программисты могли бы быть виноваты — то они начали бы нести риски так же как и инвесторы, поэтому логично и начать получать доли прибыли :)"
+    },
+    {
+      "id": "68221223aa194772878925bb",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746303122,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925bc",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1746303131,
+      "text": "космические апараты падали из-за ошибок ковертации метрической системы"
+    },
+    {
+      "id": "68221223aa194772878925bd",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1746303131,
+      "text": "бутера с колбасой захотелось"
+    },
+    {
+      "id": "68221223aa194772878925be",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "djimko",
+      "author_name": "Evg😎",
+      "datetime": 1746303186,
+      "text": "для погромистов в авиации есть спецификации DO-178A/B/C\u003cbr/\u003eDO-178B конкретно\u003cbr/\u003e\u003cbr/\u003eпотому что если упадёт фейсбук - всем срать, если самолёт - это человеческие жертвы"
+    },
+    {
+      "id": "68221223aa194772878925bf",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746303199,
+      "text": "Ксюша не успела прийти, а её уже \u0026#34;взвесили\u0026#34; xD"
+    },
+    {
+      "id": "68221223aa194772878925c0",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746303261,
+      "text": "смею предположить, что реакция в сети будет прямо противоположная"
+    },
+    {
+      "id": "68221223aa194772878925c1",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1746303276,
+      "text": "Ну вот, я уже налил, а ребята задерживаются"
+    },
+    {
+      "id": "68221223aa194772878925c2",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "djimko",
+      "author_name": "Evg😎",
+      "datetime": 1746303323,
+      "text": "пример того как не следовать этим спецификациям - боинг и два 747 MAX упавших"
+    },
+    {
+      "id": "68221223aa194772878925c3",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1746303374,
+      "text": "ни один из топ-менеджеров Boeing не понес личной уголовной ответственности за эти катастрофы. По данным Reuters, срок давности для возможных уголовных обвинений истек, что делает маловероятным привлечение руководства компании к ответственности"
+    },
+    {
+      "id": "68221223aa194772878925c4",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746303395,
+      "text": "у Грея была возможность уволить программиста в прошлом выпуске, он ей не воспользовался xD"
+    },
+    {
+      "id": "68221223aa194772878925c5",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "djimko",
+      "author_name": "Evg😎",
+      "datetime": 1746303404,
+      "text": "конечно\u003cbr/\u003eпотому что они коррумпировали агенство"
+    },
+    {
+      "id": "68221223aa194772878925c6",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746303409,
+      "text": "сколько процентов из этих 5 миллиардов написано вайб кодерами, а сколько настоящими программистами?"
+    },
+    {
+      "id": "68221223aa194772878925c7",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1746303417,
+      "text": "всего лишь пару десятков лет назад, в 80-90е самолёты падали чаще, намного чаще, считай, каждый месяц где-то была катастрофа"
+    },
+    {
+      "id": "68221223aa194772878925c8",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746303462,
+      "text": "Со своим надеюсь балуется?"
+    },
+    {
+      "id": "68221223aa194772878925c9",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "djimko",
+      "author_name": "Evg😎",
+      "datetime": 1746303598,
+      "text": "причём в штатах ещё по уму сделано\u003cbr/\u003eте кто сертифицируют - одно агенство, а те кто расследуют авиакатастрофы - другое\u003cbr/\u003eв рф по-другому - там одно и тоже МАК, и им конечно невыгодно сказать, что они нафакапили с сертификацией, безопаснее сказать ошибка пилота"
+    },
+    {
+      "id": "68221223aa194772878925ca",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746303710,
+      "text": "⚠️ Using Claude Code with your Max Plan | Anthropic Help Center - \u003ca href=\"https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan\"\u003ehttps://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925cb",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746303716,
+      "text": "\u003cstrong\u003eUsing Claude Code with your Max Plan | Anthropic Help Center\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка**  \u003cbr/\u003eClaude Code — это инструмент от Anthropic, который предназначен для разработчиков, предлагающий возможность интеграции кодирования. Пользователи могут выбрать разные планы, такие как Max Plan, для доступов к функциям и ограничениям.\u003cbr/\u003e\u003cbr/\u003e- **Что такое Claude Code?**  \u003cbr/\u003e  Claude Code — инструмент, позволяющий разработчикам и пользователям интегрировать функции кодирования в свои приложения.\u003cbr/\u003e\u003cbr/\u003e- **Почему использовать Claude и Claude Code?**  \u003cbr/\u003e  Эти инструменты предлагают современные возможности ИИ, упрощая процессы разработки и улучшают взаимодействие с пользователями.\u003cbr/\u003e\u003cbr/\u003e- **Как подключить Claude Code к вашему Max Plan?**  \u003cbr/\u003e  Подключение происходит через интерфейс Anthropic, где пользователи могут активировать нужные функции и параметры.\u003cbr/\u003e\u003cbr/\u003e- **Как работают ограничения по количеству запросов?**  \u003cbr/\u003e  Ограничения применяются к количеству запросов, которые пользователя может отправить за определенный период времени.\u003cbr/\u003e\u003cbr/\u003e- **Что происходит, когда вы достигаете ограничений?**  \u003cbr/\u003e  При превышении ограничений пользователи могут столкнуться с временной блокировкой запросов до окончания лимита.\u003cbr/\u003e\u003cbr/\u003e- **Сколько стоит Max Plan?**  \u003cbr/\u003e  Подписка на Max Plan имеет определённую стоимость, доступную на веб-сайте Anthropic.\u003cbr/\u003e\u003cbr/\u003e- **Как подписаться на Max Plan?**  \u003cbr/\u003e  Заходите на сайт Anthropic, и следуйте инструкциям для оформления подписки на Max Plan."
+    },
+    {
+      "id": "68221223aa194772878925cc",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dasimagin",
+      "author_name": "Denis",
+      "datetime": 1746303920,
+      "text": "Рекомендую вместо T120 взять именно Speed Twin 1200 (двигатель будет веселее, лучше подвеска и тормоза)."
+    },
+    {
+      "id": "68221223aa194772878925cd",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1746304203,
+      "text": "Я кстати думал 900-й на тест драйве попробовать, но Бонневиль же классика"
+    },
+    {
+      "id": "68221223aa194772878925ce",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746304400,
+      "text": "А какая \u0026#34;эта штука\u0026#34;? я прослушал"
+    },
+    {
+      "id": "68221223aa194772878925cf",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746304412,
+      "text": "джуни?"
+    },
+    {
+      "id": "68221223aa194772878925d0",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1746304576,
+      "text": "прямо сейчас — Codex"
+    },
+    {
+      "id": "68221223aa194772878925d1",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746304887,
+      "text": "Cпасибо"
+    },
+    {
+      "id": "68221223aa194772878925d2",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746304987,
+      "text": "⚠️ Expanding on what we missed with sycophancy | OpenAI - \u003ca href=\"https://openai.com/index/expanding-on-sycophancy/\"\u003ehttps://openai.com/index/expanding-on-sycophancy/\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925d3",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746304990,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eНаучная информация, доступная до октября 2023 года, охватывает разные области знаний и технологические достижения, а также тренды и важные события в обществе.\u003cbr/\u003e\u003cbr/\u003e- Научные открытия касаются медицины и экологии.\u003cbr/\u003e- Развиваются искусственный интеллект и автоматизация.\u003cbr/\u003e- Обсуждение социальных изменений в мире.\u003cbr/\u003e- Тенденции в устойчивом развитии.\u003cbr/\u003e- Изменения в глобальной экономике.\u003cbr/\u003e- Проблемы изменения климата остаются актуальными.\u003cbr/\u003e- Психические здоровье и благосостояние становятся приоритетами."
+    },
+    {
+      "id": "68221223aa194772878925d4",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "w205_ro",
+      "author_name": "anonymous trader",
+      "datetime": 1746305543,
+      "text": "О Великий  \u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e  А можно пожалуйста меня разбанить (n0name_001) - Я больше не планирую шутить о подкастах мемами в чате 🙂 Я исправился, Я вот даже праграммировать учусь из мэнеджмента 😁"
+    },
+    {
+      "id": "68221223aa194772878925d5",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1746305654,
+      "text": "так люди сейчас так и разговаривают позитив синкинг"
+    },
+    {
+      "id": "68221223aa194772878925d6",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1746305693,
+      "text": "железка начиталась комментов под комментами к фото"
+    },
+    {
+      "id": "68221223aa194772878925d7",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746306225,
+      "text": "потому что херня это всё"
+    },
+    {
+      "id": "68221223aa194772878925d8",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1746306298,
+      "text": "реплику икон на приборную панель?"
+    },
+    {
+      "id": "68221223aa194772878925d9",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1746306633,
+      "text": "не я банил, не мне разбнивать"
+    },
+    {
+      "id": "68221223aa194772878925da",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746306856,
+      "text": "ну это вряд ли. В самолётах всё по чек листу."
+    },
+    {
+      "id": "68221223aa194772878925db",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746307053,
+      "text": "⚠️ Redis is open source again - \u0026lt;antirez\u0026gt; - \u003ca href=\"https://antirez.com/news/151\"\u003ehttps://antirez.com/news/151\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925dc",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746307058,
+      "text": "\u003cstrong\u003e\u003cbr/\u003eRedis is open source again - \u0026lt;antirez\u0026gt;\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eДа, Redis снова является открытым исходным кодом — \u0026lt;antirez\u0026gt;  \u003cbr/\u003eПереведенный на AGPL v3, Redis планирует продолжать развитие и вовлекает сообщество. Создатель Vector Sets подчеркивает, что открытость кода важна для совместной работы и улучшения продукта.\u003cbr/\u003e\u003cbr/\u003e- Redis вернулся к лицензии AGPL.\u003cbr/\u003e- Внутренняя дискуссия о лицензиях началась до изменения.\u003cbr/\u003e- SSPL не была принята сообществом OSS.\u003cbr/\u003e- Открытый исходный код был важен для создателя Vector Sets.\u003cbr/\u003e- Redis 8 вышел с новой лицензией и улучшениями.\u003cbr/\u003e- Фокус на совместных усилиях для улучшения Redis.\u003cbr/\u003e- Заинтересованность сообщества уже даёт обратную связь."
+    },
+    {
+      "id": "68221223aa194772878925dd",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "🌊🌊🌊🌊🌊",
+      "datetime": 1746307081,
+      "text": "Робот правда лютует. Можете разбавить \u003ca class=\"mention\" href=\"https://t.me/cherbizhev\"\u003e@cherbizhev\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925de",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746307124,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e ты лучше расскажи, почему ты boltdb использовал вместо redis, например, для организации хоста фидов для Эха"
+    },
+    {
+      "id": "68221223aa194772878925df",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1746307219,
+      "text": "просто у форков начало набираться комьюнити"
+    },
+    {
+      "id": "68221223aa194772878925e0",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1746307230,
+      "text": "особенно у Valkey"
+    },
+    {
+      "id": "68221223aa194772878925e1",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mrKAndy",
+      "author_name": "Andrii Kasian",
+      "datetime": 1746307241,
+      "text": "Valkay главний форк"
+    },
+    {
+      "id": "68221223aa194772878925e2",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746307313,
+      "text": "понял, спасибо 🙏"
+    },
+    {
+      "id": "68221223aa194772878925e3",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mrKAndy",
+      "author_name": "Andrii Kasian",
+      "datetime": 1746307329,
+      "text": "+ Некоторьіе дистрибутивьі стали замінять redis на valkey"
+    },
+    {
+      "id": "68221223aa194772878925e4",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746307374,
+      "text": "⚠️ JetBrains defends removal of negative reviews for unpopular AI Assistant • DEVCLASS - \u003ca href=\"https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/\"\u003ehttps://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925e5",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746307378,
+      "text": "\u003cstrong\u003eJetBrains defends removal of negative reviews for unpopular AI Assistant • DEVCLASS\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eJetBrains оправдывает удаление отрицательных отзывов о своём непопулярном искусственном интеллекте. Компания отвечает на критику, заявляя, что такие отзывы стали мешать конструктивному обсуждению продукта.\u003cbr/\u003e\u003cbr/\u003e- JetBrains объясняет свои действия удаления негатива.\u003cbr/\u003e- Отрицательные отзывы затрудняли обсуждение продукта.\u003cbr/\u003e- AI Assistant не завоевал популярности среди пользователей.\u003cbr/\u003e- Компания подчеркивает важность конструктивной обратной связи.\u003cbr/\u003e- Реакция сообщества на удаление отзывов была неоднозначной.\u003cbr/\u003e- JetBrains стремится улучшить качество своего AI Assistant.\u003cbr/\u003e- Удаление отзывов вызвало дебаты о цензуре и свободе слова."
+    },
+    {
+      "id": "68221223aa194772878925e6",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1746307383,
+      "text": "не говоря про то, что есть ещё пучок совместимых с редисом бд типа Garnet"
+    },
+    {
+      "id": "68221223aa194772878925e7",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1746307507,
+      "text": "у этого ассистента довольно щедрые бесплатные лимиты"
+    },
+    {
+      "id": "68221223aa194772878925e8",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1746307528,
+      "text": "а автодополнение вроде безлимитно бесплатно, но оно сильно хуже, чем у конкурентов"
+    },
+    {
+      "id": "68221223aa194772878925e9",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746307751,
+      "text": "наверное в этом случае было бы неплохо, чтобы система комментариев автоматически добавляла некоторую метадату к комментариям, типа текущей версии плагина, чтобы было видно, что комментарий к такой-то версии. Даже если комментарий максимально философской направленности"
+    },
+    {
+      "id": "68221223aa194772878925ea",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1746307824,
+      "text": "Apple позволяет сбосить все обзоры если хочеться \u003ca href=\"https://developer.apple.com/help/app-store-connect/monitor-ratings-and-reviews/reset-an-app-overview-rating/\"\u003ehttps://developer.apple.com/help/app-store-connect/monitor-ratings-and-reviews/reset-an-app-overview-rating/\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925eb",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746307900,
+      "text": "⚠️ Microsoft goes passwordless by default on new accounts | The Verge - \u003ca href=\"https://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default\"\u003ehttps://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925ec",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746307903,
+      "text": "\u003cstrong\u003eMicrosoft goes passwordless by default on new accounts | The Verge\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**\u003cbr/\u003eMicrosoft внедряет безпарольный вход по умолчанию для новых аккаунтов, используя технологии аутентификации, такие как Face ID и отпечатки пальцев.\u003cbr/\u003e\u003cbr/\u003e- Microsoft переходит на безпарольную аутентификацию для новых аккаунтов.\u003cbr/\u003e- Поддерживаются функции Face ID, сканеры отпечатков пальцев и Windows Hello.\u003cbr/\u003e- Используется технология WebAuthn для создания ключей.\u003cbr/\u003e- Один ключ хранится на сайте, другой — на устройстве пользователя.\u003cbr/\u003e- В случае потери устройства есть возможность резервирования ключей.\u003cbr/\u003e- Поддержка passkeys в Apple, Google и менеджерах паролей, таких как 1Password.\u003cbr/\u003e- 1Password создал онлайн-каталог для сервисов, поддерживающих passkeys."
+    },
+    {
+      "id": "68221223aa194772878925ed",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746307907,
+      "text": "Я знал об этом, но только на этой неделе до меня дошло почему на macOS Java билд быстрее в три раза чем на топовом HP Zbook под Вынь.\u003cbr/\u003e\u003cbr/\u003eво время билда с помощью Мавена что происходит? Кучи вайлов копируются отсюда-туда и оттуда-куда. А на macOS copy-on-write.\u003cbr/\u003e🔥"
+    },
+    {
+      "id": "68221223aa194772878925ee",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zakerik",
+      "author_name": "Zakerik",
+      "datetime": 1746308048,
+      "text": "В 1p сохраняешь passkey и логинишься откуда хочешь"
+    },
+    {
+      "id": "68221223aa194772878925ef",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1746308106,
+      "text": "только это после входа в систему 🙂"
+    },
+    {
+      "id": "68221223aa194772878925f0",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1746308131,
+      "text": "Это работает просто: логин – почта и в Microsoft authenticator сгенерированный на 30 секунд код вместо пароля"
+    },
+    {
+      "id": "68221223aa194772878925f1",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1746308308,
+      "text": "Bitwarden + Bitwarder authenticator и бэкап в proton pass."
+    },
+    {
+      "id": "68221223aa194772878925f2",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1746308465,
+      "text": "Только резервная копия и резервные устройства помогут от потери доступа к основному девайсу"
+    },
+    {
+      "id": "68221223aa194772878925f3",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746308484,
+      "text": "⚠️ Time saved by AI offset by new work created, study suggests - Ars Technica - \u003ca href=\"https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/\"\u003ehttps://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925f4",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746308487,
+      "text": "\u003cstrong\u003eTime saved by AI offset by new work created, study suggests - Ars Technica\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eИсследование показывает, что применение AI в Дании не оказало значительного влияния на заработную плату или занятость, несмотря на быстрое внедрение в 2023-2024 годах. Экономисты проанализировали, как AI-чат-боты, такие как ChatGPT, изменили рынок труда.\u003cbr/\u003e\u003cbr/\u003e- Исследование охватило 25,000 работников и 7,000 мест в Дании.\u003cbr/\u003e- Установлено, что AI-чат-боты не повлияли на доходы в анализируемых профессиях.\u003cbr/\u003e- Внедрение AI произошло быстро, многие работники начали использовать эти технологии.\u003cbr/\u003e- Инвестиции в AI увеличили использование инструментов, но выгода была меньше ожидаемой.\u003cbr/\u003e- 8.4% работников обнаружили новые задачи, связанные с использованием AI.\u003cbr/\u003e- Учителя тратят время на выявление использования ChatGPT для домашних заданий.\u003cbr/\u003e- Работники пересматривают качество выводов AI или пытаются составлять эффективные запросы."
+    },
+    {
+      "id": "68221223aa194772878925f5",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1746308502,
+      "text": "ubikey скорее нужен для осознанности использования приватного ключа. Если вдруг ноут стал заражён -- то внезапное предложение потрогать токен вызовет сильные подозрения. Хотя не спасёт, скорее всего, от случая когда малварь будет ждать другого использования ключа и перехватит как-то валидное использование."
+    },
+    {
+      "id": "68221223aa194772878925f6",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yuriybz",
+      "author_name": "Uriy Zadachin",
+      "datetime": 1746308729,
+      "text": "Напоминает визуальные редакторы Html с тонной кода"
+    },
+    {
+      "id": "68221223aa194772878925f7",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1746309055,
+      "image_url": "https://chat.radio-t.com/logs/959/AgACAgEAAx0CUPxcWQABCYvbaBaPvwvBIU4YmcFnO85Wd0JPBrMAAjCuMRuLwblEjhjS_LtDa8YBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 870,
+      "text": ""
+    },
+    {
+      "id": "68221223aa194772878925f8",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746309138,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e , в 90е (и раньше) тот девайс по-русски назывался реле-регулятор. Отвечает за правильное напряжение на аккумулятор и отключает подачу напряжения когда аккумулятор условно заряжен. Сейчас не знаю как назыывается правильно.\u003cbr/\u003eПосле того как появились \u0026#34;русские\u0026#34; слова \u0026#34;юзкейс\u0026#34; и \u0026#34;мессеж\u0026#34;. 🙂"
+    },
+    {
+      "id": "68221223aa194772878925f9",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746309294,
+      "text": "⚠️ Raycast for iOS - Raycast Blog - \u003ca href=\"https://www.raycast.com/blog/raycast-for-ios\"\u003ehttps://www.raycast.com/blog/raycast-for-ios\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925fa",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746309300,
+      "text": "\u003cstrong\u003eRaycast for iOS - Raycast Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eRaycast теперь доступен для iOS, предоставляя пользователям возможности продуктивности на ходу. Приложение предлагает AI Chat, заметки и организации, синхронизируя информацию между устройствами Apple. Недоступен как замена Spotlight, Raycast использует встроенные инструменты iOS для более эффективного рабочего процесса.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Raycast для iOS расширяет возможности продуктивности за пределами Mac, предлагая AI Chat и заметки.\u003cbr/\u003e- Приложение интегрируется с встроенными инструментами iOS, а не заменяет Spotlight.\u003cbr/\u003e- Дизайн главного экрана обеспечивает быстрый доступ к наиболее часто используемым функциям.\u003cbr/\u003e- Пользователи могут создавать, редактировать и использовать Шорткаты и фрагменты на мобильных устройствах.\u003cbr/\u003e- Включены облачная синхронизация и поддержка Siri Shortcuts.\u003cbr/\u003e- В будущем будут добавлены новые функции, такие как специальная клавиатура и более сложные AI возможности.\u003cbr/\u003e- Raycast для iOS уже доступен для скачивания в App Store с 30% скидкой на Raycast Pro до 7 мая."
+    },
+    {
+      "id": "68221223aa194772878925fb",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746309597,
+      "text": "⚠️ Is Golang Still Growing? Go Language Popularity Trends in 2024 | The Research Blog - \u003ca href=\"https://blog.jetbrains.com/research/2025/04/is-golang-still-growing-go-language-popularity-trends-in-2024/\"\u003ehttps://blog.jetbrains.com/research/2025/04/is-golang-still-growing-go-language-popularity-trends-in-2024/\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa194772878925fc",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746309611,
+      "text": "\u003cstrong\u003eIs Golang Still Growing? Go Language Popularity Trends in 2024 | The Research Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eGo Language продолжает расти и развиваться в 2024 году, сохраняя стабильные позиции на рынке программирования. С увеличением числа разработчиков и высокой зарплатой в индустрии, Go адаптируется к новому направлению с использованием в области AI и облачной инфраструктуры.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Рост количества разработчиков Go**: В 2024 году было приблизительно 4,7 миллиона разработчиков Go по всему миру, с увеличением использования языка.\u003cbr/\u003e- **Высокая зарплата**: Средняя зарплата разработчика Go составляет около 76,000 долларов в год, а в США доход может достигать 500,000 долларов.\u003cbr/\u003e- **Пользовательский профиль**: Большинство разработчиков имеют опыт работы с другими языками программирования и применяют Go для работы над проектами и их собственных инициативах.\u003cbr/\u003e- **Использование в индустрии**: Go активно применяется в технологических, финансовых и транспортных секторах, а его востребованность продолжает расти.\u003cbr/\u003e- **Популярность среди языков**: Go стабильно занимает высокие позиции в разных индексах программирования благодаря растущему числу разработчиков и проектам с открытым исходным кодом.\u003cbr/\u003e- **Будущее Go**: Основные направления включают углубление в облачные технологии и поддержку инфраструктуры для генеративного ИИ.\u003cbr/\u003e- **Сотрудничество с Rust**: Языки Go и Rust рассматриваются как взаимодополняющие, обладая своими уникальными преимуществами для разных задач."
+    },
+    {
+      "id": "68221223aa194772878925fd",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1746309711,
+      "text": "а когда го выпустили 1.0? раст в 2015"
+    },
+    {
+      "id": "68221223aa194772878925fe",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1746309763,
+      "text": "2012"
+    },
+    {
+      "id": "68221223aa194772878925ff",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1746310263,
+      "text": "меньше токенов расходуется"
+    },
+    {
+      "id": "68221223aa19477287892600",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746310392,
+      "text": "⚠️ Темы слушателей 959 - \u003ca href=\"https://radio-t.com/p/2025/04/29/prep-959/\"\u003ehttps://radio-t.com/p/2025/04/29/prep-959/\u003c/a\u003e"
+    },
+    {
+      "id": "68221223aa19477287892601",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746310408,
+      "text": "[1/15] \u003cstrong\u003e+13\u003c/strong\u003e от \u003cstrong\u003ealexeynikitin85\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eБигтех потихоньку уходит от Golang (к Rust, разумеется). Умпутун, пора снова менять профиль: \u003c/em\u003e\u003ca href=\"https://medium.com/@akshatkapil2249/why-big-tech-is-quietly-abandoning-golang-09328a520a4c\"\u003ehttps://medium.com/@akshatkapil2249/why-big-t...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWhy Big Tech Is Quietly Abandoning Golang | by Debugged Thoughts | Apr, 2025 | Medium\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eGo, изначально популярный язык программирования от Google, теряет интерес у крупных технологических компаний из-за роста сложности их систем, где простота Go становится ограничением.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Простота языка**: Go славится своей простотой, но она не масштабируется для сложных архитектур.\u003cbr/\u003e- **Изменение приоритетов**: Рабочие позиции и проекты всё чаще отдают предпочтение Rust и TypeScript.\u003cbr/\u003e- **Недостаточная гибкость**: В больших системах недостаток сложных функций Go затрудняет разработку.\u003cbr/\u003e- **Изменение в развитии**: Лидирующие открытые проекты переходят на другие языки программирования.\u003cbr/\u003e- **Проблемы с совместимостью**: Go сталкивается с трудностями в интеграции с современными инструментами.\u003cbr/\u003e- **Нужда в многообразии**: Крупные компании ищут более функциональные и универсальные решения. \u003cbr/\u003e- **Адаптация к новым требованиям**: Меняющиеся требования рынка требуют более сложные языки."
+    },
+    {
+      "id": "68221223aa19477287892602",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746310408,
+      "text": "[2/15] \u003cstrong\u003e+13\u003c/strong\u003e от \u003cstrong\u003eIlia Frenkel\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eПродолжая тему JetBrains. Пользователи жалуются что JetBrains удаляет негативные отзывы на свой AI Assistant Plugin, a \u003c/em\u003e\u003ca href=\"https://www.reddit.com/r/Jetbrains/comments/1ka5h3g/red_flag_jetbrains_removing_bad_reviews_of_their/\"\u003eJetBrains оправдывается\u003c/a\u003e\u003cem\u003e. Говорят что многое исправили и что «старые отзывы путают новых пользователей». Народ всё равно негодует.\u003c/em\u003e"
+    },
+    {
+      "id": "68221223aa19477287892603",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746310409,
+      "text": "[3/15] \u003cstrong\u003e+12\u003c/strong\u003e от \u003cstrong\u003eIldus\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eJetBrains выпустила 4b модельку Mellum специально для автодополнения кода:\u003cbr/\u003e\u003cbr/\u003eMellum supports code completion for Java, Kotlin, Python, Go, PHP, C, C++, C#, JavaScript, TypeScript, CSS, HTML, Rust, Ruby.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/\"\u003ehttps://blog.jetbrains.com/ai/2025/04/mellum-...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://huggingface.co/JetBrains/Mellum-4b-base\"\u003ehttps://huggingface.co/JetBrains/Mellum-4b-base\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face | The JetBrains Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eMellum, специализированная модель LLM для разработчиков, стала доступной на Hugging Face. Она сфокусирована на автоматическом завершении кода и призвана быть началом семейства моделей, каждая из которых будет специализирована для различных задач программирования.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Специализация:** Mellum является фокусной моделью, созданной для точного выполнения одной задачи — завершения кода.\u003cbr/\u003e- **Открытый код:** Выпуск Mellum в открытый доступ обусловлен стремлением к прозрачности и совместной работе в технологии.\u003cbr/\u003e- **Мультиязычность:** Поддержка нескольких языков программирования, включая Java, Python, Go и другие.\u003cbr/\u003e- **Эффективность:** Модель затратная по ресурсам, меньше тяжелых моделей, что дает преимущества малым командам.\u003cbr/\u003e- **Целевая аудитория:** Mellum ориентирован на исследователей и специалистов в области AI/ML, желающих изучать модельные задачи.\u003cbr/\u003e- **Будущее:** Mellum — это всего лишь начало, будут добавляться новые модели для различных задач.\u003cbr/\u003e- **Эксперименты:** Mellum предлагает возможности для экспериментов и обучения по созданию специализированных языковых моделей."
+    },
+    {
+      "id": "68221223aa19477287892604",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746310409,
+      "text": "[4/15] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eSubscriber\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eIn a previous episode, you briefly mentioned Synology NAS. I’m curious — why does Bobuk find other NAS brands unsuitable? And what are the typical use cases for Grey and Umputun when it comes to NAS?\u003cbr/\u003e\u003cbr/\u003ePersonally, I use TrueNAS and an old QNAP, and now I’m wondering if I’m missing out on some features or workflows that make Synology stand out.\u003c/em\u003e"
+    },
+    {
+      "id": "68221223aa19477287892605",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746310409,
+      "text": "[5/15] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eIbragimov Ruslan\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eВ python добавляют Template Strings \u003c/em\u003e\u003ca href=\"https://peps.python.org/pep-0750/\"\u003ehttps://peps.python.org/pep-0750/\u003c/a\u003e\u003cem\u003e с дизайном на 99% похожим на тот что добавили в превью режиме в джаву и потом выпили \u003c/em\u003e\u003ca href=\"https://openjdk.org/jeps/465\"\u003ehttps://openjdk.org/jeps/465\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003ePEP 750 – Template Strings | \u003c/strong\u003e\u003ca href=\"https://peps.python.org\"\u003epeps.python.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003ePEP 750 представляет template строки для обработки строк в Python. Это расширение f-строк, позволяющее перехватывать и трансформировать интерполированные значения для улучшенной безопасности и удобства.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Template Strings**: Новый тип строк с префиксом `t`, который позволяет обрабатывать строки гибче.\u003cbr/\u003e- **Безопасность**: Возможность интерцепции интерполированных значений предотвращает уязвимости, такие как SQL-инъекции и XSS.\u003cbr/\u003e- **Экосистема**: Соответствует стандартной библиотеке Python и поддерживает вложенные строки.\u003cbr/\u003e- **Интерполяция**: Поддерживает доступ к строковым частям и значениям интерполяции.\u003cbr/\u003e- **Гибкость**: Позволяет разработчикам создавать произвольный код для обработки строк шаблонов.\u003cbr/\u003e- **Конкатенация**: Поддерживается явная конкатенация; результат остается типом Template.\u003cbr/\u003e- **Широкие возможности**: Подходит для более сложных задач обработки строк и веб-шаблонирования."
+    },
+    {
+      "id": "68221223aa19477287892606",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746310661,
+      "text": "это из тех же, у которых цикл \u003ccode\u003ewhile\u003c/code\u003e не работает"
+    },
+    {
+      "id": "68221223aa19477287892607",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746310947,
+      "text": "skill issue"
+    },
+    {
+      "id": "68221223aa19477287892608",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746310961,
+      "text": "еще и на алхимии небось в режиме орм пишет вместо core"
+    },
+    {
+      "id": "68221223aa19477287892609",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746311095,
+      "text": "Так не используй алхимию, пиши сырые запросы, ты же в го не используешь gorm"
+    },
+    {
+      "id": "68221223aa1947728789260a",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1746311128,
+      "text": "но ты орм алхимичный то выброси, пиши на core"
+    },
+    {
+      "id": "68221223aa1947728789260b",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1746311171,
+      "text": "видимо предполагается, что ты должен изучить всю доку, все исходники с тестами, причем это касается также и зависимостей используемого пакета, и спустя несколько лет будешь писать как боженька"
+    },
+    {
+      "id": "68221223aa1947728789260c",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1746311188,
+      "text": "Уже"
+    },
+    {
+      "id": "68221223aa1947728789260d",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1746311257,
+      "text": "Больше развенчание лично для меня мифа \u0026#34;в Х меньше кода чем в Го\u0026#34;  для той же задачи. Вообще не меньше, просто обычно чужого кода."
+    },
+    {
+      "id": "68221223aa1947728789260e",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zakerik",
+      "author_name": "Zakerik",
+      "datetime": 1746311477,
+      "text": "А у synology нужно платить подписку?"
+    },
+    {
+      "id": "68221223aa1947728789260f",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1746311479,
+      "text": "Да, для некоторых функций Synology требуется подписка, например, для облачного хранения или расширенной безопасности. Но многие базовые функции доступны без дополнительных затрат. Всё зависит от ваших нужд!"
+    },
+    {
+      "id": "68221223aa19477287892610",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1746311537,
+      "text": "synology про self-hosted хранение, а вот что про расширенную безопасность не понятно\u003cbr/\u003e\u003cbr/\u003eai тут дезинформацию распространяет"
+    },
+    {
+      "id": "68221223aa19477287892611",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1746311669,
+      "text": "не до конца понятно чем отличается от \u003ccode\u003ef”{var}”\u003c/code\u003e конструкций"
+    },
+    {
+      "id": "68221223aa19477287892612",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746311787,
+      "text": "если камер наблюдения больше 5ти нужно, то тоже нужно платить. Если хочется кластер виртуальных машин."
+    },
+    {
+      "id": "68221223aa19477287892613",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1746312027,
+      "text": "Какую модель synology выбрать?"
+    },
+    {
+      "id": "68221223aa19477287892614",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746312141,
+      "text": "923+ из-за отсутсвия привязки к дискам от Синоложи"
+    },
+    {
+      "id": "68221223aa19477287892615",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746312168,
+      "text": "меня тоже"
+    },
+    {
+      "id": "68221223aa19477287892616",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746312257,
+      "text": "Я поставил 32GB памяти и NVMe кэш на чтение и запись. Приятно. 10Gbit/s мне некуда.\u003cbr/\u003e\u003cbr/\u003e925+ у него уже два порта по 2.5Gbit/s и USB-C"
+    },
+    {
+      "id": "68221223aa19477287892617",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1746312275,
+      "text": "а как же про Apple и суд"
+    },
+    {
+      "id": "68221223aa19477287892618",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1746312354,
+      "text": "$747 - это нормальная цена?"
+    },
+    {
+      "id": "68221223aa19477287892619",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1746312454,
+      "image_url": "https://chat.radio-t.com/logs/959/AgACAgEAAx0CUPxcWQABCYv9aBadBn8cpZJBB-No7jg_89pHjjQAAjKuMRuLwblEvFU_dp5aHDEBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 393,
+      "text": ""
+    },
+    {
+      "id": "68221223aa1947728789261a",
+      "issue": 959,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1746312560,
+      "text": "чё-то много за пустой я платит $600"
+    }
+  ]
+}
