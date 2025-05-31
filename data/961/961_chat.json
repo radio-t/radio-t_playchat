@@ -1,0 +1,892 @@
+{
+  "chat": [
+    {
+      "id": "683ab5838150e3bae24b4e83",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1747511831,
+      "text": "может ты ничего луше редьки не пробовал? соносы, те что большие, очень крутые. Я заменил им (плюс бас, плюс 2 сбоку) свой 5+1 и звучит лучше чем раньше, заметно лучше"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e84",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1747512173,
+      "text": "Тэээкс, унца дрица гоп ца ца на месте"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e85",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1747512316,
+      "text": "Гриша на месте, день удался"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e86",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1747512556,
+      "text": "за штуку которая превращает пистолет в автоматический - до 30 лет"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e87",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1747512765,
+      "text": "жёстко, за убийство меньше дают"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e88",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1747512799,
+      "text": "погнали уже, коллеги"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e89",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1747512883,
+      "text": "2 вида это по-сорокину"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e8a",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1747512986,
+      "text": "Бобук, смачного."
+    },
+    {
+      "id": "683ab5838150e3bae24b4e8b",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1747513107,
+      "text": "дяк"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e8c",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1747513111,
+      "text": "Гриша так ест, что хочется есть"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e8d",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1747513196,
+      "text": "\u0026#34;не говорил я такой хни\u0026#34; (с) бисмарк"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e8e",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747513385,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e8f",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1747513525,
+      "text": "Аа, Леша, забоялся при Бобуке на Питона батончик крошить"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e90",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1747513545,
+      "text": "Там, насыпал чуть чуть"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e91",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1747513559,
+      "text": "Как будто доволен 😁😢😄😜"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e92",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1747513616,
+      "text": "несогласованность визуала и ощущений"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e93",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1747513638,
+      "text": "а ещё есть несоответствие громкости Лёхи и всех остальных"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e94",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1747513663,
+      "text": "Бобу потише, Лешу погромче"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e95",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1747513682,
+      "text": "Пожаалуйста"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e96",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1747513695,
+      "text": "Или умножится"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e97",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1747513738,
+      "text": "а координация растояние"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e98",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747513812,
+      "text": "Может есть люди у которых вестибюлярный аппарат совсем не работает и для них девайсы есть вроде как у слепых сетка электродов на язык, которые с камеры \u0026#34;картинку\u0026#34; показывают?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e99",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1747513879,
+      "text": "ну мне хватило недели жизни в поезде и все привык подходить в ритме в поездки"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e9a",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Barcelona How",
+      "datetime": 1747513912,
+      "text": "Будем накатывать каждое \u0026#34;на самом деле\u0026#34;?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e9b",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747514009,
+      "text": "После \u0026#34;в каждой кодовой базе люди пытались написать...\u0026#34; ждал \u0026#34;реализацию common lisp\u0026#34;"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e9c",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1747514078,
+      "text": "\u003cpre\u003eexecOrds := slices.Filter(ords, func(o cdata.OrderExt) bool {\u003cbr/\u003e return o.ReportType == \u0026#34;EXECUTION\u0026#34;\u003cbr/\u003e})\u003c/pre\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e9d",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747514379,
+      "text": "⚠️ Introducing Codex | OpenAI - \u003ca href=\"https://openai.com/index/introducing-codex/\"\u003ehttps://openai.com/index/introducing-codex/\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4e9e",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747514380,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eПожалуйста, подождите немного..."
+    },
+    {
+      "id": "683ab5838150e3bae24b4e9f",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1747515124,
+      "text": "им нужно спросить o4-mini-high, как правильно именовать модели"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea0",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747515321,
+      "text": "Это же типичное ревью PR\u0026#39;ов. Разные люди будут топить в противоположные стороны и всегда есть на что набросить."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea1",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747515399,
+      "text": "Для \u0026#34;идеального кода\u0026#34; нужны какие-то формальные критерии его \u0026#34;идеальности\u0026#34;"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea2",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747515596,
+      "text": "А рефакторить кажется и люди не умеют. Много раз видел как \u0026#34;ну вот сейчас учтём все проблемы\u0026#34; — и получается эффект системы и монстр ещё хуже."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea3",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747516024,
+      "text": "⚠️ The perverse incentives of Vibe Coding | by fred benenson | May, 2025 | UX Collective - \u003ca href=\"https://uxdesign.cc/the-perverse-incentives-of-vibe-coding-23efbaf75aee?gi=630ceb0b8b2b\"\u003ehttps://uxdesign.cc/the-perverse-incentives-of-vibe-coding-23efbaf75aee?gi=630ceb0b8b2b\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea4",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747516029,
+      "text": "\u003cstrong\u003eThe perverse incentives of Vibe Coding | by fred benenson | May, 2025 | UX Collective\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eСтатья обсуждает проблемы, связанные с использованием ИИ в кодировании, подчеркивая, что экономические стимулы ведут к созданию избыточного и неэффективного кода. Неэффективные модели кода делают акцент на количество токенов, что снижает качество кода и разработку.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- ИИ часто генерирует избыточный и неэффективный код, что усложняет его исправление.\u003cbr/\u003e- Экономические стимулы, основанные на количестве токенов, влияют на качество создаваемого кода.\u003cbr/\u003e- Важным является планирование перед внедрением кода, что влияет на его эффективность.\u003cbr/\u003e- Применение строгих протоколов разрешения помогает избежать генерации нежелательного кода.\u003cbr/\u003e- Использование моделей меньшего размера может привести к более элегантным решениям.\u003cbr/\u003e- Улучшение АИ должно базироваться на метриках качества кода, а не только на количестве токенов.\u003cbr/\u003e- Важно выравнивать экономические стимулы для обеспечения чистоты и эффективности кода, создаваемого ИИ."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea5",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1747516100,
+      "text": "Vibe coding це ж як T9."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea6",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747516750,
+      "text": "⚠️ AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms - Google DeepMind - \u003ca href=\"https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\"\u003ehttps://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea7",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747516753,
+      "text": "\u003cstrong\u003eAlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms - Google DeepMind\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eAlphaEvolve — это агент программирования на основе Gemini, разработанный Google DeepMind для создания продвинутых алгоритмов с помощью ИИ. Исследование вовлекло множество участников, обеспечивших значительный вклад и поддержку.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- AlphaEvolve был разработан командой Google DeepMind.\u003cbr/\u003e- Агент предназначен для проектирования сложных алгоритмов.\u003cbr/\u003e- Основной фокус исследования — открытие алгоритмов с помощью ИИ.\u003cbr/\u003e- Сотрудничество используется для оптимизации процесса разработки.\u003cbr/\u003e- Участие множества специалистов улучшило результаты исследования.\u003cbr/\u003e- Благодарности выражены всем, кто помог с проектом.\u003cbr/\u003e- Дополнительные детали можно найти в белой книге."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea8",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1747516909,
+      "text": "на \u003ca href=\"https://dspy.ai/\"\u003ehttps://dspy.ai/\u003c/a\u003e похоже"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ea9",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Faithmurod",
+      "author_name": "Bobomurod",
+      "datetime": 1747517186,
+      "text": "Я бы хотел выложить мем про вайб кодинг"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eaa",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Faithmurod",
+      "author_name": "Bobomurod",
+      "datetime": 1747517206,
+      "image_url": "https://chat.radio-t.com/logs/961/AgACAgIAAx0CUPxcWQABCZl5aCj_Fj5xC63A2O6ahmB_tKBGE3sAAlf7MRu0_UlJZLH4-rbiPl8BAAMCAAN5AAM2BA",
+      "image_width": 1164,
+      "image_height": 823,
+      "text": ""
+    },
+    {
+      "id": "683ab5838150e3bae24b4eab",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747517821,
+      "text": "Как-то в машине ехал и думал, а что если наш мир не симуляция, а нейронка продолжающая токены. Вот я видел дорогу, потом вижу чуть другую дорогу, думаю про что-то, о чём думал ранее -- и это просто логическое продолжение предыдущего состояния."
+    },
+    {
+      "id": "683ab5838150e3bae24b4eac",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1747517867,
+      "image_url": "https://chat.radio-t.com/logs/961/AgACAgIAAx0CUPxcWQABCZl7aCkBq6OxIztKhXlpUZ70qg7mZAsAAmr7MRu0_UlJJG8kseHdE5gBAAMCAAN5AAM2BA",
+      "image_width": 1032,
+      "image_height": 1000,
+      "text": ""
+    },
+    {
+      "id": "683ab5838150e3bae24b4ead",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1747517887,
+      "text": "\u003ca href=\"https://github.com/denismm/mystical_ps\"\u003ehttps://github.com/denismm/mystical_ps\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eae",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747518234,
+      "text": "⚠️ Push Ifs Up And Fors Down - \u003ca href=\"https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html\"\u003ehttps://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eaf",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747518239,
+      "text": "\u003cstrong\u003ePush Ifs Up And Fors Down\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eСтатья обсуждает правила \u0026#34;перемещения условий if вверх и циклов for вниз\u0026#34;, чтобы упростить управление потоком и повысить производительность кода, улучшая его читаемость и уменьшение ошибок.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Перемещение условий**: Условные проверки (если) могут быть перенесены к вызывающей функции для уменьшения вложенности.\u003cbr/\u003e- **Предварительные условия**: Предварительные условия должны проверяться в вызывающем коде, а не в самой функции.\u003cbr/\u003e- **Централизация логики**: Собирая потоки управления в одном месте, легче выявить лишние ветви и повысить читаемость.\u003cbr/\u003e- **Рефакторинг перечислений**: Упрощение структуры перечислений может уменьшить сложность и дублирование кода.\u003cbr/\u003e- **Обработка пакетов объектов**: Работа с батчами объектов увеличивает производительность, позволяя выполнять операции параллельно.\u003cbr/\u003e- **Оптимизация циклов**: Совмещение условий в циклах позволяет избежать повторной проверки условий и повышает производительность.\u003cbr/\u003e- **Архитектура и производительность**: Эти рекомендации связаны с архитектурными подходами, например, в TigerBeetle, для увеличения эффективности обработки данных."
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb0",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747518653,
+      "text": "Такое компилятор наверное может и превратить в GOOD, наверное, оно не зависит от значения в итераторе."
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb1",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747518742,
+      "text": "⚠️ ClojureScript - 1.12.42 Release - \u003ca href=\"https://clojurescript.org/news/2025-05-16-release\"\u003ehttps://clojurescript.org/news/2025-05-16-release\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb2",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747518746,
+      "text": "\u003cstrong\u003eClojureScript - 1.12.42 Release\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка:**  \u003cbr/\u003eClojureScript 1.12.42 восстановил стабильность Google Closure Library после его изменения в 2019 году. Поддержка GCL была возобновлена, улучшая совместимость существующих библиотек и предлагая надежные инструменты для различных JavaScript контекстов.\u003cbr/\u003e\u003cbr/\u003e- Google прекратил поддержку Google Closure Library в августе 2021 года.\u003cbr/\u003e- ClojureScript fork\u0026#39;нул Google Closure Library для его поддержки.\u003cbr/\u003e- Обновление улучшает совместимость с существующими библиотеками ClojureScript.\u003cbr/\u003e- ClojureScript теперь поддерживает широкий спектр JavaScript контекстов, не ограничиваясь браузером.\u003cbr/\u003e- Предлагает функционал для DOM, интернационализации, анимации и управления графикой.\u003cbr/\u003e- Сохраняет легкость финального JavaScript фрагмента, не нагружая его.\u003cbr/\u003e- Оригинальная стабильность ClojureScript возвращается, подкрепляя его позиции среди современных технологий."
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb3",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1747518752,
+      "text": "Он пишет на новом с новую бд для финтеха тигербитл помойму"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb4",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1747518800,
+      "text": "Зиг точно"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb5",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "souvlakee",
+      "author_name": "Maksim Muravev",
+      "datetime": 1747518821,
+      "text": "А ничего нового моднее Anytype не выходило еще? (уверен, что bobuk этим уже пользуется, только молчит)"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb6",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747518841,
+      "text": "О, видел у праймогена вроде, это там где прям игру красивую нарисовали, где симуляция распределённости и можно ноды гасить/изолировать им сеть и всё такое?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb7",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1747518856,
+      "text": "Да да они"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb8",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1747518907,
+      "text": "\u003ca href=\"https://github.com/tigerbeetle/tigerbeetle\"\u003ehttps://github.com/tigerbeetle/tigerbeetle\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eb9",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1747519067,
+      "text": "Не думал что гугл юзает кложа скрипт так сильно что форкнули"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eba",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747519322,
+      "text": "⚠️ I Picked Golang for My Startup — Biggest Mistake of My Life | by Yashbatra | Apr, 2025 | Medium - \u003ca href=\"https://medium.com/@yashbatra11111/i-picked-golang-for-my-startup-biggest-mistake-of-my-life-970153e45a6a\"\u003ehttps://medium.com/@yashbatra11111/i-picked-golang-for-my-startup-biggest-mistake-of-my-life-970153e45a6a\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ebb",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747519326,
+      "text": "\u003cstrong\u003eI Picked Golang for My Startup — Biggest Mistake of My Life | by Yashbatra | Apr, 2025 | Medium\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Summary\u003cbr/\u003eAuthor reflects on the challenges faced after choosing Golang for a fintech startup. Despite initial appeal, it hampered productivity and slowed down progress, leading to regrets.\u003cbr/\u003e\u003cbr/\u003e### Bullet Points\u003cbr/\u003e- Выбор языка действительно влияет на культуру и рост стартапа.\u003cbr/\u003e- Golang показался современным и быстрым, что привлекло внимание.\u003cbr/\u003e- Обещание высокой производительности оказалось обманчивым.\u003cbr/\u003e- Простота синтаксиса не всегда компенсировала сложности в разработке.\u003cbr/\u003e- Goroutines не обеспечили желаемую масштабируемость в реальных условиях.\u003cbr/\u003e- Ожидания резко контрастировали с жестокой реальностью.\u003cbr/\u003e- Автор выражает сожаление о своем выборе и его последствиях."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ebc",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747519409,
+      "text": "Как легко разработчиков сломать, заставить if\u0026#39;ы писать."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ebd",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1747519664,
+      "text": "в питоне есть DI?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ebe",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1747519702,
+      "text": "дофига разных"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ebf",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1747519852,
+      "text": "DI есть везде"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec0",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1747519910,
+      "text": "Я расстраиваюсь что у нас затащили gorm"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec1",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747519916,
+      "text": "Немного совсем писал на спринге -- так и не особо понял, чем хорошо что просишь в аргументы/поля какой-нибудь интерфейс/класс и его тебе приносят и... фиг потом найдёшь, откуда он прилетает то, если не знаешь что где-то есть \u003ccode\u003e@Component\u003c/code\u003e или ещё чего-нибудь такого. И без пары лет опыта не будешь знать, что можешь заиспользовать то.\u003cbr/\u003e\u003cbr/\u003eКак-то душевнее иметь просто god object, в котором весь контекст приложения и из которого можно достать экземпляры классов которые нужны, который передаётся явно везде. Потом сильно проще раскопать его создание\u0026amp;инициализацию и понять, что именно там используется. И сразу можешь узнать, что вообще можешь использовать, посмотрев на этот объект."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec2",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1747520005,
+      "text": "так клиенты кафки под все языки по сути говно, кроме джавы"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec3",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1747520025,
+      "text": "Confluent вообще хрен клала на опенсорс, почти все их компоненты в полузаброшенном состоянии"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec4",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747520174,
+      "text": "А раньше стартапы на ruby on rails все делали)"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec5",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1747520206,
+      "text": "А на основе каких критериев они выбрали го?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec6",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747520208,
+      "text": "⚠️ Coding agent in 94 lines of Ruby | Radan Skorić\u0026#39;s website - \u003ca href=\"https://radanskoric.com/articles/coding-agent-in-ruby\"\u003ehttps://radanskoric.com/articles/coding-agent-in-ruby\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec7",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747520212,
+      "text": "\u003cstrong\u003eCoding agent in 94 lines of Ruby | Radan Skorić\u0026#39;s website\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003e\u003cbr/\u003eСтатья описывает создание простого кода-агента на Ruby всего из 94 строк. Агент использует инструменты для чтения, редактирования и выполнения команд, упрощая взаимодействие с кодом.\u003cbr/\u003e\u003cbr/\u003e- Агент строится на основе Ruby с использованием RubyLLM.\u003cbr/\u003e- Изначально программа создает чат-цикл для взаимодействия.\u003cbr/\u003e- Необходимы три инструмента: чтение файла, перечисление файлов и редактирование файлов.\u003cbr/\u003e- Гибкость Ruby позволяет избежать большого количества шаблонного кода.\u003cbr/\u003e- Агент способен выполнить программный код после подтверждения пользователя.\u003cbr/\u003e- Итоговый код составляет всего 94 строки.\u003cbr/\u003e- Полный код доступен на GitHub: radanskoric/coding_agent."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec8",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747520297,
+      "text": "\u0026gt; I picked Golang. It was sleek, modern, fast, and hip. And for our early-stage startup in fintech, it seemed like the obvious choice.\u003cbr/\u003e\u003cbr/\u003eПо хайпу видимо и перф нужен был (а потом вдруг не особо)."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ec9",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747520723,
+      "text": "Когда код редактируем, можно смотреть на него не как на текст, а как на AST и чтобы нейронка части деревьев заменяла."
+    },
+    {
+      "id": "683ab5838150e3bae24b4eca",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1747520889,
+      "text": "А проверить, что в нем есть все что хочется? Финтех? Там же обычно Ява. Какие у нее проблемы с производительностью?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ecb",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521077,
+      "text": "⚠️ The Era of High-Paying Tech Jobs is Over | by Somnath Singh | Level Up Coding - \u003ca href=\"https://levelup.gitconnected.com/the-era-of-high-paying-tech-jobs-is-over-572e4e577758\"\u003ehttps://levelup.gitconnected.com/the-era-of-high-paying-tech-jobs-is-over-572e4e577758\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ecc",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521082,
+      "text": "\u003cstrong\u003eThe Era of High-Paying Tech Jobs is Over | by Somnath Singh | Level Up Coding\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eЭра высокооплачиваемых технологических профессий подошла к концу. Как в 5 веке, с приходом новых технологий, старые навыки теряют свою ценность, открывая двери для большей доступности.\u003cbr/\u003e\u003cbr/\u003e### Основные положения\u003cbr/\u003e- В 5 веке писцы были высоко ценимыми профессионалами.\u003cbr/\u003e- Они сохраняли важные знания для будущих поколений.\u003cbr/\u003e- Изобретение печатного пресса Гутенберга изменило ситуацию.\u003cbr/\u003e- Доступ к письменности стал более широким.\u003cbr/\u003e- Умение писать перестало быть исключительным талантом.\u003cbr/\u003e- Высокая стоимость технологических профессий снизилась.\u003cbr/\u003e- В обществе возникло новое понимание образования и навыков."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ecd",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1747521752,
+      "text": "\u003ca href=\"https://github.com/umputun/tg-spam/pull/300\"\u003ehttps://github.com/umputun/tg-spam/pull/300\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ece",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521815,
+      "text": "⚠️ Темы слушателей 961 - \u003ca href=\"https://radio-t.com/p/2025/05/13/prep-961/\"\u003ehttps://radio-t.com/p/2025/05/13/prep-961/\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ecf",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521831,
+      "text": "[1/14] \u003cstrong\u003e+11\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eStackOverflow стремительно теряет аудиторию и собрался на ребрендинг\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://devclass.com/2025/05/13/stack-overflow-seeks-rebrand-as-traffic-continues-to-plummet-which-is-bad-news-for-developers/\"\u003ehttps://devclass.com/2025/05/13/stack-overflo...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eStack Overflow seeks rebrand as traffic continues to plummet – which is bad news for developers • DEVCLASS\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eStack Overflow ищет ребрендинг из-за резкого падения трафика, что может негативно сказаться на разработчиках.\u003cbr/\u003e\u003cbr/\u003e- Stack Overflow наблюдает снижение трафика, что вызывает серьезные опасения.\u003cbr/\u003e- Ребрендинг может стать ответом на текущие проблемы платформы.\u003cbr/\u003e- Разработчики могут столкнуться с нехваткой ресурсов и поддержки.\u003cbr/\u003e- Изменения в интерфейсе могут привлечь новых пользователей.\u003cbr/\u003e- Подобные изменения могут вызвать критику от постоянных пользователей.\u003cbr/\u003e- Важно, чтобы ребрендинг сохранял основное предназначение сайта.\u003cbr/\u003e- Обсуждения о будущем Stack Overflow ведутся среди разработчиков."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed0",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521831,
+      "text": "[2/14] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003eMarat Amerov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGolang хотят запускать на bare metal\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/golang/go/issues/73608\"\u003ehttps://github.com/golang/go/issues/73608\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eproposal: all: add bare metal support · Issue #73608 · golang/go · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eПредлагается добавление поддержки bare metal в Go, что позволит запускать приложения без зависимостей от операционной системы. Это улучшит возможность использования Go в встроенных системах.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Поддержка нового целевого GOOS**: предлагается добавить `GOOS=none` для запуска приложений Go без ОС.\u003cbr/\u003e- **Использование драйверов на Go**: необходима поддержка драйверов, написанных также на Go.\u003cbr/\u003e- **Инициализация аппаратного обеспечения**: обязательны функции для предсистемной инициализации аппаратного обеспечения.\u003cbr/\u003e- **Сетевое взаимодействие**: необходимо определение внешней функции сокета для сетевого ввода-вывода.\u003cbr/\u003e- **Поддержка многопоточности**: функции для пробуждения горутин должны быть внедрены.\u003cbr/\u003e- **Программирование без ОС**: Go-приложения могут выполняться напрямую на аппаратном обеспечении.\u003cbr/\u003e- **Документация и примеры**: уже доступны примеры изменений и документация в репозиториях."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed1",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521832,
+      "text": "[3/14] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eApple выкатили новое поколение CarPlay Ultra\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/\"\u003ehttps://www.apple.com/newsroom/2025/05/carpla...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCarPlay Ultra, the next generation of CarPlay, begins rolling out today - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eCarPlay Ultra, новое поколение CarPlay, начинается с выпуска сегодня. Оно предлагает более глубокую интеграцию, включая отображение данных на всех экранах автомобиля и возможность управления функциями через экран, механические кнопки или Siri.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- CarPlay Ultra обеспечивает красивую и динамичную информацию на всех экранах автомобиля.\u003cbr/\u003e- Водители могут отображать данные с iPhone и автомобиля на одном экране.\u003cbr/\u003e- Упрощенно управление стандартными и специфическими функциями автомобиля.\u003cbr/\u003e- Доступны виджеты, оптимизированные для экранов автомобиля.\u003cbr/\u003e- Информация отображается на групповом приборе и экране автомобиля.\u003cbr/\u003e- Управление аудиосистемой и настройками модуляции может происходить через CarPlay.\u003cbr/\u003e- Синхронизация информации позволяет более плавный и последовательный пользовательский опыт."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed2",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521832,
+      "text": "[4/14] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003ezakerikk\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eIan Lance Taylor Has Left Google — One of the most active contributors to Go (and the initial creator of the Go frontend for GCC) has left Google and, in turn, the Go project, though he hopes to return as a contributor one day.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.airs.com/blog/archives/670\"\u003ehttps://www.airs.com/blog/archives/670\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eLeaving Google – Airs – Ian Lance Taylor\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eИэн Ланс Тейлор покинул Google после 19 лет работы, в основном посвященной языку программирования Go. Он отметил развитие Go и необходимость дальнейших изменений в ответ на меняющиеся потребности программистов, выражая надежду на будущий вклад в язык.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Иэн работал в Google 19 лет, с 2008 года на проекте Go.\u003cbr/\u003e- Go был создан Р. Пайком, К. Томпсоном и Р. Гриземером в 2007 году.\u003cbr/\u003e- Он добавил поддержку Go в внутреннюю систему сборки Google и был менеджером команды.\u003cbr/\u003e- Генерики были добавлены в Go 1.18 в 2022 году, результат его сотрудничества с Р. Гриземером.\u003cbr/\u003e- Тейлор осознает, что языки программирования должны развиваться с изменениями в среде разработки.\u003cbr/\u003e- Он считает, что Go не закончен и надеется вновь участвовать в его развитии.\u003cbr/\u003e- Иэн делает перерыв, но сохраняет интерес к языку Go и его будущему."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed3",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747521832,
+      "text": "[5/14] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eTebriz Tagiev\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eПейпер о том, как сильно деградирует качество LLM при multi-turn диалоге в отличие от single-turn подхода.\u003cbr/\u003e\u003cbr/\u003eПейпер: \u003c/em\u003e\u003ca href=\"https://arxiv.org/abs/2505.06120\"\u003ehttps://arxiv.org/abs/2505.06120\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eРазбор для ленивых: \u003c/em\u003e\u003ca href=\"https://x.com/omarsar0/status/1922755721428598988?s=46\u0026amp;t=CVwkKoRjlIzjDOcwiO1AJA\"\u003ehttps://x.com/omarsar0/status/192275572142859...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eОбсуждение на HN: \u003c/em\u003e\u003ca href=\"https://news.ycombinator.com/item?id=43991256\"\u003ehttps://news.ycombinator.com/item?id=43991256\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e[2505.06120] LLMs Get Lost In Multi-Turn Conversation\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003e\u003cbr/\u003eСтатья обсуждает, как большие языковые модели (LLMs) могут затрудняться в многоходовом разговоре. arXivLabs предоставляет платформу для разработки инновационных функций с акцентом на сообщество, открытость и конфиденциальность данных пользователей.\u003cbr/\u003e\u003cbr/\u003e## Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Многоходовой разговор**: LLMs могут теряться в длинных и сложных диалогах, что затрудняет понимание контекста.\u003cbr/\u003e  \u003cbr/\u003e- **arXivLabs**: Платформа для совместной работы над новыми функциями на арXiv, способствующая инновациям.\u003cbr/\u003e\u003cbr/\u003e- **Ценности**: Основные принципы включают открытость, сообщество, отличное качество и конфиденциальность данных пользователей.\u003cbr/\u003e\u003cbr/\u003e- **Сотрудничество**: Индивидуальные пользователи и организации могут участвовать в разработке функций, соответствующих ценностям arXiv.\u003cbr/\u003e\u003cbr/\u003e- **Идеи проектов**: arXivLabs открыты для новых идей, которые могут улучшить опыт пользователей.\u003cbr/\u003e\u003cbr/\u003e- **Экспериментальные проекты**: Платформа поддерживает разнообразные экспериментальные инициативы для улучшения функционала и взаимодействия на сайте.\u003cbr/\u003e\u003cbr/\u003e- **Приверженность**: arXiv работает только с партнерами, разделяющими их ценности и обязательства."
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed4",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1747522362,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e low rider - это Харлей?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed5",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1747522594,
+      "text": "да \u003ca href=\"https://www.harley-davidson.com/us/en/motorcycles/low-rider-s.html\"\u003ehttps://www.harley-davidson.com/us/en/motorcycles/low-rider-s.html\u003c/a\u003e"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed6",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1747522970,
+      "text": "Protonу надо в Швецию - там можно не собирать"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed7",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MaxZhurkin",
+      "author_name": "Maxim N",
+      "datetime": 1747523122,
+      "text": "SeaLand?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed8",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1747523124,
+      "text": "SeaLand — это микрогосударство на платформе в Северном море. Забавно, как маленькие территории могут создавать уникальные истории. Ты о нем что-то слышал?"
+    },
+    {
+      "id": "683ab5838150e3bae24b4ed9",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MaxZhurkin",
+      "author_name": "Maxim N",
+      "datetime": 1747523158,
+      "text": "я с запозданием слушаю"
+    },
+    {
+      "id": "683ab5838150e3bae24b4eda",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1747523215,
+      "text": "Будто бы кто-то балисонгом балуется на фоне))"
+    },
+    {
+      "id": "683ab5838150e3bae24b4edb",
+      "issue": 961,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1747523239,
+      "text": "\u003ca href=\"https://sp.freehat.cc/episode/1312/about/\"\u003ehttps://sp.freehat.cc/episode/1312/about/\u003c/a\u003e"
+    }
+  ]
+}

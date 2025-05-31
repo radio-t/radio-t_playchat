@@ -1,0 +1,88 @@
+{
+  "issue": 961,
+  "date": "2025-05-17",
+  "audio": "https://cdn.radio-t.com/rt_podcast961.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt961.jpg",
+  "start_time": 1747513385,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Еще один Codex, совсем другой",
+      "links": [
+        "https://openai.com/index/introducing-codex/"
+      ],
+      "time": "00:16:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Vibe Coding стимулирует не то, что надо",
+      "links": [
+        "https://uxdesign.cc/the-perverse-incentives-of-vibe-coding-23efbaf75aee?gi=630ceb0b8b2b"
+      ],
+      "time": "00:43:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AlphaEvolve - интересно и необычно",
+      "links": [
+        "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"
+      ],
+      "time": "00:56:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Куда девать if и куда for",
+      "links": [
+        "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
+      ],
+      "time": "01:20:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "ClojureScript - 1.12.42 и его непростая судьба",
+      "links": [
+        "https://clojurescript.org/news/2025-05-16-release"
+      ],
+      "time": "01:29:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Go ему не подошел",
+      "links": [
+        "https://medium.com/@yashbatra11111/i-picked-golang-for-my-startup-biggest-mistake-of-my-life-970153e45a6a"
+      ],
+      "time": "01:38:56"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Coding agent самым простым способом",
+      "links": [
+        "https://radanskoric.com/articles/coding-agent-in-ruby"
+      ],
+      "time": "01:53:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Высоких зарплат в хайтеке больше не ждите",
+      "links": [
+        "https://levelup.gitconnected.com/the-era-of-high-paying-tech-jobs-is-over-572e4e577758"
+      ],
+      "time": "02:08:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/05/13/prep-961/"
+      ],
+      "time": "02:20:30"
+    }
+  ],
+  "tags": null
+}
