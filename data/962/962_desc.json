@@ -1,0 +1,64 @@
+{
+  "issue": 962,
+  "date": "2025-05-24",
+  "audio": "https://cdn.radio-t.com/rt_podcast962.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt962.jpg",
+  "start_time": 1748118661,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude 4",
+      "links": [
+        "https://www.anthropic.com/news/claude-4"
+      ],
+      "time": "00:14:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Copilot в качестве неудачного парного программиста",
+      "links": [
+        "https://deplet.ing/the-copilot-delusion/"
+      ],
+      "time": "00:41:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI купит что-то у Jony Ive за $6.5 миллиардов",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal"
+      ],
+      "time": "01:05:10"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google I/O 2025",
+      "links": [
+        "https://techcrunch.com/2025/05/20/google-i-o-2025-everything-announced-at-this-years-developer-conference/"
+      ],
+      "time": "01:26:03"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "spring-rs - не спринг, но для раста",
+      "links": [
+        "https://github.com/spring-rs/spring-rs/blob/master/README.md"
+      ],
+      "time": "01:51:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/05/20/prep-962/"
+      ],
+      "time": "01:59:52"
+    }
+  ],
+  "tags": null
+}
