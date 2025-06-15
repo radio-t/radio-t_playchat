@@ -1,0 +1,1031 @@
+{
+  "chat": [
+    {
+      "id": "684e3f05abc5a63be54c09bc",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1749326384,
+      "text": "слышу голоса, пока что только в голове"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09bd",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1749326500,
+      "text": "а холодильник, холодильник ты слышишь?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09be",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1749326547,
+      "text": "дак да, но только в голове пока"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09bf",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1749326662,
+      "text": "о, голоса"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c0",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gogol1809",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1749326672,
+      "text": "когда?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c1",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749326672,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 4мин 32сек назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 55мин 27сек"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c2",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1749326674,
+      "text": "похоже это массовое помешательство"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c3",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1749326677,
+      "text": "ну всё, наконекцто"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c4",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749327292,
+      "text": "опять в ремонте)"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c5",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1749327497,
+      "text": "Что за бот подбора новостей? Интересно"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c6",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749327638,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c7",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1749327692,
+      "text": "Доколе?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c8",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749327742,
+      "text": "\u003cem\u003eникто не знает. пока не надоест\u003c/em\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09c9",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1749328173,
+      "text": "хороший пример- будьте все милиардерами"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ca",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749328189,
+      "text": "В этой аналогии Ксюша - Трамп"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09cb",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749328194,
+      "text": "Так кто Трамп?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09cc",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749328296,
+      "text": "Там же все всем донатят - на всякий случай."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09cd",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749328892,
+      "text": "⚠️ Amazon Looks to Replace Pesky Paid Workers With Humanoid Bots That Don\u0026#39;t Need to Pee - \u003ca href=\"https://gizmodo.com/amazon-looks-to-replace-pesky-paid-workers-with-humanoid-bots-that-dont-need-to-pee-2000611805\"\u003ehttps://gizmodo.com/amazon-looks-to-replace-pesky-paid-workers-with-humanoid-bots-that-dont-need-to-pee-2000611805\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ce",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749328900,
+      "text": "\u003cstrong\u003eAmazon Looks to Replace Pesky Paid Workers With Humanoid Bots That Don\u0026#39;t Need to Pee\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eAmazon plans to test humanoid robots for package delivery in an effort to enhance automation and reduce reliance on human workers. The robots will emerge from delivery vans to drop packages at customers\u0026#39; doorsteps, marking a significant step in the company\u0026#39;s logistical advancements.\u003cbr/\u003e\u003cbr/\u003e- Amazon\u0026#39;s factories already utilize various robotic systems, enhancing operational efficiency.\u003cbr/\u003e- The company intends to deploy humanoid robots for last-mile delivery.\u003cbr/\u003e- Testing will occur at a small indoor park in San Francisco.\u003cbr/\u003e- Robots aim to eliminate labor-related challenges, reducing union risks.\u003cbr/\u003e- Amazon simultaneously develops AI software for robot navigation.\u003cbr/\u003e- Concerns remain regarding robots adapting to complex delivery environments.\u003cbr/\u003e- The timeline for real-world applications of these robots is currently unspecified.\u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003eAmazon планирует протестировать гуманоидных роботов для доставки пакетов в попытке повысить автоматизацию и снизить зависимость от человеческой рабочей силы. Роботы будут выходить из фургонов для доставки и оставлять пакеты у дверей клиентов, что станет значительным шагом в логистических усовершенствованиях компании.\u003cbr/\u003e\u003cbr/\u003e- На заводах Amazon уже используются различные роботизированные системы, повышающие операционную эффективность.\u003cbr/\u003e- Компания намерена развернуть гуманоидных роботов для последней мили доставки.\u003cbr/\u003e- Испытания пройдут в небольшом крытом парке в Сан-Франциско.\u003cbr/\u003e- Роботы нацелены на устранение трудовых проблем и снижение рисков создания профсоюзов.\u003cbr/\u003e- Amazon также разрабатывает программное обеспечение для навигации роботов с использованием ИИ.\u003cbr/\u003e- Существуют опасения, что роботам будет сложно адаптироваться к сложным условиям доставки.\u003cbr/\u003e- Сроки внедрения этих роботов в реальный мир в настоящее время неясны."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09cf",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1749329112,
+      "text": "Да вон метро или поезда почему-то автономными сделать не могут, но самодвижущиеся тележки зачем-то хотят сделать."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d0",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1749329190,
+      "text": "а чинить потом как?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d1",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749329242,
+      "text": "универсальные, но неэффективные"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d2",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1749329404,
+      "text": "в израиле бананы выращивают"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d3",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1749329645,
+      "text": "Экономическая невыгодность, потому что воды много надо, а не цена сотрудников"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d4",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749329669,
+      "text": "это все из-за джаваскрипта"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d5",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1749329798,
+      "text": "в израиле опресняют воду из моря. думаю не дешевле"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d6",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749329845,
+      "text": "⚠️  On | No  syntactic support for error handling - The Go Programming Language - \u003ca href=\"https://go.dev/blog/error-syntax\"\u003ehttps://go.dev/blog/error-syntax\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d7",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749329850,
+      "text": "\u003cstrong\u003e[ On | No ] syntactic support for error handling - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eGo сталкивается с постоянной критикой из-за скучности обработки ошибок. Команда Go пыталась решить эту проблему через различные предложения, но ни одно из них не получило явной поддержки. Тем не менее, в сообществе продолжаются обсуждения, и отсутствие изменений может сохраняться в будущем.\u003cbr/\u003e\u003cbr/\u003e- Обработка ошибок в Go считается слишком многословной и мешает читаемости кода.\u003cbr/\u003e- Команда Go опробовала несколько предложений, чтобы улучшить синтаксис обработки ошибок.\u003cbr/\u003e- Ни одно из предложений не достигло консенсуса в сообществе и было отклонено.\u003cbr/\u003e- Многие программисты интересуются улучшением, но на практике это по-прежнему не так критично.\u003cbr/\u003e- Некоторые разработчики утверждают, что текущее состояние обработки ошибок вполне приемлемо.\u003cbr/\u003e- Изменения в синтаксисе могут привести к дополнительно возможным недовольствам в сообществе.\u003cbr/\u003e- В ближайшее время никаких изменений в обработке ошибок в Go не ожидается."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d8",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749330102,
+      "text": "Но ведь ни check, ни try не отрицают обработку по-старому. Поэтому 2 операции вполне можно произвести."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09d9",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749330308,
+      "text": "Эти варианты просто позволяют пробросить ошибку наверх без вызова return. Что вы выдумываете? Всё ваше любимое остается."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09da",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749330569,
+      "text": "Прочитай документацию, будешь знать"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09db",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749330593,
+      "text": "Быть как обычно"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09dc",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749330600,
+      "text": "Не используй знак вопроса в этом случае"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09dd",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749330606,
+      "text": "Через вызов return"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09de",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749330696,
+      "text": "Люди не видели языков с разными способами обработки ошибок? Там, прикиньте, можно использовать тот способ, который тебе выгоднее в данном случае."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09df",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749330765,
+      "text": "гошникам просто в кайф писать тонну монотонного кода"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e0",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dwsky",
+      "author_name": "Denis",
+      "datetime": 1749330808,
+      "text": "автономные поезда можно давно сделать. Это пассажирам страшно в таких, поэтому примеров беспилотных жд так мало по миру"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e1",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeytsaplin",
+      "author_name": "Sergey Tsaplin",
+      "datetime": 1749330817,
+      "text": "в Расте есть ? - это синтаксический сахар над условныым\u003cbr/\u003e\u003cpre\u003eif err != nil {\u003cbr/\u003e     return err\u003cbr/\u003e}\u003c/pre\u003e\u003cbr/\u003eНо если ты не написал ?, то тебе эту ошибку можешь обработать руками со всеми прелестями частичных резалтов и всякого такого"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e2",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749330856,
+      "text": "⚠️ Falsehoods Programmers Believe About Aviation - \u003ca href=\"https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/\"\u003ehttps://flightaware.engineering/falsehoods-programmers-believe-about-aviation/\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e3",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749330863,
+      "text": "\u003cstrong\u003eFalsehoods Programmers Believe About Aviation\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eСтатья обсуждает распространенные заблуждения программистов о данных в авиации. Неправильные предположения могут привести к ошибкам в системах отслеживания полетов, и важно правильно интерпретировать разнообразные ситуации для обеспечения точности и консистентности данных.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Предположения о рейсах**: Рейсы могут не всегда покидать свои ворота строго в запланированное время, и у них может быть несколько номеров рейсов.\u003cbr/\u003e- **Аэропорты**: Аэропорты могут иметь несколько кодов, и нумерация терминалов и ворот не всегда предсказуема.\u003cbr/\u003e- **Данные о полетах**: Информация от служб навигации может быть неточной, и данные о целях полетов не всегда актуальны.\u003cbr/\u003e- **Проблемы с ADS-B**: Не все одиночные сообщения ADS-B поступают только от самолетов; есть возможность ошибок в идентификации.\u003cbr/\u003e- **Транспондеры**: Не всегда транспондеры правильно программируются, и возможны сбои в их работе.\u003cbr/\u003e- **Ошибки в программном обеспечении**: Знания программистов о данных не всегда соответствуют реальной ситуации в авиации.\u003cbr/\u003e- **Необходимость внимательности**: Для точной обработки данных важна внимательность и постоянное обновление информации."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e4",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749331008,
+      "text": "систему просто не программисты писали, а тупые программисты"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e5",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749331077,
+      "text": "туркам"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e6",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1749331250,
+      "text": "\u003ca href=\"https://youtu.be/jfOUVYQnuhw?si=qtToOejctK6nLYqB\"\u003ehttps://youtu.be/jfOUVYQnuhw?si=qtToOejctK6nLYqB\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e7",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1749331279,
+      "text": "Здесь очень подробно рассказано"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e8",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1749331603,
+      "text": "И про номера на посадочных полосах:\u003cbr/\u003e\u003ca href=\"https://youtu.be/HSRmfNDk87s?si=hULA-iKWGHCXtPqq\"\u003ehttps://youtu.be/HSRmfNDk87s?si=hULA-iKWGHCXtPqq\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09e9",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749331692,
+      "text": "вот заменит нас ai тогда и заживем"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ea",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749331725,
+      "text": "Но узнают об этом не все."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09eb",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749331798,
+      "text": "Этот код на для тебя, Алексей, пишут, а для персонала, который тебя перевозит."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ec",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749331960,
+      "text": "пфф, люди австрию с австралией путают"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ed",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1749332009,
+      "text": "в Австрии есть специальный суппорт для тех кто перепутал"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ee",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1749332122,
+      "text": "у меня в Мюнхене есть 2 рейса в Варшаву которые вылетают в одно и тоже время - один Лотом второй Люфтганзой и обычно бегущие люди по терминалу это те которые перепутали гейты:)"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ef",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749332141,
+      "text": "Это фейк вроде был."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f0",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1749332152,
+      "text": "не)"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f1",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1749332161,
+      "text": "Честное слово. Посмотрите сначала видео. Там рассказывают откуда вся это жопа взялась"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f2",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749332250,
+      "text": "как раз умпутун вернется"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f3",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1749332257,
+      "text": "да, читают"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f4",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1749332328,
+      "text": "в амазоне onepager и sixpager не больше"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f5",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1749332339,
+      "text": "так что читать норм в начале"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f6",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749332355,
+      "text": "Видео можно до совещания посмотреть"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f7",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749332368,
+      "text": "⚠️ Apple Has a Huge Siri Problem That WWDC 2025 Probably Won\u0026#39;t Fix - \u003ca href=\"https://gizmodo.com/apple-has-a-huge-siri-problem-that-wwdc-2025-probably-wont-fix-2000612362\"\u003ehttps://gizmodo.com/apple-has-a-huge-siri-problem-that-wwdc-2025-probably-wont-fix-2000612362\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f8",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1749332370,
+      "text": "В Амазоне не делают презентаций, все тупо читают документ а потом задают вопросы."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09f9",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749332374,
+      "text": "\u003cstrong\u003eApple Has a Huge Siri Problem That WWDC 2025 Probably Won\u0026#39;t Fix\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eУ Apple есть значительная проблема с Siri, и WWDC 2025 вряд ли её решит. Несмотря на обновления iOS и других платформ, задержки в интеграции ИИ оставляют компанию позади конкурентов. Давление на Apple нарастает, и предстоящая конференция может оказаться решающей.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Apple с трудом развивает Siri после запуска Apple Intelligence в октябре 2024 года.\u003cbr/\u003e- Обновления Siri отложены, инженеры не смогли устранить ошибки, и ожидания в целом не утешительные.\u003cbr/\u003e- Конференция WWDC 2025 несет высокие ставки для Apple, чтобы показать свои возможности в ИИ.\u003cbr/\u003e- Большинство пользователей не слишком заинтересованы в ИИ-особенностях на своих устройствах.\u003cbr/\u003e- Конкуренты, такие как Samsung и Google, продолжают развивать свои ИИ-функции.\u003cbr/\u003e- Apple может сосредоточиться на визуальном обновлении iOS, отвлекая внимание от недочетов в ИИ.\u003cbr/\u003e- Огромное внимание к ИИ может привести к изменениям в будущем, если Apple не успеет за конкурентами."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09fa",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1749332457,
+      "text": "Вы еще бинго поле сделайте =)"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09fb",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749332634,
+      "text": "а нафига эти умные ассистенты на телефонах? Лучше бы homepod обновили"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09fc",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749332690,
+      "text": "Действительно. Кто в наше время пользуется телефоном? Все же с хомподами."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09fd",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749332711,
+      "text": "и много ты с телефоном разговариваешь?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c09fe",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749332769,
+      "text": "Постоянно, там ещё человек есть другой дальше телефона."
+    },
+    {
+      "id": "684e3f05abc5a63be54c09ff",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1749332792,
+      "text": "почему этой проблемы нет на андроиде с gemini?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a00",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749332794,
+      "text": "Наверное, потому что Gemini лучше обрабатывает звонки и связи. У андроида есть больше свободы настройки, и это может сыграть на руку. А как ты сам, часто пользуешься?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a01",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749333030,
+      "text": "фи"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a02",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749333041,
+      "text": "вот Ксюша и спалила свои извращённые вкусы"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a03",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749333062,
+      "text": "то есть у нее муж мясо любит?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a04",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749333107,
+      "text": "Из нового говорит - нойз мс)))))"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a05",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749333117,
+      "text": "взоржал, извините)"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a06",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749333179,
+      "text": "Надо быдло говорить сео"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a07",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1749333182,
+      "text": "русской сири можно названия  англ песен на русском говорить(перевод), срабатывает лучше"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a08",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeytsaplin",
+      "author_name": "Sergey Tsaplin",
+      "datetime": 1749333184,
+      "text": "ну новее ДДТ и Корол ай шат"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a09",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749333701,
+      "text": "Ксюша подразумевает пассажира без интеллекта? Почему противопоставление?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a0a",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1749333704,
+      "text": "Попробуй grok+deepsearch."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a0b",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeytsaplin",
+      "author_name": "Sergey Tsaplin",
+      "datetime": 1749333754,
+      "text": "Илон, ты ли это?!)"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a0c",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1749333983,
+      "text": "Эта заправка снималась в The Electric State?"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a0d",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749334060,
+      "text": "⚠️ Max Mitchell | I Read All Of Cloudflare\u0026#39;s Claude-Generated Commits - \u003ca href=\"https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/\"\u003ehttps://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a0e",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749334065,
+      "text": "\u003cstrong\u003eMax Mitchell | I Read All Of Cloudflare\u0026#39;s Claude-Generated Commits\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003eОбсуждается процесс разработки библиотеки OAuth 2.1 от Cloudflare, написанной с помощью искусственного интеллекта Claude. Документация сохраняет каждую итерацию и взаимодействие человека с машиной, создавая новый подход к совместной разработке.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Cloudflare открыла свою библиотеку OAuth 2.1, в основном написанную Claude.\u003cbr/\u003e- Все взаимодействия между человеком и AI задокументированы в сообщениях коммитов.\u003cbr/\u003e- Изначальный подход использовал примеры кода для уточнения запросов к AI.\u003cbr/\u003e- Эффективные запросы содержали контекст, объяснения и конкретные направления.\u003cbr/\u003e- Инструменты AI изначально страдают от ограничений и требуют человеческой корректировки.\u003cbr/\u003e- Открытие Claude Code обнажает новые динамики задач разработки и согласования.\u003cbr/\u003e- Возможно, что запросы станут основной частью разработки, переходя к самодокументированным логическим приложениям."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a0f",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749334189,
+      "text": "\u003ca href=\"https://github.com/cloudflare/workers-oauth-provider/\"\u003ehttps://github.com/cloudflare/workers-oauth-provider/\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a10",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749334990,
+      "text": "⚠️ Темы слушателей 964 - \u003ca href=\"https://radio-t.com/p/2025/06/03/prep-964/\"\u003ehttps://radio-t.com/p/2025/06/03/prep-964/\u003c/a\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a11",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749335000,
+      "text": "[1/9] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003eIlia Frenkel\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eКоманда Go больше не будет пытаться изменить синтакс обработки ошибок в Go: \u003c/em\u003e\u003ca href=\"https://go.dev/blog/error-syntax\"\u003ehttps://go.dev/blog/error-syntax\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eFor the foreseeable future, the Go team will stop pursuing syntactic language changes for error handling. We will also close all open and incoming proposals that concern themselves primarily with the syntax of error handling, without further investigation.\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eКак написал Роберт Гриземер (Robert Griesemer), было много разных попыток начиная с 2018 и все они ни к чему не привели.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e[ On | No ] syntactic support for error handling - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eGo сталкивается с постоянной критикой из-за скучности обработки ошибок. Команда Go пыталась решить эту проблему через различные предложения, но ни одно из них не получило явной поддержки. Тем не менее, в сообществе продолжаются обсуждения, и отсутствие изменений может сохраняться в будущем.\u003cbr/\u003e\u003cbr/\u003e- Обработка ошибок в Go считается слишком многословной и мешает читаемости кода.\u003cbr/\u003e- Команда Go опробовала несколько предложений, чтобы улучшить синтаксис обработки ошибок.\u003cbr/\u003e- Ни одно из предложений не достигло консенсуса в сообществе и было отклонено.\u003cbr/\u003e- Многие программисты интересуются улучшением, но на практике это по-прежнему не так критично.\u003cbr/\u003e- Некоторые разработчики утверждают, что текущее состояние обработки ошибок вполне приемлемо.\u003cbr/\u003e- Изменения в синтаксисе могут привести к дополнительно возможным недовольствам в сообществе.\u003cbr/\u003e- В ближайшее время никаких изменений в обработке ошибок в Go не ожидается."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a12",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749335000,
+      "text": "[2/9] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003ecbjok\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMeta и Yandex использовали уязвимость Android для отслеживания веб-активности пользователей, связывая данные браузера с приложениями через localhost\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://localmess.github.io/\"\u003ehttps://localmess.github.io/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCovert Web-to-App Tracking via Localhost on Android\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eМетоды скрытого отслеживания веб-приложений через localhost на Android позволяют приложениям получать данные о пользователе, нарушая их конфиденциальность. Хотя Meta и Yandex прекратили эту практику, она затрагивает миллиарды пользователей Android.\u003cbr/\u003e\u003cbr/\u003e- **Скрытое отслеживание:** Meta и Yandex использовали localhost для получения метаданных веб-браузеров.\u003cbr/\u003e- **Уязвимости:** Встроенные скрипты позволяют приложениям связывать информацию о пользователях с их действиями в браузерах.\u003cbr/\u003e- **Обход конфиденциальности:** Этот метод нарушает защитные меры, такие как режим инкогнито и очистка cookie.\u003cbr/\u003e- **Биллионы пользователей:** Статистика показывает, что этот метод затрагивает огромное количество владельцев Android.\u003cbr/\u003e- **Потенциальная угроза:** Зловредные приложения могут использовать эту уязвимость для шпионских действий.\u003cbr/\u003e- **Удаление скриптов:** На 3 июня 2023 года Meta/Facebook и Yandex прекратили отправку запросов на localhost.\u003cbr/\u003e- **Связь с идентификаторами:** Приложения могут связывать сеансы и куки с личными идентификаторами пользователей."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a13",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749335000,
+      "text": "[3/9] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eNikita Podelenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/\"\u003ehttps://techcrunch.com/2025/06/05/anthropic-c...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eAnthropic ограничила доступ стартапу Windsurf к своим ИИ-моделям Claude 3.5 и 3.7 после слухов о том, что Windsurf может быть приобретён OpenAI за $3 млрд. Сооснователь Anthropic Джаред Каплан заявил, что было бы странно продавать Claude конкуренту.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAnthropic co-founder on cutting access to Windsurf: \u0026#39;It would be odd for us to sell Claude to OpenAI\u0026#39; | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eАнтропик сократил доступ Windsurf к своим AI-моделям Claude из-за слухов о покупке Windsurf компанией OpenAI. Основатель Jared Kaplan подчеркнул, что они хотят сосредоточиться на устойчивых партнерских отношениях и развивать собственные AI-продукты, такие как Claude Code.\u003cbr/\u003e\u003cbr/\u003e- Jared Kaplan объяснил решение Anthropic ограничить доступ Windsurf к Claude.\u003cbr/\u003e- Сообщается о возможной сделке OpenAI по покупке Windsurf за $3 миллиарда.\u003cbr/\u003e- Windsurf выразила недовольство решением Anthropic и его последствиями.\u003cbr/\u003e- Anthropic планирует использовать свои вычислительные ресурсы для долгосрочных партнерств.\u003cbr/\u003e- Компания надеется увеличить доступность AI-моделей для пользователей в ближайшие месяцы.\u003cbr/\u003e- Kaplan сотрудничает с другими компаниями, разрабатывающими AI-инструменты, чтобы укрепить партнерские отношения.\u003cbr/\u003e- Anthropic сосредотачивается на создании своих агентских кодирующих продуктов, оставляя чат-ботов на втором плане."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a14",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749335000,
+      "text": "[4/9] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eBohdan Korablov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eCodex стал доступен для Plus подписчиков\u003cbr/\u003e\u003cbr/\u003eUpdate on June 3, 2025: Codex is now available to ChatGPT Plus users. We’re also enabling users to provide Codex with internet access during task execution. Please refer to the changelog⁠(opens in a new window) and docs⁠(opens in a new window) for more details\u003c/em\u003e"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a15",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749335000,
+      "text": "[5/9] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eRoninon\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.opera.com/ru/air\"\u003eOpera Air\u003c/a\u003e\u003cem\u003e – Introducing the world’s first browser with mindfulness at its core. Experience a focused, balanced, and stress-free web.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDownload Opera for computers - Opera\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eСкачайте браузер Opera для различных платформ, включая Windows, Mac, Linux и мобильные устройства. Opera предлагает безопасный и быстрый серфинг в Интернете с несколькими версиями для разных типов устройств. \u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Скачивание для Windows:** Доступны пакеты как для 64, так и для 32-битных версий.\u003cbr/\u003e- **Версии для Mac:** Поддержка различных загрузок, включая оффлайн-установки.\u003cbr/\u003e- **Linux:** Может быть загружен через RPM или SNAP пакеты.\u003cbr/\u003e- **Для Chromebook:** Установка доступна без Google Play.\u003cbr/\u003e- **Мобильные приложения:** Опции для Android, iOS и базовых телефонов.\u003cbr/\u003e- **Opera GX:** Специальная версия для геймеров на разных платформах.\u003cbr/\u003e- **Бета-версии и архивы:** Доступны для пользователей, желающих протестировать новые функции."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a16",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1749335327,
+      "text": "С выходом iPhone"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a17",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749335341,
+      "text": "всмысле быстро? его лет 5 убивали"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a18",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749336542,
+      "text": "Чувак который получил нобелевку за динамит тоже наверно о чём-то хорошем думал"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a19",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeytsaplin",
+      "author_name": "Sergey Tsaplin",
+      "datetime": 1749336632,
+      "text": "Нобелевка за динамит?) Звучит как масло масленное"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a1a",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "apnix",
+      "author_name": "Artemiy Titov",
+      "datetime": 1749336639,
+      "text": "Это был софт для игрушек в то время"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a1b",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1749336671,
+      "text": "Нобель? Нет, не получал."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a1c",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749336678,
+      "text": "да, немножко не так вспомнил"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a1d",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749336963,
+      "text": "Муравьи!"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a1e",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1749336986,
+      "text": "Бактерии =)\u003cbr/\u003eи тихоходки =)"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a1f",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1749337002,
+      "text": "не смешите термитов"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a20",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749337013,
+      "text": "Муравьи наверняка на го не пишут, точно более развитые чем люди"
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a21",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1749337246,
+      "text": "Где-то интервью недавно видел с Сергеем Брином, он говорил, что AI лучше всего работают, если угрожать физическим насилием. Я попробовал и действительно, очень помогает в тяжелых случаях пригрозить. Лучше помогает, чем если вежливо просить."
+    },
+    {
+      "id": "684e3f05abc5a63be54c0a22",
+      "issue": 964,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1749340538,
+      "text": "ну как оно? вам меня не хватало?"
+    }
+  ]
+}
