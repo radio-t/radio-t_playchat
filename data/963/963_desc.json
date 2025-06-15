@@ -1,0 +1,64 @@
+{
+  "issue": 963,
+  "date": "2025-05-31",
+  "audio": "https://cdn.radio-t.com/rt_podcast963.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt963.jpg",
+  "start_time": 1748722518,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Telegram получит $300M за то, что там будет Grok",
+      "links": [
+        "https://techcrunch.com/2025/05/28/xai-to-pay-300m-in-telegram-integrate-grok-into-app/"
+      ],
+      "time": "00:17:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Грязное программирование - наше все",
+      "links": [
+        "https://htmx.org/essays/codin-dirty/"
+      ],
+      "time": "00:31:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Arc закрылся окончательно",
+      "links": [
+        "https://browsercompany.substack.com/p/letter-to-arc-members-2025"
+      ],
+      "time": "01:11:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Изобретайте колеса",
+      "links": [
+        "https://endler.dev/2025/reinvent-the-wheel/"
+      ],
+      "time": "01:31:44"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Голосовой режим в Claude",
+      "links": [
+        "https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/"
+      ],
+      "time": "01:47:02"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/05/28/prep-963/"
+      ],
+      "time": "01:55:56"
+    }
+  ],
+  "tags": null
+}
