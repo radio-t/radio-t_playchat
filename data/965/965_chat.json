@@ -1,0 +1,1358 @@
+{
+  "chat": [
+    {
+      "id": "684e47e21faaecc73ce9be1b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "azazeo",
+      "author_name": "Dmitry Tabakerov",
+      "datetime": 1749931235,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgIAAx0CUPxcWQABCbBRaE3U4tUdxcrWefhdZi22E_l-cEQAAjb2MRsEnHBKoyaEC-l44_QBAAMCAAN5AAM2BA",
+      "image_width": 1169,
+      "image_height": 732,
+      "text": "Простите, но это просто прекрасно"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be1c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749931264,
+      "text": "iOS приложение вылетает при запуске"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be1d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "komarov_ilia",
+      "author_name": "Илья Комаров",
+      "datetime": 1749931293,
+      "text": "Все четко"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be1e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749931312,
+      "text": "ай молодцы!"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be1f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_izmal",
+      "author_name": "Anton",
+      "datetime": 1749931319,
+      "text": "всё хорошо, только видео что-то нет)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be20",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1749931357,
+      "text": "видео не хватает, правда)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be21",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749931389,
+      "text": "Контекст: Приложение Радио-Т вылетает призапуске на iOS 18.5"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be22",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749931435,
+      "text": "прямо двое из ларца\u003cbr/\u003e\u0026gt; да наоборот"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be23",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749931436,
+      "text": "Уже третью неделю("
+    },
+    {
+      "id": "684e47e21faaecc73ce9be24",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749931479,
+      "text": "о каком приложении речь?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be25",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749931772,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgIAAx0CUPxcWQABCbBfaE3W_LDMcBLiTUP8dzvMoSIRBS0AAkT2MRsEnHBKrBjdw7izIH4BAAMCAAN4AAM2BA",
+      "image_width": 389,
+      "image_height": 799,
+      "text": ""
+    },
+    {
+      "id": "684e47e21faaecc73ce9be26",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749931787,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgIAAx0CUPxcWQABCbBgaE3XC4rTOb6kO_miU2BR2SU7B1cAAkX2MRsEnHBKJ_PLXpWJnvEBAAMCAAN5AAM2BA",
+      "image_width": 590,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "684e47e21faaecc73ce9be27",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749931811,
+      "text": "ну а мы тут причем?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be28",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749931854,
+      "text": "Каждую субботу в 23:00 прилетает пуш от него)))"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be29",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749931868,
+      "text": "а они тут причем?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be2a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1749931921,
+      "text": "говорят, неофициальное приложение, не поддерживается спикерами, вопросы к разработчику"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be2b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749931998,
+      "text": "Состряпали апп и в кусты))"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be2c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749932026,
+      "text": "ты глупенький или шутишь?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be2d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749932027,
+      "text": "Наверное, и то, и другое! Но правда в том, что иногда такие ситуации делают жизнь интереснее."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be2e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Memrook",
+      "author_name": "Sergey Memrook",
+      "datetime": 1749932082,
+      "text": "Ты глупенький или шуток не понимаешь?))"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be2f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1749932087,
+      "text": "Есть вещание?.."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be30",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749932091,
+      "text": "очень сложный вопрос. Сильно зависит от бюджета и желатия руками ковырять.\u003cbr/\u003eу меня Synology DS923+ 32GB памяти + UPS 1500VA\u003cbr/\u003e\u003cbr/\u003eсейчас бы взял DS925+, чисто для докера из-за процессора 4 ядра (8 потоков).\u003cbr/\u003e\u003cbr/\u003eДруг фанатеет от старого HP microserver - там тоже на 4 диска, но всё самому делать."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be31",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1749932103,
+      "text": "есть ж вроде феминитив в англе - ess"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be32",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749932118,
+      "text": "wtf?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be33",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749932118,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/Memrook\"\u003e@Memrook\u003c/a\u003e получает бан на 3дн 6ч 38мин 52сек"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be34",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1749932118,
+      "text": "В Английском феминитивы - конгрессвумен"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be35",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749932234,
+      "text": "мне подробности интересны. Если я такой одни, то можнов в личку поделиться."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be36",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1749932235,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgIAAx0CUPxcWQABCbBwaE3Yy_cYfx96-TDpmbprlAXcoI8AAlD2MRsEnHBKctjpxK0q6tQBAAMCAANtAAM2BA",
+      "image_width": 320,
+      "image_height": 240,
+      "text": ""
+    },
+    {
+      "id": "684e47e21faaecc73ce9be37",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749932357,
+      "text": "в древности какой процент выживаемости детей был?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be38",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749932372,
+      "text": "а еще в древности детей лупили по чём зря"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be39",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1749932437,
+      "text": "Про древние времена хорошо было написано у Михаила Веллера в книге Всё о жизни"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be3a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749932451,
+      "text": "за дело лупили и для науки."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be3b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749932464,
+      "text": "В древности?)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be3c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1749932467,
+      "text": "за 5 лет ничего не изменится в карьере, если все 5 лет работать\u003cbr/\u003eне могу представить сферу, в которой 5 лет простоя – ничего не стоят"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be3d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "DenisButCheR",
+      "author_name": "Deniss",
+      "datetime": 1749932523,
+      "text": "А его одного хватает и для хранилище и для сервера?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be3e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1749932604,
+      "text": "За 200 лет появилась железная дорога, машины, контейнеры в судоходстве, электричество, ДВС, не говоря про маленькие коробочки с батарейкой, от которых один стресс"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be3f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749932614,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be40",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1749932620,
+      "text": "а что он формулу пропускает?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be41",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749932636,
+      "text": "В среднем по населению люди всякой ерундой занимаются, где за пять лет действительно не сильно прям что-то поменяется."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be42",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749932673,
+      "text": "⚠️ WWDC 2025: Everything that Apple \u0026#39;Sherlocked\u0026#39; this time | TechCrunch - \u003ca href=\"https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/\"\u003ehttps://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be43",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749932679,
+      "text": "\u003cstrong\u003eWWDC 2025: Everything that Apple \u0026#39;Sherlocked\u0026#39; this time | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eНа WWDC 2025 Apple представила множество новых функций и дизайнов, некоторые из которых повторяют возможности сторонних приложений, что называется \u0026#34;Sherlocking\u0026#34;. Вот основные нововведения компании.\u003cbr/\u003e\u003cbr/\u003e- **Новая Spotlight на macOS:**  \u003cbr/\u003e  Теперь позволяет выполнять действия, как в Raycast, включая создание напоминаний и календарных событий.  \u003cbr/\u003e\u003cbr/\u003e- **Отслеживание рейсов в iOS:**  \u003cbr/\u003e  Wallet теперь отображает статус рейсов через Live Activities, соперничая с приложением Flighty.  \u003cbr/\u003e\u003cbr/\u003e- **Интеграция AI с XCode:**  \u003cbr/\u003e  ChatGPT стал основным помощником для разработчиков, заменив Alex, что улучшает кодинг.  \u003cbr/\u003e\u003cbr/\u003e- **Запись подкастов на iPad:**  \u003cbr/\u003e  Новая функция Local Capture позволяет записывать видео, повторяя возможности Riverside.  \u003cbr/\u003e\u003cbr/\u003e- **Заметки для Apple Watch:**  \u003cbr/\u003e  Официальное приложение Notes теперь доступно на Apple Watch, объединяя функции нескольких приложений.  \u003cbr/\u003e\u003cbr/\u003e- **Скрининг звонков:**  \u003cbr/\u003e  Call Assist обрабатывает вызовы от неизвестных номеров, подобно Robokiller и Truecaller.  \u003cbr/\u003e\u003cbr/\u003e- **Отслеживание посылок:**  \u003cbr/\u003e  Wallet теперь отслеживает заказы, анализируя электронные письма, аналогично другим трекерам."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be44",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749932683,
+      "text": "⚠️ Everything Apple Announced at WWDC 2025 - \u003ca href=\"https://www.wired.com/story/everything-apple-announced-at-wwdc-2025/\"\u003ehttps://www.wired.com/story/everything-apple-announced-at-wwdc-2025/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be45",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749932688,
+      "text": "\u003cstrong\u003eEverything Apple Announced at WWDC 2025 | WIRED\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003e\u003cbr/\u003eНа WWDC 2025 Apple представила новые функции для Apple TV+, macOS Tahoe и visionOS, а также обновления для Maps и CarPlay, улучшая пользовательский опыт. Новые возможности включают интеграцию Live Activities, пространственные виджеты и опции отслеживания посещённых мест.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Apple TV+ контент**: анонсирован фильм о Формуле-1, сериал Murderbot и кино о пожаре в 2018 году с Мэттью МакКонахи.\u003cbr/\u003e- **macOS Tahoe**: новая версия с эстетикой Liquid Glass и функцией Live Activities для синхронизации с приложениями.\u003cbr/\u003e- **VisionOS**: новые пространственные виджеты, которые остаются на месте в окружающей среде.\u003cbr/\u003e- **Maps**: функция \u0026#34;Посещенные места\u0026#34; для отслеживания ваших поездок с шифрованием истории местоположений.\u003cbr/\u003e- **CarPlay обновления**: новые настраиваемые виджеты и улучшенная обработка звонков и сообщений.\u003cbr/\u003e- **Siri**: практически без упоминаний, оставляя вопросы о будущем голосового помощника."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be46",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1749932728,
+      "text": "ну с интерфейсами они сильно налажали\u003cbr/\u003eможет поправят к выпкску"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be47",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1749932767,
+      "text": "ну если про инженеров говорить (любых, не только software), разве есть такие?\u003cbr/\u003eесли полы мыть да товары на кассе пробивать, то да, влиться потом, скорее всего, будет легко\u003cbr/\u003eа про остальных, будто прям такое себе"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be48",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749932855,
+      "text": "Унификация интерфейсов звучит так, будто через года два таки и маки с сенсорными экранами будут."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be49",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1749932943,
+      "text": "В убунте такой фигни с версиями не делают"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be4a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1749932969,
+      "text": "Windows 95, 98, 2000... Ios, macos 26"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be4b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749932976,
+      "text": "Среди инженеров да. Но нас мало, может пару процентов населения в лучшем случае. Уборщиков, рабочих \u0026#34;переставь коробку\u0026#34;, заводчанинов, официантов и прочих — наберётся под 80% скорее всего, где десятилетиями может только оборудование для работы чуть улучшаться."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be4c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1749933071,
+      "text": "26 это «виста». Даже тормозит также"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be4d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933072,
+      "text": "другие люди говорят, что liquid glass буквально начали делать недавно"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be4e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933085,
+      "text": "ios бета выглядит очень недоделанной в плане дизайна"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be4f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933108,
+      "text": "нарисовали кучу рендеров, а вот реальность на это не похожа пока, и выглядит во многих местах ужасно"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be50",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933168,
+      "text": "гипотеза, почему apple решили пойти в эту сторону: что айфоны настолько мощные, что только они смогут такое быстро рисовать, и андроид телефоны не смогут себе такое позволить, и поэтому айфон сможет больше выделяться"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be51",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1749933278,
+      "text": "Выпустят в 26 году :) и скажут, что так и планировали"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be52",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1749933285,
+      "text": "Мне более вероятной кажется гипотеза этого дизайна как навеянная Vision Pro. Это приучение аудитории к интерфейсам где ты видишь все через стекло/объектив"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be53",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933391,
+      "text": "суммаризация текста на английском!"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be54",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933412,
+      "text": "это единственное, на что их жалкая моделька способна со скрипом"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be55",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1749933756,
+      "text": "Фото галерею починили, отличный эффект 3d фото, приложение камеры офигенно улучшили"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be56",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1749933793,
+      "text": "В приложении камеры будто настройки плохо видно на некоторых фонах\u003cbr/\u003eТоже самое, что и про пуши говорили"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be57",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933799,
+      "text": "мне не кажется хорошей идеей, что сначала человек тебе что-то расскажет, и только потом тебе пришлют пуш или пойдёт звонок"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be58",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749933810,
+      "text": "за это время реальный человек сбросит звонок"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be59",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1749933895,
+      "text": "Реальный человек крайне вряд ли будет звонить с незнакомого номера и по телефону вообще)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be5a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749933920,
+      "text": "реальный? Курьер например?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be5b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1749933933,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgIAAx0CUPxcWQABCbCWaE3fbI0LKNl838eEpr9CzpRAbSMAArD3MRvsqHBKcej3jMqF-JwBAAMCAAN4AAM2BA",
+      "image_width": 649,
+      "image_height": 800,
+      "text": ""
+    },
+    {
+      "id": "684e47e21faaecc73ce9be5c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1749934005,
+      "text": "дальний родственник дальнего родственника"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be5d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1749934005,
+      "text": "Вот это правда проблема, только курьеры ещё не перешли. Но бывают сервисы где курьер звонит с корпоративного номера официального"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be5e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749934017,
+      "text": "Оно как-то законодательно оформлено при этом?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be5f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1749934038,
+      "text": "не берите звонок с незнакомого номера. вдруг это знакомый"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be60",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749934177,
+      "text": "Не выбрали папу"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be61",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749934205,
+      "text": "в России курьеры всех крупных сервисов типа Ozon и Яндекс звонят именно с номеров компаний, и робот предупреждает, что звонов от такого-то сервиса"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be62",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749934234,
+      "text": "чего именно? Другу хватало его минисервера для многого - его основная задача линукс, файлохранилище, виртуалки.\u003cbr/\u003e\u003cbr/\u003eНа моём NAS я запускал Винду 11. Долго устанавилвал. Работает медленно, но работает. контейнеры и линукс виртуалки норм.\u003cbr/\u003e\u003cbr/\u003eОпять же, всё зависит от задачи. Для меня иминтация кластера и удалённой разработки.\u003cbr/\u003e\u003cbr/\u003eUbuntu 24 виртуалка поднимается за 10 секунд.\u003cbr/\u003e\u003cbr/\u003eЯ пробовал IDEA Remote Development. работает, но с печалькой. Потому и рекомендую DS925+"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be63",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749934258,
+      "text": "ещё у perplexity deep search работает славно"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be64",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749934274,
+      "text": "особенно, что подписку на год можно намутить почти бесплатно"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be65",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749934286,
+      "text": "пока они прожигают инвесторские бабки - можно пользоватьбся"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be66",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749934312,
+      "text": "примерно на 5% от Claude"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be67",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749934338,
+      "text": "а что по поводу deep search gpt vs claude?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be68",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1749934359,
+      "text": "Не уверен, за все штаты, но в Техасе, так, 42.01 Texas Penal Code."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be69",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1749934366,
+      "text": "а это сейчас про deep research кнопочку говорят?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be6a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749934378,
+      "text": "да, отвлеклись"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be6b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749934565,
+      "text": "если табличка стоит, человек её видит, но приближается к двери именно с такой целью как указано, это действие может быть расценено как - criminal tresspassing.\u003cbr/\u003e\u003cbr/\u003eвладелец недвижимости может и пальнуть или полицию вызывать."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be6c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749934598,
+      "text": "Неплохо."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be6d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749934649,
+      "text": "А как в штатах со спамом в почтовый ящик? Ещё бы это как-то победить)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be6e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749934658,
+      "text": "и между домами ходить, даже если забора нет, даже без таблички - criminal tresspassing - елси владелец не дал разрешения."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be6f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749934705,
+      "text": "есть сервис где можно отписаться. Но блин... Это каждый год надо делать. Процентов на 80 спама меньше. Такой же сервис есть отписаться от звонков."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be70",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749934882,
+      "text": "⚠️ Apple introduces a delightful and elegant new software design - \u003ca href=\"https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/\"\u003ehttps://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be71",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749934886,
+      "text": "\u003cstrong\u003eApple introduces a delightful and elegant new software design - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eApple представляет новый мягкий и элегантный дизайн программного обеспечения с использованием нового материала Liquid Glass, который адаптируется к окружающей среде и создает живой опыт взаимодействия с устройствами.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Liquid Glass**: Новый материал, прозрачный и реагирующий на окружение.\u003cbr/\u003e- **Адаптивность**: Изменяет цвет в зависимости от света и контента.\u003cbr/\u003e- **Технологии**: Основывается на передовых разработках Apple в области аппаратного обеспечения.\u003cbr/\u003e- **Использование**: Применяется на iPhone, iPad, Mac, Apple Watch и Apple TV.\u003cbr/\u003e- **Элементы интерфейса**: Затрагивает кнопки, переключатели и текстовые элементы.\u003cbr/\u003e- **Системные интерфейсы**: Улучшает взаимодействие в блокировке экрана и центре управления.\u003cbr/\u003e- **Динамичность**: Реагирует на движение с помощью реального времени рендеринга."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be72",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749935017,
+      "text": "чтобы не звонили\u003cbr/\u003e\u003ca href=\"https://www.donotcall.gov\"\u003ehttps://www.donotcall.gov\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eтам штрафы если телефон в режистри, звонок/текст пришёл, и владелец телефона зарепортил - $10K\u003cbr/\u003e\u003cbr/\u003eВ томже месте можно зарегитрироваться от спама (спасибо что спросили) $6 на 10 лет.\u003cbr/\u003e\u003ca href=\"https://consumer.ftc.gov/articles/how-stop-junk-mail\"\u003ehttps://consumer.ftc.gov/articles/how-stop-junk-mail\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be73",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749935076,
+      "text": "но там иногда хорошие предложения по переводу долга приходят. Мне, к сожалению, иногда надо."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be74",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749935338,
+      "text": "⚠️ WWDC 2025: Everything that Apple \u0026#39;Sherlocked\u0026#39; this time | TechCrunch - \u003ca href=\"https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/\"\u003ehttps://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be75",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749935338,
+      "text": "\u003cstrong\u003eWWDC 2025: Everything that Apple \u0026#39;Sherlocked\u0026#39; this time | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eНа WWDC 2025 Apple представила множество новых функций и дизайнов, некоторые из которых повторяют возможности сторонних приложений, что называется \u0026#34;Sherlocking\u0026#34;. Вот основные нововведения компании.\u003cbr/\u003e\u003cbr/\u003e- **Новая Spotlight на macOS:**  \u003cbr/\u003e  Теперь позволяет выполнять действия, как в Raycast, включая создание напоминаний и календарных событий.  \u003cbr/\u003e\u003cbr/\u003e- **Отслеживание рейсов в iOS:**  \u003cbr/\u003e  Wallet теперь отображает статус рейсов через Live Activities, соперничая с приложением Flighty.  \u003cbr/\u003e\u003cbr/\u003e- **Интеграция AI с XCode:**  \u003cbr/\u003e  ChatGPT стал основным помощником для разработчиков, заменив Alex, что улучшает кодинг.  \u003cbr/\u003e\u003cbr/\u003e- **Запись подкастов на iPad:**  \u003cbr/\u003e  Новая функция Local Capture позволяет записывать видео, повторяя возможности Riverside.  \u003cbr/\u003e\u003cbr/\u003e- **Заметки для Apple Watch:**  \u003cbr/\u003e  Официальное приложение Notes теперь доступно на Apple Watch, объединяя функции нескольких приложений.  \u003cbr/\u003e\u003cbr/\u003e- **Скрининг звонков:**  \u003cbr/\u003e  Call Assist обрабатывает вызовы от неизвестных номеров, подобно Robokiller и Truecaller.  \u003cbr/\u003e\u003cbr/\u003e- **Отслеживание посылок:**  \u003cbr/\u003e  Wallet теперь отслеживает заказы, анализируя электронные письма, аналогично другим трекерам."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be76",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1749935378,
+      "text": "ланчпад?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be77",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749935398,
+      "text": "spotlight?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be78",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749935882,
+      "text": "⚠️ Apple supercharges its tools and technologies for developers - \u003ca href=\"https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/\"\u003ehttps://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be79",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749935889,
+      "text": "\u003cstrong\u003eApple supercharges its tools and technologies for developers - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eApple has unveiled enhancements to its developer tools, introducing new frameworks and design elements aimed at enriching app experiences. Key advancements like Liquid Glass design and on-device intelligence offer developers innovative ways to create engaging, optimized applications across Apple platforms.\u003cbr/\u003e\u003cbr/\u003e- Apple announced an upgrade to developer tools for richer app experiences.\u003cbr/\u003e- New technologies designed for iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26.\u003cbr/\u003e- Foundation Models framework enables integration of on-device intelligence.\u003cbr/\u003e- Xcode 26 harnesses large language models like ChatGPT for enhanced coding.\u003cbr/\u003e- Over 250,000 APIs available for integration with Apple’s hardware and features.\u003cbr/\u003e- Liquid Glass design material introduces fluidity and elegance in app aesthetics.\u003cbr/\u003e- Apple\u0026#39;s goal is to empower developers to deliver intuitive, responsive applications. \u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003eApple представила улучшения в своих инструментах для разработчиков, вводя новые фреймворки и элементы дизайна, направленные на обогащение пользовательского опыта в приложениях. Ключевые усовершенствования, такие как дизайн Liquid Glass и интеллектуальные технологии на устройстве, предлагают разработчикам инновационные способы создания увлекательных и оптимизированных приложений.\u003cbr/\u003e\u003cbr/\u003e- Apple анонсировала обновление инструментов для разработчиков для более богатых пользовательских впечатлений.\u003cbr/\u003e- Новые технологии разработаны для iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26 и tvOS 26.\u003cbr/\u003e- Фреймворк Foundation Models позволяет интегрировать интеллектуальные технологии на устройстве.\u003cbr/\u003e- Xcode 26 использует крупные языковые модели, такие как ChatGPT для улучшенного кодирования.\u003cbr/\u003e- Более 250 000 API доступны для интеграции с аппаратным обеспечением и функциями Apple.\u003cbr/\u003e- Материал дизайна Liquid Glass вводит текучесть и элегантность в эстетике приложений.\u003cbr/\u003e- Цель Apple — наделить разработчиков возможностями для создания интуитивно понятных и отзывчивых приложений."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be7a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1749936045,
+      "text": "фото детей в 7 лет, это уже школа. Она советская, поэтому улыбаться там нельзя"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be7b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749936047,
+      "text": "wsl2"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be7c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1749936345,
+      "text": "Две в тот-то и дело, что школа-то американская )))"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be7d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1749936363,
+      "text": "Но дети советские)))) по генетике"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be7e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1749936446,
+      "text": "она настраивается"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be7f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1749936448,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgEAAx0CUPxcWQABCbC6aE3pQLrkEZmr-f1upkKDojlWRdsAAhCyMRs70mhG3Whe4in5QOQBAAMCAAN5AAM2BA",
+      "image_width": 588,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "684e47e21faaecc73ce9be80",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1749936485,
+      "text": "как минимум 2 версии уже так"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be81",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1749936511,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgIAAx0CUPxcWQABCbC8aE3pf0CJoE8LopwYU5cZm2SxyLcAAp_2MRsEnHBK5p_184zeVNcBAAMCAAN5AAM2BA",
+      "image_width": 590,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "684e47e21faaecc73ce9be82",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1749936531,
+      "image_url": "https://chat.radio-t.com/logs/965/AgACAgIAAx0CUPxcWQABCbC9aE3pkyoiiXSFWmpHYAHNiiskYRAAAqD2MRsEnHBKGaQDS1QKWg4BAAMCAAN5AAM2BA",
+      "image_width": 588,
+      "image_height": 1280,
+      "text": "И когда скролишь"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be83",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1749936779,
+      "text": "ну они фильм рекламировали свой =)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be84",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749936897,
+      "text": "⚠️ Google Cloud outage brings down a lot of the internet | TechCrunch - \u003ca href=\"https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/\"\u003ehttps://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be85",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749936900,
+      "text": "\u003cstrong\u003eGoogle Cloud outage brings down a lot of the internet | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме:\u003cbr/\u003eВ результате сбоя Google Cloud, значительная часть интернета перестала работать, затронув такие сервисы, как Cloudflare и популярные приложения, включая Spotify. Google Cloud в настоящее время исследует проблему и ожидает восстановления своих услуг в течение часа.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты:\u003cbr/\u003e- В четверг произошел сбой в Google Cloud, который повлиял на многие онлайн-сервисы.\u003cbr/\u003e- Cloudflare подтвердил, что ограниченные услуги зависят от Google Cloud и будут восстановлены.\u003cbr/\u003e- Популярные приложения, такие как Spotify и Discord, также испытали сбои.\u003cbr/\u003e- Google Cloud начал расследование проблемы в 11:46 по тихоокеанскому времени.\u003cbr/\u003e- Согласно обновлениям, сервисы ожидаются к восстановлению в течение часа.\u003cbr/\u003e- Amazon Web Services (AWS) и Microsoft Azure не сообщали о сбоях.\u003cbr/\u003e- Пользователи массово сообщали о проблемах через платформу DownDetector."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be86",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749937255,
+      "text": "⚠️ (2) God is hungry for Context: First thoughts on o3 pro - \u003ca href=\"https://www.latent.space/p/o3-pro\"\u003ehttps://www.latent.space/p/o3-pro\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be87",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749937258,
+      "text": "\u003cstrong\u003eGod is hungry for Context: First thoughts on o3 pro\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003e\u003cbr/\u003eOpenAI снизила цены на o3 на 80% и представила o3-pro с улучшенными функциями. Новый модель демонстрирует 64% уровень успеха и лучше работает с контекстом, что меняет подход к интеграции ИИ в решения задач.\u003cbr/\u003e\u003cbr/\u003e- OpenAI снизила цены с $10 до $2 за mtok.\u003cbr/\u003e- o3-pro показал 64% уровень успеха на тестах.\u003cbr/\u003e- Модель лучше воспринимает контекст, что требуется для эффективной работы.\u003cbr/\u003e- o3-pro отличается способностью к глубокому анализу задач.\u003cbr/\u003e- Необходимость интеграции ИИ в повседневные задачи остается критически важной.\u003cbr/\u003e- Модель становится отличным оркестратором процессов и понимания окружающей среды.\u003cbr/\u003e- Использование правильного системного запроса значительно влияет на поведение модели."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be88",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749937707,
+      "text": "⚠️ Google Offers Buyouts to Employees in Search and Ads, Other Units — The Information - \u003ca href=\"https://www.theinformation.com/articles/google-offers-buyouts-employees-search-ads-unit?rc=ukjmk2\"\u003ehttps://www.theinformation.com/articles/google-offers-buyouts-employees-search-ads-unit?rc=ukjmk2\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be89",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749937709,
+      "text": "\u003cstrong\u003eAttention Required! | Cloudflare\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eВы были заблокированы на сайте, который использует сервис безопасности Cloudflare для защиты от онлайн-атак. Некоторые действия, такие как ввод определённых слов или команд SQL, могли вызвать это блокирование.\u003cbr/\u003e\u003cbr/\u003e- Cloudflare защищает сайты от онлайн-угроз.\u003cbr/\u003e- Блокировка может быть вызвана различными действиями пользователя.\u003cbr/\u003e- Ввод определённых слов может привести к блокировке.\u003cbr/\u003e- Команды SQL также могут спровоцировать защиту.\u003cbr/\u003e- Использование неправильных данных может вызвать ошибку.\u003cbr/\u003e- Сайт принимает меры для обеспечения безопасности.\u003cbr/\u003e- Если вы считаете это ошибкой, обратитесь в поддержку."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be8a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749937914,
+      "text": "Там же увольнение не прям по кнопке? Кого нужно тех не будут просто отпускать и всё, как и с обычным увольнением."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be8b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1749937916,
+      "text": "Илон маск тоже самое предлагал в феврале в гос.организациях помните? 8 месяцев вроде обещали"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be8c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1749938048,
+      "text": "UX/DX у амазон продуктов это же чужой против хищника"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be8d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938172,
+      "text": "⚠️ The tax code time bomb fueling mass tech layoffs - \u003ca href=\"https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502\"\u003ehttps://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be8e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938178,
+      "text": "\u003cstrong\u003eThe hidden time bomb in the tax code that\u0026#39;s fueling mass tech layoffs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eИзменение в налоговом кодексе США, касающееся раздела 174, стало причиной массовых увольнений в tech-секторе, незаметно увеличив налоговое бремя на исследовательские и опытно-конструкторские работы. Это решение коснулось многих компаний, что привело к сокращениям и изменению их экономической модели. \u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Раздел 174 налогового кодекса недоступен для общественности, но оказал многофасетное влияние на увольнения в tech-индустрии.\u003cbr/\u003e- Политика налогообложения, принятая в 2017 году, изменила моментальное списание на R\u0026amp;D на амортизацию, что увеличило нагрузки на компании.\u003cbr/\u003e- С начала 2023 года более полумиллиона tech-работников потеряли свои рабочие места из-за новых налоговых последствий.\u003cbr/\u003e- Компании начали сокращать сотрудников, заявляя о переизбытке и влиянии ИИ, в то время как истинная причина кроется в изменениях налогообложения.\u003cbr/\u003e- Меньшие фирмы пострадали финансово еще больше, чем крупные компании, вынуждая их искать другие способы оптимизации затрат.\u003cbr/\u003e- Последствия затронули не только tech-компании, но и весь сектор экономики, связанный с инновациями и развитием.\u003cbr/\u003e- Бипартийная инициатива по отмене изменений в разделе 174 пока так и не завершилась, оставляя экономику в неопределенности и требующих дополнительных исследований."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be8f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749938204,
+      "text": "Звучит как Order 66"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be90",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938860,
+      "text": "⚠️ Темы слушателей 965 - \u003ca href=\"https://radio-t.com/p/2025/06/10/prep-965/\"\u003ehttps://radio-t.com/p/2025/06/10/prep-965/\u003c/a\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be91",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938872,
+      "text": "[1/13] \u003cstrong\u003e+21\u003c/strong\u003e от \u003cstrong\u003eDenis Panfilov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eв macOS 26 приедет \u003c/em\u003e\u003ca href=\"https://github.com/apple/container\"\u003ehttps://github.com/apple/container\u003c/a\u003e\u003cem\u003e и \u003c/em\u003e\u003ca href=\"https://github.com/apple/containerization\"\u003ehttps://github.com/apple/containerization\u003c/a\u003e\u003cem\u003e. Запускалка OCI контайнеров, не понятно на сколько она сможет заменить Docker Desktop ещё, однако выглядит как движение в правильно направление.\u003cbr/\u003e\u003cbr/\u003eOrbStack наверное напрягся, потому что все это работает очень похоже. А могли бы просто купить его.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It\u0026#39;s written in Swift, and optimized for Apple silicon.\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eКонтейнер – это инструмент для создания и запуска Linux-контейнеров, использующий легковесные виртуальные машины на Mac. Он написан на Swift и оптимизирован для Apple silicon.\u003cbr/\u003e\u003cbr/\u003e- **Создание и запуск контейнеров**: Предназначен для работы с Linux-контейнерами на Mac.\u003cbr/\u003e- **Оптимизация для Apple silicon**: Разработан для максимальной эффективности на устройствах Apple.\u003cbr/\u003e- **Совместимость с OCI**: Поддержка OCI-совместимых контейнерных изображений для использования с любыми реестрами.\u003cbr/\u003e- **Использование Swift**: Написан на Swift, обеспечивая современный подход к разработке.\u003cbr/\u003e- **Система управления изображениями**: Позволяет создавать, извлекать и запускать образы к контейнерам.\u003cbr/\u003e- **Документация и примеры**: Включает документацию и обучающие ресурсы для начинающих пользователей.\u003cbr/\u003e- **Участие сообщества**: Приветствуется вклад от открытого сообщества через GitHub."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be92",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938872,
+      "text": "[2/13] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eThe technical infrastructure that underpins Telegram is controlled by a man whose companies have collaborated with Russian intelligence services.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://istories.media/en/stories/2025/06/10/telegram-fsb/\"\u003ehttps://istories.media/en/stories/2025/06/10/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eError: \u003cpre\u003efailed to get summary from cache: can\u0026#39;t get content for https://istories.media/en/stories/2025/06/10/telegram-fsb/: can\u0026#39;t get summary for https://istories.media/en/stories/2025/06/10/telegram-fsb/: 400\u003c/pre\u003e"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be93",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938872,
+      "text": "[3/13] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eПрезидет Cisco требует от разрабов сократить количество написанного кода\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.theregister.com/2025/06/10/cisco_wants_ai_coding_assistants/\"\u003ehttps://www.theregister.com/2025/06/10/cisco_...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCisco president says coding syntax wastes expensive synapses • The Register\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eПрезидент Cisco Джиту Пател стремится сократить объем написанного кода и внедрить ИИ-агентов для помощи инженерам в программировании, позволяя им сосредоточиться на инновациях.\u003cbr/\u003e\u003cbr/\u003e- Пател хочет, чтобы инженеры уменьшили объем кода, который они пишут, вдвое.  \u003cbr/\u003e- Он будет развивать ИИ-друзей для облегчения рутинной работы программистов.  \u003cbr/\u003e- Инженеры должны концентрироваться на инновациях, а не на синтаксисе.  \u003cbr/\u003e- Бренд Cisco испытывает нехватку инженерных ресурсов.  \u003cbr/\u003e- Пatel подчеркивает важность использования ИИ для уменьшения когнитивной нагрузки.  \u003cbr/\u003e- Ожидается, что переход к ИИ улучшит производительность и ускорит разработку продуктов.  \u003cbr/\u003e- Способы сокращения отдачи из ресурсов не были упомянуты, несмотря на прежние сокращения рабочей силы."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be94",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938873,
+      "text": "[4/13] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eSergey A.\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://lucumr.pocoo.org/2025/6/12/agentic-coding\"\u003ehttps://lucumr.pocoo.org/2025/6/12/agentic-coding\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eРекомендации по использования AI агентов от Армина Ронахера (автор Flask, сооснователь Sentry, а также извечтный Rust’овчанин).\u003cbr/\u003e\u003cbr/\u003eАвтор постарался дать советы «на века» («sticking to concepts I believe have staying power»).\u003cbr/\u003e\u003cbr/\u003e(кликбейт: хвалит Go за простоту для агентов :)\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAgentic Coding Recommendations | Armin Ronacher\u0026#39;s Thoughts and Writings\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eАмин Ронахер делится своими рекомендациями по агентному программированию, подчеркивая простоту, стабильность и наблюдаемость как ключевые принципы для повышения продуктивности.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Инструменты и подписки**: Использую Claude Code с недорогой подпиской Max для достижения эффективности без ненужных расходов.\u003cbr/\u003e- **Эффективность кода**: Предпочтение языку Go из-за его простоты и стабильности. Go облегчает понимание для AI-агентов.\u003cbr/\u003e- **Очистка кода**: Простые функции с информативными именами лучше сложных решений. Минимизируйте использование классов и наследования.\u003cbr/\u003e- **Скорость выполнения**: Ключевые инструменты должны давать быстрые ответы, чтобы избежать замедления работы агента.\u003cbr/\u003e- **Параллелизация**: Изучение управления общими состояниями и использование контейнеров для повышения общей эффективности.\u003cbr/\u003e- **Обновления**: Будьте осторожны с обновлениями библиотек, избегая частых изменений, которые могут привести к путанице.\u003cbr/\u003e- **Эксперименты**: Призыв к постоянному экспериментированию с инструментами и методами для повышения продуктивности разработчиков."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be95",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1749938873,
+      "text": "[5/13] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eEugene G\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eМиллиардный репозиторий создан на гитхабе \u003c/em\u003e\u003ca href=\"https://github.com/AasishPokhrel/shit/issues/1\"\u003ehttps://github.com/AasishPokhrel/shit/issues/1\u003c/a\u003e\u003cem\u003e :)\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCongratulations on creating the one billionth repository on GitHub! · Issue #1 · AasishPokhrel/shit · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eПоздравляем AasishPokhrel с созданием миллиардного репозитория на GitHub! Репозиторий называется \u0026#34;shit\u0026#34; и стал знаковым для платформы с высоким уровнем взаимодействия пользователей.\u003cbr/\u003e\u003cbr/\u003e- Поздравление с созданием миллиардного репозитория на GitHub.\u003cbr/\u003e- Репозиторий называется \u0026#34;shit\u0026#34; и принадлежит AasishPokhrel.\u003cbr/\u003e- Подробности можно найти [здесь](\u003ca href=\"https://github.com/AasishPokhrel/shit/issues/1\"\u003ehttps://github.com/AasishPokhrel/shit/issues/1\u003c/a\u003e).\u003cbr/\u003e- Репозиторий является публичным и не архивирован.\u003cbr/\u003e- Имеет поддержку до 10 назначенных участников.\u003cbr/\u003e- Обсуждение вызывает активный интерес пользователей, с количеством реакций в тысячи.\u003cbr/\u003e- Репозиторий стал значимой вехой в истории GitHub."
+    },
+    {
+      "id": "684e47e21faaecc73ce9be96",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1749938947,
+      "text": "colima имеет проблемы с прокидыванием сокетов (ssh) нужны пляски с бубном"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be97",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1749939177,
+      "text": "у нас продукт с 30 летней историей (1.3GB исходников Жава и 100MB Си++. Нет ни одного человека который знает продукт целиком - в основном срезами. Максимум на 20%. Всего в команде 20 человек - суммарное знание проекта где-то 80%. Старожил 6 человек включая архитектора, который уже не пишет.\u003cbr/\u003e\u003cbr/\u003eМеня вчера уволили. Как только я ознакомился с увольнением, бос моего директора заапрувил 6 позиций раработчиков. Идеи боса моего директора:\u003cbr/\u003e- вся разработка в VS Code\u003cbr/\u003e- все билды на удалённых серверах EC2 - remote development\u003cbr/\u003e- только vibe-coding (новые 6 позиций закрывать только вайб-кодерами)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be98",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749939342,
+      "text": "Слишком большая зарплата у вас была))"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be99",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1749939575,
+      "text": "Там потешно что репозиторий называется shit"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be9a",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1749939579,
+      "text": "миллиард? охереть"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be9b",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1749939692,
+      "text": "Армин не умеет писать на питоне 😆😆"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be9c",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeytsaplin",
+      "author_name": "Sergey Tsaplin",
+      "datetime": 1749939702,
+      "text": "Вы главное Бобуку не рассказывайте: что Ронакер не умеет в питон)"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be9d",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1749939912,
+      "text": "а че там с стимом? а раньше тогда что было?"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be9e",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeytsaplin",
+      "author_name": "Sergey Tsaplin",
+      "datetime": 1749939941,
+      "text": "он только под розеттой работал"
+    },
+    {
+      "id": "684e47e21faaecc73ce9be9f",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1749940005,
+      "text": "возможно. я просто под кроссовером гоняю но точно помню раньше ставил и нативно(в плане без вайна) но возмжно с розеттой"
+    },
+    {
+      "id": "684e47e21faaecc73ce9bea0",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1749940309,
+      "text": "я тоже заливал белый power"
+    },
+    {
+      "id": "684e47e21faaecc73ce9bea1",
+      "issue": 965,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1749940455,
+      "text": "вот. дада. видео было давно обещано с мотиком 🙂"
+    }
+  ]
+}

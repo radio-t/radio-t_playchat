@@ -1,0 +1,88 @@
+{
+  "issue": 965,
+  "date": "2025-06-14",
+  "audio": "https://cdn.radio-t.com/rt_podcast965.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt965.jpg",
+  "start_time": 1749932614,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новинки от Apple WWDC 2025",
+      "links": [
+        "https://www.wired.com/story/everything-apple-announced-at-wwdc-2025/"
+      ],
+      "time": "00:01:09"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новый дизайн всего",
+      "links": [
+        "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"
+      ],
+      "time": "00:37:47"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Кого они убили на этот раз",
+      "links": [
+        "https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/"
+      ],
+      "time": "00:45:24"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Интересности для разработчиков",
+      "links": [
+        "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"
+      ],
+      "time": "00:54:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Падение Google Cloud унесло с собой половину интернета",
+      "links": [
+        "https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/"
+      ],
+      "time": "01:11:23"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход o3 pro",
+      "links": [
+        "https://www.latent.space/p/o3-pro"
+      ],
+      "time": "01:17:20"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google предлагает добровольный уход",
+      "links": [
+        "https://www.theinformation.com/articles/google-offers-buyouts-employees-search-ads-unit?rc=ukjmk2"
+      ],
+      "time": "01:24:52"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Еще одна причина для массовых увольнений в IT",
+      "links": [
+        "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502"
+      ],
+      "time": "01:32:37"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/06/10/prep-965/"
+      ],
+      "time": "01:44:05"
+    }
+  ],
+  "tags": null
+}
