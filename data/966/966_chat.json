@@ -1,0 +1,1306 @@
+{
+  "chat": [
+    {
+      "id": "68594e7de82cfd4560bf345b",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750536091,
+      "text": "пошел, родимый"
+    },
+    {
+      "id": "68594e7de82cfd4560bf345c",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gogol1809",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1750536115,
+      "text": "есть звук"
+    },
+    {
+      "id": "68594e7de82cfd4560bf345d",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750536124,
+      "text": "100?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf345e",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gogol1809",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1750536126,
+      "text": "Привет, Умпутун!"
+    },
+    {
+      "id": "68594e7de82cfd4560bf345f",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750536149,
+      "text": "А чего не за Нюрбуринге?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3460",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750536150,
+      "text": "Привет! Да, Нюрбургринг – это классика! Но современные треки тоже интересные. Есть свои фишки и атмосферу. Ты на каком-нибудь из них катался?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3461",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750536281,
+      "text": "Искать в бекаре?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3462",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1750536353,
+      "text": "Facts!"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3463",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750536353,
+      "text": "В ЖЭК №7 требуется сантехник, у которого руки растут хотя бы из коленок"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3464",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750536527,
+      "text": "историю искать в \u003ca href=\"https://web.archive.org\"\u003eweb.archive.org\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3465",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gogol1809",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1750536539,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e \u003cbr/\u003eА если ли какие-то (хоть немного) знаний из универа, которые действительно тебе в профессии пригодились, а не оказались \u0026#34;водой\u0026#34;?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3466",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750536952,
+      "text": "Поправят, но то что старые будут тормозить это да.\u003cbr/\u003eА все эти фишки они под пальцами не видны."
+    },
+    {
+      "id": "68594e7de82cfd4560bf3467",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750537027,
+      "text": "Ну решали задачу типо новое обновление!"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3468",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750537089,
+      "text": "Сергей же на iPad поди поставил"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3469",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750537101,
+      "text": "да, настройки гавно стали, тут что есть, то есть"
+    },
+    {
+      "id": "68594e7de82cfd4560bf346a",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750537107,
+      "text": "и поиск и в старом виде тоже был"
+    },
+    {
+      "id": "68594e7de82cfd4560bf346b",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1750537180,
+      "text": "дв, Лёха абсолютно прав"
+    },
+    {
+      "id": "68594e7de82cfd4560bf346c",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750537209,
+      "text": "А при большой пользовательской базе любое нововведение всегда будут недовольный и это правда и часть это будут заначительна"
+    },
+    {
+      "id": "68594e7de82cfd4560bf346d",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750537277,
+      "text": "у apple лояльная аудитория, обычно положительно воспринимают такие обновления, как мне кажется"
+    },
+    {
+      "id": "68594e7de82cfd4560bf346e",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1750537296,
+      "text": "Настройки стали не такие интуитивные"
+    },
+    {
+      "id": "68594e7de82cfd4560bf346f",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750537297,
+      "text": "тихо слышно Ксюшу"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3470",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750537337,
+      "text": "а, стесняется просто перебивать"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3471",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1750537346,
+      "text": "Flutter"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3472",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1750537347,
+      "text": "черные иконки лучше всего"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3473",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1750537352,
+      "text": "flutter"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3474",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1750537369,
+      "text": "они сами рендерят"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3475",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1750537388,
+      "text": "Flutter даже для веб на опенгээл рисует все"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3476",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1750537405,
+      "text": "Вебгл"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3477",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750537410,
+      "text": "про настройки они же приводили к общему виду к мобильной версии, т.к. теперь телефон первое устройство с которым знакомятся с яблочной продукцией"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3478",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1750537474,
+      "text": "представьте щас у аэропортов один айди теперь будет"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3479",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "netslow",
+      "author_name": "Stas Netslow",
+      "datetime": 1750537517,
+      "text": "ребрендинг тогда тоже долго не ветер?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf347a",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1750537571,
+      "text": "Ребрендинг типа Twitter -\u0026gt; X? Конечно, 100% бесполезная трата человеческих ресурсов."
+    },
+    {
+      "id": "68594e7de82cfd4560bf347b",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1750537592,
+      "text": "ребрендинг в минуса вроде вообще всегда"
+    },
+    {
+      "id": "68594e7de82cfd4560bf347c",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750537609,
+      "text": "бобука плохо слышно"
+    },
+    {
+      "id": "68594e7de82cfd4560bf347d",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750537621,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf347e",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1750537733,
+      "text": "Как обычно, приходишь к .20 минутам и получается вовремя )"
+    },
+    {
+      "id": "68594e7de82cfd4560bf347f",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750537977,
+      "text": "и пропускаешь часть которой нет в записи"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3480",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1750538029,
+      "text": "Бывает такое, но не часто"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3481",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1750538180,
+      "text": "может у ног разная чувствительность"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3482",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750538205,
+      "text": "так не на ногу мотать надо"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3483",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1750538214,
+      "text": "Раньше, лет 10 назад был смысл это слушать. Но посление 3-5 лет, в начале практически не бывает ничего достойного наших ушей"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3484",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750538307,
+      "text": "⚠️ Andrej Karpathy: Software Is Changing (Again) - YouTube - \u003ca href=\"https://www.youtube.com/watch?v=LCEmiRjPEtQ\"\u003ehttps://www.youtube.com/watch?v=LCEmiRjPEtQ\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3485",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Dubzer",
+      "author_name": "Dubzer (ꏿ﹏ꏿ๑)",
+      "datetime": 1750538391,
+      "text": "\u003ca href=\"https://beta.yaso.su/AQvqVgkS\"\u003ehttps://beta.yaso.su/AQvqVgkS\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3486",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1750538636,
+      "text": "Равно как и послешоу. Эта тема вообще вымерла"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3487",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zoom_zoom_zoom",
+      "author_name": "zoom zoom zoom",
+      "datetime": 1750538692,
+      "text": "недавно была новость про функцию определения, кажется, чётности числа через llm"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3488",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kat_tek",
+      "author_name": "Kate",
+      "datetime": 1750539155,
+      "text": "Приложение по подсчету калорий))"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3489",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kat_tek",
+      "author_name": "Kate",
+      "datetime": 1750539213,
+      "text": "Там AI фотки парсит и считает калории просто по фото еды. И вес. Не очень точно, но лучше чем ничего."
+    },
+    {
+      "id": "68594e7de82cfd4560bf348a",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1750539237,
+      "text": "чатбот, который ссылку даст на нужный пункт, в банке например ищешь ищешь где реквизиты свои взять, спросил у чатбота, тот кнопочку дал"
+    },
+    {
+      "id": "68594e7de82cfd4560bf348b",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750539711,
+      "text": "что там за клаву обсуждают?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf348c",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750539816,
+      "text": "rainy75"
+    },
+    {
+      "id": "68594e7de82cfd4560bf348d",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1750539824,
+      "text": "@чатик, когда умпутун в последний раз обсуждал новую клавиатуру?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf348e",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750539861,
+      "text": "минуту назад))"
+    },
+    {
+      "id": "68594e7de82cfd4560bf348f",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1750539919,
+      "text": "Rainy75 pro реально огонь, она обычно и в ЕС на амазоне доступна"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3490",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750540042,
+      "text": "я к крутилки громкости привык. а тут нету"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3491",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1750540140,
+      "text": "чем это отлечается от веток?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3492",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1750540260,
+      "text": "Это ThePrimeTime?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3493",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750540344,
+      "text": "дайте ссыль"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3494",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1750540486,
+      "text": "это \u0026#34;потом\u0026#34; никогда не наступит"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3495",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1750540545,
+      "text": "автоматическое выставление latest тега для ветки в которой последней изменение было и никогда не мержить"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3496",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750540573,
+      "text": "в смысле \u0026#34;целый день работает\u0026#34;, а атомарные комиты как делать? а ревертить?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3497",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750540597,
+      "text": "чейта странное обсуждаете 🙂"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3498",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1750540641,
+      "text": "Там идея,  что все это имеет излишнюю сложность и когда ты работаешь не хотелось бы об этом задумываться, а просто пушить постоянно, а разбираться уже после"
+    },
+    {
+      "id": "68594e7de82cfd4560bf3499",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750540657,
+      "text": "а ревью как делать?)"
+    },
+    {
+      "id": "68594e7de82cfd4560bf349a",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750540660,
+      "text": "свн там сложно все было"
+    },
+    {
+      "id": "68594e7de82cfd4560bf349b",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1750540665,
+      "text": "кейс действительно есть: вместо confluence говоришь человеку который не умеет в git работать положить документацию в виде md файлов в репозиторий, лежит документация рядом с кодом, вот я занес изменения в код - теперь надо объяснить простому смертному как произвести merge и решение конфликтов"
+    },
+    {
+      "id": "68594e7de82cfd4560bf349c",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750540717,
+      "text": "вы еще source control(старый вспомните с локами на файлы)"
+    },
+    {
+      "id": "68594e7de82cfd4560bf349d",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maksim_surmach",
+      "author_name": "Maksim Surmach",
+      "datetime": 1750540778,
+      "text": "Бубук прийди !"
+    },
+    {
+      "id": "68594e7de82cfd4560bf349e",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750540846,
+      "text": "один программист и все остальные - дизайнеры"
+    },
+    {
+      "id": "68594e7de82cfd4560bf349f",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750540856,
+      "text": "конечно будет отлично работать"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a0",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750540927,
+      "text": "Плюсую. Бобук бы, наверное (просто на удачу пишу, возможно всё и не так), сказал бы про то что можно было бы потерять все эти гитовые приколюхи и наделать что-то массово коллаборативное как гугловские документы какие (разве что с кнопкой паузы, чтобы коллеги не ломали всё)."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a1",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750540959,
+      "text": "Докинуть туда прогонов тестов по кулдауну и красота)"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a2",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750540970,
+      "text": "у него какая по размеру комманда где он это решает?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a3",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1750540985,
+      "text": "можно создать ветку без предков/корня на каждый файл если хочется"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a4",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750540990,
+      "text": "(и споров в PR\u0026#39;ах нет, только после спорить)"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a5",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1750541072,
+      "text": "\u003ca href=\"https://www.youtube.com/watch?v=t6qL_FbLArk\"\u003ehttps://www.youtube.com/watch?v=t6qL_FbLArk\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a6",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750541124,
+      "text": "креативный чувак потому видать и взяли."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a7",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750541149,
+      "text": "сначала с наркотой экспериментировал потом с другими вещами"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a8",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1750541248,
+      "text": "этот чел часто в нарезках попадается, в шортсах ютуба"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34a9",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1750541299,
+      "text": "то есть сейчас не Оляпка уже?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34aa",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750541315,
+      "text": "оляпка это бобук был"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34ab",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750541431,
+      "text": "⚠️  - \u003ca href=\"https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt6qL_FbLArk\"\u003ehttps://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt6qL_FbLArk\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34ac",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750541499,
+      "text": "лавале не до оляпки? блин."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34ad",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1750541502,
+      "text": "Бобук, выздоровей!"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34ae",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750541518,
+      "text": "⚠️ 16 billion passwords exposed in colossal data breach​ | Cybernews - \u003ca href=\"https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/\"\u003ehttps://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34af",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750541521,
+      "text": "\u003cstrong\u003eAttention Required! | Cloudflare\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eВы были заблокированы на сайте, использующем сервис безопасности Cloudflare для защиты от онлайн-атак. Ваши действия могли спровоцировать эту блокировку.\u003cbr/\u003e\u003cbr/\u003e- Многие веб-сайты используют Cloudflare для защиты от атак.  \u003cbr/\u003e- Блокировка может быть вызвана отправкой определенных слов или фраз.  \u003cbr/\u003e- Неправильные данные или SQL-команды также могут спровоцировать блокировку.  \u003cbr/\u003e- Ваши действия могут не соответствовать политикам сайта.  \u003cbr/\u003e- Пожалуйста, обратитесь к администратору сайта для решения проблемы.  \u003cbr/\u003e- Проверьте свои действия, возможно, они нарушают правила.  \u003cbr/\u003e- Иногда блокировки происходят ошибочно, и их можно обжаловать."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b0",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750541534,
+      "text": "пароли да. давайте раскройте. а то я пропустли"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b1",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1750541552,
+      "text": "с плетью это от муртазина?"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b2",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zoom_zoom_zoom",
+      "author_name": "zoom zoom zoom",
+      "datetime": 1750541793,
+      "text": "зато какие были заголовки \u0026#34;бегом меняйте ВСЕ свои пароли\u0026#34;"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b3",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1750542265,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e , повезло вашей дочке. У моего младшего сына нормальный пароль был (11 символов с кейсом и цифрой) на gmail но какой-то мудак из Тюмени подобрал. А сын прошляпил нотификейшн на телефоне. Тот «хакер» что-то выложил на ютубе. 6 лет пытаемся восстановить доступ на ютуб."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b4",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1750542289,
+      "text": "аппликации Эппл придумала, как подкасты"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b5",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1750542311,
+      "text": "К операционной системе"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b6",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1750542459,
+      "text": "В смысле что есть в операционной системе базовый набор команд и есть приложения с дополнительным функционалом"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b7",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750542492,
+      "text": "⚠️ Go should be more opinionated - \u003ca href=\"https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/\"\u003ehttps://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b8",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750542496,
+      "text": "\u003cstrong\u003eGo should be more opinionated\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003e\u003cbr/\u003eВ статье обсуждается, что язык Go мог бы быть более структурированным и предоставлять шаблоны для проектов, чтобы облегчить разработку командами, особенно тем, кто переходит с других языков. Чёткая структура может помочь в адаптации и ускорить работу.\u003cbr/\u003e\u003cbr/\u003e### Основные пункты\u003cbr/\u003e\u003cbr/\u003e- Автор встретился с Робертом Гриземером и Марком Дохерти, обсуждая Go.\u003cbr/\u003e- Язык Go изначально прост в изучении благодаря своей однозначности и структурированности.\u003cbr/\u003e- Проблема возникает при создании крупных проектов, где отсутствует чёткая структура.\u003cbr/\u003e- Команды тратят время на изучение документации и определение структуры.\u003cbr/\u003e- Предложено создать официальные шаблоны для проектов и команд.\u003cbr/\u003e- Более чёткая структура облегчит миграцию с других языков, таких как Java и PHP.\u003cbr/\u003e- Автор ждёт обсуждения и мнений по теме от читателей."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34b9",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1750542507,
+      "text": "Applications are programs designed to perform specific tasks for users, in contrast to system software like operating systems or compilers."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34ba",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750542513,
+      "text": "Видимо на компьютерах раньше только уравнения считали)"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34bb",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1750542532,
+      "text": "ты знал!"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34bc",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750542555,
+      "text": "Слишком молод, чтобы знать)"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34bd",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1750542600,
+      "text": "Так никто и не поддержал Умпутуна как следует. Тоже задумывался о семантике слова «приложение»"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34be",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750542779,
+      "text": "\u0026gt; In computing, it is first recorded in 1959 \u003cem\u003e[OED]\u003c/em\u003e:\u003cbr/\u003e\u0026gt; This approach to a file maintenance application implies that a number, or ‘batch’ of transactions is collected and sorted into the order of the master file.\u003cbr/\u003e\u0026gt; J. Jeenel, \u003cem\u003eProgramming for Digital Computers\u003c/em\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34bf",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750543045,
+      "text": "Будто раст придумали)"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c0",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750543305,
+      "text": "⚠️ Sam Altman on AGI, GPT-5, and what’s next — the OpenAI Podcast Ep. 1 - YouTube - \u003ca href=\"https://www.youtube.com/watch?v=DB9mjd-65gw\"\u003ehttps://www.youtube.com/watch?v=DB9mjd-65gw\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c1",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750543515,
+      "text": "масло ли? или охлаждайка"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c2",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750543533,
+      "text": "200"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c3",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750543541,
+      "text": "бачей 700 хотел написать 🙂"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c4",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1750543583,
+      "text": "охлаждение ноги еще надо"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c5",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750543601,
+      "text": "не масло блин."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c6",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750543632,
+      "text": "охлаждайка же жидкость другая."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c7",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750543636,
+      "text": "интеркулер"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c8",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750543665,
+      "text": "аа. да. понял. май бед. я воздушное охлаждение не так понял"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34c9",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750543704,
+      "text": "⚠️ Go should be more opinionated - \u003ca href=\"https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/\"\u003ehttps://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34ca",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750543704,
+      "text": "\u003cstrong\u003eGo should be more opinionated\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003e\u003cbr/\u003eВ статье обсуждается, что язык Go мог бы быть более структурированным и предоставлять шаблоны для проектов, чтобы облегчить разработку командами, особенно тем, кто переходит с других языков. Чёткая структура может помочь в адаптации и ускорить работу.\u003cbr/\u003e\u003cbr/\u003e### Основные пункты\u003cbr/\u003e\u003cbr/\u003e- Автор встретился с Робертом Гриземером и Марком Дохерти, обсуждая Go.\u003cbr/\u003e- Язык Go изначально прост в изучении благодаря своей однозначности и структурированности.\u003cbr/\u003e- Проблема возникает при создании крупных проектов, где отсутствует чёткая структура.\u003cbr/\u003e- Команды тратят время на изучение документации и определение структуры.\u003cbr/\u003e- Предложено создать официальные шаблоны для проектов и команд.\u003cbr/\u003e- Более чёткая структура облегчит миграцию с других языков, таких как Java и PHP.\u003cbr/\u003e- Автор ждёт обсуждения и мнений по теме от читателей."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34cb",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750543725,
+      "text": "⚠️ Claudia - The Elegant Desktop Companion for Claude Code - \u003ca href=\"https://claudia.asterisk.so/\"\u003ehttps://claudia.asterisk.so/\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34cc",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750543729,
+      "text": "\u003cstrong\u003eClaudia - The Elegant Desktop Companion for Claude Code\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eClaudia — это элегантный настольный помощник для работы с кодом Claude, предлагающий удобные инструменты для улучшения продуктивности программистов и разработчиков.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Интерфейс**: Стильный и интуитивно понятный интерфейс, который облегчает взаимодействие.\u003cbr/\u003e- **Поддержка кода**: Эффективная поддержка для написания и редактирования кода на различных языках.\u003cbr/\u003e- **Интеграция**: Легкая интеграция с популярными IDE и инструментами разработки.\u003cbr/\u003e- **Функции**: Обширный набор функций для оптимизации рабочего процесса.\u003cbr/\u003e- **Продуктивность**: Улучшает производительность при написании и отладке кода.\u003cbr/\u003e- **Обновления**: Регулярные обновления для повышения функциональности и безопасности.\u003cbr/\u003e- **Служба поддержки**: Доступная служба поддержки для решения возможных проблем."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34cd",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750543848,
+      "text": "⚠️ Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings - \u003ca href=\"https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor\"\u003ehttps://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34ce",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750543853,
+      "text": "\u003cstrong\u003eGitHub - Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое описание\u003cbr/\u003e\u003cbr/\u003e**Claude Code Usage Monitor** - это инструмент для мониторинга использования токенов Claude AI в реальном времени, который отслеживает потребление токенов, скорость их сгорания и предоставляет прогнозы о том, когда токены закончатся.\u003cbr/\u003e\u003cbr/\u003e- Реальный мониторинг использования токенов Claude AI.\u003cbr/\u003e- Отслеживание потребления токенов и скорости их сгорания.\u003cbr/\u003e- Прогнозирование времени окончания токенов.\u003cbr/\u003e- Предоставление предупреждений о низком уровне токенов.\u003cbr/\u003e- Разработка с использованием Python 3.6+.\u003cbr/\u003e- Открытый исходный код и лицензия MIT.\u003cbr/\u003e- Возможность внести вклад в проект через pull-запросы."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34cf",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1750544136,
+      "image_url": "https://chat.radio-t.com/logs/966/AgACAgEAAx0CUPxcWQABCbSUaFcvCKLaFoUodZfu3TFOImsmTywAAlyuMRswPbhGvLpAz-9E3t8BAAMCAAN5AAM2BA",
+      "image_width": 1061,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d0",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1750544165,
+      "text": "высоковата клава 🙂 имхо запястья болеть будут"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d1",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750544361,
+      "text": "⚠️ Темы слушателей 966 - \u003ca href=\"https://radio-t.com/p/2025/06/17/prep-966/\"\u003ehttps://radio-t.com/p/2025/06/17/prep-966/\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d2",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750544370,
+      "text": "[1/10] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eDenis Panfilov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eВ Zed завезли дебаггер \u003c/em\u003e\u003ca href=\"https://zed.dev/debugger\"\u003ehttps://zed.dev/debugger\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e Я попробовал с Go, в целом пользоваться можно.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eZed — The Debugger\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eZed — инструмент отладки, который позволяет быстро выполнять код, оценивать выражения, поддерживать множественные сессии и отлаживать удаленно.\u003cbr/\u003e\u003cbr/\u003e- **Запуск до курсора**: Кликните на любую строку, чтобы сразу перейти к ней.\u003cbr/\u003e- **Оценка выражений**: Выделите текст и оцените результат. \u003cbr/\u003e- **Поддержка нескольких сессий**: Запускайте несколько отладок одновременно.\u003cbr/\u003e- **Сравнение путей выполнения**: Сравнивайте различные сценарии в одном интерфейсе. \u003cbr/\u003e- **Удаленная отладка**: Подключайтесь к приложениям на удаленных серверах или контейнерах.\u003cbr/\u003e- **Интерфейс пользователя**: Интуитивно понятный интерфейс для удобного взаимодействия.\u003cbr/\u003e- **Работа с динамическими языками**: Идеально подходит для быстрой проверки изменений кода."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d3",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750544370,
+      "text": "[2/10] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eAlexander Kutsan\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://foundation.gnome.org/2025/06/10/gnome-has-a-new-infrastructure-partner-welcome-aws/\"\u003ehttps://foundation.gnome.org/2025/06/10/gnome...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eGnome теперь спонсируется Amazon-ом.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGNOME Has a New Infrastructure Partner: Welcome AWS! – The GNOME Foundation\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eGNOME сотрудничает с AWS для миграции своей инфраструктуры в облако, что значительно улучшило производительность, безопасность и управление. Переход к облачным ресурсам снизил затраты на обслуживание и повысил масштабируемость, что отражает рост пользовательской базы GNOME и их вклады в проект.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- GNOME ранее использовал локальные серверы, теперь делает переход на облачные технологии AWS.\u003cbr/\u003e- AWS предоставил спонсорство, что позволило мигрировать большую часть нагрузки на облачные ресурсы.\u003cbr/\u003e- Уменьшены затраты на обслуживание благодаря автоматизации и управлению сетью от AWS.\u003cbr/\u003e- Переход к AWS обеспечил избыточность и улучшил безопасность сетевой инфраструктуры.\u003cbr/\u003e- Использование Amazon S3 и других сервисов AWS снизило задержки и затраты.\u003cbr/\u003e- GNOME Circle расширяет экосистему, позволяя внести вклад в неосновные проекты и получать доступ к GitLab.\u003cbr/\u003e- Благодарность AWS за поддержку и возможность предоставить надежные услуги пользователям GNOME по всему миру."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d4",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750544371,
+      "text": "[3/10] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eAlmaz Shiriyazdanov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eНовые сплетни про Meta и OpenAI\u003cbr/\u003eЦукерберг предлагал сотрудникам OpenAI 100 миллионов долларов за переход в Meta\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/\"\u003ehttps://techcrunch.com/2025/06/17/sam-altman-...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eSam Altman says Meta tried and failed to poach OpenAI\u0026#39;s talent with $100M offers | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eСэм Альтман заявил, что Meta пыталась переманить таланты OpenAI с предложениями по $100 миллионов, но безуспешно. Альтман подчеркнул, что сотрудники остаются в OpenAI из-за лучшей культуры и цели достижения AGI, а не из-за денег.\u003cbr/\u003e\u003cbr/\u003e- Meta активно пытается нанять исследователей ИИ из OpenAI и Google DeepMind.\u003cbr/\u003e- Альтман подтвердил информацию о предложениях Meta на подкасте с братом.\u003cbr/\u003e- Ни один из лучших сотрудников OpenAI не принял предложения Meta.\u003cbr/\u003e- Meta предложила значительные компенсации, но сосредотачивается на деньгах, а не на миссии.\u003cbr/\u003e- Альтман считает культуру инноваций ключом к успеху OpenAI.\u003cbr/\u003e- Meta также инвестировала в предыдущую компанию Александра Ванга, CEO Scale AI.\u003cbr/\u003e- Ожидается, что OpenAI выпустит открытый ИИ-модель, что усложнит Meta борьбу за талант."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d5",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750544371,
+      "text": "[4/10] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eRuslan Ibrahimau (Ibragimov)\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003ePython 3.14 официально поддерживает free-threaded build без Global Interpreter Lock.\u003cbr/\u003e\u003cbr/\u003eГонки, дед и лайв локи в продакшене? Я слабо представляю как провернуть такой мув на огромной экосистеме, как быть уверенем что запуск какого-нибудь модуля в мульти-треде не сломает его. Может это очередной python 2 vs 3 moment?\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://discuss.python.org/t/pep-779-criteria-for-supported-status-for-free-threaded-python/84319/123\"\u003ehttps://discuss.python.org/t/pep-779-criteria...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003ePEP 779: Criteria for supported status for free-threaded Python - #123 by corona10 - PEPs - Discussions on \u003c/strong\u003e\u003ca href=\"https://Python.org\"\u003ePython.org\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003ePEP 779 предлагает критерии для определения статуса поддержки свободно-поточного Python, предоставляя рекомендации для улучшения многопоточности в языке.\u003cbr/\u003e\u003cbr/\u003e- **Цели PEP**: Установить четкие критерии для реализации свободно-поточной модели.\u003cbr/\u003e- **Многопоточность**: Рассматривает возможности эффективного использования потоков в Python.\u003cbr/\u003e- **Совместимость**: Обеспечивает обратную совместимость с существующим кодом.\u003cbr/\u003e- **Производительность**: Оценивает влияние на производительность приложений.\u003cbr/\u003e- **Безопасность потоков**: Обсуждаются требования к безопасному выполнению потоков.\u003cbr/\u003e- **Обратная связь**: Открытость для предложений и усовершенствований от сообщества.\u003cbr/\u003e- **Следующие шаги**: Планы по реализации и тестированию предложенных изменений."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d6",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1750544371,
+      "text": "[5/10] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eIgor Kozlov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eDocker предлает курируемый каталог MCP завернутых в контейнер.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/\"\u003ehttps://www.docker.com/blog/announcing-docker...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eIntroducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP | Docker\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eDocker представляет MCP каталог и инструменты, предлагая простой и безопасный способ для поддержки AI-агентов. В отчете о состоянии разработки приложений за 2025 год подчеркивается значимость командной работы в области безопасности.\u003cbr/\u003e\u003cbr/\u003e- В мире разработки ПО безопасность больше не специализирована, это командная работа.\u003cbr/\u003e- Уязвимости требуют совместных усилий всех участников команды.\u003cbr/\u003e- Docker делится ключевыми выводами из отчета о безопасности и разработке приложений.\u003cbr/\u003e- Важность коллективного подхода к выявлению и управлению уязвимостями.\u003cbr/\u003e- Новый MCP каталог предлагает решения для безопасного развертывания.\u003cbr/\u003e- Инструменты Docker помогают создать гибкую и безопасную среду.\u003cbr/\u003e- Основное внимание уделяется интеграции безопасности на всех уровнях разработки."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d7",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1750544507,
+      "text": "\u003ca href=\"https://github.com/Yantrio/mcp-gopls\"\u003ehttps://github.com/Yantrio/mcp-gopls\u003c/a\u003e"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d8",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1750544743,
+      "text": "Да и Samsung тоже"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34d9",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1750544815,
+      "text": "Речь о 14 миллиардах за Perplexity"
+    },
+    {
+      "id": "68594e7de82cfd4560bf34da",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750545401,
+      "text": "Я уверен что там на колёсах и так энкодеры какие-нибудь есть и они просто софтварно могут допилить."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34db",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1750545505,
+      "text": "Ибо слишком тупыми иначе они бы были, если бы просто крутились по напряжению без обратной связи и оно бы в любой луже с грязью могло бы непредсказуемо что-нибудь исполнять."
+    },
+    {
+      "id": "68594e7de82cfd4560bf34dc",
+      "issue": 966,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1750545869,
+      "text": "про очки — имея плохое зрение линзы толстые если не специально облегченные весьма увесистые и перевес на нос всегда обеспечен"
+    }
+  ]
+}
