@@ -230,6 +230,7 @@
           <!-- End search form -->
       </div>
   </div>
+  
     <!-- Grid/list of issues -->
     <template x-if="issue === 'list'">
       <div x-data="{
@@ -282,6 +283,7 @@
             this.updateProgress()
           },
           setProgress: function (time) {
+            //console.log('Set progress: ' + time)
             $refs.audio.currentTime = this.time2sec(time)
             this.isSidebarOpen = false
           },
@@ -309,7 +311,15 @@
           },
           time2sec: function (time) {
             var parts = time.split(':')
-            return parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60 + parseInt(parts[2])
+            if (parts.length === 1) {
+              return parseInt(parts[0])
+            } else if (parts.length === 2) {
+              return parseInt(parts[0]) * 60 + parseInt(parts[1])
+            } else if (parts.length === 3) {
+              return parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60 + parseInt(parts[2])
+            } else {
+              return 0
+            }
           },
           updateProgress: function () {
             this.time = $refs.audio.currentTime
@@ -474,7 +484,7 @@
                 <li><span
                   class="block px-2 py-2 hover:bg-gray-300 dark:hover:bg-gray-700 rounded-md cursor-pointer"
                   x-text="topic.title"
-                  @click="setProgress(topic.time)"
+                  x-on:click="setProgress(topic.time)"
                 ></span></li>
               </template>
               </ul>
