@@ -1,0 +1,1002 @@
+{
+  "chat": [
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e1",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1755374371,
+      "text": "она чтоб просто, но достаточно. для потрахаться у них есть (были) раутеры семейства edge, там как микротик все"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e2",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755374388,
+      "text": "унц-унц-унц"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e3",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755374520,
+      "text": "голоса, я слышу голоса.."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e4",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755374541,
+      "text": "а холодильника не слышу(("
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e5",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Virasio",
+      "author_name": "Victor",
+      "datetime": 1755374814,
+      "text": "А в телеграмме не будет вещания?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e6",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Virasio",
+      "author_name": "Victor",
+      "datetime": 1755374965,
+      "text": "Идёт"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e7",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Virasio",
+      "author_name": "Victor",
+      "datetime": 1755375018,
+      "text": "Показывало что 1 партисипант, я подключился, продолжает показывать 1 партисипант"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e8",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1755375052,
+      "text": "А зимой? отопление электричеством?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2e9",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755375070,
+      "text": "а дом как обогревается?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2ea",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1755375276,
+      "text": "А холодильник умеет смски слать?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2eb",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1755375283,
+      "text": "как у всех, газом"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2ec",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755375329,
+      "text": "не согласен с Греем"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2ed",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1755375335,
+      "text": "Кто живет один, понял Грея."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2ee",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1755375349,
+      "text": "надо иметь 2 посудомойки чтобы мигрировать из одной в другую"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2ef",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755375365,
+      "text": "у меня жена загружает когда посуда кончилась"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f0",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Virasio",
+      "author_name": "Victor",
+      "datetime": 1755375472,
+      "text": "У меня жена сейчас уехала, и я так и живу: чистая посуда в посудомойке, грязная в раковине :)"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f1",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755375476,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f2",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755375517,
+      "text": "А то есть его после осеннего яблочного события ждать, как на «Яблочный спас»"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f3",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755375580,
+      "text": "мастер, всё готово - доделал? - доломал.."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f4",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ShiftControl",
+      "author_name": "S S",
+      "datetime": 1755375593,
+      "text": "Что такое блупуп"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f5",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ShiftControl",
+      "author_name": "S S",
+      "datetime": 1755375659,
+      "text": "Шел Иисус по раю, увидел - горят два сада. Мимо вишневого он прошёл мимо, а Яблочный Спас."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f6",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755375779,
+      "text": "загугли блупуп пельмени"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f7",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755375792,
+      "text": "так это ж типичный пример \u0026#34;пресс-тура\u0026#34;"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f8",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755375812,
+      "text": "пригласили, напоили, обогрели, поселили в отеле"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2f9",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shiiden",
+      "author_name": "Yuri",
+      "datetime": 1755375825,
+      "text": "Блуэтутх жы"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2fa",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755375829,
+      "text": "взамен требуется только рассказать хорошее про продукт, иначе в следующий раз не пригласят"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2fb",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1755375870,
+      "text": "CEO говорит что бил в отпуске. Ну такое."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2fc",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755375883,
+      "text": "но если они реально на релизе выпустили более тупую и оптимизированную модель, чем дали ЛОМам - это позор"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2fd",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755375917,
+      "text": "эдакий дизельгейт"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2fe",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376020,
+      "text": "их 2 в английском произношении."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c2ff",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376042,
+      "text": "АПЛ не ЭПЛ до сих пор бесит"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c300",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755376067,
+      "text": "чюздей"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c301",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376073,
+      "text": "южный акцент. хз как в техасе у нас тут тоже жесть."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c302",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755376116,
+      "text": "попробуйте поговорить с мароканцами))"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c303",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376248,
+      "text": "решила выпить. слушайте внимательно 🙂"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c304",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376295,
+      "text": "глаза бегают под веками. стремно со стороны смотреть"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c305",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755376330,
+      "text": "только собственно на этой фазе люди и видят сны, особенно сны, которые запоминаются"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c306",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "netslow",
+      "author_name": "Stas Netslow",
+      "datetime": 1755376342,
+      "text": "А как рэм замеряют?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c307",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376383,
+      "text": "там скорее всего косвенно. нужно гуглить но имхо разные параметры кровь о2, пульс и тп."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c308",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376403,
+      "text": "плюс движения тела поди специфичные"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c309",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376471,
+      "text": "песком посыпали начало выпуска 🙂"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c30a",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755376476,
+      "text": "⚠️ NGINX Introduces Native Support for ACME Protocol – NGINX Community Blog - \u003ca href=\"https://blog.nginx.org/blog/native-support-for-acme-protocol\"\u003ehttps://blog.nginx.org/blog/native-support-for-acme-protocol\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c30b",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755376483,
+      "text": "\u003cstrong\u003eNGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eNGINX представила поддержку протокола ACME в своей предварительной версии, позволяющей управлять сертификатами SSL/TLS с помощью новых встроенных директив. Это улучшает работу с сертификатами, снижает риски и повышает безопасность.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Поддержка ACME**: Новый модуль ngx_http_acme_module позволяет управлять сертификатами напрямую через конфигурацию NGINX.\u003cbr/\u003e- **Упрощение управления сертификатами**: Сокращение ошибок и уменьшение зависимостей от внешних инструментов, таких как Certbot.\u003cbr/\u003e- **Автоматизация процесса**: Протокол ACME упрощает получение и обновление цифровых сертификатов без ручного вмешательства.\u003cbr/\u003e- **Планируемая функциональность**: В будущем поддержка других задач для проверки владения доменом (TLS-ALPN, DNS-01) будет добавлена.\u003cbr/\u003e- **Внедрение в IoT**: ACME будет играть ключевую роль в автоматизации безопасности для API и устройств.\u003cbr/\u003e- **Обратная связь от сообщества**: Пользователям предлагается делиться отзывами через GitHub для улучшения разработки."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c30c",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rugameuser",
+      "author_name": "return true;",
+      "datetime": 1755376530,
+      "text": "А кому-то нужно acme?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c30d",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1755376755,
+      "text": "Angie форк nginx уже год умеет acme, умеет DNS challenge и resolve для server в upstream{}"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c30e",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376796,
+      "text": "я в такие моменты осознаю что весь этот бардак делает жена 🙂 \u003cbr/\u003eу меня 1 вилка, ложка, сковородка, тарелка лежат в раковине и по мере необходимости достается моется и пользуется потом обратно. оказывается что вообще не нужно столько посуды дома 🙂"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c30f",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755376931,
+      "text": "бгг. я говорил что будет новая озвучка для радиота 🙂"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c310",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755377134,
+      "text": "⚠️ Why LLMs Can\u0026#39;t Really Build Software - Zed Blog - \u003ca href=\"https://zed.dev/blog/why-llms-cant-build-software\"\u003ehttps://zed.dev/blog/why-llms-cant-build-software\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c311",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755377138,
+      "text": "\u003cstrong\u003eWhy LLMs Can\u0026#39;t Really Build Software — Zed\u0026#39;s Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**\u003cbr/\u003eБольшие языковые модели (LLMs) способны генерировать код, но не могут поддерживать ясные ментальные модели, что ограничивает их возможности в разработке программного обеспечения. Человеческие инженеры работают с ментальными моделями, что позволяет им эффективно тестировать и исправлять код.\u003cbr/\u003e\u003cbr/\u003e- LLMs хорошо генерируют и обновляют код, но не могут поддерживать ясные ментальные модели.\u003cbr/\u003e- Инженеры создают ментальные модели требований и кода, что помогает им выявлять проблемы.\u003cbr/\u003e- LLMs не могут адекватно реагировать на тесты из-за путаницы в ментальных моделях.\u003cbr/\u003e- Сложности LLMs: пропуски контекста, предвзятость к недавнему контексту и галлюцинации.\u003cbr/\u003e- Разработка программного обеспечения требует более глубокого понимания и контекстуализации задач.\u003cbr/\u003e- LLMs полезны для простых задач, но не могут справиться с нечёткими требованиями.\u003cbr/\u003e- Инженеры контролируют процесс разработки, а LLMs служат вспомогательными инструментами."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c312",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Virasio",
+      "author_name": "Victor",
+      "datetime": 1755377297,
+      "text": "Обратите внимание: у Ксении ИИ «она», а у остальных «он» :)"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c313",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1755377465,
+      "text": "модель это архитектура. Model-based systems engineering (MBSE) is a formalized methodology that is used to support the requirements, design, analysis, verification, and validation associated with the development of complex systems. In contrast to document-centric engineering, MBSE puts models at the center of system design."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c314",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755378075,
+      "text": "масло"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c315",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755378427,
+      "text": "когда дедикейтед тим 🙂"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c316",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755378571,
+      "text": "⚠️ AI is different - \u0026lt;antirez\u0026gt; - \u003ca href=\"https://www.antirez.com/news/155\"\u003ehttps://www.antirez.com/news/155\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c317",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755378575,
+      "text": "\u003cstrong\u003e\u003cbr/\u003eAI is different - \u0026lt;antirez\u0026gt;\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eИскусственный интеллект (ИИ) продолжает удивлять своими способностями, несмотря на недопонимание технологий и экономические проблемы. Будущее ИИ может привести к значительным изменениям в экономике и обществе, с потенциальными последствиями для рабочих мест и возможности предоставления интеллектуальных услуг.\u003cbr/\u003e\u003cbr/\u003e- ИИ уже сейчас демонстрирует навыки, ранее считавшиеся научной фантастикой.\u003cbr/\u003e- Глубокие модели ИИ плохо понимаются, что затрудняет предсказание их будущего развития.\u003cbr/\u003e- Возможно, ИИ столкнется с плато, но это может стимулировать новые исследования.\u003cbr/\u003e- ИИ может заменить значительное количество рабочих мест, что проверит экономическую систему.\u003cbr/\u003e- Инвесторы могут неправильно оценить влияние ИИ на бизнес-возможности.\u003cbr/\u003e- Будущее ИИ может вызывать изменения в экономических системах и потребительских привычках.\u003cbr/\u003e- Исторически сложившиеся системы иногда были разрушены изменениями в обществе."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c318",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755379175,
+      "text": "да лан. счас уже давно свежие поколения ваяют и без ллм. с ллм они еще хуже становятся"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c319",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755379398,
+      "text": "неуженли от джунов теперь кучу всего требуется? \u003cbr/\u003eраньше просто тупо смотрели как они адаптируются под то что на входе им даешь, как размышляют и тп. и все."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c31a",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755379512,
+      "text": "у водителей там другое - диспетчер грамотный и как свое время правильно организуешь. а так да CDL и все"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c31b",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1755379531,
+      "text": "стаж - только страховка для компании что тебя нанимает"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c31c",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755379558,
+      "text": "⚠️ Go 1.25 Release Notes - The Go Programming Language - \u003ca href=\"https://tip.golang.org/doc/go1.25\"\u003ehttps://tip.golang.org/doc/go1.25\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c31d",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755379564,
+      "text": "\u003cstrong\u003eGo 1.25 Release Notes - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eGo 1.25, выпущенный в августе 2025 года, улучшает инструменты, производительность и библиотеки, сохраняя при этом обещание совместимости Go. Обновления включают в себя новые функции, улучшения производительности и изменения в спецификациях.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Изменения в языке**: Удалено понятие основных типов из спецификации в пользу специализированного изложения.\u003cbr/\u003e- **Улучшения командной строки**: Новый параметр `go build -asan` для автоматического обнаружения утечек памяти при выходе.\u003cbr/\u003e- **Экспериментальный сборщик мусора**: Новый проект уменьшает накладные расходы сборки мусора на 10-40%.\u003cbr/\u003e- **Трассировка выполнения**: Новый API `runtime/trace.FlightRecorder` для легкой записи трассировки выполнения.\u003cbr/\u003e- **Обновления для работы с памятью**: Улучшена работа с VMA-именами на Linux и исправлен баг с нулевыми указателями.\u003cbr/\u003e- **Поддержка DWARF5**: Новый формат отладки для уменьшения размера информации отладки и ускорения ссылки.\u003cbr/\u003e- **Новый пакет `testing/synctest`**: Поддержка тестирования конкурентного кода с изолированными тестами."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c31e",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1755380027,
+      "text": "Не будет пауз cgroup, раньше в интервале 100 мс если был перерасход все тренды уходили в суспенд, то есть приложение переставало отвечать. Но все подключали automaxprocs от Uber, сейчас не нужно"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c31f",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755380267,
+      "text": "⚠️ GitHub is no longer independent at Microsoft after CEO resignation - \u003ca href=\"https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition\"\u003ehttps://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c320",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755380271,
+      "text": "\u003cstrong\u003eGitHub just got less independent at Microsoft after CEO resignation | The Verge\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eСогласно сообщению The Verge, GitHub стал менее независимым от Microsoft после отставки генерального директора Томаса Домке. Он покидает компанию, чтобы вновь заняться созданием стартапов, в то время как GitHub станет частью команды CoreAI Microsoft.\u003cbr/\u003e\u003cbr/\u003e- Генеральный директор GitHub, Томас Домке, покинул свою должность после четырех лет.\u003cbr/\u003e- GitHub будет ближе интегрирован в команду CoreAI Microsoft.\u003cbr/\u003e- Microsoft не будет назначать нового CEO для GitHub.\u003cbr/\u003e- Все руководство GitHub теперь будет подчиняться команде CoreAI.\u003cbr/\u003e- Прежняя структура руководства изменилась в 2021 году с отставкой Натана Фридмана.\u003cbr/\u003e- Джей Параких, глава CoreAI, ведет новые инициативы в области ИИ.\u003cbr/\u003e- Домке продолжит работать до конца 2025 года для управления переходом."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c321",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755380595,
+      "text": "Пхпшниками)"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c322",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1755380654,
+      "text": "Wear many hats."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c323",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "thekilg",
+      "author_name": "Andrey Pomazkin",
+      "datetime": 1755380703,
+      "text": "давно началось?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c324",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755380775,
+      "text": "⚠️ Requiem for a 10x Engineer Dream - \u003ca href=\"https://www.architecture-weekly.com/p/requiem-for-a-10x-engineer-dream\"\u003ehttps://www.architecture-weekly.com/p/requiem-for-a-10x-engineer-dream\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c325",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755380780,
+      "text": "\u003cstrong\u003eRequiem for a 10x Engineer Dream - by Oskar Dudycz\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eОскар Дудыч анализирует использование ИИ-инструментов для программирования, утверждая, что ожидаемые десятикратные улучшения продуктивности могут быть миражом. Он делится опытом с Claude Code, рассматривая его недостатки и проблемы микроменеджмента.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты:\u003cbr/\u003e- Люди утверждают, что ИИ-кодеры увеличивают производительность в 10 раз, но результаты часто не оправдывают ожиданий.\u003cbr/\u003e- Опыт с Claude Code показал, что подробные спецификации требуются для успешного выполнения задач.\u003cbr/\u003e- Работа с ИИ может быть утомительной и вызвать \u0026#34;выгорание от ИИ\u0026#34;.\u003cbr/\u003e- Юные разработчики могут учиться и развиваться, в то время как ИИ не обладает памятью и не умеет обучаться.\u003cbr/\u003e- ИИ-инструменты могут быть полезны для мозгового штурма, однако их смысл иногда сводится к простой помощи.\u003cbr/\u003e- Сложности использования этих инструментов могут вызвать новые формы стресса в разработке.\u003cbr/\u003e- Поддержка Украины важна, особенно во время продолжающейся войны."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c326",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755380889,
+      "text": "Если все будут 10х программистами, то это будет называться 1х программист, а работы в десять раз больше за те же деньги)"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c327",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1755381088,
+      "text": "А у меня иногда возвращается. \u003cbr/\u003eТакой ой ой…кажется что пошло не так, давайте все удалим и попробуем иначе."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c328",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381196,
+      "text": "⚠️ Claude Sonnet 4 now supports 1M tokens of context \\ Anthropic - \u003ca href=\"https://www.anthropic.com/news/1m-context\"\u003ehttps://www.anthropic.com/news/1m-context\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c329",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381208,
+      "text": "\u003cstrong\u003eClaude Sonnet 4 now supports 1M tokens of context \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003e\u003cbr/\u003eClaude Sonnet 4 теперь поддерживает до 1 миллиона токенов контекста, что позволяет обрабатывать целые кодовые базы и множество документов в едином запросе. Долгосрочная поддержка контекста доступна в публичной бета-версии на Anthropic API и Amazon Bedrock.\u003cbr/\u003e\u003cbr/\u003e## Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Поддержка большого контекста:** Поддержка до 1 млн токенов позволяет разработчикам обрабатывать большие кодовые базы и документы.\u003cbr/\u003e  \u003cbr/\u003e- **Анализ кода:** Claude может анализировать архитектуру проектов, выявлять зависимости и предлагать улучшения, учитывая систему целиком.\u003cbr/\u003e  \u003cbr/\u003e- **Синтез документов:** Обработка больших наборов документов, таких как юридические контракты и научные статьи, с сохранением полного контекста.\u003cbr/\u003e  \u003cbr/\u003e- **Контекстно-осведомленные агенты:** Создание агентов, которые сохраняют контекст при многоступенчатых рабочих процессах и вызовах API.\u003cbr/\u003e  \u003cbr/\u003e- **Цены на API:** Корректировка цен для запросов более 200K токенов с учетом вычислительных требований.\u003cbr/\u003e  \u003cbr/\u003e- **Клиенты:** Bolt и iGent AI используют возможности Sonnet 4 для улучшения процессов разработки с помощью более долгосрочного контекста.\u003cbr/\u003e  \u003cbr/\u003e- **Публичная бета:** Доступность долгосрочного контекста в Anthropic API для клиентов с высокой планкой, шире в ближайшие недели."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c32a",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755381534,
+      "text": "640  ага"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c32b",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381707,
+      "text": "⚠️ Темы слушателей 974 - \u003ca href=\"https://radio-t.com/p/2025/08/14/prep-974/\"\u003ehttps://radio-t.com/p/2025/08/14/prep-974/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c32c",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381712,
+      "text": "[1/8] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eDmytro Prokhorenkov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://blog.nginx.org/blog/native-support-for-acme-protocol\"\u003ehttps://blog.nginx.org/blog/native-support-fo...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eNginx наконецто может нативно генерить получать сертифакаты от LetsEncrypt.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eNGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eNGINX представила поддержку протокола ACME в своей предварительной версии, позволяющей управлять сертификатами SSL/TLS с помощью новых встроенных директив. Это улучшает работу с сертификатами, снижает риски и повышает безопасность.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Поддержка ACME**: Новый модуль ngx_http_acme_module позволяет управлять сертификатами напрямую через конфигурацию NGINX.\u003cbr/\u003e- **Упрощение управления сертификатами**: Сокращение ошибок и уменьшение зависимостей от внешних инструментов, таких как Certbot.\u003cbr/\u003e- **Автоматизация процесса**: Протокол ACME упрощает получение и обновление цифровых сертификатов без ручного вмешательства.\u003cbr/\u003e- **Планируемая функциональность**: В будущем поддержка других задач для проверки владения доменом (TLS-ALPN, DNS-01) будет добавлена.\u003cbr/\u003e- **Внедрение в IoT**: ACME будет играть ключевую роль в автоматизации безопасности для API и устройств.\u003cbr/\u003e- **Обратная связь от сообщества**: Пользователям предлагается делиться отзывами через GitHub для улучшения разработки."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c32d",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381713,
+      "text": "[2/8] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eromangr\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMan develops rare condition after ChatGPT query over stopping eating salt.\u003cbr/\u003eUS medical journal article about 60-year-old with bromism warns against using AI app for health information\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information\"\u003ehttps://www.theguardian.com/technology/2025/a...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMan develops rare condition after ChatGPT query over stopping eating salt | ChatGPT | The Guardian\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eМужчина развил редкое состояние после запроса к ChatGPT о прекращении употребления соли. Врачи предупреждают о возможных негативных последствиях использования ИИ для получения медицинской информации.\u003cbr/\u003e\u003cbr/\u003e- Мужчина, 60 лет, развил бромизм после консультации с ChatGPT.\u003cbr/\u003e- Бромизм был распространён в начале 20 века, связан с психиатрическими симптомами.\u003cbr/\u003e- Он принимал бромид натрия, полагая, что заменяет хлорид натрия (соль).\u003cbr/\u003e- Статья в медицинском журнале предупреждает о рисках использования ИИ для медицинских советов.\u003cbr/\u003e- ChatGPT не может заменить профессиональную медицинскую помощь.\u003cbr/\u003e- Разработчики утверждают, что обновлённая версия GPT-5 лучше в вопросах здравоохранения.\u003cbr/\u003e- Врачи должны учитывать, как пациенты получают информацию из ИИ."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c32e",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381713,
+      "text": "[3/8] \u003cstrong\u003e+1\u003c/strong\u003e от \u003cstrong\u003eAnton Karmanov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eOptimizing My Sleep Around Claude Usage Limits\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://mattwie.se/no-sleep-till-agi\"\u003ehttps://mattwie.se/no-sleep-till-agi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOptimizing My Sleep Around Claude Usage Limits | Matt Wiese\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eМатт Уиз оптимизирует свой график сна для максимального использования подписки на Claude Pro, исследуя стратегии короткого сна, подобные тем, что используют одиночные моряки, и увеличивая свою продуктивность.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Уиз управляет графиком сна, чтобы максимально использовать лимит сессий Claude.\u003cbr/\u003e- Систематически терял доступ к Claude в неподходящее время, вызывая фрустрацию.\u003cbr/\u003e- Обнаружил методы одиночного плавания, комбинируя короткие интервал сна и работу.\u003cbr/\u003e- Мой опыт работы с Claude увеличил скорость разработки в 10 раз.\u003cbr/\u003e- Подумает о настройке будильника, чтобы следить за лимитом использования.\u003cbr/\u003e- Рассматривает возможное повышение цен и ограничения использования Anthropic.\u003cbr/\u003e- Использование краткосрочного сна стало его личной оптимизацией графика."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c32f",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381713,
+      "text": "[4/8] \u003cstrong\u003e+1\u003c/strong\u003e от \u003cstrong\u003efreebian666\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eКто ещё замечает каким ужасно медленным становится UI github’а?\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/\"\u003ehttps://yoyo-code.com/why-is-github-ui-gettin...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWhy is GitHub UI getting so much slower?\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003e\u003cbr/\u003eПользователи жалуются на замедление интерфейса GitHub, включая долгие загрузки вкладок и негативное влияние на производительность. Обсуждаются проблемы с клиентским роутингом и интерфейсом, которые требуют улучшения для повышения эффективности работы.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Замедление интерфейса**: Пользователи отмечают, что переключение между вкладками стало медленным, затрачивая более 5 секунд.\u003cbr/\u003e  \u003cbr/\u003e- **Проблемы с производительностью**: Установлено, что клиентская обработка страницы иногда медленнее, чем загрузка с сервера.\u003cbr/\u003e  \u003cbr/\u003e- **Неправильное использование маршрутизации**: Клиентская маршрутизация приводит к медленной загрузке, что противоречит концепции одностраничных приложений (SPAs).\u003cbr/\u003e  \u003cbr/\u003e- **Технические проблемы**: Загрузка элементов, таких как кнопки, вызывает зависания интерфейса при работе с большими PR.\u003cbr/\u003e  \u003cbr/\u003e- **Проблемы с браузером**: Переходы между вкладками и изменением размера окон ведут к замедлению работы браузера.\u003cbr/\u003e  \u003cbr/\u003e- **Нужны улучшения**: Пользователи призывают к более быстрому и эффективному решению текущих проблем производительности.\u003cbr/\u003e  \u003cbr/\u003e- **Надеются на будущее**: Ожидается, что обновленный дорожная карта GitHub приведет к улучшению производительности."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c330",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755381713,
+      "text": "[5/8] \u003cstrong\u003e+1\u003c/strong\u003e от \u003cstrong\u003eAndrz\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://developers.googleblog.com/en/introducing-gemma-3-270m/\"\u003ehttps://developers.googleblog.com/en/introduc...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eВышла Gemma 3 270М.\u003cbr/\u003eБез проблем запукается почти на любом смартфоне.\u003cbr/\u003eНо какое практическое применение у таких моделей?\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e\u003cbr/\u003e            \u003cbr/\u003e            Introducing Gemma 3 270M: The compact model for hyper-efficient AI\u003cbr/\u003e            \u003cbr/\u003e            \u003cbr/\u003e            - Google Developers Blog\u003cbr/\u003e            \u003cbr/\u003e        \u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**\u003cbr/\u003eGemma 3 270M - это компактная модель с 270 миллионами параметров, созданная для эффективного выполнения специализированных задач ИИ. Она сочетает мощные возможности обработки текстов с высокой производительностью, обеспечивая быстрое время отклика и низкое потребление ресурсов.\u003cbr/\u003e\u003cbr/\u003e- **Компактная архитектура:** 270 миллионов параметров, включая 170 миллионов для встроенных и 100 миллионов для блока трансформеров.\u003cbr/\u003e- **Энергоэффективность:** Модель потребляет всего 0.75% заряда батареи для 25 разговоров на Pixel 9 Pro.\u003cbr/\u003e- **Следование инструкциям:** Модель хорошо справляется с общими инструкциями с момента запуска, оптимальная для простых задач.\u003cbr/\u003e- **Быстрое развертывание:** Небольшой размер позволяет проводить эксперименты по быстрой настройке за считанные часы.\u003cbr/\u003e- **Защита конфиденциальности:** Возможность работы полностью на устройстве без отправки данных в облако.\u003cbr/\u003e- **Разработка специализированных моделей:** Создание нескольких моделей для разных задач без значительных затрат.\u003cbr/\u003e- **Креативные приложения:** Модель также позволяет разработать веб-приложения, как Генератор Сказок на ночь."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c331",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755381842,
+      "text": "Chlorine, забыл как по русски скорее всего."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c332",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755382140,
+      "text": "Чот от хлора вспомнился what if от xkcd, что самое худшее может быть используя скороварку \u003ca href=\"https://what-if.xkcd.com/40/\"\u003ehttps://what-if.xkcd.com/40/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c333",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1755382563,
+      "text": "Туман сжимает город до костей,\u003cbr/\u003eИ дождь стекает, словно память, в трещины.\u003cbr/\u003eВокруг — лишь тени, без лиц и без друзей,\u003cbr/\u003eА тишина звучит отчаянно, как вечность."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c334",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "thekilg",
+      "author_name": "Andrey Pomazkin",
+      "datetime": 1755382593,
+      "text": "не, плохо"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c335",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1755382644,
+      "text": "Когда небесный свод, нависший и тяжелый,\u003cbr/\u003eГнетет усталый дух болезненной тоской\u003cbr/\u003eИ жалок горизонт, как даль пустыни голой,\u003cbr/\u003eИ смотрит самый день грустнее тьмы ночной"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c336",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Yuri",
+      "datetime": 1755383070,
+      "text": "Подкаст сжимает душу до костей,\u003cbr/\u003eИ хрон стекает, словно память, в трещины.\u003cbr/\u003eВокруг — лишь темы, ссылки новостей,\u003cbr/\u003eА чатик ждет когда про аниме."
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c337",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755383128,
+      "text": "Момент когда в чат можно писать свои стихи и спихивать всё на AI))"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c338",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "thekilg",
+      "author_name": "Andrey Pomazkin",
+      "datetime": 1755383137,
+      "text": "снова трещины?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c339",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755383611,
+      "text": "И режим моноколеса туда)"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c33a",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlilt",
+      "author_name": "Максим Зырянов",
+      "datetime": 1755383650,
+      "text": "Стоя на мотоцикле ездить"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c33b",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1755383675,
+      "text": "А контакты какие, Шимано, Лук, Кренки или Таймы?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c33c",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755383715,
+      "text": "Шимано. Есть мтб и есть шоссе"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c33d",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1755383726,
+      "image_url": "https://chat.radio-t.com/logs/974/AgACAgIAAx0CUPxcWQABCdrNaKEHrkcF1U2Ywbc_DN13Q7VV9LwAAmYEMht37whJPed4R2MzVloBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 960,
+      "text": ""
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c33e",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755383734,
+      "text": "В смысле, у меня — 1 гибрид и один шоссейник"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c33f",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1755383742,
+      "text": "520 или чтото получше, типа 8100?"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c340",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755383770,
+      "text": "Наверное, 520 — старые, больше 10 лет назад ставил"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c341",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1755383790,
+      "text": "Очень живучие, да"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c342",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1755383911,
+      "image_url": "https://chat.radio-t.com/logs/974/AgACAgIAAx0CUPxcWQABCdrSaKEIZzF6SHs2COK27NRFQW5LZrUAAmoEMht37whJ5xz3czLawD0BAAMCAAN5AAM2BA",
+      "image_width": 960,
+      "image_height": 1280,
+      "text": "Это круто, к контактам надо именно осознанно дойти"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c343",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1755383927,
+      "text": "всем спасибо"
+    },
+    {
+      "id": "68a6c9a9dc2d9b02d046c344",
+      "issue": 974,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755384014,
+      "text": "Да, меня тогда мучала мысль, что я не дорабатываю в смысле нагрузки 😊. Про последствия в виде того, что ты гарантированно падаешь при потере равновесия, я тогда не знал"
+    }
+  ]
+}

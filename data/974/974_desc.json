@@ -1,0 +1,80 @@
+{
+  "issue": 974,
+  "date": "2025-08-16",
+  "audio": "https://cdn.radio-t.com/rt_podcast974.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt974.jpg",
+  "start_time": 1755375476,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Всего через 10 лет в NGINX добавили ACME",
+      "links": [
+        "https://blog.nginx.org/blog/native-support-for-acme-protocol"
+      ],
+      "time": "00:16:40"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Почему LLM не сможет",
+      "links": [
+        "https://zed.dev/blog/why-llms-cant-build-software"
+      ],
+      "time": "00:27:38"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI поменяет все",
+      "links": [
+        "https://www.antirez.com/news/155"
+      ],
+      "time": "00:51:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Go 1.25",
+      "links": [
+        "https://tip.golang.org/doc/go1.25"
+      ],
+      "time": "01:08:02"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GitHub теперь по настоящему Microsoft",
+      "links": [
+        "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"
+      ],
+      "time": "01:19:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Всем не стать десятикратными",
+      "links": [
+        "https://www.architecture-weekly.com/p/requiem-for-a-10x-engineer-dream"
+      ],
+      "time": "01:28:19"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Sonnet 4 с миллионным контекстом",
+      "links": [
+        "https://www.anthropic.com/news/1m-context"
+      ],
+      "time": "01:35:20"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/08/14/prep-974/"
+      ],
+      "time": "01:43:50"
+    }
+  ],
+  "tags": null
+}
