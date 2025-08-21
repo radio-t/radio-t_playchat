@@ -1,0 +1,72 @@
+{
+  "issue": 971,
+  "date": "2025-07-26",
+  "audio": "https://cdn.radio-t.com/rt_podcast971.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt971.jpg",
+  "start_time": 1753560947,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "В Claude Code завезли спец-агентов",
+      "links": [
+        "https://docs.anthropic.com/en/docs/claude-code/sub-agents"
+      ],
+      "time": "00:17:24"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Мобильные приложения против сайтов",
+      "links": [
+        "https://idiallo.com/blog/dont-download-apps"
+      ],
+      "time": "00:34:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google закрывает goo.gl и поломает интернет",
+      "links": [
+        "https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline"
+      ],
+      "time": "01:10:06"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "UK запретили договариваться с хакерами",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/uk-to-ban-public-sector-orgs-from-paying-ransomware-gangs/"
+      ],
+      "time": "01:16:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "И еще они хотят знать ваш возраст",
+      "links": [
+        "https://www.wired.com/story/the-age-checked-internet-has-arrived/"
+      ],
+      "time": "01:24:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Приложение для анонимного обсуждения самцов",
+      "links": [
+        "https://www.nbcnews.com/tech/tech-news/women-are-anonymously-spilling-tea-men-cities-viral-app-rcna220681?_bhlid=cd41a2483b477f477b3154dbf18abb924ffad369"
+      ],
+      "time": "01:40:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/07/22/prep-971/"
+      ],
+      "time": "01:51:01"
+    }
+  ],
+  "tags": null
+}
