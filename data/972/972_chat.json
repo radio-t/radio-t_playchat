@@ -1,0 +1,1416 @@
+{
+  "chat": [
+    {
+      "id": "68a6c9268677c59e255672e8",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754164924,
+      "text": "а Гриша выйдет? ну хоть на часик..."
+    },
+    {
+      "id": "68a6c9268677c59e255672e9",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754164951,
+      "text": "я слышу голоса...."
+    },
+    {
+      "id": "68a6c9268677c59e255672ea",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1754165045,
+      "text": "а можно Леша погромче?"
+    },
+    {
+      "id": "68a6c9268677c59e255672eb",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "azinaz1",
+      "author_name": "Nazym",
+      "datetime": 1754165237,
+      "text": "Когда ?"
+    },
+    {
+      "id": "68a6c9268677c59e255672ec",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1754165238,
+      "image_url": "https://chat.radio-t.com/logs/972/AgACAgEAAx0CUPxcWQABCdB7aI5v9pfTdirfVLHSYOpwSvOOhpgAAuyxMRssK3lEaXE1lpRTA6UBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 732,
+      "text": ""
+    },
+    {
+      "id": "68a6c9268677c59e255672ed",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754165368,
+      "text": "т.е. сегодня без гиков?"
+    },
+    {
+      "id": "68a6c9268677c59e255672ee",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Malomalsky",
+      "author_name": "Ivan K.",
+      "datetime": 1754165392,
+      "text": "А в телеграм теперь не вещают?"
+    },
+    {
+      "id": "68a6c9268677c59e255672ef",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754165402,
+      "text": "а в телеграм?!"
+    },
+    {
+      "id": "68a6c9268677c59e255672f0",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754165478,
+      "text": "так сплошные вайбкодеры собрались, трушных не осталось..)"
+    },
+    {
+      "id": "68a6c9268677c59e255672f1",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754165632,
+      "text": "Таких тоже берем"
+    },
+    {
+      "id": "68a6c9268677c59e255672f2",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1754165681,
+      "text": "может, там перепутаны месяц и число?"
+    },
+    {
+      "id": "68a6c9268677c59e255672f3",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1754165694,
+      "text": "02.08 -\u0026gt; 08.02"
+    },
+    {
+      "id": "68a6c9268677c59e255672f4",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754165844,
+      "text": "Ура! телега заработала"
+    },
+    {
+      "id": "68a6c9268677c59e255672f5",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1754165867,
+      "text": "Грея не выгоняйте!"
+    },
+    {
+      "id": "68a6c9268677c59e255672f6",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1754165963,
+      "text": "а в бмв нет возможности самому карты обновить?"
+    },
+    {
+      "id": "68a6c9268677c59e255672f7",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1754165977,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e , что??? Европейские машины обновляют карты за деньги? Только в Штатах такая дичь была."
+    },
+    {
+      "id": "68a6c9268677c59e255672f8",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754166002,
+      "text": "Я думаю все BMW так делают"
+    },
+    {
+      "id": "68a6c9268677c59e255672f9",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "KloggLV",
+      "author_name": "Alex Kirhenshtein",
+      "datetime": 1754166004,
+      "text": "Все машины обновляют карты за деньги через несколько лет"
+    },
+    {
+      "id": "68a6c9268677c59e255672fa",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "define_work",
+      "author_name": "DF Work [GMT-8]",
+      "datetime": 1754166032,
+      "text": "кроме Тесл, апдейты пару раз в год прилетают"
+    },
+    {
+      "id": "68a6c9268677c59e255672fb",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "KloggLV",
+      "author_name": "Alex Kirhenshtein",
+      "datetime": 1754166041,
+      "text": "Как минимум ваг, Лексус, бмв"
+    },
+    {
+      "id": "68a6c9268677c59e255672fc",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1754166052,
+      "text": "в Евросоюзе вроде регуляция была, что должна быть возможность делать это самостоятельно."
+    },
+    {
+      "id": "68a6c9268677c59e255672fd",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "KloggLV",
+      "author_name": "Alex Kirhenshtein",
+      "datetime": 1754166053,
+      "text": "У них другие проблемы, карты там не важно"
+    },
+    {
+      "id": "68a6c9268677c59e255672fe",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754166075,
+      "text": "Возможность есть, просто за деньги"
+    },
+    {
+      "id": "68a6c9268677c59e255672ff",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1754166112,
+      "text": "... карту скачать, записать на носитель, вставить куда положено и следовать интсрукции."
+    },
+    {
+      "id": "68a6c9268677c59e25567300",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "define_work",
+      "author_name": "DF Work [GMT-8]",
+      "datetime": 1754166121,
+      "text": "да, оффлайн карты там вообще отсутствуют - но они и не нужны в целом, машина постоянно подключена к интернету и грузит все (бесплатно, платно только спутниковые по подписке за 9 в месяц)"
+    },
+    {
+      "id": "68a6c9268677c59e25567301",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Virasio",
+      "author_name": "Victor",
+      "datetime": 1754166140,
+      "text": "Грей сегодня через чур весёлый. Тоже после тусовки? :)"
+    },
+    {
+      "id": "68a6c9268677c59e25567302",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754166319,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e25567303",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r0man_ai",
+      "author_name": "Roman",
+      "datetime": 1754166416,
+      "text": "Чего там, Бобук на связи или отсутствует?"
+    },
+    {
+      "id": "68a6c9268677c59e25567304",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1754166417,
+      "text": "Андрей поклонник Бугаенко?"
+    },
+    {
+      "id": "68a6c9268677c59e25567305",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754166420,
+      "text": "Ну, можно сказать и так! У него действительно много фанов. Много шуток и мемов, связанных с ним. У тебя тоже есть любимый персонаж или блогер?"
+    },
+    {
+      "id": "68a6c9268677c59e25567306",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1754166502,
+      "text": "нет"
+    },
+    {
+      "id": "68a6c9268677c59e25567307",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754166540,
+      "text": "⚠️ Don\u0026#39;t let dicts spoil your code - \u003ca href=\"https://roman.pt/posts/dont-let-dicts-spoil-your-code/\"\u003ehttps://roman.pt/posts/dont-let-dicts-spoil-your-code/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e25567308",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754166546,
+      "text": "\u003cstrong\u003eDon\u0026#39;t let dicts spoil your code - Roman Imankulov\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003eДикты (dict) в Python могут привести к проблемам с поддержкой и качеством кода. Современные альтернативы, такие как классы, dataclass и Pydantic, могут улучшить структуру данных и облегчить работу с приложениями.\u003cbr/\u003e\u003cbr/\u003e- Используйте структуры данных, чтобы повысить читаемость и документацию вашего кода.\u003cbr/\u003e- Избегайте изменения структуры диктов, чтобы уменьшить зависимость от рабочего процесса приложения.\u003cbr/\u003e- Применяйте классы для создания моделей данных вместо использования диктов.\u003cbr/\u003e- Используйте Data Classes для уменьшения шаблонного кода и увеличения четкости.\u003cbr/\u003e- Pydantic предоставляет мощные функции валидации и сериализации для работы с данными.\u003cbr/\u003e- Annotate dicts как TypedDict для повышения удобства разработки и предотвращения ошибок.\u003cbr/\u003e- Следите за диктами, чтобы избежать долговых технических проблем в коде."
+    },
+    {
+      "id": "68a6c9268677c59e25567309",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754166888,
+      "text": "Так можно тип для dictionary обьявить, и будет предметная область, разве нет?"
+    },
+    {
+      "id": "68a6c9268677c59e2556730a",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1754166952,
+      "text": "Звучит как просто \u0026#34;типизируйте свои json\u0026#39;ы\u0026#34;"
+    },
+    {
+      "id": "68a6c9268677c59e2556730b",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1754167092,
+      "text": "Но в dict\u0026#39;ах могут быть левые ключи о которых мы уже давно забили, но они где-то валяются/в апи зачем-то приходят и наше сравнение будет false\u0026#39;ить, хотя по логике не должно."
+    },
+    {
+      "id": "68a6c9268677c59e2556730c",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167100,
+      "text": "Лёша глупости говорит. Чем строже типизирован язык, тем лучше..."
+    },
+    {
+      "id": "68a6c9268677c59e2556730d",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1754167108,
+      "text": "С чего это функцию под каждый писать?"
+    },
+    {
+      "id": "68a6c9268677c59e2556730e",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167148,
+      "text": "Мы даже в dictionary ключ и значение типизируем."
+    },
+    {
+      "id": "68a6c9268677c59e2556730f",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1754167168,
+      "text": "Вы наверное в питоне можете декоратор какой-нибудь придумать, который для датакласса сам сравнение забахает (не знаю, на питоне не пишу)."
+    },
+    {
+      "id": "68a6c9268677c59e25567310",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167185,
+      "text": "В c# все нужные методы для рекордов генерятся."
+    },
+    {
+      "id": "68a6c9268677c59e25567311",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754167213,
+      "text": "Лучше чем ?"
+    },
+    {
+      "id": "68a6c9268677c59e25567312",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167236,
+      "text": "Леша собирался накидывать на питон, а теперь топит за dictionary"
+    },
+    {
+      "id": "68a6c9268677c59e25567313",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754167253,
+      "text": "в кложе вон типов нет.. без танцев с бубнами, и при этом используется в очень сложных системах (аля банковский сектор) где цена ошибки слишком высока"
+    },
+    {
+      "id": "68a6c9268677c59e25567314",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167261,
+      "text": "Лучше, чем динамическая типизация"
+    },
+    {
+      "id": "68a6c9268677c59e25567315",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167284,
+      "text": "Изврат какой-то..."
+    },
+    {
+      "id": "68a6c9268677c59e25567316",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754167324,
+      "text": "Просто другой подход, не все инструменты для всех задач 🤷🏻"
+    },
+    {
+      "id": "68a6c9268677c59e25567317",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167328,
+      "text": "Я бы на расте писал... Или на с# последних версий с проверкой нулаббилити"
+    },
+    {
+      "id": "68a6c9268677c59e25567318",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167397,
+      "text": "Мы куда-то не туда свернули, когда javascript и питон вылезли в топы..."
+    },
+    {
+      "id": "68a6c9268677c59e25567319",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754167439,
+      "text": "что бы народные массы могли писать"
+    },
+    {
+      "id": "68a6c9268677c59e2556731a",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754167453,
+      "text": "Просто для большого спектра задач можно легко обойтись без типизации"
+    },
+    {
+      "id": "68a6c9268677c59e2556731b",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167501,
+      "text": "Документация быстро устаревает, если она не автоматическая"
+    },
+    {
+      "id": "68a6c9268677c59e2556731c",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754167544,
+      "text": "отсутствие типизации != отсутствие самодокументируемого кода"
+    },
+    {
+      "id": "68a6c9268677c59e2556731d",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167561,
+      "text": "Тонский будет топить за кложу..."
+    },
+    {
+      "id": "68a6c9268677c59e2556731e",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754167635,
+      "text": "Так поэтому и надо звать"
+    },
+    {
+      "id": "68a6c9268677c59e2556731f",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167686,
+      "text": "Так можно и в ассемблер назад скотиться"
+    },
+    {
+      "id": "68a6c9268677c59e25567320",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1754167687,
+      "text": "А в чем все-таки use-case добавлять динамически ключи?"
+    },
+    {
+      "id": "68a6c9268677c59e25567321",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167744,
+      "text": "Типы для того и добавили, чтобы как можно больше ошибок типизации вылавливать при компиляции"
+    },
+    {
+      "id": "68a6c9268677c59e25567322",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167761,
+      "text": "А в го автомапера нет?"
+    },
+    {
+      "id": "68a6c9268677c59e25567323",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167913,
+      "text": "Нас часто спрашиваю... А не надо нас так часто спрашивать..."
+    },
+    {
+      "id": "68a6c9268677c59e25567324",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1754167974,
+      "text": "Лёха, ты тащишь инфраструктуру - http, json в бизнес-область. Это в json всё что угодно представляется диктами, а по логике в каждом случае должна быть опрделённая бизнес-сущность"
+    },
+    {
+      "id": "68a6c9268677c59e25567325",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754167975,
+      "text": "Откуда мы знаем, что откуда пришло? Андрей все правильно сказал - невалидный инпут нужно отсекать нас границах сервиса."
+    },
+    {
+      "id": "68a6c9268677c59e25567326",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1754168004,
+      "text": "и если тебе передали её поломанной то это вообще-то проблема"
+    },
+    {
+      "id": "68a6c9268677c59e25567327",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754168072,
+      "text": "чем бизнес сущность одного типа отличается от бизнес сущности другого типа? Почему класс - бизнес сущность, а типизированный дикт нет?"
+    },
+    {
+      "id": "68a6c9268677c59e25567328",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754168091,
+      "text": "Что питон с людьми делает..."
+    },
+    {
+      "id": "68a6c9268677c59e25567329",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1754168094,
+      "text": "А в этих ваших dictionary можно найти все использования поля по коду?"
+    },
+    {
+      "id": "68a6c9268677c59e2556732a",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754168240,
+      "text": "Конечно, поиск символа рабоаает так же как и поля"
+    },
+    {
+      "id": "68a6c9268677c59e2556732b",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "habibutsu",
+      "author_name": "Alexander Verbitsky",
+      "datetime": 1754168249,
+      "text": "Так это вы так сделали потому что. А почему схему не вести в одном месте и из нее генерировать?"
+    },
+    {
+      "id": "68a6c9268677c59e2556732c",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1754168394,
+      "text": "я не супер-спец в питоне, но кажется их сильно сложнее рефакторить"
+    },
+    {
+      "id": "68a6c9268677c59e2556732d",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1754168400,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e согласен про много раз одно и то же поле, но иногда без этого сложно понять что куда передается и остаются поля которые уже не нужны"
+    },
+    {
+      "id": "68a6c9268677c59e2556732e",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754168510,
+      "text": "Не вижу особо разницы между рефакторингом dictionary и датакласса, в контексте python я думаю особо нет разницы в чем данные хранить, лично для себя я использую классы, но скорее просто потому что раньше типизации не было и так привык, но в целом +- тоже самое"
+    },
+    {
+      "id": "68a6c9268677c59e2556732f",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754168584,
+      "text": "Да не особо тащу, я больше про то, что например пишешь ты свой middleware, и тебе надо туда принять какой-то request. Вопрос - какой? Логично http.Request, но тебе вроде все оттуда не надо, просто Method. Сделать свою структуру mylib.Request? Но туда http.Request будет не передать. Под-структуры не сделать. И в итоге тут бы map просто рулил."
+    },
+    {
+      "id": "68a6c9268677c59e25567330",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754168634,
+      "text": "Так а зачем понимать? Если в условной структуре есть :method то мне больше ине надо, какая мне разница что там еще?"
+    },
+    {
+      "id": "68a6c9268677c59e25567331",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754168637,
+      "text": "Понимать можно для удобства и расширяемости. Если понадобится что-то ещё из \u003ccode\u003ehttp.Request\u003c/code\u003e, можно добавить. Но если ты точно знаешь, что только \u003ccode\u003emethod\u003c/code\u003e, то имеешь право делать свою структуру. Главное — чтобы было понятно и удобно."
+    },
+    {
+      "id": "68a6c9268677c59e25567332",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754168647,
+      "text": "В статически типизированных языках - у класса поля могут быть разных типов. У dictionary  ключи одного типа, значения другого. Можно сделать dictionary\u0026lt;object, object\u0026gt; но так никто не делает"
+    },
+    {
+      "id": "68a6c9268677c59e25567333",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754168809,
+      "text": "⚠️ Anthropic unveils new rate limits to curb Claude Code power users | TechCrunch - \u003ca href=\"https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/\"\u003ehttps://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e25567334",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754168815,
+      "text": "\u003cstrong\u003eAnthropic unveils new rate limits to curb Claude Code power users | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Антропик анонсирует новые лимиты использования для Claude Code**  \u003cbr/\u003eAnthropic внедряет новые недельные лимиты использования для Claude Code, чтобы ограничить активных пользователей и нарушителей. Лимиты начнут действовать с 28 августа для подписчиков всех тарифных планов.\u003cbr/\u003e\u003cbr/\u003e- Новые лимиты введены для снижения нагрузки на Claude Code у активных пользователей.\u003cbr/\u003e- Лимиты будут действовать для подписчиков Pro, Max за $20, $100, и $200 в месяц.\u003cbr/\u003e- Существующие лимиты использования продолжат действовать, сбрасываясь каждые пять часов.\u003cbr/\u003e- Новые лимиты включают общий и специальный для модели Claude Opus 4.\u003cbr/\u003e- Anthropic рассчитывает, что новые лимиты коснутся менее 5% подписчиков.\u003cbr/\u003e- Подписчики Max смогут дополнительно покупать объем использования по базовым тарифам API.\u003cbr/\u003e- Anthropic заявляет о нехватке вычислительных ресурсов, что ограничивает возможность обслуживания всех пользователей."
+    },
+    {
+      "id": "68a6c9268677c59e25567335",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1754168910,
+      "text": "там прям в письме написано \u0026#34;along with...\u0026#34;"
+    },
+    {
+      "id": "68a6c9268677c59e25567336",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Удаленный аккаунт",
+      "datetime": 1754169086,
+      "text": "У меня проблема Умпутуна решилась регистрацией новых аккаунтов"
+    },
+    {
+      "id": "68a6c9268677c59e25567337",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754169115,
+      "text": "Говорящий ник 😅"
+    },
+    {
+      "id": "68a6c9268677c59e25567338",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754169765,
+      "text": "А кто-то пробовал gpu сервис \u003ca href=\"https://lambda.ai\"\u003elambda.ai\u003c/a\u003e - рекламируют на Two minutes paper? Цены выглядят адекватно."
+    },
+    {
+      "id": "68a6c9268677c59e25567339",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Vestrond",
+      "author_name": "Vestrond II 🧀",
+      "datetime": 1754170093,
+      "text": "Есть же \u003ca href=\"https://vast.ai\"\u003evast.ai\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e2556733a",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754170116,
+      "text": "\u003ca href=\"https://lor.sh\"\u003elor.sh\u003c/a\u003e всё. отрубили :("
+    },
+    {
+      "id": "68a6c9268677c59e2556733b",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1754170240,
+      "text": "умпутун просто говорит про джуниоров не тех кто прошёл колледж для галочки а про тех кто действительно что-то умеет"
+    },
+    {
+      "id": "68a6c9268677c59e2556733c",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754170242,
+      "text": "kotlin?"
+    },
+    {
+      "id": "68a6c9268677c59e2556733d",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754170254,
+      "text": "⚠️ JetBrains working on higher-abstraction programming language | InfoWorld - \u003ca href=\"https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html?ref=dailydev\"\u003ehttps://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html?ref=dailydev\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e2556733e",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754170261,
+      "text": "\u003cstrong\u003eJetBrains working on higher-abstraction programming language | InfoWorld\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eJetBrains is developing a new programming language aimed at enhancing control and transparency in AI and code. CEO Kirill Skrygan discussed this higher-abstraction language, potentially derived from Kotlin, which will leverage English-like specifications to streamline cross-platform application development.\u003cbr/\u003e\u003cbr/\u003e- JetBrains creates popular Kotlin language.\u003cbr/\u003e- New language enhances AI code control and transparency.\u003cbr/\u003e- Skrygan highlights the evolution of programming languages.\u003cbr/\u003e- The language aims to represent designs and architectures.\u003cbr/\u003e- Focus on English-like syntax for ease of use.\u003cbr/\u003e- Streamlined process for cross-platform application development.\u003cbr/\u003e- AI agents will assist in generating platform-specific code. \u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003eJetBrains разрабатывает новый язык программирования, направленный на улучшение контроля и прозрачности в ИИ и коде. Генеральный директор Кирилл Скрыган обсудил этот язык с более высоким уровнем абстракции, вероятно, производный от Kotlin, который будет использовать спецификации, похожие на английский язык, для оптимизации разработки кроссплатформенных приложений.\u003cbr/\u003e\u003cbr/\u003e- JetBrains создает популярный язык Kotlin.\u003cbr/\u003e- Новый язык повышает контроль и прозрачность кода ИИ.\u003cbr/\u003e- Скрыган подчеркивает эволюцию языков программирования.\u003cbr/\u003e- Язык нацелен на представление дизайнов и архитектур.\u003cbr/\u003e- Сосредоточен на синтаксисе, похожем на английский.\u003cbr/\u003e- Упрощенный процесс разработки кроссплатформенных приложений.\u003cbr/\u003e- ИИ-агенты помогут генерировать код для конкретных платформ."
+    },
+    {
+      "id": "68a6c9268677c59e2556733f",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754170324,
+      "text": "Умпутун,  а на какую зарплату реально новоприехавший синьер в Чикаго? Без опыта работы в США, но с опытом работы с клиентами из США."
+    },
+    {
+      "id": "68a6c9268677c59e25567340",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1754170475,
+      "text": "И все равно - больше 140 gb не доступно"
+    },
+    {
+      "id": "68a6c9268677c59e25567341",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754170527,
+      "text": "Леха немецкого кино пересмотрел"
+    },
+    {
+      "id": "68a6c9268677c59e25567342",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Vestrond",
+      "author_name": "Vestrond II 🧀",
+      "datetime": 1754170566,
+      "text": "Разобрали, там бывают"
+    },
+    {
+      "id": "68a6c9268677c59e25567343",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754170595,
+      "text": "чето типа literate programming?"
+    },
+    {
+      "id": "68a6c9268677c59e25567344",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754170606,
+      "text": "о, я помню, такой язык уже был- бэйсик. а потом sql"
+    },
+    {
+      "id": "68a6c9268677c59e25567345",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754170847,
+      "text": "gitd?"
+    },
+    {
+      "id": "68a6c9268677c59e25567346",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1754170914,
+      "text": "Мне нравится Text Diff Viewer в \u003ca href=\"https://plugins.jetbrains.com/plugin/21904-developer-tools\"\u003ehttps://plugins.jetbrains.com/plugin/21904-developer-tools\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e25567347",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1754170953,
+      "text": "Мне \u003ca href=\"https://github.com/Wilfred/difftastic\"\u003ehttps://github.com/Wilfred/difftastic\u003c/a\u003e когда-то советовали"
+    },
+    {
+      "id": "68a6c9268677c59e25567348",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754171014,
+      "text": "отличная вещь. поставил по-умолчанию как diff util для git"
+    },
+    {
+      "id": "68a6c9268677c59e25567349",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754171035,
+      "text": "Евгений стал галлюцинировать придумывая то чего нет- его точно подменили ai’ем"
+    },
+    {
+      "id": "68a6c9268677c59e2556734a",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1754171082,
+      "text": "в gitu что-то похожее встроено"
+    },
+    {
+      "id": "68a6c9268677c59e2556734b",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754171085,
+      "text": "⚠️ Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog - \u003ca href=\"https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/\"\u003ehttps://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e2556734c",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754171093,
+      "text": "\u003cstrong\u003eAspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eВ Aspire 9.4 добавлены интерфейс командной строки (CLI) и интерактивные панельные функции. Обновление включает новые интеграции, кастомизацию панелей и поддержку AI разработки с GitHub Models и Azure AI Foundry. \u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **CLI Aspire 9.4**: Официально доступен, упрощает создание и запуск приложений с помощью команд aspire new, add, run и config.\u003cbr/\u003e- **Интерактивность панели**: Новая функция позволяет создавать пользовательский интерфейс для ввода данных во время работы приложения.\u003cbr/\u003e- **Запрос параметров**: Автоматическое получение недостающих параметров, упрощая настройку для разработчиков.\u003cbr/\u003e- **AI интеграции**: Новые возможности для разработки AI приложений с использованием GitHub Models и Azure AI Foundry.\u003cbr/\u003e- **Поддержка внешних API**: Моделирование сторонних API как ресурсов с новым методом AddExternalService().\u003cbr/\u003e- **Обновленная интеграция YARP**: Позволяет программно настраивать конфигурацию ресурсов с помощью C#.\u003cbr/\u003e- **Обратная связь и улучшения**: Команда Aspire ожидает отзывы пользователей о 9.4 и хочет знать, какие функции лучше всего добавить в дальнейшем."
+    },
+    {
+      "id": "68a6c9268677c59e2556734d",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Aleks_Sid",
+      "author_name": "Алексей Сидоркин",
+      "datetime": 1754171169,
+      "text": "Судя по рассказу изобрели докеркомпоз )))"
+    },
+    {
+      "id": "68a6c9268677c59e2556734e",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754171228,
+      "text": "для vscode есть экстеншн: \u003ca href=\"https://semanticdiff.com/vscode/\"\u003ehttps://semanticdiff.com/vscode/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e2556734f",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1754171239,
+      "text": "Судя по истории он даже в одном из выпусков был. Не удивлюсь что его бобук и принес)"
+    },
+    {
+      "id": "68a6c9268677c59e25567350",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754171291,
+      "text": "ага, я звездочки только по его советам ставлю)"
+    },
+    {
+      "id": "68a6c9268677c59e25567351",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1754171315,
+      "text": "Я собственно из за этого и полез искать тоже заездочка стояла 🤣"
+    },
+    {
+      "id": "68a6c9268677c59e25567352",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754171478,
+      "text": "О, даже тема была 70 выпусков назад про difftastic"
+    },
+    {
+      "id": "68a6c9268677c59e25567353",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754171837,
+      "text": "ггг."
+    },
+    {
+      "id": "68a6c9268677c59e25567354",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754171868,
+      "text": "вообще нет конечно, можно просто использовать amazon как хостинг тупой, просто дороже может выйти (или нет)"
+    },
+    {
+      "id": "68a6c9268677c59e25567355",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754171881,
+      "text": "нормальный админ знающий без проблем разберётся"
+    },
+    {
+      "id": "68a6c9268677c59e25567356",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754171970,
+      "text": "Алексей только что рассказал про Heroku"
+    },
+    {
+      "id": "68a6c9268677c59e25567357",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754171990,
+      "text": "CloudFoundry, но да"
+    },
+    {
+      "id": "68a6c9268677c59e25567358",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1754171998,
+      "text": "PaaS наше все"
+    },
+    {
+      "id": "68a6c9268677c59e25567359",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754172078,
+      "text": "нет. там всё прям как везде. Linux System Administrator разберётся."
+    },
+    {
+      "id": "68a6c9268677c59e2556735a",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754172162,
+      "text": "да, мне кажется все эти имена придумали специально чтобы было чем заниматься AWS Architect."
+    },
+    {
+      "id": "68a6c9268677c59e2556735b",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754172247,
+      "text": "(ну или GCP Architect или Azure Architect и так далее). \u003cbr/\u003e\u003cbr/\u003eвсе эти компоненты что в кубере, что в AWS, что в Azure - эти кубики все одинаковые. \u003cbr/\u003e\u003cbr/\u003eно да, документацию надо почитать по каждой системе (но сейчас проще - можно с GPT поговорить)"
+    },
+    {
+      "id": "68a6c9268677c59e2556735c",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1754172552,
+      "text": "Gradle?"
+    },
+    {
+      "id": "68a6c9268677c59e2556735d",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754172583,
+      "text": "на андроиде живет"
+    },
+    {
+      "id": "68a6c9268677c59e2556735e",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Aleks_Sid",
+      "author_name": "Алексей Сидоркин",
+      "datetime": 1754172609,
+      "text": "Да основной для андроида"
+    },
+    {
+      "id": "68a6c9268677c59e2556735f",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754172886,
+      "text": "⚠️ Proton Authenticator: Private, secure 2FA authenticator | Proton - \u003ca href=\"https://proton.me/authenticator\"\u003ehttps://proton.me/authenticator\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e25567360",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754172891,
+      "text": "\u003cstrong\u003eProton Authenticator: Private, secure 2FA authenticator | Proton\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**\u003cbr/\u003eProton Authenticator — это безопасное приложение для двухфакторной аутентификации (2FA), разработанное командой Proton Mail. Оно имеет открытый код, сквозное шифрование и не собирает данные, обеспечивая надежную защиту пользователей.\u003cbr/\u003e\u003cbr/\u003e- Proton Authenticator разработан командой Proton Mail.\u003cbr/\u003e- Имеет открытый исходный код для повышения доверия.\u003cbr/\u003e- Обеспечивает сквозное шифрование данных пользователей.\u003cbr/\u003e- Не собирает личные данные, гарантируя приватность.\u003cbr/\u003e- Основан в 2014 году, Proton является некоммерческой организацией.\u003cbr/\u003e- Стремится создать лучший интернет с приоритетом на безопасность.\u003cbr/\u003e- Приложение является надежным инструментом для 2FA."
+    },
+    {
+      "id": "68a6c9268677c59e25567361",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1754172971,
+      "image_url": "https://chat.radio-t.com/logs/972/AgACAgEAAx0CUPxcWQABCdD1aI6OK98PFEdY8bbk288V2V_jZHoAAvSxMRssK3lEfx-BZ9pUcC0BAAMCAAN4AAM2BA",
+      "image_width": 800,
+      "image_height": 455,
+      "text": ""
+    },
+    {
+      "id": "68a6c9268677c59e25567362",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1754173037,
+      "text": "Да там админов мало будет. Взять вместо cognito - кейклок, например, большая боль. Развернуть на bare metal постгрю с нормальным стораджем через icsci вместо авроры - супер большая боль."
+    },
+    {
+      "id": "68a6c9268677c59e25567363",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1754173075,
+      "text": "а как же vaultwarden?"
+    },
+    {
+      "id": "68a6c9268677c59e25567364",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754173077,
+      "text": "Vaultwarden тоже неплохой вариант! Легко разворачивается и достаточно функционален. Можно управлять паролями без лишних сложностей. Но, конечно, есть свои нюансы, которые стоит учесть перед установкой."
+    },
+    {
+      "id": "68a6c9268677c59e25567365",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1754173136,
+      "text": "read only да"
+    },
+    {
+      "id": "68a6c9268677c59e25567366",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Aleks_Sid",
+      "author_name": "Алексей Сидоркин",
+      "datetime": 1754173222,
+      "text": "\u003ca href=\"https://habr.com/ru/news/933478/\"\u003ehttps://habr.com/ru/news/933478/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e25567367",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754173236,
+      "text": "⚠️ Темы слушателей 972 - \u003ca href=\"https://radio-t.com/p/2025/07/29/prep-972/\"\u003ehttps://radio-t.com/p/2025/07/29/prep-972/\u003c/a\u003e"
+    },
+    {
+      "id": "68a6c9268677c59e25567368",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754173249,
+      "text": "[1/7] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003eknja\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eОказывается, у Dropbox был свой менеджер паролей, а теперь они его закрывают. Говорят — идите все в 1Password.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation\"\u003ehttps://help.dropbox.com/en-us/installs/dropb...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDropbox Passwords discontinuation | Dropbox Help - Dropbox Help\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:** Dropbox прекращает поддержку функции хранения паролей, рекомендуя пользователям перейти на 1Password, имеющий высокие стандарты безопасности. Для экспорта паролей предусмотрены определенные шаги, и пользователи должны позаботиться о их безопасности.\u003cbr/\u003e\u003cbr/\u003e- Dropbox Passwords будет отключён, рекомендуется перейти на 1Password.\u003cbr/\u003e- Для импорта данных в 1Password предоставлена инструкция по ссылке.\u003cbr/\u003e- Другие провайдеры могут требовать различные данные для импорта.\u003cbr/\u003e- Данные остаются защищёнными во время перехода.\u003cbr/\u003e- Пользователи должны экспортировать парольные данные самостоятельно.\u003cbr/\u003e- Поддержка доступна для всех вопросов, связанных с переходом.\u003cbr/\u003e- Подписка на Dropbox останется без изменений, другие функции безопасности по-прежнему доступны."
+    },
+    {
+      "id": "68a6c9268677c59e25567369",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754173249,
+      "text": "[2/7] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eBzzzz\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMeta Is Going to Let Job Candidates Use AI During Coding Tests\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.wired.com/story/meta-ai-job-interview-coding/\"\u003ehttps://www.wired.com/story/meta-ai-job-inter...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMeta Is Going to Let Job Candidates Use AI During Coding Tests | WIRED\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Summary:**  \u003cbr/\u003eMeta is allowing job candidates to use AI during coding tests to better reflect the future developer environment. This approach aims to enhance the interviewing process and prepares candidates for a workplace increasingly reliant on AI.\u003cbr/\u003e\u003cbr/\u003e- Meta разрешает кандидатам использовать ИИ на собеседованиях по программированию.\u003cbr/\u003e- Это решение поможет лучше отразить будущее рабочей среды разработчиков.\u003cbr/\u003e- Компания ищет добровольцев для \u0026#34;проверочного собеседования с ИИ\u0026#34;.\u003cbr/\u003e- ИИ в интервью поможет уменьшить возможность мошенничества с LLM.\u003cbr/\u003e- Цель Meta – формирование новых методов собеседования для будущих сотрудников.\u003cbr/\u003e- Генеральный директор Марк Цукерберг прогнозирует, что ИИ станет частью команды ради написания кода.\u003cbr/\u003e- Сомнения среди опытных разработчиков касаются недостатка знаний у новых кодеров."
+    },
+    {
+      "id": "68a6c9268677c59e2556736a",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754173249,
+      "text": "[3/7] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eafedin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eДжек Дорси запустил Bitchat\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://techcrunch.com/2025/07/29/jack-dorseys-bluetooth-messaging-app-bitchat-now-on-app-store/\"\u003ehttps://techcrunch.com/2025/07/29/jack-dorsey...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eJack Dorsey\u0026#39;s Bluetooth messaging app Bitchat now on App Store | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание**  \u003cbr/\u003eПриложение для обмена сообщениями Bitchat, разработанное Джеком Дорси, теперь доступно в App Store. Оно использует Bluetooth для отправки сообщений без интернета, но есть опасения по поводу безопасности и подделок приложения в магазине Google Play.\u003cbr/\u003e\u003cbr/\u003e- Bitchat доступно для загрузки на iOS через App Store.\u003cbr/\u003e- Приложение использует Bluetooth-сети для общения в пределах 100 метров без интернета.\u003cbr/\u003e- Базу приложения Дорси разработал за выходные в июле.\u003cbr/\u003e- Приложение не требует входа и сразу открывает окно обмена сообщениями.\u003cbr/\u003e- О безопасности Bitchat есть сомнения после комментариев экспертов по безопасности.\u003cbr/\u003e- В Google Play есть поддельные версии Bitchat, которые получили тысячи загрузок.\u003cbr/\u003e- Ограниченная доступность делает Bitchat популярным на фестивалях и после бедствий."
+    },
+    {
+      "id": "68a6c9268677c59e2556736b",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754173249,
+      "text": "[4/7] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eTakeso-user\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://dev.to/alifar/exposed-google-is-indexing-private-ai-conversations-heres-what-you-should-know-37m5\"\u003ehttps://dev.to/alifar/exposed-google-is-index...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eGoogle опять поиндексировала приватные сообщения. на этот раз речь идет о промтах ЧатаЖПТ которые не предназначались для широкой аудитории. опять позор?… или пользователи сами себе злобные Буратины?\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e🩸ChatGPT Privacy Leak: Thousands of Conversations Now Publicly Indexed by Google - DEV Community\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e### Краткий обзор\u003cbr/\u003eGoogle проиндексировал тысячи разговоров ChatGPT, обнажив частные данные и стратегию компаний. Этот инцидент подчеркивает важность защиты рабочих потоков об искусственном интеллекте.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Проблема конфиденциальности**: Google сделал доступными тысячи разговоров из ChatGPT, что привело к утечке конфиденциальной информации. \u003cbr/\u003e- **Что произошло?**: Пользователи случайно поделились URL-адресами разговоров, которые не имели защиты.\u003cbr/\u003e- **Реакция OpenAI**: После обнаружения инцидента OpenAI убрал функцию индексации.\u003cbr/\u003e- **Риски для бизнеса**: Утечка может случиться, если команды делятся важными данными без проверки.\u003cbr/\u003e- **Правовые последствия**: Использование личных данных в индексированных чатах может привести к проблемам с GDPR и HIPAA.\u003cbr/\u003e- **Рекомендации**: Команды должны ограничить публичный доступ, удалить индексируемые ссылки и внедрить защитные меры.\u003cbr/\u003e- **Необходимость управления данными**: Неправильное управление раскрывает бизнес-логику и может быть катастрофичным для компаний."
+    },
+    {
+      "id": "68a6c9268677c59e2556736c",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1754173249,
+      "text": "[5/7] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eBroken Tooth\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGoogle разработала шрифт для программистов \u003c/em\u003e\u003cem\u003eGoogle Sans Code.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/googlefonts/googlesans-code\"\u003eGitHub\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://fonts.google.com/specimen/Google+Sans+Code\"\u003eGoogle fonts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitHub - googlefonts/googlesans-code: The Google Sans Code font family\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eGoogle Sans Code - это шрифт, посвященный покойному Крису Симкинсу, который был основополагающей фигурой проекта, обеспечивая его успех за счет своего энтузиазма и усилий.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Название**: Google Sans Code - фактический шрифт от Google.\u003cbr/\u003e- **Дедикация**: Посвящен памяти Криса Симкинса.\u003cbr/\u003e- **Структура проекта**: Содержит различные директории, включая документацию и метаданные.\u003cbr/\u003e- **Файлы**: Включает файлы README, CONTRIBUTING и CHANGELOG.\u003cbr/\u003e- **Поддержка**: Открытый для внесения изменений и отзывов.\u003cbr/\u003e- **Репозиторий**: openbaar доступен на GitHub от Google Fonts.\u003cbr/\u003e- **История изменений**: 22 коммита, показывающие развитие проекта."
+    },
+    {
+      "id": "68a6c9268677c59e2556736d",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754173366,
+      "text": "о! уже в brew завезли \u003ccode\u003efont-google-sans-code\u003c/code\u003e, а вот nerd font из него ещё не сделали"
+    },
+    {
+      "id": "68a6c9268677c59e2556736e",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1754173600,
+      "text": "Честно говоря, тот же систем дизайн не очень понятно как решить через AI, там явно будет видно не понимание следствий и причин. \u003cbr/\u003eКод-секция - да, сложновато."
+    },
+    {
+      "id": "68a6c9268677c59e2556736f",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1754173985,
+      "text": "Опыт прослушивания радио-т: заранее знаешь продолжение историй Грея из университета"
+    },
+    {
+      "id": "68a6c9268677c59e25567370",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1754174211,
+      "text": "если сигналом передавать, то в прессу утечёт. были прецеденты"
+    },
+    {
+      "id": "68a6c9268677c59e25567371",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1754174307,
+      "text": "он называется zed mono. \u003cbr/\u003e\u003cbr/\u003eможно nerd поставить из brew: font-zed-mono-nerd-font"
+    },
+    {
+      "id": "68a6c9268677c59e25567372",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754174323,
+      "text": "надо было кошерным максом пользоваться)"
+    },
+    {
+      "id": "68a6c9268677c59e25567373",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1754174435,
+      "text": "А как же «бывшая любимая жена» PragmataPro?"
+    },
+    {
+      "id": "68a6c9268677c59e25567374",
+      "issue": 972,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1754174714,
+      "text": "всем спасибо!"
+    }
+  ]
+}
