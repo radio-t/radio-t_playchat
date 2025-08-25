@@ -1,0 +1,1101 @@
+{
+  "chat": [
+    {
+      "id": "68ac03a449f02047506feb29",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755979597,
+      "text": "так. а будет вещание в телеграм?"
+    },
+    {
+      "id": "68ac03a449f02047506feb2a",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755979618,
+      "text": "а в чём там могут быть проблемы? что тебя беспокоит?"
+    },
+    {
+      "id": "68ac03a449f02047506feb2b",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1755979696,
+      "text": "слышу голоса в голове"
+    },
+    {
+      "id": "68ac03a449f02047506feb2c",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dogekiller21",
+      "author_name": "Maxim",
+      "datetime": 1755979764,
+      "text": "по большей части - совместимость железа и софта. могу ли любой хлам по дому собрать, сунуть и использовать) насколько понимаю, могу. но вдруг у кого был другой опыт)"
+    },
+    {
+      "id": "68ac03a449f02047506feb2d",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andystark",
+      "author_name": "Andy Stark",
+      "datetime": 1755979780,
+      "text": "В тг есть дв?"
+    },
+    {
+      "id": "68ac03a449f02047506feb2e",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rugameuser",
+      "author_name": "return true;",
+      "datetime": 1755979837,
+      "text": "Omv? Там вроде проблем нет"
+    },
+    {
+      "id": "68ac03a449f02047506feb2f",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1755979884,
+      "image_url": "https://chat.radio-t.com/logs/975/AgACAgEAAx0CUPxcWQABCd_PaKogbIdVIxn2i9qLNtJJ05VX7LsAAvKtMRsRi1FFuvJ9VUtTHpwBAAMCAAN5AAM2BA",
+      "image_width": 1109,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "68ac03a449f02047506feb30",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755979934,
+      "text": "линукс работает почти на любом железе. с FreeBSD посложнее, но сейчас даже TrueNAS уже на линукс переехал (TrueNAS Scale)"
+    },
+    {
+      "id": "68ac03a449f02047506feb31",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755979947,
+      "text": "что?"
+    },
+    {
+      "id": "68ac03a449f02047506feb32",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andystark",
+      "author_name": "Andy Stark",
+      "datetime": 1755979988,
+      "text": "Забей"
+    },
+    {
+      "id": "68ac03a449f02047506feb33",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755979994,
+      "text": "начнём с того что это должны быть systemd timers, а не крон"
+    },
+    {
+      "id": "68ac03a449f02047506feb34",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755980031,
+      "text": "этобан"
+    },
+    {
+      "id": "68ac03a449f02047506feb35",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zoom_zoom_zoom",
+      "author_name": "zoom zoom zoom",
+      "datetime": 1755980116,
+      "text": "Сайт радиот не открывается в рф - это фича или баг?"
+    },
+    {
+      "id": "68ac03a449f02047506feb36",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755980162,
+      "text": "с мобилы или с стационарного инета?"
+    },
+    {
+      "id": "68ac03a449f02047506feb37",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1755980192,
+      "text": "бобук опять не выйдет :("
+    },
+    {
+      "id": "68ac03a449f02047506feb38",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755980195,
+      "text": "и хрипит =)"
+    },
+    {
+      "id": "68ac03a449f02047506feb39",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755980212,
+      "text": "\u0026#34;и я даже передёрнул перед подкастом\u0026#34; =)))"
+    },
+    {
+      "id": "68ac03a449f02047506feb3a",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755980235,
+      "text": "ведёт ли кто золотые цитаты радио-т? =)"
+    },
+    {
+      "id": "68ac03a449f02047506feb3b",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755980288,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb3c",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yuriybz",
+      "author_name": "Uriy Zadachin",
+      "datetime": 1755980294,
+      "text": "похожн"
+    },
+    {
+      "id": "68ac03a449f02047506feb3d",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755980341,
+      "text": "Что неужели сдал?"
+    },
+    {
+      "id": "68ac03a449f02047506feb3e",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1755980344,
+      "text": "официально протестую из-за отсутствия бобука, но смиренннно слушаю"
+    },
+    {
+      "id": "68ac03a449f02047506feb3f",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755980426,
+      "text": "правильно, потому что нечего психологически нестабильным людям права выдавать"
+    },
+    {
+      "id": "68ac03a449f02047506feb40",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755980486,
+      "text": "Нормально ездит, а права получить не может - парадокс"
+    },
+    {
+      "id": "68ac03a449f02047506feb41",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755980504,
+      "text": "Ставлю на жену Ампатана"
+    },
+    {
+      "id": "68ac03a449f02047506feb42",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1755980598,
+      "image_url": "https://chat.radio-t.com/logs/975/AgACAgEAAx0CUPxcWQABCd_kaKojNmGgm4C5nZYV42OKEQAB-eY9AAL_rTEbEYtRRe4ttItgoHcSAQADAgADeQADNgQ",
+      "image_width": 1280,
+      "image_height": 431,
+      "text": ""
+    },
+    {
+      "id": "68ac03a449f02047506feb43",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755980612,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/grayodesa\"\u003e@grayodesa\u003c/a\u003e а ты сколько км пробежал?"
+    },
+    {
+      "id": "68ac03a449f02047506feb44",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1755980668,
+      "text": "а можете список mcp выложить?"
+    },
+    {
+      "id": "68ac03a449f02047506feb45",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755980709,
+      "text": "да фигню — 4+км. На шаг переходил, конечно, постоянно, пульс регулировал"
+    },
+    {
+      "id": "68ac03a449f02047506feb46",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1755980746,
+      "text": "упустил главный момент - теперь без алко?"
+    },
+    {
+      "id": "68ac03a449f02047506feb47",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755980795,
+      "text": "кажется, что текущий подход с mcp не очень масштабируется, но ничего не замену толком не придумали"
+    },
+    {
+      "id": "68ac03a449f02047506feb48",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755980808,
+      "text": "в копайлоте пытаются сделать некие виртуальные тулы"
+    },
+    {
+      "id": "68ac03a449f02047506feb49",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755980866,
+      "text": "⚠️  Deal to get ChatGPT Plus for whole of UK discussed by Open AI boss and minister  | Peter Kyle | The Guardian - \u003ca href=\"https://www.theguardian.com/politics/2025/aug/23/uk-minister-peter-kyle-chatgpt-plus-openai-sam-altman\"\u003ehttps://www.theguardian.com/politics/2025/aug/23/uk-minister-peter-kyle-chatgpt-plus-openai-sam-altman\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb4a",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755980869,
+      "text": "\u003cstrong\u003e Deal to get ChatGPT Plus for whole of UK discussed by Open AI boss and minister  | Peter Kyle | The Guardian\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткий обзор**  \u003cbr/\u003eОткрытый AI и министры Великобритании обсуждают многомиллиардное соглашение о предоставлении ChatGPT Plus для всей страны, несмотря на высокую стоимость и потенциальные проблемы с правами.\u003cbr/\u003e\u003cbr/\u003e- Сам Алтман из OpenAI и министр Питер Кайл обсуждают соглашение о предоставлении ChatGPT Plus для британцев.\u003cbr/\u003e- Предположительная стоимость соглашения составляет до £2 миллиардов.\u003cbr/\u003e- Кайл активно поддерживает искуственный интеллект и сотрудничество с OpenAI.\u003cbr/\u003e- Великобритания стремится привлечь инвестиции в AI от США, включая соглашения с Google и Anthropic.\u003cbr/\u003e- OpenAI подписала меморандум с правительством о применении AI в общественных службах.\u003cbr/\u003e- Обсуждаются проблемы прав собственности и возможные изменения законодательства о праве копирования.\u003cbr/\u003e- Критики словами известных артистов указывают на приближенность правительства к крупным технологическим компаниям."
+    },
+    {
+      "id": "68ac03a449f02047506feb4b",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755980882,
+      "text": "да, уже третий месяц и вес сбросил"
+    },
+    {
+      "id": "68ac03a449f02047506feb4c",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755980998,
+      "text": "А как там в UAE кажется так и сделали для граждан"
+    },
+    {
+      "id": "68ac03a449f02047506feb4d",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755981028,
+      "text": "и для госушников в сша за 1 доллар раздали"
+    },
+    {
+      "id": "68ac03a449f02047506feb4e",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755981051,
+      "text": "стратегия Альтмана, очевидно, максимально всех подсадить на чатгпт"
+    },
+    {
+      "id": "68ac03a449f02047506feb4f",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755981311,
+      "text": "несовместимые размеры подписок"
+    },
+    {
+      "id": "68ac03a449f02047506feb50",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1755981326,
+      "text": "Зависть, конечно, но все равно радость"
+    },
+    {
+      "id": "68ac03a449f02047506feb51",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755981371,
+      "text": "\u003ca href=\"https://openai.com/index/introducing-stargate-uae/\"\u003ehttps://openai.com/index/introducing-stargate-uae/\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb52",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755981807,
+      "text": "⚠️ GPT-5: The Reverse DeepSeek Moment — LessWrong - \u003ca href=\"https://www.lesswrong.com/posts/eFd7NZ4KpYLM4ocBv/gpt-5-the-reverse-deepseek-moment\"\u003ehttps://www.lesswrong.com/posts/eFd7NZ4KpYLM4ocBv/gpt-5-the-reverse-deepseek-moment\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb53",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755981810,
+      "text": "\u003cstrong\u003e403 Forbidden\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eОшибка 403 Forbidden указывает, что доступ к запрашиваемому ресурсу запрещен для пользователя, возможно, из-за отсутствия прав или ограничений на сервере.\u003cbr/\u003e\u003cbr/\u003e- Ошибка 403 возникает при попытке доступа к ресурсу.\u003cbr/\u003e- Может быть вызвана неверными правами доступа пользователя.\u003cbr/\u003e- Сервер может блокировать доступ по определенным IP-адресам.\u003cbr/\u003e- Часто отображается с сообщением о запрете.\u003cbr/\u003e- Пользователи могут обратиться к администратору для решения проблемы.\u003cbr/\u003e- Аутентификация может быть необходима для доступа к ресурсу.\u003cbr/\u003e- Проверьте настройки конфиденциальности на сервере."
+    },
+    {
+      "id": "68ac03a449f02047506feb54",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755982173,
+      "text": "так у него венчурная компания - обёртка над текстовыми ллм"
+    },
+    {
+      "id": "68ac03a449f02047506feb55",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755982189,
+      "text": "если его будут считать вруном - не получит больше инвестиций"
+    },
+    {
+      "id": "68ac03a449f02047506feb56",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1755982392,
+      "text": "в агентском плане гпт5 стал сильно лучше, чем 4.1"
+    },
+    {
+      "id": "68ac03a449f02047506feb57",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1755982824,
+      "image_url": "https://chat.radio-t.com/logs/975/AgACAgIAAx0CUPxcWQABCd_5aKor6G5KPYxXTJpQpNDWHLOTjlkAArv1MRvjoFBJv1MKKERyULUBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 149,
+      "text": "напомнило"
+    },
+    {
+      "id": "68ac03a449f02047506feb58",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Barcelona How",
+      "datetime": 1755983047,
+      "text": "Как же надоедают слова паразиты..."
+    },
+    {
+      "id": "68ac03a449f02047506feb59",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Barcelona How",
+      "datetime": 1755983101,
+      "text": "Значиць, на самом деле, воот"
+    },
+    {
+      "id": "68ac03a449f02047506feb5a",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1755983123,
+      "text": "а еще где-то стену покрасить хотят на пол миллиарда.."
+    },
+    {
+      "id": "68ac03a449f02047506feb5b",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755983184,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/grayodesa\"\u003e@grayodesa\u003c/a\u003e , учёт мусора нужен, чтобы чётко спланировать когда новый лэндфил строить. Для этого на перевалочных станциях мусора стоят весы."
+    },
+    {
+      "id": "68ac03a449f02047506feb5c",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1755983222,
+      "text": "в Uk уже национализировали ЖД"
+    },
+    {
+      "id": "68ac03a449f02047506feb5d",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1755983283,
+      "text": "гос-во не умеет деньги тратить какая разница на что пойдет, главное что б бесплатно не раздавали"
+    },
+    {
+      "id": "68ac03a449f02047506feb5e",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755983354,
+      "text": "ты почитай все же Стругацких 😊"
+    },
+    {
+      "id": "68ac03a449f02047506feb5f",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1755983364,
+      "text": "а неважно 😊"
+    },
+    {
+      "id": "68ac03a449f02047506feb60",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755983397,
+      "text": "А вот к этому рассказу про двигатели \u003cbr/\u003eссылочка надо!"
+    },
+    {
+      "id": "68ac03a449f02047506feb61",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755983407,
+      "text": "А почему не перемешивается просто до подачи?"
+    },
+    {
+      "id": "68ac03a449f02047506feb62",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zoom_zoom_zoom",
+      "author_name": "zoom zoom zoom",
+      "datetime": 1755983440,
+      "text": "В четырёхтактном почему бы также не смешивать"
+    },
+    {
+      "id": "68ac03a449f02047506feb63",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755983487,
+      "text": "⚠️ Developer gets 4 years for activating network “kill switch” to avenge his firing - \u003ca href=\"https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/\"\u003ehttps://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb64",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755983492,
+      "text": "\u003cstrong\u003eDeveloper gets 4 years for activating network “kill switch” to avenge his firing - Ars Technica\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eРазработчик, осуждённый за активацию «выключателя сети» после увольнения, получил 4 года тюремного заключения за саботаж сетей своей компании и причинение крупных убытков.\u003cbr/\u003e\u003cbr/\u003e- Разработчик воспользовался своим доступом для саботажа корпоративной сети.\u003cbr/\u003e- Сожжение документов не помогло избежать наказания.\u003cbr/\u003e- Суд отклонил запрос на новое слушание дела.\u003cbr/\u003e- Министерство юстиции выступило против отсрочки приговора.\u003cbr/\u003e- Разработчик запросил смягчение наказания до 18 месяцев.\u003cbr/\u003e- Он стал уголовным преступником с разрушенной карьерой.\u003cbr/\u003e- Прокуратура настойчиво преследует преступления против американских компаний."
+    },
+    {
+      "id": "68ac03a449f02047506feb65",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1755983635,
+      "text": "Там наверное степени сжатия побольше и в нём наличие масла в камере сгорания это мгновенная смерть."
+    },
+    {
+      "id": "68ac03a449f02047506feb66",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zoom_zoom_zoom",
+      "author_name": "zoom zoom zoom",
+      "datetime": 1755983718,
+      "text": "От масла в бензине сильный нагар в цилиндрах и низкий кпд, если я правильно помню"
+    },
+    {
+      "id": "68ac03a449f02047506feb67",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755984021,
+      "text": "это ещё не читал, но почитаю."
+    },
+    {
+      "id": "68ac03a449f02047506feb68",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1755984035,
+      "text": "сейчас мужиков на дом просто высылают"
+    },
+    {
+      "id": "68ac03a449f02047506feb69",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1755984092,
+      "text": "Карл?"
+    },
+    {
+      "id": "68ac03a449f02047506feb6a",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755984108,
+      "text": "⚠️ Go is still not good - \u003ca href=\"https://blog.habets.se/2025/07/Go-is-still-not-good.html\"\u003ehttps://blog.habets.se/2025/07/Go-is-still-not-good.html\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb6b",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755984113,
+      "text": "\u003cstrong\u003eGo is still not good\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткий обзор:**  \u003cbr/\u003eАвтор критикует язык программирования Go, отмечая его недостатки, такие как неоптимальная область видимости переменных, асимметричная обработка нулей и проблемы с переносимостью кода. Он считает, что эти недостатки необоснованны.\u003cbr/\u003e\u003cbr/\u003e- Ошибки в области видимости переменных усложняют чтение кода, так как переменные могут быть доступны там, где это не нужно.\u003cbr/\u003e- Два типа nil затрудняют понимание, и могут привести к путанице в коде.\u003cbr/\u003e- Условия для компиляции неэффективны и создают проблемы с переносимостью.\u003cbr/\u003e- Менеджмент ресурсов в Go требует слишком много внимания, из-за необходимости использовать defer.\u003cbr/\u003e- Обработка исключений в Go неудобна, хотя код должен быть безопасным.\u003cbr/\u003e- Неправильная работа с кодировками может приводить к потере данных.\u003cbr/\u003e- Акцент на экономии памяти непоследователен, что может увеличить расходы на облачные сервисы."
+    },
+    {
+      "id": "68ac03a449f02047506feb6c",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755984133,
+      "text": "в тему увольнения. Меня уволили по Тимс митинг. Сказали\u003cbr/\u003e- после митинга выключи лаптоп и жди коробку. В офис не приходи даже за своими вещами.\u003cbr/\u003e\u003cbr/\u003eПосле митинга лаптом взывл вентиляторами, но я его выключил.\u003cbr/\u003eПочти неделю просился прийти забрать всё моё – оно по офису размазано было. Боялись. А я добрый."
+    },
+    {
+      "id": "68ac03a449f02047506feb6d",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755984460,
+      "text": "а когда на Кипре коллег увольняли в 2008-2009 (тяжёлое было время 700 -\u0026gt; 250 человек в офисе), к дверям на этаж подъезжал секурити и айтишник.\u003cbr/\u003eЧеловека вызывает директор. Как только человек заходит в кабинет к директору, двое ожидающих с тележкой вычищают кубик под ноль. Но тогда лаптопы только у манагеров и выше были."
+    },
+    {
+      "id": "68ac03a449f02047506feb6e",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755985020,
+      "text": "не додумались контекстные менеджеры имплементировать"
+    },
+    {
+      "id": "68ac03a449f02047506feb6f",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755985212,
+      "text": "так пусть паникует, рекавер нинужон"
+    },
+    {
+      "id": "68ac03a449f02047506feb70",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1755985284,
+      "text": "В юникод надо было переводить )"
+    },
+    {
+      "id": "68ac03a449f02047506feb71",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1755985295,
+      "text": "Сейчас ненадо"
+    },
+    {
+      "id": "68ac03a449f02047506feb72",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755985549,
+      "text": "⚠️ \u0026#34;AI First\u0026#34; and the Bus Factor of 0 - MindFlash - Programming and more - \u003ca href=\"https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608\"\u003ehttps://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb73",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755985555,
+      "text": "\u003cstrong\u003e\u0026#34;AI First\u0026#34; and the Bus Factor of 0 - MindFlash - Programming and more\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eСтатья обсуждает концепцию \u0026#34;Bus Factor\u0026#34;, описывая, как внедрение ИИ стало причиной снижения знания о коде в программировании. Вместо качественной документации, команда полагается на модели, создающие код без учета его особенностей, что увеличивает риски потери знаний.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Концепция \u0026#34;Bus Factor\u0026#34;**: Оценивает количество членов команды, необходимых для удержания знаний о проекте.\u003cbr/\u003e- **Риск нулевого Bus Factor**: С внедрением ИИ команды стали игнорировать важность знаний о коде.\u003cbr/\u003e- **Изменение в программировании**: Большая часть разработчиков полагается на генерацию кода с помощью крупных языковых моделей (LLMs).\u003cbr/\u003e- **Проблемы с \u0026#34;vibe-coding\u0026#34;**: Неопытные разработчики могут столкнуться с трудностями, когда им необходимо редактировать сгенерированный код.\u003cbr/\u003e- **Качество генерируемого кода**: Понимание кода, генерируемого ИИ, остается сложной задачей из-за его недостатков.\u003cbr/\u003e- **Риски для пользователей**: Загружая личные данные в софты, пользователи теряют уверенность в их безопасности.\u003cbr/\u003e- **Будущее vibe coding\u0026#39;а**: Потребуется ИИ, генерирующий идеальный код, чтобы справиться с последствиями нулевого Bus Factor."
+    },
+    {
+      "id": "68ac03a449f02047506feb74",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755985646,
+      "text": "Лол, што? \u0026#34;какието чуваки из Польши\u0026#34;"
+    },
+    {
+      "id": "68ac03a449f02047506feb75",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755985663,
+      "text": "\u0026#34;разбились\u0026#34;"
+    },
+    {
+      "id": "68ac03a449f02047506feb76",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755985667,
+      "text": "Ksenia , у меня чёткое впечатление, что я этот термин из этого подкаста лет 10 назад услышал.\u003cbr/\u003e\u003cem\u003eСколько человек нужно посадить в один автобус чтобы потерять заниние о продукте.\u003c/em\u003e\u003cbr/\u003eКак бы не Бобук его принёс."
+    },
+    {
+      "id": "68ac03a449f02047506feb77",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1755985958,
+      "text": "Ну я не спец - я помню, что там вся верхушка страны, а кто у них там верхушка - президент, премьер-министр…. Или еще кто-то"
+    },
+    {
+      "id": "68ac03a449f02047506feb78",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755986546,
+      "text": "⚠️ AI tooling must be disclosed for contributions by mitchellh · Pull Request #8289 · ghostty-org/ghostty - \u003ca href=\"https://github.com/ghostty-org/ghostty/pull/8289\"\u003ehttps://github.com/ghostty-org/ghostty/pull/8289\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb79",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755986551,
+      "text": "\u003cstrong\u003eAI tooling must be disclosed for contributions by mitchellh · Pull Request #8289 · ghostty-org/ghostty · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003eПредложение по раскрытию использования ИИ в контрибьюциях было принято в проекте Ghostty. Участники обсуждают необходимость честного подхода к влиянию ИИ на качество кода и роли разработчиков в этом процессе.\u003cbr/\u003e\u003cbr/\u003e- Mitchellh предложил раскрытие использования ИИ в контрибьюциях для обеспечения прозрачности.\u003cbr/\u003e- В обсуждениях отметили, что ИИ часто генерирует некачественный код без должного анализа.\u003cbr/\u003e- Участники считают, что раскрытие помогает поддерживать качество проектов и упрощает работу ревьюеров.\u003cbr/\u003e- Прозрачность использования ИИ способствует уважению к человеческому труду в разработке.\u003cbr/\u003e- Есть предложения добавить шаблоны пул-реквестов для улучшения процесса раскрытия информации.\u003cbr/\u003e- Поддержка использования ИИ инструментов должна сопровождаться ответственным отношением со стороны пользователей.\u003cbr/\u003e- Возможность внедрения стандартов раскрытия добавляет ценности инструментам и улучшает взаимодействие в команде."
+    },
+    {
+      "id": "68ac03a449f02047506feb7a",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755987099,
+      "text": "плохая идея с этим \u003cem\u003eзнаком качества\u003c/em\u003e \u003cstrong\u003eнаписал человек\u003c/strong\u003e.\u003cbr/\u003eНабегут \u003cem\u003eкармодрочеры\u003c/em\u003e и какие-нибудь \u003cem\u003eэффективные мэнеджеры\u003c/em\u003e начнут делать странные выводы из этого."
+    },
+    {
+      "id": "68ac03a449f02047506feb7b",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755987144,
+      "text": "линтеры, как правило, это набор правил."
+    },
+    {
+      "id": "68ac03a449f02047506feb7c",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755987207,
+      "text": "и вот мы приходим к системе оценок граждан как кое где =("
+    },
+    {
+      "id": "68ac03a449f02047506feb7d",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1755987216,
+      "text": "Можно было бы ai тренировать только на коде написаном человеком, чтобы избегать deterioration"
+    },
+    {
+      "id": "68ac03a449f02047506feb7e",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1755987256,
+      "text": "Только на коде написанном умпутуном"
+    },
+    {
+      "id": "68ac03a449f02047506feb7f",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "edyya",
+      "author_name": "Eduard",
+      "datetime": 1755987263,
+      "text": "Норм, идеально бы еще указатель на то какая именно модель"
+    },
+    {
+      "id": "68ac03a449f02047506feb80",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755987315,
+      "text": "⚠️ AWS CEO says AI replacing junior staff is \u0026#39;dumbest idea\u0026#39; - \u003ca href=\"https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/\"\u003ehttps://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb81",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755987320,
+      "text": "\u003cstrong\u003eAWS CEO says AI replacing junior staff is \u0026#39;dumbest idea\u0026#39; • The Register\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003e\u003cbr/\u003eГенеральный директор AWS Мэтт Гарман считает идею увольнения младших сотрудников из-за замены их на ИИ \u0026#34;глупейшей\u0026#34;. Он подчеркивает важность обучения молодого поколения в программировании, несмотря на прогресс технологий.\u003cbr/\u003e\u003cbr/\u003e- Гарман критикует увольнение младших сотрудников как \u0026#34;глупейшую идею\u0026#34;.\u003cbr/\u003e- Младшие сотрудники являются наиболее вовлеченными пользователями ИИ и недорогими работниками.\u003cbr/\u003e- Преподавание навыков критического мышления и творчества необходимо для будущих поколений.\u003cbr/\u003e- ИИ-инструменты, такие как Kiro, способны помочь в обучении.\u003cbr/\u003e- Более 80% разработчиков AWS используют ИИ в своей работе.\u003cbr/\u003e- Гарман говорит, что количественные метрики по коду не всегда полезны.\u003cbr/\u003e- Успех в карьере требует не узких навыков, а умения учиться и мыслить."
+    },
+    {
+      "id": "68ac03a449f02047506feb82",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "it-trend",
+      "datetime": 1755987373,
+      "text": "\u0026#34;Недорогие работники\u0026#34; - интересная формулировка"
+    },
+    {
+      "id": "68ac03a449f02047506feb83",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "it-trend",
+      "datetime": 1755987578,
+      "text": "\u0026#34;Дорогие наши работники. И недорогие тоже...\u0026#34;"
+    },
+    {
+      "id": "68ac03a449f02047506feb84",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1755988101,
+      "text": "При at will employment мало смьісла в probationary period."
+    },
+    {
+      "id": "68ac03a449f02047506feb85",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1755988637,
+      "text": "надо ПТУ с летней практикой внедрить"
+    },
+    {
+      "id": "68ac03a449f02047506feb86",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755988671,
+      "text": "Ну там скорее происходит социализация и связи общие типа роста\u003cbr/\u003eпотом уже когда кто-то растет подтягивает одно кашников"
+    },
+    {
+      "id": "68ac03a449f02047506feb87",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755988767,
+      "text": "А про практические навыки это же местами отличаются от места работы"
+    },
+    {
+      "id": "68ac03a449f02047506feb88",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1755988809,
+      "text": "Т.е. типа готовые главные архитектуры и металлурги из универа выходят? И только с программерами это не так?"
+    },
+    {
+      "id": "68ac03a449f02047506feb89",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755989038,
+      "text": "в штатах – два года и ты бакалавр. Можешь идти работать программистом. Но, как я обнаружил, много работодателей требуют 6-12 месяцев интернатуры."
+    },
+    {
+      "id": "68ac03a449f02047506feb8a",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755989055,
+      "text": "⚠️ Темы слушателей 975 - \u003ca href=\"https://radio-t.com/p/2025/08/20/prep-975/\"\u003ehttps://radio-t.com/p/2025/08/20/prep-975/\u003c/a\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb8b",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755989063,
+      "text": "[1/5] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eAlexandru REZNIC\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eВ разработку редактора кода Zed инвестировано $42 млн. Создан Zedless, форк Zed\u003cbr/\u003e\u003cbr/\u003eКомпания Zed Industries, разрабатывающая открытый редактор кода Zed, объявила об инвестировании в проект 35 млн долларов венчурным фондом Sequoia. С учётом прошлых денежных вливаний общий объём инвестиций в разработку Zed превысил 42 млн долларов. Деньги выделены на развитие нового метода совместной работы над кодом, при котором обсуждение кода привязывается к самому коду.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.opennet.ru/opennews/art.shtml?num=63752\"\u003ehttps://www.opennet.ru/opennews/art.shtml?num...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eВ разработку редактора кода Zed инвестировано $42 млн. Создан Zedless, форк Zed\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Обзор**  \u003cbr/\u003eКомпания Zed Industries инвестировала $42 млн в разработку редактора кода Zed и его форка Zedless. Новые инвестиции нацелены на улучшение совместной работы с кодом, реализацию системы управления версиями DeltaDB и поддержание непрерывного обсуждения при редактировании.\u003cbr/\u003e\u003cbr/\u003e- **Инвестиции**: Общая сумма инвестиций Zed превышает 42 миллиона долларов.\u003cbr/\u003e- **Zedless**: Новый форк редактора, фокусирующийся на приватности и локальной работе.\u003cbr/\u003e- **DeltaDB**: Новая система управления версиями, отслеживающая изменения кода на уровне редактирования.\u003cbr/\u003e- **Обсуждение кода**: Непрерывные обсуждения привязаны к конкретным операциям редактирования.\u003cbr/\u003e- **Разработка**: Возглавляет Натан Собо, сообщество включает бывших разработчиков Atom.\u003cbr/\u003e- **Лицензирование**: Исходный код открытого редактора под лицензиями AGPLv3 и GPLv3.\u003cbr/\u003e- **Zedless особенности**: Отказ от связи с облачными сервисами и возможность настройки пользователем."
+    },
+    {
+      "id": "68ac03a449f02047506feb8c",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755989064,
+      "text": "[2/5] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eVictor Skvortsov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eAWS CEO says using AI to replace junior staff is ‘Dumbest thing I’ve ever heard’\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e“My view is you absolutely want to keep hiring kids out of college and teaching them the right ways to go build software and decompose problems and think about it, just as much as you ever have.”\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eSource: \u003c/em\u003e\u003ca href=\"https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/\"\u003ehttps://www.theregister.com/2025/08/21/aws_ce...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eHN: \u003c/em\u003e\u003ca href=\"https://news.combinatore.com/item?id=44972151\"\u003ehttps://news.combinatore.com/item?id=44972151\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAWS CEO says AI replacing junior staff is \u0026#39;dumbest idea\u0026#39; • The Register\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003e\u003cbr/\u003eГенеральный директор AWS Мэтт Гарман считает идею увольнения младших сотрудников из-за замены их на ИИ \u0026#34;глупейшей\u0026#34;. Он подчеркивает важность обучения молодого поколения в программировании, несмотря на прогресс технологий.\u003cbr/\u003e\u003cbr/\u003e- Гарман критикует увольнение младших сотрудников как \u0026#34;глупейшую идею\u0026#34;.\u003cbr/\u003e- Младшие сотрудники являются наиболее вовлеченными пользователями ИИ и недорогими работниками.\u003cbr/\u003e- Преподавание навыков критического мышления и творчества необходимо для будущих поколений.\u003cbr/\u003e- ИИ-инструменты, такие как Kiro, способны помочь в обучении.\u003cbr/\u003e- Более 80% разработчиков AWS используют ИИ в своей работе.\u003cbr/\u003e- Гарман говорит, что количественные метрики по коду не всегда полезны.\u003cbr/\u003e- Успех в карьере требует не узких навыков, а умения учиться и мыслить."
+    },
+    {
+      "id": "68ac03a449f02047506feb8d",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755989064,
+      "text": "[3/5] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eBzzzz\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMitchell Hashimoto: “AI tooling must be disclosed for contributions” (ghostty) \u003c/em\u003e\u003ca href=\"https://github.com/ghostty-org/ghostty/pull/8289\"\u003ehttps://github.com/ghostty-org/ghostty/pull/8289\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eначало \u003c/em\u003e\u003ca href=\"https://x.com/mitchellh/status/1957914461614010454\"\u003ehttps://x.com/mitchellh/status/1957914461614010454\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAI tooling must be disclosed for contributions by mitchellh · Pull Request #8289 · ghostty-org/ghostty · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003eПредложение по раскрытию использования ИИ в контрибьюциях было принято в проекте Ghostty. Участники обсуждают необходимость честного подхода к влиянию ИИ на качество кода и роли разработчиков в этом процессе.\u003cbr/\u003e\u003cbr/\u003e- Mitchellh предложил раскрытие использования ИИ в контрибьюциях для обеспечения прозрачности.\u003cbr/\u003e- В обсуждениях отметили, что ИИ часто генерирует некачественный код без должного анализа.\u003cbr/\u003e- Участники считают, что раскрытие помогает поддерживать качество проектов и упрощает работу ревьюеров.\u003cbr/\u003e- Прозрачность использования ИИ способствует уважению к человеческому труду в разработке.\u003cbr/\u003e- Есть предложения добавить шаблоны пул-реквестов для улучшения процесса раскрытия информации.\u003cbr/\u003e- Поддержка использования ИИ инструментов должна сопровождаться ответственным отношением со стороны пользователей.\u003cbr/\u003e- Возможность внедрения стандартов раскрытия добавляет ценности инструментам и улучшает взаимодействие в команде."
+    },
+    {
+      "id": "68ac03a449f02047506feb8e",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755989064,
+      "text": "[4/5] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eDmitry Verkhoturov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003e\u003cbr/\u003ewhat’s the point of vibe coding if at the end of the day i still gotta pay a dev to look at the code anyway. sure it feels kinda cool while i’m typing, like i’m in some flow state or whatever, but when stuff breaks it’s just dead weight. i cant vibe my way through debugging, i cant ship anything that actually matters, and then i’m back to square one pulling out my wallet for someone who actually knows what they’re doing.\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eкакой смысл в этом вайб-кодинге, если в итоге мне всё равно приходится платить разрабу, чтобы он глянул код. да, по ощущениям во время набора вроде прикольно — будто я в каком-то флоу или типа того, — но как только всё ломается, это просто мёртвый груз. вайбом дебаг не пройти, ничего по-настоящему важного так не зашиппить, и я снова на нуле — достаю кошелёк и зову кого-то, кто реально шарит.\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.reddit.com/r/vibecoding/comments/1mu6t8z/whats_the_point_of_vibe_coding_if_i_still_have_to/\"\u003eu/AssafMalkiIL\u003c/a\u003e\u003cem\u003e, on r/vibecoding\u003c/em\u003e"
+    },
+    {
+      "id": "68ac03a449f02047506feb8f",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1755989064,
+      "text": "[5/5] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eGleb Svechnikov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eNew IDE from Alibaba \u003c/em\u003e\u003ca href=\"https://softreviewed.com/alibabas-qoder-the-ai-coder-with-memory-that-could-replace-cursor-and-windsurf/\"\u003ehttps://softreviewed.com/alibabas-qoder-the-a...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWill Alibaba’s Qoder Replace Cursor \u0026amp; Windsurf? 🚀 10x Coding Speed\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eAlibaba представила Qoder — новый AI-ассистент для разработки, который обещает повысить скорость кодирования в 10 раз, предлагая продвинутые функции памяти и контекстного понимания проекта, что отличает его от традиционных инструментов.\u003cbr/\u003e\u003cbr/\u003e- **Инновации Qoder:** Новый AI-ассистент, который меняет подход к разработке с помощью глубинного понимания кода и управления проектами.\u003cbr/\u003e- **Эффективность:** Qoder может создавать полноценные приложения за считанные минуты, увеличивая производительность кодирования более чем в 10 раз.\u003cbr/\u003e- **Контекстная память:** Qoder запоминает структуру вашего проекта и прошлые разговоры, улучшая персонализацию при каждом новом сеансе.\u003cbr/\u003e- **Модели работы:** Qoder предлагает три режима – \u0026#34;Ask,\u0026#34; \u0026#34;Agent,\u0026#34; и \u0026#34;Quest,\u0026#34; позволяя пользователям взаимодействовать с AI по-разному.\u003cbr/\u003e- **Автоматическая документация:** Создает подробные вики и документацию проекта в реальном времени, облегчая работу командам.\u003cbr/\u003e- **Бесплатный доступ:** На данный момент доступ к Qoder бесплатен, что позволяет разработчикам исследовать его возможности без рисков.\u003cbr/\u003e- **Для разработчиков:** Идеален для сложных многопроектных задач и для тех, кто хочет делегировать функции AI."
+    },
+    {
+      "id": "68ac03a449f02047506feb90",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1755989133,
+      "text": "У Яндекса кстати ШАД есть"
+    },
+    {
+      "id": "68ac03a449f02047506feb91",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1755989169,
+      "text": "В университете Умпутуна будет 99% отчисление"
+    },
+    {
+      "id": "68ac03a449f02047506feb92",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1755989183,
+      "text": "Погодите, а про презентацию телефончика гугловского прошедшего на предыдущей неделе  не будет обсуждения?\u003cbr/\u003e\u003cbr/\u003eА там перевод прикрутили к телефонным звонкам =)\u003cbr/\u003eНу и сама презентация?"
+    },
+    {
+      "id": "68ac03a449f02047506feb93",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1755989337,
+      "text": "и слушаетелей подкаста туда допускать не будут. 😢"
+    },
+    {
+      "id": "68ac03a449f02047506feb94",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_lepeshko",
+      "author_name": "Vladimir Lepeshko",
+      "datetime": 1755989439,
+      "text": "Напомните предсказание о вайб кодерах в ближайшие 2 года)"
+    },
+    {
+      "id": "68ac03a449f02047506feb95",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pirojok_o",
+      "author_name": ". .",
+      "datetime": 1755989451,
+      "text": "Привет всем"
+    },
+    {
+      "id": "68ac03a449f02047506feb96",
+      "issue": 975,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1755990076,
+      "text": "что ж. пойдём. доброй ночи/дня всем"
+    }
+  ]
+}

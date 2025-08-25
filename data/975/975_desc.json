@@ -1,0 +1,80 @@
+{
+  "issue": 975,
+  "date": "2025-08-23",
+  "audio": "https://cdn.radio-t.com/rt_podcast975.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt975.jpg",
+  "start_time": 1755980288,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "На острове всем купят ChatGPT Plus",
+      "links": [
+        "https://www.theguardian.com/politics/2025/aug/23/uk-minister-peter-kyle-chatgpt-plus-openai-sam-altman"
+      ],
+      "time": "00:09:37"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Что пошло не так с GPT-5",
+      "links": [
+        "https://www.lesswrong.com/posts/eFd7NZ4KpYLM4ocBv/gpt-5-the-reverse-deepseek-moment"
+      ],
+      "time": "00:25:18"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "4 года тюрьмы за “kill switch”",
+      "links": [
+        "https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/"
+      ],
+      "time": "00:53:18"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Go все еще не фонтан",
+      "links": [
+        "https://blog.habets.se/2025/07/Go-is-still-not-good.html"
+      ],
+      "time": "01:03:40"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI против Bus Factor",
+      "links": [
+        "https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608"
+      ],
+      "time": "01:27:40"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Надо-ли признаваться в том, что код писал робот",
+      "links": [
+        "https://github.com/ghostty-org/ghostty/pull/8289"
+      ],
+      "time": "01:44:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AWS дает новые надежды джуниорам",
+      "links": [
+        "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/"
+      ],
+      "time": "01:57:07"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/08/20/prep-975/"
+      ],
+      "time": "02:26:07"
+    }
+  ],
+  "tags": null
+}
