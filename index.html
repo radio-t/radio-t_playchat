@@ -111,17 +111,43 @@
     x-cloak
   >
       <div x-data="{
-            results:[],
+            results: {},
             keywords:'',
             isTopics: true,
             isCc: true,
-            isChat: true,
+            isChat: false,
+            isSearching: false,
+            searchRequestId: 0,
+            searchAbortController: new AbortController(),
             list: [],
             getDateByIssue: function(issue) {
                 return this.list[issue]
             }
           }"
-          x-effect="results = await search(keywords, isTopics, isCc, isChat)"
+          x-effect="(async () => {
+            searchAbortController.abort();
+            const requestId = ++searchRequestId;
+            isSearching = true;
+
+            try {
+              searchAbortController = new AbortController();
+              const searchResult = await search(keywords, isTopics, isCc, isChat, searchAbortController.signal);
+              if (requestId === searchRequestId) {
+                results = searchResult;
+              }
+            } catch (error) {
+              if (error.name !== 'AbortError') {
+                console.error('Search error:', error);
+              }
+              if (requestId === searchRequestId) {
+                results = {};
+              }
+            } finally {
+              if (requestId === searchRequestId) {
+                isSearching = false;
+              }
+            }
+          })()"
           x-init="keywords = new URLSearchParams(location.search).get('query') ||
                     new URLSearchParams(location.search).get('q') ||
                     '';
@@ -163,7 +189,22 @@
           </div>
 
           <div>
-              <div x-show="Object.keys(results).length > 0" class="grid grid-cols-1 gap-2">
+              <!-- Loading indicator -->
+              <div x-show="isSearching && keywords && keywords.length >= 3" class="flex items-center justify-center p-8">
+                <div class="flex items-center space-x-2">
+                  <div class="animate-spin rounded-full h-6 w-6 border-b-2 border-blue-600"></div>
+                  <span class="text-gray-600 dark:text-gray-300">Поиск...</span>
+                </div>
+              </div>
+              
+              <!-- No results message -->
+              <div x-show="!isSearching && keywords && keywords.length >= 3 && Object.keys(results).length === 0"
+                class="flex items-center justify-center p-8">
+                <span class="text-gray-500 dark:text-gray-400">Ничего не найдено</span>
+              </div>
+              
+              <!-- Search results -->
+              <div x-show="!isSearching && Object.keys(results).length > 0" class="grid grid-cols-1 gap-2">
                   <template x-for="issue in Object.keys(results).sort((a,b) => b - a)">
                       <div class="border rounded-lg shadow p-3 flex-col gap-2 divide-y divide-dashed">
                           <div class="flex items-center dark:text-gray-200">
@@ -267,7 +308,7 @@
           isMessagesAutoScroll: true,
           messagesScrollTop: 0,
           cc: [],
-          isCcVisible: true,
+          isCcVisible: false,
           isCcAutoScroll: true,
           ccScrollTop: 0,
           isPlaying: false,
@@ -676,11 +717,13 @@
 
     <!-- Search script -->
     <script>
-      async function search(query, isTopics, isCc, isChat) {
+      async function search(query, isTopics, isCc, isChat, signal) {
           //
           if (!query || query.length < 3) {
-              return []
+              return {}
           }
+
+          await new Promise(r => setTimeout(r, 500));
 
           var queries = []
 
@@ -688,7 +731,7 @@
               queries.push({
                   "indexUid":"topics",
                   "q": query,
-                  "limit": 10000,
+                  "limit": 1000,
                   "sort": ["issue:desc","time:asc"],
                   "attributesToHighlight": ["title"],
                   "highlightPreTag": "<span class=\"bg-amber-100 dark:bg-gray-900 dark:text-gray-100\">",
@@ -700,7 +743,7 @@
               queries.push({
                   "indexUid":"cc_msgs",
                   "q": query,
-                  "limit": 10000,
+                  "limit": 1000,
                   "sort": ["issue:desc","stime:asc"],
                   "attributesToHighlight": ["text"],
                   "highlightPreTag": "<span class=\"bg-amber-100 dark:bg-gray-900 dark:text-gray-100\">",
@@ -712,7 +755,7 @@
               queries.push({
                   "indexUid":"chat_msgs",
                   "q": query,
-                  "limit": 10000,
+                  "limit": 1000,
                   "sort": ["issue:desc","datetime:asc"],
                   "attributesToHighlight": ["text"],
                   "highlightPreTag": "<span class=\"bg-amber-100 dark:bg-gray-900 dark:text-gray-100\">",
@@ -722,6 +765,7 @@
 
   //        let response = await fetch(`http://10.201.10.108:7700/multi-search`, {
           let response = await fetch(`https://a1b2c3.me3k.ru/multi-search`, {
+              signal,
               method: 'POST',
               headers: {
                   'Content-Type': 'application/json;charset=utf-8',
