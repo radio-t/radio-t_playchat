@@ -1,0 +1,854 @@
+{
+  "chat": [
+    {
+      "id": "68b3d351bf6506c35188f90d",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1756584097,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e включи стрим тут пожалуйста"
+    },
+    {
+      "id": "68b3d351bf6506c35188f90e",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756584103,
+      "text": "голоса, голоса…."
+    },
+    {
+      "id": "68b3d351bf6506c35188f90f",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1756584245,
+      "text": "Будет вещание в мессенджере Макс?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f910",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1756584300,
+      "text": "Только в Яндекс.Телемост"
+    },
+    {
+      "id": "68b3d351bf6506c35188f911",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756584309,
+      "text": "шо, опять?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f912",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756584511,
+      "text": "блин, я аж пожалел что аудиент взял, а не вольт. хотя вроде и не пишу подкасты;)"
+    },
+    {
+      "id": "68b3d351bf6506c35188f913",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756584530,
+      "text": "он уже второй год пытается понять что у него трещит или только первый?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f914",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1756584689,
+      "text": "Как донатим так и трещит."
+    },
+    {
+      "id": "68b3d351bf6506c35188f915",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1756584719,
+      "text": "не донатим тем, кто на права сдать не может"
+    },
+    {
+      "id": "68b3d351bf6506c35188f916",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1756584738,
+      "text": "у меня посудомойка засорилась в прошлом году, чувак пришёл и прочистил за 140"
+    },
+    {
+      "id": "68b3d351bf6506c35188f917",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756584773,
+      "text": "а Гриша выйдет?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f918",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1756584779,
+      "text": "впрочем у нас наверное и джуниоры подешевле 🙂"
+    },
+    {
+      "id": "68b3d351bf6506c35188f919",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756584794,
+      "text": "а посудомойку за сколько?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f91a",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1756584912,
+      "text": "Грэй сегодня придёт?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f91b",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1756584928,
+      "text": "я даже в сербии купил mogami)"
+    },
+    {
+      "id": "68b3d351bf6506c35188f91c",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756585102,
+      "text": "может для гитары особенно защищенный, чтобы не порвать"
+    },
+    {
+      "id": "68b3d351bf6506c35188f91d",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1756585161,
+      "image_url": "https://chat.radio-t.com/logs/976/AgACAgEAAx0CUPxcWQABCeRRaLNcyUEOCVIswqh3sP65yeR6hP0AAl2wMRvr_aBFT2KX7mHe80cBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 200,
+      "text": ""
+    },
+    {
+      "id": "68b3d351bf6506c35188f91e",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1756585208,
+      "image_url": "https://chat.radio-t.com/logs/976/AgACAgEAAx0CUPxcWQABCeRSaLNc-FVWW0wzaZbXhhQxTjlXLawAAl6wMRvr_aBFyqtyQu3qmicBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 570,
+      "text": ""
+    },
+    {
+      "id": "68b3d351bf6506c35188f91f",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756585309,
+      "text": "Если кто хочет еще интересное поведение увидеть - пришлите в этот чат картинку в кепшинси к которой вставьте любую ссылку"
+    },
+    {
+      "id": "68b3d351bf6506c35188f920",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756585515,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f921",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1756585963,
+      "text": "Надо регулярную рубрику сделать о UK"
+    },
+    {
+      "id": "68b3d351bf6506c35188f922",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756586383,
+      "text": "⚠️ iPhone 17 vs iPhone 17 Air vs iPhone 17 Pro: Here\u0026#39;s all the new rumored features | Tom\u0026#39;s Guide - \u003ca href=\"https://www.tomsguide.com/phones/iphones/iphone-17-vs-iphone-17-air-vs-iphone-17-pro-heres-all-the-new-rumored-features\"\u003ehttps://www.tomsguide.com/phones/iphones/iphone-17-vs-iphone-17-air-vs-iphone-17-pro-heres-all-the-new-rumored-features\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f923",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756586390,
+      "text": "\u003cstrong\u003eiPhone 17 vs iPhone 17 Air vs iPhone 17 Pro: Here\u0026#39;s all the new rumored features | Tom\u0026#39;s Guide\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eApple готовится к запуску iPhone 17, 17 Air и 17 Pro с рядом ожидаемых улучшений, включая новые дисплеи, улучшенные камеры и более быструю зарядку. Ожидаются четыре модели, включая ultra-thin iPhone 17 Air.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **iPhone 17**: наш первый 120Гц дисплей, увеличенный размер экрана, 24-мегапиксельная фронтальная камера и более быстрая зарядка 35Вт.\u003cbr/\u003e- **iPhone 17 Air**: ультратонкий дизайн шириной 5,5 мм, 6,6-дюймовый экран, новая A19 чип и 48-мегапиксельная основная камера.\u003cbr/\u003e- **iPhone 17 Pro**: новый 3-нм A19 Pro чип, 12 ГБ оперативной памяти, цена как основной отличительной чертой для Pro и Pro Max моделей.\u003cbr/\u003e- **Зарядка**: все модели претендуют на поддержку более быстрой зарядки, включая беспроводную зарядку Qi 2.2.\u003cbr/\u003e- **Камера**: Pro модели получат обновленную 48-мегапиксельную телеобъектив с 8-кратным увеличением.\u003cbr/\u003e- **Охлаждение**: Pro модели могут иметь охлаждение с использованием паровой камеры для повышения производительности.\u003cbr/\u003e- **Общий дизайн**: Pro версии откажутся от титановым рамок в пользу алюминиевых."
+    },
+    {
+      "id": "68b3d351bf6506c35188f924",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1756586610,
+      "text": "Лёша, ты ulefon power armor 13 видел? Телефон убийца... А тут вышел Fossibot f107 pro это убийца убийц... 28000 mah батарея..."
+    },
+    {
+      "id": "68b3d351bf6506c35188f925",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756587053,
+      "text": "⚠️ You should delete tests - \u003ca href=\"https://andre.arko.net/2025/06/30/you-should-delete-tests/\"\u003ehttps://andre.arko.net/2025/06/30/you-should-delete-tests/\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f926",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756587058,
+      "text": "\u003cstrong\u003eYou should delete tests\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003eУдаление тестов может быть необходимым для повышения уверенности в изменениях. Вместо того чтобы сохранять флагманские тесты, которые могут снижать производительность и уверенность, следует удалять их, если они не соответствуют современным требованиям проекта.\u003cbr/\u003e\u003cbr/\u003e- Удаление устаревших тестов увеличивает уверенность в коде.\u003cbr/\u003e- Флаковые тесты вредят, снижая продуктивность команды.\u003cbr/\u003e- Если обновление кода требует изменения множества тестов, это сигнал к удалению.\u003cbr/\u003e- Долго работающие тесты могут мешать запуску новых изменений.\u003cbr/\u003e- Неактуальные тесты стоит удалять для повышения эффективности.\u003cbr/\u003e- Удаление тестов позволяет сосредоточиться на новых требованиях бизнеса.\u003cbr/\u003e- Однако стоит писать новые тесты для новой функциональности."
+    },
+    {
+      "id": "68b3d351bf6506c35188f927",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alovak",
+      "author_name": "Pavel Gabriel",
+      "datetime": 1756587209,
+      "image_url": "https://chat.radio-t.com/logs/976/AgACAgIAAx0CUPxcWQABCeRdaLNkyUQhJFCKWoucxJ5eLw2cq-oAAiwBMhtK75hJMDBfQXNMwOIBAAMCAAN5AAM2BA",
+      "image_width": 960,
+      "image_height": 1154,
+      "text": "Сегодня ChatGPT мне сказал как он закрепляет велосипед в поезде. Так что будьте внимательны. Вдруг он сидит с вами рядом."
+    },
+    {
+      "id": "68b3d351bf6506c35188f928",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1756587430,
+      "text": "Бобук как то давно говорил про тулзу на расте где любое приложение можно завернуть в wasm и использовать на любой платформе, как она называлась?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f929",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1756587468,
+      "text": "гпт5 по-русски стала работать просто отвратительно"
+    },
+    {
+      "id": "68b3d351bf6506c35188f92a",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756587482,
+      "text": "\u0026#34;простейший компонент\u0026#34; какого-нибудь саджеста я бы таки тестами откладывал как мог, ибо обязательно туда кто-нибудь залезет и всё сломает)"
+    },
+    {
+      "id": "68b3d351bf6506c35188f92b",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1756587496,
+      "text": "чрезвычайное количество англицизмов + грамматические ошибки и в целом низкое качество ответов"
+    },
+    {
+      "id": "68b3d351bf6506c35188f92c",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756587539,
+      "text": "внутренняя тулза самой богатой хайтек компании - получает json с сервера размером 97Мбайт и парсит на клиенте"
+    },
+    {
+      "id": "68b3d351bf6506c35188f92d",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1756587541,
+      "text": "\u003ca href=\"https://github.com/antiwork/shortest\"\u003ehttps://github.com/antiwork/shortest\u003c/a\u003e - тесты на английском как агент"
+    },
+    {
+      "id": "68b3d351bf6506c35188f92e",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756587598,
+      "text": "Велосипедил дерево раскрывающееся недавно, 2.5к строк вышло. Элементарно получается и сложная логика и необходимость тестов."
+    },
+    {
+      "id": "68b3d351bf6506c35188f92f",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756588082,
+      "text": "переписывать потом больно, если тестируются приватные компоненты"
+    },
+    {
+      "id": "68b3d351bf6506c35188f930",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756588600,
+      "text": "Только с e2e тестами всё равно нельзя жить нормально, ими задолбаться можно описывать много вариантов разной логики."
+    },
+    {
+      "id": "68b3d351bf6506c35188f931",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1756588757,
+      "text": "Юнит тесты должны работать быстро, и тестировать модули/классы. А интеграционные тесты тестируют интеграцию протестированных модулей. Лёша, представь - у тебя сломался интеграционный тест из энного количества модулей. Сколько ты будешь искать где сломалось."
+    },
+    {
+      "id": "68b3d351bf6506c35188f932",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756588913,
+      "text": "Я тесты в двух случаях пишу:\u003cbr/\u003e\u003cbr/\u003e- функционал легче реализовать через TDD (легко написать тест на ещё отсутствующий код, запустить его по кулдауну на соседнем мониторе и затем писать код имея моментальную обратную связь)\u003cbr/\u003e\u003cbr/\u003e- хочется зафиксировать поведение, чтобы пришедший рефакторить не потерял юзкейс который легко потерять"
+    },
+    {
+      "id": "68b3d351bf6506c35188f933",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1756588967,
+      "text": "в тестах есть еще стоимость ошибки и рисков. если фиксить можно - то и тестов поменьше. а если качество выше надо и риски большие, клиенты не переживут баг - больше тестов"
+    },
+    {
+      "id": "68b3d351bf6506c35188f934",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756589038,
+      "text": "ведущие и некоторые пользователи в чате бессмертны: если попробовать забанить бот уйдет в многодневное удаление сообщений"
+    },
+    {
+      "id": "68b3d351bf6506c35188f935",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756589116,
+      "text": "Есть ложь, есть наглая ложь, а есть TODO в коде с тикетом трёхлетней давности"
+    },
+    {
+      "id": "68b3d351bf6506c35188f936",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756589166,
+      "text": "⚠️ Codex | OpenAI - \u003ca href=\"https://openai.com/codex/\"\u003ehttps://openai.com/codex/\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f937",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756589167,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eСкоро будет... -"
+    },
+    {
+      "id": "68b3d351bf6506c35188f938",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1756589172,
+      "text": "В  дотнете есть reinforced types для фронтенда. Т.е публичные классы при компиляции backend for frontend генерят интерфейсы для тайпскрипта, которые используются микрофронтендом. Domain сервисы публикуют nuget с клиентом для своего rest api."
+    },
+    {
+      "id": "68b3d351bf6506c35188f939",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756589173,
+      "text": "еще один свидетель лондонской школы"
+    },
+    {
+      "id": "68b3d351bf6506c35188f93a",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1756589226,
+      "text": "Какой лондонской школы... Я на стороне Умпутуна."
+    },
+    {
+      "id": "68b3d351bf6506c35188f93b",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756589274,
+      "text": "не знать про школы тестирования и так уверенно толкать речь про тесты 👍"
+    },
+    {
+      "id": "68b3d351bf6506c35188f93c",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756589307,
+      "text": "То в книжках просто юниты модули/классы тестируют. Хотя тест который создаёт два класса и отрабатывает за полсекунды чтобы пару методов протестировать вряд ли перестаёт быть юнит-тестом."
+    },
+    {
+      "id": "68b3d351bf6506c35188f93d",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voxpuibr",
+      "author_name": "Stanislav",
+      "datetime": 1756589328,
+      "text": "чат! что такое лондонская школа тестирования кода?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f93e",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756589330,
+      "text": "Лондонская школа тестирования кода акцентирует внимание на написании тестов одновременно с кодом и использовании подхода \u0026#34;тестирование через внедрение\u0026#34; (testing through injection). Это позволяет делать тесты более гибкими и поддерживаемыми, упрощая процесс отладки и улучшая качество кода."
+    },
+    {
+      "id": "68b3d351bf6506c35188f93f",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1756589419,
+      "text": "Чат! Какие ещё есть школы тестирования кроме лондонской?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f940",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756589420,
+      "text": "Слишком много запросов, следующий запрос можно будет сделать через 3 минут.\u003cbr/\u003e\u003ca class=\"mention\" href=\"https://t.me/denom\"\u003e@denom\u003c/a\u003e получает бан на 1 час."
+    },
+    {
+      "id": "68b3d351bf6506c35188f941",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756589458,
+      "text": "будет время ознакомиться"
+    },
+    {
+      "id": "68b3d351bf6506c35188f942",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756589620,
+      "text": "интересная математика"
+    },
+    {
+      "id": "68b3d351bf6506c35188f943",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756590219,
+      "text": "⚠️ Piloting Claude for Chrome - \u003ca href=\"https://www.anthropic.com/news/claude-for-chrome\"\u003ehttps://www.anthropic.com/news/claude-for-chrome\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f944",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756590225,
+      "text": "\u003cstrong\u003ePiloting Claude for Chrome \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eAnthropic запускает пилотное тестирование Claude для Chrome, предоставляя пользователям возможность управлять действиями AI в браузере. Одновременно с улучшением функционала компания акцентирует внимание на безопасности, исследуя уязвимости и внедряя защитные меры для предотвращения вредоносных атак.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Интеграция**: Claude подключен к календарям и документам пользователей, а теперь и к браузеру Chrome.\u003cbr/\u003e- **Тестирование безопасности**: Velopment проводит \u0026#34;red-teaming\u0026#34; тесты, чтобы выявить уязвимости и повысить безопасность Claude.\u003cbr/\u003e- **Атаки**: Claude подвержен атакам, использующим скрытые команды, аналогично фишинговым попыткам.\u003cbr/\u003e- **Меры безопасности**: Вмешательства ограничены на основе разрешений и подтверждений пользователя перед рисковыми действиями.\u003cbr/\u003e- **Улучшения**: Успеваемость атаки снизилась с 23.6% до 11.2% благодаря внедрению новых защитных мер.\u003cbr/\u003e- **Открытое тестирование**: Пользователи могут участвовать в тестах, помогая выявить слабые места и предлагая обратную связь.\u003cbr/\u003e- **Будущие разработки**: Компания планирует улучшить классификаторы и разрешения, чтобы обрабатывать больше потенциальных атак."
+    },
+    {
+      "id": "68b3d351bf6506c35188f945",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756590459,
+      "text": "Ни разу не встречал трусов, которые хоть как-то ограничивали движение ног 🤔"
+    },
+    {
+      "id": "68b3d351bf6506c35188f946",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756590462,
+      "text": "а чем закидывание ноги на мотоцикл отличается от закидывания ноги на велосипед?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f947",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex911111",
+      "author_name": "Sasha",
+      "datetime": 1756590487,
+      "text": "Рвуться только у тех кто сдал на права"
+    },
+    {
+      "id": "68b3d351bf6506c35188f948",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1756590491,
+      "text": "так на велосипеде седло выше"
+    },
+    {
+      "id": "68b3d351bf6506c35188f949",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1756590608,
+      "text": "Будет фильмы в хорошем качестве онлайн искать)"
+    },
+    {
+      "id": "68b3d351bf6506c35188f94a",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Lev Rosenblat",
+      "datetime": 1756591071,
+      "text": "Что за то трансляция?"
+    },
+    {
+      "id": "68b3d351bf6506c35188f94b",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756591230,
+      "text": "⚠️ \u003ca href=\"https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers\"\u003ehttps://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers\u003c/a\u003e - \u003ca href=\"https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers\"\u003ehttps://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f94c",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756591236,
+      "text": "\u003cstrong\u003eThe Web Does Not Need Gatekeepers - Positiveblue’s Substack\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eПоддержка открытого интернета требует открытых стандартов в аутентификации и авторизации, а не разрешительных списков от единственной компании. Необходимы децентрализованные, прозрачные и проверяемые протоколы, которые позволят агента работать без ограничений, избегая закрытых экосистем.\u003cbr/\u003e\u003cbr/\u003e- Cloudflare создает разрешительный список для использования интернета, что противоречит концепции открытых веб-стандартов.\u003cbr/\u003e- Аутентификация и авторизация не должны зависеть от одной компании или единого «пропуска».\u003cbr/\u003e- Мы нуждаемся в системах, которые позволяют проверять подлинность запросов и цепь делегирования действий.\u003cbr/\u003e- Например, использование DNS для проверки публичных ключей может открыть доступ к аудиту без регистрации или заполнения форм.\u003cbr/\u003e- Агенты должны иметь права доступа только для конкретных задач, а не постоянные полномочия.\u003cbr/\u003e- Новые протоколы, такие как токены с ограничениями, могут помочь улучшить безопасность и совместимость агентов.\u003cbr/\u003e- Будущее интернета должно полагаться на открытые протоколы, а не на контроль за «правильными» агентами от крупных компаний."
+    },
+    {
+      "id": "68b3d351bf6506c35188f94d",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1756591363,
+      "text": "\u003ca href=\"https://help.openai.com/en/articles/11845367-chatgpt-agent-allowlisting\"\u003ehttps://help.openai.com/en/articles/11845367-chatgpt-agent-allowlisting\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f94e",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756591878,
+      "text": "⚠️ Musk\u0026#39;s xAI forays into agentic coding with new model | Reuters - \u003ca href=\"https://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/\"\u003ehttps://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f94f",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756591881,
+      "text": "\u003ca href=\"https://reuters.com\"\u003ereuters.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eСтатья на Reuters сообщает о необходимости включения JavaScript и отключения блокировщиков рекламы для полноценного взаимодействия с сайтом.\u003cbr/\u003e\u003cbr/\u003e- Включите JavaScript в настройках вашего браузера.\u003cbr/\u003e- Отключите блокировщик рекламы, если он активен.\u003cbr/\u003e- Некоторые функции сайта могут не работать без этих изменений.\u003cbr/\u003e- Это требуется для лучшего пользовательского опыта.\u003cbr/\u003e- Следуйте инструкциям браузера для внесения изменений.\u003cbr/\u003e- Обновите страницу после настройки параметров.\u003cbr/\u003e- Если проблемы сохраняются, обратитесь в службу поддержки сайта."
+    },
+    {
+      "id": "68b3d351bf6506c35188f950",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592339,
+      "text": "⚠️ Beyond the terminal: Gemini CLI comes to Zed- Google Developers Blog - \u003ca href=\"https://developers.googleblog.com/en/gemini-cli-is-now-integrated-into-zed/\"\u003ehttps://developers.googleblog.com/en/gemini-cli-is-now-integrated-into-zed/\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f951",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592345,
+      "text": "\u003cstrong\u003e\u003cbr/\u003e            \u003cbr/\u003e            Beyond the terminal: Gemini CLI comes to Zed\u003cbr/\u003e            \u003cbr/\u003e            \u003cbr/\u003e            - Google Developers Blog\u003cbr/\u003e            \u003cbr/\u003e        \u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eGemini CLI теперь интегрирован с Zed, предлагая разработчикам AI-возможности прямо в редакторе кода. Эта интеграция упрощает создание и редактирование кода, улучшая совместную работу с AI и открывая новые возможности.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Gemini CLI теперь доступен в Zed, что приносит AI непосредственно в редактор кода.\u003cbr/\u003e- Интеграция позволяет генерировать и рефакторить код мгновенно с использованием горячих клавиш.\u003cbr/\u003e- Разработчики могут получать мгновенные ответы на вопросы, выделяя код или сообщения об ошибках.\u003cbr/\u003e- Поддерживается совместная работа с AI в реальном времени, что позволяет следить за изменениями.\u003cbr/\u003e- Zed предлагает интерфейс для просмотра изменений, как при ревью кода.\u003cbr/\u003e- Легкая передача контекста AI с помощью внешних документов или спецификаций API.\u003cbr/\u003e- Gemini CLI является проектом с открытым исходным кодом, доступным на GitHub."
+    },
+    {
+      "id": "68b3d351bf6506c35188f952",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592436,
+      "text": "⚠️ External Agents | Zed Code Editor Documentation - \u003ca href=\"https://zed.dev/docs/ai/external-agents\"\u003ehttps://zed.dev/docs/ai/external-agents\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f953",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592441,
+      "text": "\u003cstrong\u003eExternal Agents | Zed Code Editor Documentation\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eZed поддерживает терминальные инструменты для программирования через Agent Client Protocol (ACP) с Gemini CLI как базовой реализацией. Вы можете добавлять собственных совместимых агентов и взаимодействовать с файлами в редакторе.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Zed позволяет запускать Gemini CLI в агентской панели, интегрируя функциональность с редактором.\u003cbr/\u003e- Для начала работы с Gemini CLI откройте агентную панель и создайте новый поток с помощью кнопки \u0026#34;+\u0026#34;.\u003cbr/\u003e- Zed автоматически установит Gemini CLI, если он не установлен; требуется версия не ниже 0.2.0.\u003cbr/\u003e- Для аутентификации можно использовать \u0026#34;Войти с Google\u0026#34; или \u0026#34;API ключ Gemini\u0026#34;, который будет храниться безопасно.\u003cbr/\u003e- Некоторые функции первого агента временно недоступны в Gemini CLI, в том числе редактирование прошлых сообщений.\u003cbr/\u003e- Для использования сторонних агентов необходимо изменить настройки в Zed, чтобы указать параметры вашего агента.\u003cbr/\u003e- Включите режим отладки, чтобы просматривать логи ACP и сообщения между Zed и агентом."
+    },
+    {
+      "id": "68b3d351bf6506c35188f954",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592592,
+      "text": "⚠️ External Agents | Zed Code Editor Documentation - \u003ca href=\"https://zed.dev/docs/ai/external-agents\"\u003ehttps://zed.dev/docs/ai/external-agents\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f955",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592592,
+      "text": "\u003cstrong\u003eExternal Agents | Zed Code Editor Documentation\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eZed поддерживает терминальные инструменты для программирования через Agent Client Protocol (ACP) с Gemini CLI как базовой реализацией. Вы можете добавлять собственных совместимых агентов и взаимодействовать с файлами в редакторе.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Zed позволяет запускать Gemini CLI в агентской панели, интегрируя функциональность с редактором.\u003cbr/\u003e- Для начала работы с Gemini CLI откройте агентную панель и создайте новый поток с помощью кнопки \u0026#34;+\u0026#34;.\u003cbr/\u003e- Zed автоматически установит Gemini CLI, если он не установлен; требуется версия не ниже 0.2.0.\u003cbr/\u003e- Для аутентификации можно использовать \u0026#34;Войти с Google\u0026#34; или \u0026#34;API ключ Gemini\u0026#34;, который будет храниться безопасно.\u003cbr/\u003e- Некоторые функции первого агента временно недоступны в Gemini CLI, в том числе редактирование прошлых сообщений.\u003cbr/\u003e- Для использования сторонних агентов необходимо изменить настройки в Zed, чтобы указать параметры вашего агента.\u003cbr/\u003e- Включите режим отладки, чтобы просматривать логи ACP и сообщения между Zed и агентом."
+    },
+    {
+      "id": "68b3d351bf6506c35188f956",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1756592791,
+      "text": "\u003ca href=\"https://gist.github.com/umputun/e47c3305e734ea2c06d19ad955370c5c\"\u003ehttps://gist.github.com/umputun/e47c3305e734ea2c06d19ad955370c5c\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f957",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592813,
+      "text": "⚠️ Темы слушателей 976 - \u003ca href=\"https://radio-t.com/p/2025/08/27/prep-976/\"\u003ehttps://radio-t.com/p/2025/08/27/prep-976/\u003c/a\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f958",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592819,
+      "text": "[1/5] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eDHH создал свой дистрибутив Линукса\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://world.hey.com/dhh/omarchy-2-0-16fefc15\"\u003ehttps://world.hey.com/dhh/omarchy-2-0-16fefc15\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOmarchy 2.0\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eOmarchy 2.0 выпущен в честь 34-й годовщины Linux, представляя новый дистрибутив на базе Arch и Hyprland. Он демонстрирует значительный прогресс Linux как настольной ОС, а также развивающееся сообщество фанатов.\u003cbr/\u003e\u003cbr/\u003e- Omarchy 2.0 выпущен в честь 34-й годовщины Linux.\u003cbr/\u003e- Linux сейчас работает на 95% всех серверов в сети и миллиардах устройств.\u003cbr/\u003e- Новый Linux более полирован, способен и красив по сравнению с предыдущими версиями.\u003cbr/\u003e- Omarchy – это дистрибутив, разработанный на базе Arch и Hyprland.\u003cbr/\u003e- За последние месяцы было выпущено более двадцати обновлений.\u003cbr/\u003e- Omarchy стал полноценным ISO и имеет собственный репозиторий пакетов.\u003cbr/\u003e- Пользователи могут попробовать Omarchy для нового, улучшенного опыта вычислений."
+    },
+    {
+      "id": "68b3d351bf6506c35188f959",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592820,
+      "text": "[2/5] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eKion\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/\"\u003eMIT report: 95% of generative AI pilots at companies are failing\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMIT report: 95% of generative AI pilots at companies are failing | Fortune\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eСогласно новому отчету MIT, 95% пилотных проектов по генеративному ИИ в компаниях проваливаются. Большинство инициатив не приносят заметного роста дохода, указывая на «разделение» в успешности внедрения ИИ. Главные проблемы связаны с интеграцией инструментов и ресурсами.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- 95% пилотных проектов по генеративному ИИ терпят неудачу, лишь 5% показывают быстрый рост дохода.\u003cbr/\u003e- Основная причина неудач кроется в \u0026#34;пробелах в обучении\u0026#34; и недостаточной интеграции в рабочие процессы организаций.\u003cbr/\u003e- Традиционные инструменты, как ChatGPT, работают лучше на индивидуальном уровне, чем в корпоративной среде.\u003cbr/\u003e- Аутсорсинг и автоматизация внутренних процессов приносят больше ROI, чем ограничения на бюджеты в продажах и маркетинге.\u003cbr/\u003e- Компании, закупающие ИИ-инструменты у специализированных поставщиков, имеют более высокие шансы на успех.\u003cbr/\u003e- Профессионалы по кибербезопасности занимаются новыми вызовами, связанными с обеспечением безопасности и интеграцией технологий.\u003cbr/\u003e- Падение числа чернокожих женщин в рабочей силе угрожает корпоративному развитию и инновациям."
+    },
+    {
+      "id": "68b3d351bf6506c35188f95a",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592820,
+      "text": "[3/5] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eTakeso-user\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.cybersecuritydive.com/news/hackers-steal-data-salesforce-instances/758676/?utm_source=chatgpt.com\"\u003ehttps://www.cybersecuritydive.com/news/hacker...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eХакеры, использовав скомпрометированные OAuth-токены интеграции Salesloft Drift, массово выгружали данные из инстансов Salesforce (Google говорит о \u0026gt;700 потенциально затронутых организациях), после чего Salesforce убрал Drift из AppExchange и уведомляет клиентов.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eHackers steal data from Salesforce instances in widespread campaign | Cybersecurity Dive\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003e\u003cbr/\u003eХакеры украли учетные данные клиентов Salesforce в широкомасштабной атаке, используя скомпрометированные токены OAuth. Исследователи предупреждают, что кража может привести к последующим атакам, и более 700 организаций могут быть затронуты.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Хакеры использовали автоматизированный инструмент на Python для кражи данных.\u003cbr/\u003e- Уворованные учетные данные включают ключи доступа и пароли для AWS и Snowflake.\u003cbr/\u003e- Атаки произошли с 8 по 18 августа, с воздействием на более 700 организаций.\u003cbr/\u003e- Salesforce и Salesloft работают над восстановлением безопасности и уведомлением клиентов.\u003cbr/\u003e- Пользователям, использующим Drift, рекомендуется сменить ключи API и усилить контроль доступа.\u003cbr/\u003e- Исследователи предполагают, что проблема выходит за пределы интеграции Drift с Salesforce.\u003cbr/\u003e- Очень небольшое количество учетных записей Google Workspace было скомпрометировано."
+    },
+    {
+      "id": "68b3d351bf6506c35188f95b",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592820,
+      "text": "[4/5] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eAlexander Kutsan\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://xeiaso.net/blog/anything-message-queue/\"\u003ehttps://xeiaso.net/blog/anything-message-queue/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eЧувак рассказывает как превратил s3 в tun/tap устройство и использовал его для ipv6 коммуникации\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAnything can be a message queue if you use it wrongly enough - Xe Iaso\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eСтатья представляет собой сатирическое исследование абсурдного использования облачных услуг, особенно Managed NAT Gateway, и предлагает решение с помощью Tailscale для снижения затрат на облачные сети до 700%. Публикация не предназначена для применения в продуктивных системах и подразумевает лишь развлечение.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Сатира на облачные расходы**: Автор описывает Managed NAT Gateway как непостоянный враг для стартапов.\u003cbr/\u003e- **Снижение затрат**: Применение Tailscale exit node помогает обойти высокие сетевые расходы.\u003cbr/\u003e- **S3 как malloc()**: S3 позволяет сохранять и извлекать произвольные байты, подобно динамической памяти в C.\u003cbr/\u003e- **IPv6 пакеты**: Каждый IPv6 пакет представляет собой поток байтов, которые могут существовать в S3.\u003cbr/\u003e- **Управление сетью через TUN**: Использование TUN-устройств позволяет программам контролировать сетевой трафик.\u003cbr/\u003e- **Критика реализации**: Идея о маршрутизации IPv6 через S3 воспринимается как абсурдная и ужасная.\u003cbr/\u003e- **Назначение статьи**: Публикация носит исключительно образовательный характер и призывает к осведомленному подходу."
+    },
+    {
+      "id": "68b3d351bf6506c35188f95c",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1756592820,
+      "text": "[5/5] \u003cstrong\u003e+0\u003c/strong\u003e от \u003cstrong\u003e______\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.securitylab.ru/news/562894.php\"\u003ehttps://www.securitylab.ru/news/562894.php\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eОдна из атак на LLMы – скрытые инструкции на страницах и документах которые могут заставить агентов выполнить произвольный код.\u003cbr/\u003eИ распространение этих заражённых страниц по всему интернету\u003c/em\u003e"
+    },
+    {
+      "id": "68b3d351bf6506c35188f95d",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dwsky",
+      "author_name": "Denis",
+      "datetime": 1756593126,
+      "text": "говорят скоро mx master 4 будет"
+    },
+    {
+      "id": "68b3d351bf6506c35188f95e",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756593415,
+      "text": "есть разные научные подходы: тест на выборке, умозрительные(логические). не обязательно эффективность спасения парашутом проверять прыжком без парашута"
+    },
+    {
+      "id": "68b3d351bf6506c35188f95f",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756593802,
+      "text": "всем спасибо! и отдельное спасибо гостю!"
+    },
+    {
+      "id": "68b3d351bf6506c35188f960",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1756593856,
+      "text": "бобуком называть)"
+    },
+    {
+      "id": "68b3d351bf6506c35188f961",
+      "issue": 976,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1756593913,
+      "text": "всё ещё есть же надежды, что он вернётся"
+    }
+  ]
+}
