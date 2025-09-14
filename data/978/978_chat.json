@@ -1,0 +1,3631 @@
+{
+  "chat": [
+    {
+      "id": "68c66bc1b78016a5bd45faf1",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757792838,
+      "text": "ну если человек знает, что есть единица в 1024 байта, то сложно при этом не знать, что бывает и 1000 байт, и у этой единицы есть какое-то название"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf2",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1757792884,
+      "text": "Ну предположить конечно можно, но если не знает - я никаких выводов об этом человеке не сделаю."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf3",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757793165,
+      "text": "Вот в википедии честно написано, что мегабайт может обозначать, как 10^6, так и 2^20 байт в зависимости от контекста:\u003cbr/\u003eMegabyte can either be a synonym for mebibyte, or refer to 106 bytes = 1,000,000 bytes, depending on context (see binary prefix for background). The two numbers are relatively close together, but mistaking the two has nevertheless led to problems."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf4",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757793274,
+      "text": "охохо"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf5",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757793284,
+      "text": "вот это БИТВА! :)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf6",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1757793377,
+      "text": "Предлагаю закрыть тему. В разных частях информационных технологий разная терминология. Я работаю с Linux и Kubernetes, и во всех конфигах и документации будет 1000^n. Зададите 1M будет 1000^2. Может в Windows или где-то ещё работает иначе"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf7",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1757793378,
+      "text": "то что 1024 это киби- кажется в 2000-х уже появилось. до этого все (кроме производителей HDD) знали что про информацию кило это 1024"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf8",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757793385,
+      "text": "мне кажется, я видел флеш-накопители, у которых ёмкость была указана как у жёстких дисков - в мегабайтах\u003cbr/\u003eне приходило в голову, что объем прямоугольного кристалла неизбежно должен быть степенью двойки - а ведь это очевидно\u003cbr/\u003eно, полагаю, эту разницу может скрасть запас ёмкость на избыточность и внутренние данные накопителя\u003cbr/\u003eа если ячейки многоуровневые, то вообще"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faf9",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757793497,
+      "text": "рад бы, но на той стороне всяки ксяоми."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fafa",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757793622,
+      "text": "facetime поддерживает создание ссылок, на андроиде через браузер можно подключиться к разговору"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fafb",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757793623,
+      "text": "\u003cpre\u003e❯ du -s --human-readable\u003cbr/\u003e395G    .\u003cbr/\u003e~\u003cbr/\u003e❯ du -s --si\u003cbr/\u003e424G    .\u003c/pre\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fafc",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757793650,
+      "text": "вот на эти два процента, они и живут"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fafd",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757793701,
+      "text": "о, голоса.."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fafe",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "outcoldman",
+      "author_name": "Denis Gladkikh",
+      "datetime": 1757793732,
+      "text": "А чего? Просто не используешь правильные юниты. Потому и не получаешь то что нужно и принятно \u003ca href=\"https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-memory\"\u003ehttps://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-memory\u003c/a\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45faff",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757793748,
+      "text": "Гриша выйдет?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb00",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1757793753,
+      "text": "Это не байты.  Посмотрите это G. В Мане написано, что это за единица. Тут G не равно Gb"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb01",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757793756,
+      "text": "О да, вы правы! Оказывается кибибайты ввели стандартом IEC в 1998 году, а до этого JEDEC(организация, которая придумывает стандарты ОЗУ), выпустил свой стандарт, где килобайт был 1024 байта. И в Windows использовали именно JEDEC\u0026#39;овский стандарт, почему он до сих пор так популярен."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb02",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757793855,
+      "text": "о! я сегодня законопатил окно и оно наконец-то не вибрирует от кондея."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb03",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757793865,
+      "text": "каеф"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb04",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757793877,
+      "text": "из мана du:\u003cbr/\u003e\u003cpre\u003e--si   like -h, but use powers of 1000 not 1024\u003c/pre\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb05",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757793940,
+      "text": "ты из тех людей, которые думают, что кондиционер делает воздух свежее?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb06",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1757793943,
+      "text": "Да, есть флаг который меняет это поведение. Дефолт не байты, а свои единицы. Ставить флаг, поведение меняется. Там нет GB"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb07",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757794089,
+      "text": "я из тех людей что не живёт при температуре выше 26 и влажности за 80"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb08",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757794108,
+      "text": "для проветривания у меня есть другие окна."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb09",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794112,
+      "text": "Да я тоже оттуда."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb0a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794169,
+      "text": "Display values are in units of the first available SIZE from --block-size, and the DU_BLOCK_SIZE, BLOCK_SIZE and BLOCKSIZE environment variables.  Otherwise, units  default  to  1024  bytes  (or  512  if POSIXLY_CORRECT is set).\u003cbr/\u003e\u003cbr/\u003eЕсли коротко: используем как в системе, а в любой непонятной ситуации - 1024"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb0b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757794291,
+      "text": "правильно дядька Умпутун говорит. Плохой звук микрофона это не уважение к участникам митинга."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb0c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Artur_Packhmutov",
+      "author_name": "Артур Пахмутов",
+      "datetime": 1757794390,
+      "text": "Когда?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb0d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757794390,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 13мин 10сек назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 46мин 49сек"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb0e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_lepeshko",
+      "author_name": "Vladimir Lepeshko",
+      "datetime": 1757794393,
+      "text": "возможно глупый вопрос, но есть проверенный ресурс, где можно погонять гарнитуры, чтобы проверить как тебя слышно со стороны?)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb0f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794406,
+      "text": "Чтобы хорошо было слышно на митинге, нужен не \u0026#34;замудрёный сетап\u0026#34;, а любая гарнитура с микрофоном на штанге.\u003cbr/\u003eА митинги это повседневность, независимо то того, в офисе ты или дома."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb10",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757794428,
+      "text": "да хоть встроенный в винду/макось записыватель звука"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb11",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794433,
+      "text": "В любой программе для звукозаписи можешь проверить."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb12",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1757794436,
+      "text": "Есть блоки, есть их единицы. Все они бинарные префиксы, но там нет ничего про байты/килобайты/... du не пишет n килобайт на n кибибайт"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb13",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757794486,
+      "text": "я гоняю на мититге. В Teams есть пробный звонок. Туда правда столько шумодава завели, что даже если зло орать на кого-нибудь, это будет непонятно.\u003cbr/\u003e\u003cbr/\u003eЯ если (иногда получается) захожу с наушинков, то первым делом извиняюсь перед всеми."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb14",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794487,
+      "text": "он пишет букву К\u003cbr/\u003eа ты уже сам можешь читать её как нравится: кило или киби"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb15",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_lepeshko",
+      "author_name": "Vladimir Lepeshko",
+      "datetime": 1757794565,
+      "text": "А бывают ли такие тулы, которые выдавали рейт по качеству звуки в гарнитуре?)\u003cbr/\u003eНапример, есть приемлемый рейтинг и после твоя гарнитура по рейту звучит ниже плинтуса)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb16",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1757794573,
+      "text": "Прочитайте следующий параграф, там написано что такое K"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb17",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757794646,
+      "text": "а я думал Евгений параноик"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb18",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794648,
+      "text": "это тебе в подкаст Умпутуна\u003cbr/\u003eон может научить, как при помощи сложной обработки звука, можно звучать, как высокорейтовый альфасамец"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb19",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1757794725,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgEAAx0CUPxcWQABCe_uaMXRpY89RDKaXi2pxuXJPEOccYIAAgavMRu4KDBGUx-Stm0mrIABAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 602,
+      "text": ""
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb1a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757794730,
+      "text": "это в типз"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb1b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794746,
+      "text": "да да"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb1c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_lepeshko",
+      "author_name": "Vladimir Lepeshko",
+      "datetime": 1757794756,
+      "text": "он меня отправит на этапе приветствия))"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb1d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757794780,
+      "text": "на них пластиковые крышки продаются"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb1e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757794809,
+      "text": "А мы Бобука ждём?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb1f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757794820,
+      "text": "конечно! всегда ждём!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb20",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1757794822,
+      "text": "Полковника никто не ждет)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb21",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "outcoldman",
+      "author_name": "Denis Gladkikh",
+      "datetime": 1757794854,
+      "text": "о Ксюша одна из тех 🤣"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb22",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1757794903,
+      "text": "опять без бобука, снова грустить"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb23",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757794909,
+      "text": "я уже потерял нить спора\u003cbr/\u003eизначально я утверждал, что 1024 - это единица, которая используется по умолчанию, даже тогда, когда устно говорят о килобайтах, а не кибибайтах\u003cbr/\u003eкак эти приставки сокращаются - это отдельная тема, ещё более сложная"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb24",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasily_nazarov",
+      "author_name": "Василий Назаров",
+      "datetime": 1757794974,
+      "text": "вообще то, DnD не прекращает обмен пакетами по сотовой сети"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb25",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757794975,
+      "text": "если вам встречается \u0026#34;компьютерщик\u0026#34;, он говорит \u0026#34;килобайт\u0026#34;, а имеет ввиду 1024-байта — БЕГИТЕ!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb26",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757795001,
+      "text": "в аэропорт 3 и ещё такси вызвать с 30 минутным запасом."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb27",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757795011,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb28",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757795031,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e а почему перед шоу в телеграме нет трансляции?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb29",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757795036,
+      "text": "о, Ксюше уже в школу надо, как же быстро время летит.."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb2a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757795163,
+      "text": "у дочки в 8 лет в школе уже есть урок ai"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb2b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757795219,
+      "text": "\u0026#34;мне кажется что я имела в виду\u0026#34;"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb2c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757795257,
+      "text": "Ну да.. я вот opencode гоняю и codex, и как тут отвечать"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb2d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757795422,
+      "text": "Нужно ещё добавить вариант нет (шутка). Для валидности."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb2e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757795460,
+      "text": "Aider?)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb2f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757795460,
+      "text": "warp 🙂"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb30",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rozhkoaleks",
+      "author_name": "Oleksii Rozhko",
+      "datetime": 1757795465,
+      "text": "Виндсерф"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb31",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757795472,
+      "text": "claude squad"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb32",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757795482,
+      "text": "Copilot?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb33",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757795530,
+      "text": "Allow multiple choices?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb34",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757795532,
+      "text": "А я несколько использую )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb35",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757795542,
+      "text": "В разных направлениях, помогают разные )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb36",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757795588,
+      "text": "Еще от github было что-то?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb37",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757795599,
+      "text": "GitHub Copilot"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb38",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757795646,
+      "text": "Как ответить на вопрос про эффективность, если каждая из названных моделей, строго эффективна в некоторых задачах и в некоторых строго не эффективна? )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb39",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1757795657,
+      "text": "не понятен юзкейс"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb3a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_lepeshko",
+      "author_name": "Vladimir Lepeshko",
+      "datetime": 1757795667,
+      "text": "Абстрактно)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb3b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757795678,
+      "text": "Ну наверное что ты чаще выбираешь и оно радостно решает большую часть твоих задач"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb3c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757795681,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgEAAx0CUPxcWQABCfAYaMXVYVOjwWNH5LaLCqql3KQR6zMAAgevMRu4KDBGupH2Zi7VApgBAAMCAAN4AAM2BA",
+      "image_width": 538,
+      "image_height": 428,
+      "text": "это что GitHub Copilot разрешает выбрать в агенском режиме"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb3d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757795685,
+      "text": "Я размышлял над идеей Умпутуна о том, что в будущем в гите будут храниться вместо исходных кодов программ - промпты, из которых будут детерминистически компилироваться исполняемые файлы.\u003cbr/\u003eПришёл к выводу, что малые изменения промпта могут сильно влиять на всю программу, и поэтому нужно будет либо всё обкладывать тестами в три слоя, либо ориентироваться в промежуточном представлении, которое, скорее всего будет представлять собой код на обычных языках программирования. И поэтому программисты всё равно будут нужны."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb3e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757795703,
+      "text": "там больше есть вариантов"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb3f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757795715,
+      "text": "Это какой-то, странный подход )\u003cbr/\u003eКак будто со временем ты понимаешь, что стоит и чего не стоит делать с тем или иным инструментом )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb40",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757795734,
+      "text": "На эту тему создатели котлина язык программирования пилят"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb41",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "es_nikita",
+      "author_name": "Nikita",
+      "datetime": 1757795750,
+      "text": "GPT-5, Grok, Gemini 2.5 Pro тоже позволяет, но надо включить тут: \u003ca href=\"https://github.com/settings/copilot/features\"\u003ehttps://github.com/settings/copilot/features\u003c/a\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb42",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "korablevss",
+      "author_name": "Sergey Korablev",
+      "datetime": 1757795767,
+      "text": "Почему deepseek не участвует? )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb43",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1757795773,
+      "text": "Это больше, что ты именно используешь для программирования/другой работы часто"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb44",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757795787,
+      "text": "Не знаю, какая модель лучшая, но то, что самая смешная - ChatGPT - это точно. Он у меня придумывает на ходу несуществующие функции библиотека и параметры в конфигурационных файлах. Такое было не раз и не два."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb45",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757795789,
+      "text": "я из Идеи взял. А VS Code больше"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb46",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757795806,
+      "text": "У меня Gimini любит ломать файлы )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb47",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1757795853,
+      "text": "Есть ещё агентский Amazon Q для AWS и kubectl-ai для Kubernetes"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb48",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vilinski",
+      "author_name": "Ανδριούχα και Κουκούχα",
+      "datetime": 1757795900,
+      "text": "о, а Grok кто-то уже пробовал?\u003cbr/\u003e\u003cbr/\u003eи кстати что именно означают эти 0.33x, 1x ?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb49",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757795901,
+      "text": "Может этот американец из бедной семьи? У меня гипотеза, что это черта бедных слоёв населения, а не национальная."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb4a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757795935,
+      "text": "Просто Умпутун задавил чувака басом"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb4b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757795960,
+      "text": "да, грок вполне себе неплох, но хуже клода и гпт5. 1x это мультипликатор тугриков, которые снимаются за каждый запрос. за 10 долларов даётся 300 тугриков в месяц. вот ты и выбираешь, какую модель использовать по \u0026#34;цене\u0026#34;"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb4c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757795966,
+      "text": "это ж не в декстере, не?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb4d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757795989,
+      "text": "подготовился к разговору. навалил НЧ, как будто говорит качок 200 кг, прямо во время разговора отживая штангу от груди"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb4e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796004,
+      "text": "а, точно в декстере"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb4f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757796037,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e , вы перестали думать самою главную мысль?\u003cbr/\u003e\u003cbr/\u003eвыжить"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb50",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796039,
+      "text": "а, точно, в декстере"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb51",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796099,
+      "text": "Маркетологи никому ничего не должны"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb52",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796110,
+      "text": "как и дизайнеры"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb53",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757796113,
+      "text": "Ничего и никому маркетологи не должны )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb54",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757796124,
+      "text": "он знает, что программисты любят смотреть ролики про работу с деревом, а не про алгоритмы"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb55",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757796157,
+      "text": "я в лондоне в метро такого видел - был кулинарный блогер. номер тема. наберет пару сотен :)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb56",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796169,
+      "text": "я люблю про постройку плавательных электроаппаратов"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb57",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Channel_Bot",
+      "author_name": "Channel",
+      "datetime": 1757796189,
+      "text": "Мы как, выпиваем каждый раз когда:\u003cbr/\u003e- \u0026#34;на самом деле\u0026#34;\u003cbr/\u003e- \u0026#34;значиць\u0026#34;\u003cbr/\u003e- \u0026#34;воооот\u0026#34;\u003cbr/\u003e\u003cbr/\u003e?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb58",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1757796235,
+      "text": "Ксюша просто девочка, мальчикам проще залипнуть на всякую фигню типа как челы вырезают из большого бревна тотемы"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb59",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757796270,
+      "text": "а девочки определённо точно не зависают на всякую фигню, не"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb5a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757796287,
+      "text": "О, пойду на 3д печать кину тотем. Можно залипать, как оно печатается. При этом руки свободны )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb5b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757796308,
+      "text": "Точно нет, ты что )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb5c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796343,
+      "text": "весь мир ходит в кроссовках"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb5d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757796371,
+      "text": "Мы как, выпиваем, когда:\u003cbr/\u003e- \u0026#34;на самом деле\u0026#34;\u003cbr/\u003e- \u0026#34;значиць\u0026#34;\u003cbr/\u003e- \u0026#34;вооооот\u0026#34;\u003cbr/\u003e\u003cbr/\u003e?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb5e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757796384,
+      "text": "у девочек более однообразные темы. реже, чем у мальчиков, отклоняются от стандартных шмоток-диеты-котиков"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb5f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796420,
+      "text": "этабан"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb60",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796496,
+      "text": "угу, как все с гравийниками думали"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb61",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757796506,
+      "text": "Вот если бы на перекрёстке стоял белый мужчина средних лет, немного с лишним весом, с плакатом \u0026#34;Подпишись на мой канал, чтобы узнать, как я питаюсь, одеваюсь и слежу за своим весом.\u0026#34; это был бы офигенный постмодернистский перформанс."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb62",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ilimat",
+      "author_name": "Ilya Matveev",
+      "datetime": 1757796509,
+      "text": "но 10 лет..."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb63",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1757796557,
+      "text": "Ну Умпутун нет :)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb64",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1757796560,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgEAAx0CUPxcWQABCfBCaMXY0HRMjXm4kQeZ6kLYQ3J8538AAgqvMRu4KDBGTF0LGwrQUg8BAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 909,
+      "text": ""
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb65",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ilimat",
+      "author_name": "Ilya Matveev",
+      "datetime": 1757796601,
+      "text": "1 раз в месяц на работу..."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb66",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796663,
+      "text": "Та он как обычно - потом окажется что всётаки ходит"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb67",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757796671,
+      "text": "⚠️ Everything Apple announced at its big event: iPhone Air, iPhone 17, new Apple Watches and more | CNN Business - \u003ca href=\"https://www.cnn.com/2025/09/09/tech/new-apple-devices-announcement-event\"\u003ehttps://www.cnn.com/2025/09/09/tech/new-apple-devices-announcement-event\u003c/a\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb68",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757796676,
+      "text": "\u003cstrong\u003eEverything Apple announced at its big event: iPhone Air, iPhone 17, new Apple Watches and more | CNN Business\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Обзор\u003cbr/\u003eApple анонсировала линейку новых устройств, включая iPhone Air и iPhone 17, обновления Apple Watch и AirPods Pro, в рамках своего ежегодного мероприятия. Новые модели привлекают внимание благодаря улучшениям и инновационному дизайну.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- Aнонсированы четыре модели iPhone: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, и iPhone Air.\u003cbr/\u003e- iPhone Air - самый тонкий модель, оснащённая одной задней и одной фронтальной камерой, с длительным временем работы от батареи.\u003cbr/\u003e- Обновления Apple Watch включают модель Series 11 с мониторингом кровяного давления и расширенными функциями здоровья.\u003cbr/\u003e- AirPods Pro 3 могут отслеживать сердечный ритм и предлагают улучшенный звуковой опыт.\u003cbr/\u003e- Apple сохранит цены на большинство устройств, несмотря на тарифы на импорт.\u003cbr/\u003e- Новая линейка iPhone привлечёт внимание пользователей благодаря различным опциям и современному дизайну.\u003cbr/\u003e- Все устройства будут доступны с 19 сентября 2023 года."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb69",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757796742,
+      "text": "зато в айфонах одно и то же мусолили по кругу"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb6a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757796791,
+      "text": "😂"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb6b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757796803,
+      "text": "перестаньте про пипки!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb6c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757796811,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e инопланетяне эирподсы в стиралку не прячут?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb6d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vlkuzn",
+      "author_name": "Vladimir Kuznetsov",
+      "datetime": 1757796870,
+      "text": "да все равно вываливаются. даже если не срау, то через 20 минут ходьбы. я долго мучался пока на макс не перешел."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb6e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757796872,
+      "text": "престранно, что Ксюше нравится, как пипка втыкается, но только если она нормальная, а не как детская. а вот Лёше никакие пипки не нравятся."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb6f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "danikine",
+      "author_name": "Daniil",
+      "datetime": 1757796875,
+      "text": "Happy 0x100th day!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb70",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757796920,
+      "text": "можно подобрать правильные амбюшуры, и тогда они никогда не будут вываливаться"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb71",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1757796931,
+      "text": "Две пары иметь удобно. Прошки для шумодава, обычные для всех остальных случаев"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb72",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1757796949,
+      "text": "А когда едешь на велике быстро, включаешь шумоподавления и они начинают усиливать шум ветра в уши."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb73",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1757797001,
+      "text": "Live translations в Европе не будет работать из-за gdpr"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb74",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vlkuzn",
+      "author_name": "Vladimir Kuznetsov",
+      "datetime": 1757797055,
+      "text": "я все три комплекта пробовал по нескольку дней. даже если в начале прогулки они очень плотно сидят и удобно, то чуть позднее приходится постоянно их дергать рукой, чтобы не выпали."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb75",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757797093,
+      "text": "у меня они выпадают только в единственном случае: когда жутко пропотелся. и тогда помогает вытащить их и протереть досуха"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb76",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757797109,
+      "text": "крутецкая фича - да, но она нужна скорее для экзотических языков, а не для комодити, которую и так многие могут выучить."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb77",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1757797113,
+      "text": "live translation не будет работать в евросоюзе"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb78",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vlkuzn",
+      "author_name": "Vladimir Kuznetsov",
+      "datetime": 1757797118,
+      "text": "ну да, а вы не потеете?))"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb79",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757797118,
+      "text": "интересно, что ж они тогда по факту сливают, раз gdpr - преграда для использования?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb7a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757797120,
+      "text": "вот иврит например - они хрен знает ещё когда добавят"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb7b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757797150,
+      "text": "когда жутко пропотелся, типа в спортзале"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb7c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1757797182,
+      "text": "дык язык простой как дверь, за два месяца учится, нефиг лениться 😉"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb7d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757797192,
+      "text": "так его в тексте даже нет"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb7e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757797204,
+      "text": "наверное там что-нибудь с согласием собеседника за запись и обработку"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb7f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757797295,
+      "text": "Но GDPR про обработку персональных данных. Персональные данные - те, по которым можно сопоставить человека с данными. Голос, на сколько я помню, не персональные данные. (могу ошибаться, правда)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb80",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757797332,
+      "text": "надо переслушать выпуски подкаста, где рассказывается об изучении языка\u003cbr/\u003eмои успехи в иврите очень скромные, а учу дольше"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb81",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757797373,
+      "text": "говоришь как ватик! :)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb82",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1757797460,
+      "text": "Таким ботинком да пинка под зад инженерам за квалитет никудышний мотициклов"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb83",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757797541,
+      "text": "Кажется что Гармины всё-таки сильно лучше эпловских. Живёт от батареи - больше недели, выглядят классно, данных - дофига"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb84",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757797586,
+      "text": "гармин топчик, но консистентность их ux это конечно ад.."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb85",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757797589,
+      "text": "Кстати, по моим наблюдениям Garmin лучшие часы. А Аплл сказали в их презентации что Апл воч самые лучшие. 😀️️️️"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb86",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1757797616,
+      "text": "Голос это биометрические данные. Они еще жестче регулируются по gdpr"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb87",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1757797644,
+      "text": "ф"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb88",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757797662,
+      "text": "Как там - \u0026#34;вам шашечки или ехать?\u0026#34;"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb89",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757797667,
+      "text": "А в каком подкасте был прамаджен?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb8a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757797739,
+      "text": "в том то и дело что ехать, но я несколько месяцев привыкал к тому как нормально тренировку завершать, потому что кнопки то \u0026#34;принять\u0026#34; то \u0026#34;отклонить\u0026#34; местами от контекста меню меняются"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb8b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757797779,
+      "text": "я подумаю об Апл вотч когда заряда будет хотя бы на неделю хватать.\u003cbr/\u003e\u003cbr/\u003eЯ не понял в их презентации, как люде уходят в е...ня на мороз и потом их спасают. 18 часов заряда.\u003cbr/\u003e\u003cbr/\u003eЯ на бэкпакинг при минусе в горы ходил на 5 дней. У нас в группе всё разрядилось, кроме гарминовских устройств уже на третий день."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb8c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1757797789,
+      "text": "Да дурацкие часы \u003cbr/\u003eСделали бы хоть круглыми"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb8d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757797791,
+      "text": "⚠️ Introducing iPhone Air, a powerful new iPhone with a breakthrough design - \u003ca href=\"https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/\"\u003ehttps://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/\u003c/a\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb8e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757797794,
+      "text": "\u003cstrong\u003eIntroducing iPhone Air, a powerful new iPhone with a breakthrough design - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eПредставляем iPhone Air с революционным дизайном и функцией eSIM, обеспечивающей удобное и безопасное подключение, а также iOS 26 с новыми интеллектуальными возможностями для улучшения пользовательского опыта.\u003cbr/\u003e\u003cbr/\u003e- Новый iPhone Air имеет дизайн исключительно с eSIM, что снижает вес и толщину устройства.\u003cbr/\u003e- 4 eSIM предоставляет гибкость и улучшенную безопасность по сравнению с традиционными SIM-картами.\u003cbr/\u003e- eSIM поддерживается более 500 операторами, включая AT\u0026amp;T и Verizon.\u003cbr/\u003e- Упрощенные международные тарифы обеспечивают удобную связь во время путешествий.\u003cbr/\u003e- iOS 26 предлагает новый дизайн с Liquid Glass и интеллектуальными возможностями Apple.\u003cbr/\u003e- Функция Live Translation помогает пользователям легко общаться на разных языках.\u003cbr/\u003e- Новый функционал для CarPlay, Apple Music, и разработки Apple Games объединяет все игры в одном приложении."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb8f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757797808,
+      "text": "меня во всех таких часах смущает время работы"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb90",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757797816,
+      "text": "Мне дизайн нравится, но зарядка в пару дней это какое-то дно"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb91",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1757797817,
+      "text": "\u003cem\u003eкак может работать контроль сна в часах которые ночью на зарядке?\u003c/em\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb92",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1757797859,
+      "text": "Должно хватать на 24 часа вроде"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb93",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757797862,
+      "text": "очевидно, не заряжать их ночью. я вот заряжаю их сразу после сна, как раз хватает перед выходом на работу"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb94",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757797869,
+      "text": "хм, \u0026#34;у меня такая же нога и не болит\u0026#34; :) \u003cbr/\u003eКак-то всегда понятно как завершить тренировку. \u003cbr/\u003eНо я согласен, что они не идеальны."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb95",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757797902,
+      "text": "instinct?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb96",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757797914,
+      "text": "или перед сном. но в общем суть в том что они не могут нормально долго снимать показатели."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb97",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757797920,
+      "text": "Не, у меня descent mk3i"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb98",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757797941,
+      "text": "подозреваю что поэтому и не болит 😅"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb99",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757797994,
+      "text": "Может быть. Они ж дорогие, но несут в себе ещё дайв-компьютер, а мне надо :)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb9a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757798028,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgIAAx0CUPxcWQABCfB5aMXejCs_L1sn0JMhP1SrDzkt3e4AAh_9MRuGsTFKGDi3UPpSIW8BAAMCAAN4AAM2BA",
+      "image_width": 667,
+      "image_height": 800,
+      "text": ""
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb9b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1757798044,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgIAAx0CUPxcWQABCfB6aMXenO-fWSTtOZfNpT3CXLp7D0UAAiD9MRuGsTFKD9Ob_jzyY7IBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 437,
+      "text": ""
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb9c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757798056,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgIAAx0CUPxcWQABCfB7aMXeqJWITEMTXKSc7PUfVfuOJjYAAiH9MRuGsTFK5tolntLd0qABAAMCAAN5AAM2BA",
+      "image_width": 1057,
+      "image_height": 1280,
+      "text": "вот рендеры"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb9d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757798084,
+      "text": "я 16ую прошку ношу в кармане камерами наружу)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb9e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757798098,
+      "text": "фишка в том, что они в эту верхушку пихнули все мозги, а остальная часть телефона это просто экран и батарея"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fb9f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757798100,
+      "text": "🤏"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba0",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757798172,
+      "text": "SE вполне был покупабельный, просто перестали его делать"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba1",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757798176,
+      "text": "в интернете считают, что air это такой технологический эксперимент для обкатки технологий, которые будут в сгибаемом айфоне"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba2",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757798178,
+      "text": "А чо у кого-то вообще был запрос на air? Ну тип, зочем"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba3",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757798207,
+      "text": "И придётся покупать чехол, который снивелирует эту разницу. В чехол можно вмонтировать холдер карточек, и по ширине всё равно будет толсто"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba4",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757798249,
+      "text": "зачем холдер если сам телефон за все карточки?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba5",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757798251,
+      "text": "Ну, иногда удобно иметь отдельные карточки, особенно если нужно быстро достать, а не открывать чехол. И бывает, что смартфон не всегда подходит для всех нужд."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba6",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "PartisanBLR",
+      "author_name": "Sergey P.",
+      "datetime": 1757798261,
+      "text": "вот будут у тебя дети..."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba7",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757798299,
+      "text": "для этого обязательно нужно air?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba8",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757798325,
+      "text": "Да, но нет. Есть несколько карточек, которые в электронном виде не работают. Но и нужны они не всегда, конечно."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fba9",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757798337,
+      "text": "У меня Ghostty ведёт себе странно после переключения zsh в привилегированный режим. пре использовании стрелок вверх/вниз (скролл через истории комманд) добавляет их в строку.\u003cbr/\u003e\u003cbr/\u003eКто-нибудь сталкивался?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbaa",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1757798338,
+      "text": "В 17 обычное стекло"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbab",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757798392,
+      "text": "они ускорили зарядку, и проводную, и беспроводную"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbac",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1757798392,
+      "text": "да"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbad",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757798435,
+      "text": "видимо, потому что USB-C принесли. Лайтнинг не давал же быстрой зарядки ЕМНИП"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbae",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757798471,
+      "text": "На самом деле!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbaf",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757798477,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgEAAx0CUPxcWQABCfCPaMXgTZ2G4D7F29PFWXkaKaTL2T0AAhyvMRu4KDBGi__DZx2N4fABAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 427,
+      "text": "нет"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb0",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757798493,
+      "text": "визуально 17 конечно прям такое себе"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb1",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_lepeshko",
+      "author_name": "Vladimir Lepeshko",
+      "datetime": 1757798497,
+      "text": "Конечно обновляться\u003cbr/\u003eЧтобы потом в подкасте всем рассказать)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb2",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1757798521,
+      "text": "Разница между камерами про и не про заметна поидее в сценариях когда используется лидар"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb3",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1757798527,
+      "text": "Вроде в 17 меньше RAM: в 17 - 8GB, а в Pro - 12GB"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb4",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757798550,
+      "text": "а кто реально пользуется лидаром?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb5",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757798575,
+      "text": "там камеры пользуются этим в бэкграунде, чтобы правильно фокус выставлять"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb6",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1757798591,
+      "text": "Телефон сам решает\u003cbr/\u003eОно пассивно используется для фоток"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb7",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1757798670,
+      "text": "Про теперь только для фотографов и нужен )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb8",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1757798675,
+      "text": "Сзади нет получается"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbb9",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757798680,
+      "text": "Umputun, брось борьбу консюмеризму! Если нет страданий, всё работает ожидаемо, батареи хватает на день, нет какого-то дискомфорта - я бы не менял."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbba",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1757798738,
+      "text": "Ещё раньше в про был USB 3, а в обычном USB 2"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbbb",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757798783,
+      "text": "так и осталось, и более того, в air тоже usb 2"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbbc",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757798784,
+      "text": "так и осталось. Кстати, в Айр тоже УСБ 2"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbbd",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757798818,
+      "text": "так уже пару лет как"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbbe",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757798857,
+      "text": "ну вот технология доехала полностью, видимо. Нельзя же было сразу и USB-C и быструю зарядку"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbbf",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757798859,
+      "text": "кнопка громкости тоже хардварная, держу в курсе"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc0",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1757798877,
+      "text": "губки бантиком вроде только до 5 поддерживал"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc1",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757798963,
+      "text": "если бы недавно не взял 16 про - с удовольствием бы сейчас ограничился 17ым обычным"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc2",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757799081,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e , в прошлом году $30 возвращали при активации."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc3",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1757799100,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgEAAx0CUPxcWQABCfCjaMXivK5ElORDDwAB7FlE9TbX_KRlAAIdrzEbuCgwRvegzXCOrnLVAQADAgADeQADNgQ",
+      "image_width": 1280,
+      "image_height": 444,
+      "text": ""
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc4",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757799122,
+      "text": "во времена 3г в россию везли залоченные и ломали, тю"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc5",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757799133,
+      "text": "вот уроды!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc6",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757799134,
+      "text": "там же все написано"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc7",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757799144,
+      "text": "то не наценка, то скидка"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc8",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757799147,
+      "text": "это они цену так подняли на 30 баксов"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbc9",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1757799177,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e ты сам когда старый телефон покупал в этом или в другом подкасте рассказывал что анлокнутый дороже"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbca",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1757799201,
+      "text": "и это вообще офигенно что они антенны туда вынесли. теперь лапами очень сложно их \u0026#34;закрыть\u0026#34;"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbcb",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1757799211,
+      "text": "не удивлюсь, если эта \u0026#34;скидка\u0026#34; временная"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbcc",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bohdan_the_one",
+      "author_name": "Bohdan Radionov",
+      "datetime": 1757799397,
+      "text": "Протирай амбушюры матирующими салфетками для лица, покупаются в любом магазине косметики, типа рисовые салфеточки. Они мгновенно убирают любой налет остаточного жира и резинка опять цепляется за кожу. Лайф-хак"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbcd",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1757799419,
+      "text": "В чехле ощущения не те :)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbce",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757799436,
+      "text": "моё чувство прекрасного ранит чувство прекрасного Ампатана"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbcf",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757799532,
+      "text": "⚠️ Disposable Code Is Here to Stay, but Durable Code Is What Runs the World - \u003ca href=\"https://www.honeycomb.io/blog/disposable-code-is-here-to-stay\"\u003ehttps://www.honeycomb.io/blog/disposable-code-is-here-to-stay\u003c/a\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd0",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757799537,
+      "text": "\u003cstrong\u003eDisposable Code Is Here to Stay, but Durable Code Is What Runs the World\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eКод для одноразового использования и долговечный код будут сосуществовать в разработке программного обеспечения. Одноразовый код дешев и быстр, тогда как долговечный код необходим для высоких ставок и надежности. Эти два типа кода требуют разных навыков и инструментов.\u003cbr/\u003e\u003cbr/\u003e### Основные пункты\u003cbr/\u003e- **Разделение кодов**: Разработка программного обеспечения делится на одноразовый и долговечный код, каждый с уникальными требованиями и навыками.\u003cbr/\u003e- **Одноразовый код**: Используется для экспериментов и прототипов, легко генерируется и не требует поддержки.\u003cbr/\u003e- **Долговечный код**: Критически важен для высоких ставок и сложных систем с необходимостью проверки и стабильности.\u003cbr/\u003e- **Зависимость от затрат**: Долговечный код связан с высокими затратами на поддержку и сложностью проработки, в то время как одноразовый код является быстрым и дешевым.\u003cbr/\u003e- **Надежность и доверие**: Долговечный код требует времени и испытаний, чтобы завоевать доверие, в отличие от одноразового кода.\u003cbr/\u003e- **Роль ИИ**: Искусственный интеллект сможет помочь как в генерации кода, так и в анализе и понимании существующего кода.\u003cbr/\u003e- **Сохранение стандартов**: Важно поддерживать высокие стандарты разработки, чтобы не ухудшить качество долговечных программных решений."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd1",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757799967,
+      "text": "о, это как конкретную задачу на перфокартах решали"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd2",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757800159,
+      "text": "Только сейчас стало интересно. В смартфон, залоченный на оператора нельзя загрузить esim для путешествий с data-only планом?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd3",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ar7work",
+      "author_name": "vlad r",
+      "datetime": 1757800702,
+      "text": "Нет\u003cbr/\u003e\u003cbr/\u003eНо если покупать у эппла операторский телефон напрямую (не важно с файненсом или без), то залоченные только AT\u0026amp;T. Verizon и T Mobile будут разлоченные."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd4",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ar7work",
+      "author_name": "vlad r",
+      "datetime": 1757800865,
+      "text": "Я купил себе потому что мне не то что бы нужны камеры (есть отдельная камера) и просто хотелось что то новое и тонкое что бы сказать «ух ты» после распаковки."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd5",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757801277,
+      "text": "только унца!!!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd6",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "oleksan_t",
+      "author_name": "Oleksandr T.",
+      "datetime": 1757801289,
+      "text": "поломали"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd7",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801317,
+      "text": "AI надоело слушать про то, что он чего-то не может"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd8",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "genachet",
+      "author_name": "Gennady Chetverikov",
+      "datetime": 1757801318,
+      "text": "Все пропало (кроме унцы)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbd9",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kosmaczewski",
+      "author_name": "IK",
+      "datetime": 1757801336,
+      "text": "\u0026#34;не может\u0026#34;"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbda",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Snaker_me",
+      "author_name": "Snaker",
+      "datetime": 1757801360,
+      "text": "Оно само не может!.. (с)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbdb",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757801385,
+      "text": "что будет если все вдруг начнут вайбкодить.. *подкаст резко падает"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbdc",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801412,
+      "text": "ну и как, ожидания оправдались?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbdd",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1757801443,
+      "text": "вы очень сильно пропадаете"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbde",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801447,
+      "text": "Ксюша, закрывай тему про ИИ"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbdf",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ar7work",
+      "author_name": "vlad r",
+      "datetime": 1757801470,
+      "text": "Это предзаказ, сами телефоны можно забрать в пятницу:)\u003cbr/\u003e\u003cbr/\u003eМы девушке ещё взяли про макс, если не понравится больше, то поменяю эйр"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe0",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757801486,
+      "text": "пошло"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe1",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1757801504,
+      "text": "пока ai не было, эфиры не падали"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe2",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kosmaczewski",
+      "author_name": "IK",
+      "datetime": 1757801515,
+      "text": "ничего пошлого"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe3",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "genachet",
+      "author_name": "Gennady Chetverikov",
+      "datetime": 1757801524,
+      "text": "Это тоже была почти цитата:\u003cbr/\u003eШеф! Всё пропало! Всё пропало! Гипс снимают, клиент уезжает!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe4",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801540,
+      "text": "УНЦУ НЕ СЛЫШНО!!!!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe5",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "oleksan_t",
+      "author_name": "Oleksandr T.",
+      "datetime": 1757801573,
+      "text": "заработало и унца и голос"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe6",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yamikhailche",
+      "author_name": "Mike Chernoskutov",
+      "datetime": 1757801581,
+      "text": "Иронично, конечно, что как только заговорили \u0026#34;кто ответственный, если оно упадет\u0026#34; - оно упало. А отвечать будет umputun"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe7",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Konstantin",
+      "datetime": 1757801632,
+      "text": "Доброго времени суток весенние у всех восстановилось?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe8",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801657,
+      "text": "Спасибо, а то я уже хотел отложить гвоздь в сторону!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbe9",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801721,
+      "text": "у меня есть такая же проблема с блютус колонкой. она так устроена, что когда она включается, то автоматически подключается к моему смартфону. а я в этом время в другой комнате и не подозреваю, что это произошло"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbea",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801740,
+      "text": "а она иногда может случайно выключиться и включиться"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbeb",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1757801796,
+      "image_url": "https://chat.radio-t.com/logs/978/AgACAgIAAx0CUPxcWQABCfDOaMXtREtner7KymLClUFKgpyyxUYAAk39MRuGsTFK5kCW6CCGc5QBAAMCAAN4AAM2BA",
+      "image_width": 500,
+      "image_height": 704,
+      "text": ""
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbec",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757801807,
+      "text": "⚠️ Microsoft is officially sending employees back to the office. Read the memo. - \u003ca href=\"https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9\"\u003ehttps://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9\u003c/a\u003e"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbed",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757801813,
+      "text": "\u003cstrong\u003eMicrosoft Is Officially Sending Employees Back to the Office: Memo - Business Insider\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eMicrosoft will mandate employees to return to the office for at least three days a week, starting in February 2026 for those near its headquarters. The move follows a trend among tech companies to enforce stricter office attendance after previously flexible remote work policies.\u003cbr/\u003e\u003cbr/\u003e- Microsoft plans a phased return to office work beginning in February 2026.\u003cbr/\u003e- Employees near Puget Sound will be the first to comply, followed by others in the US and internationally.\u003cbr/\u003e- Workers can request exceptions to the new mandate until September 19.\u003cbr/\u003e- The company\u0026#39;s shift mirrors stricter policies at Meta and Google.\u003cbr/\u003e- Microsoft aims to enhance collaboration and performance with more in-person work.\u003cbr/\u003e- Workplace safety and security measures will be improved alongside the new policy.\u003cbr/\u003e- Communication about the changes will come from leadership, with tailored approaches for different teams.\u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003cbr/\u003eMicrosoft планирует обязательное возвращение сотрудников в офис не менее чем на три дня в неделю, начиная с февраля 2026 года для тех, кто находится рядом с его штаб-квартирой. Этот шаг следует за тенденцией среди технологических компаний ужесточать требования к посещению офисов после ранее гибких политик удаленной работы.\u003cbr/\u003e\u003cbr/\u003e- Microsoft планирует поэтапное возвращение к офисной работе, начиная с февраля 2026 года.\u003cbr/\u003e- Сотрудники, находящиеся рядом с Puget Sound, первыми будут обязаны соблюдать новое правило, за ними последуют другие в США и за границей.\u003cbr/\u003e- Работники могут запрашивать исключения к новому требованию до 19 сентября.\u003cbr/\u003e- Переход компании отражает более строгие правила в Meta и Google.\u003cbr/\u003e- Microsoft стремится улучшить сотрудничество и производительность с помощью большего количества совместной работы.\u003cbr/\u003e- Меры безопасности на рабочем месте будут улучшены вместе с новой политикой.\u003cbr/\u003e- Команда руководства сообщит о изменениях, адаптируя подходы для разных команд."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbee",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757801957,
+      "text": "Мы знаем, чем пахнут непопулярные указы, которые имеют отложенное время начала действия. В феврале 2026 года мы услышим, что оно переносится, или распространяется только на тех, кто сам хочет прийти в офис."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbef",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757802058,
+      "text": "Если бы я владел офисной недвижимостью, я бы проплачивал статейки про то, что продуктивность сотрудников в офисе повышается. Для них нынешнаяя ситуация - это ад."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf0",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1757802151,
+      "text": "эт смотря как оценивают филонство. по деланию вида или по объективным результатам"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf1",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Konstantin",
+      "datetime": 1757802173,
+      "text": "Ответьте пожалуйста восстановилась ли вещание подкаста?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf2",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757802199,
+      "text": "Сейчас офисы изменились. Офис нашей компании больше напоминает коворкинг. В команде люди из нескольких стран. Это совсем не похоже на то, как работали раньше: когда приходишь в офис к определенному времени, начинаешь день с тем, что здороваешься со всей командой, потом митинг в переговорке. Так больше уже не будет."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf3",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1757802203,
+      "text": "да"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf4",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802213,
+      "text": "замените партнеров на взрослых людей"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf5",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757802219,
+      "text": "Видел я видео где одна девушка таки нашла себе 1000 партнеров"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf6",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Konstantin",
+      "datetime": 1757802231,
+      "text": "Странно по ссылке на сайте не могу получить поток"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf7",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802260,
+      "text": "так программисты быстро копируют свои скидки с ценой примерно 0"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf8",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802280,
+      "text": "программисты делают новую скрипку с новыми возможностями а не копирование"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbf9",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802300,
+      "text": "у бобука был крутой пример что научные работы пишутся не в офисе а людьми в разных универах"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbfa",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1757802322,
+      "text": "\u003ca href=\"https://n11.radio-t.com/online\"\u003ehttps://n11.radio-t.com/online\u003c/a\u003e\u003cbr/\u003eэта ?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbfb",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802322,
+      "text": "программирование это не масштабируемое - не тайота. а научный отдел тайоты"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbfc",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757802335,
+      "text": "Вспоминается как в твиттере раньше было сколько..5к разработчиков..в офисе🙂"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbfd",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yamikhailche",
+      "author_name": "Mike Chernoskutov",
+      "datetime": 1757802337,
+      "text": "Просто \u0026#34;быть в офисе 3 дня в неделю\u0026#34; - это глупо, если тебе для работы это не нужно. А вот договориться командой, что вам неплохо было бы в определенные дни физически встречаться, чтобы шарить знания или просто кросс-опыляться между командами - это норм."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbfe",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Konstantin",
+      "datetime": 1757802370,
+      "text": "Да"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fbff",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802382,
+      "text": "умение работать дома это умение. работа круто делает переключение контекста для тех кто не может дома"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc00",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yamikhailche",
+      "author_name": "Mike Chernoskutov",
+      "datetime": 1757802396,
+      "text": "Банальное посидеть на обеде и поговорить за жизнь/за работу иногда приводит к решению некоторых вопросов быстрее,чем 5 онлайн митингов"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc01",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757802398,
+      "text": "Грэй, как ты будешь проводить планёрку в офисе, когда в большинстве ИТ компаний сейчас географически распределенные команды?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc02",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Konstantin",
+      "datetime": 1757802404,
+      "text": "Да записываю эфир"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc03",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757802427,
+      "text": "есть кабинет? зачем на кухне?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc04",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757802491,
+      "text": "что из дома, что из офиса, подключаемя к одному и тому же VPN gateway"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc05",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yamikhailche",
+      "author_name": "Mike Chernoskutov",
+      "datetime": 1757802518,
+      "text": "Ну и работодателя можно понять: когда люди то удаленно, то гибридно, то офисно - тяжело не растратить ресурс аренды офисного помещения, например"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc06",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757802530,
+      "text": "Потому что принцип Питера"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc07",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802568,
+      "text": "меньше митингов меньше общих проектов - одни плюсы"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc08",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757802572,
+      "text": "Больше коллабораций != выше эффективность"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc09",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757802618,
+      "text": "следить за работниками легче в офисе. и это простое решение для менеджера и его право принимать простые решения"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc0a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zakerik",
+      "author_name": "Zakerik",
+      "datetime": 1757802644,
+      "text": "Нужно ждать пока наберется большинство зумеров в компаниях как в Непале и тогда будет норм"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc0b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757802654,
+      "text": "офис минусы:\u003cbr/\u003e- шум\u003cbr/\u003e- некотнролирумое освещение\u003cbr/\u003e- неконтролируемое охлаждение\u003cbr/\u003e- пыль\u003cbr/\u003e- медленная сеть\u003cbr/\u003e- отвратный кофе\u003cbr/\u003e- отвартный чай\u003cbr/\u003e\u003cbr/\u003eофис плюсы\u003cbr/\u003e- возможность поговорить\u003cbr/\u003e- за воду платить не нужно\u003cbr/\u003e- наличие писуаров\u003cbr/\u003e- возможность обратиться к колеги не отвлекая его от работы, просто видя его\u003cbr/\u003e- бесплатная еда"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc0c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757802695,
+      "text": "Зачем за ними следить 🙂 это фетиш какой-то?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc0d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yamikhailche",
+      "author_name": "Mike Chernoskutov",
+      "datetime": 1757802775,
+      "text": "Я вот из минусов соглашусь только с шумом (от коллег, которые яро после встречи чего-то обсуждают в опенспейсе), а остальное зависит от конкретного офиса. У нас и сеть быстрая и чаи разные и вкусные)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc0e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757802908,
+      "text": "в офисе система вентиляции так шумит, что когда выключается, думаешь что оглох."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc0f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757803009,
+      "text": "Вы обсуждаете не то. Главное явление - это то, что работа в офисе, которую мы знаем, закончилась, и мы больше никогда не вернёмся в прошлое.\u003cbr/\u003eЛично я считаю, что в будущем работа в офисе наоборот будет привелегией, а не обязанностью. Это будет означать, что ты входишь в круг ценных людей, с которыми лично общаются executive люди и топ инженеры. Поэтому сейчас очень странное время, когда все уже сидят дома, но походы в офис поощряют для всех, а иногда даже заставляют."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc10",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Vasily",
+      "datetime": 1757803181,
+      "text": "Нужен пункт \u0026#34;у компании нет офиса\u0026#34;"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc11",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1757803192,
+      "text": "Это Нет :)))"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc12",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757803203,
+      "text": "Так а чо есть релевантные исследования что дома эффективность падает?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc13",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tutunak",
+      "author_name": "tutunak",
+      "datetime": 1757803204,
+      "text": "Нет вполне подходит"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc14",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757803207,
+      "text": "мы собирались по кафе для брайнсторма. 🙂"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc15",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757803208,
+      "text": "У Грея черезх полгода выяснится, что все, кого он загнал в офис, разбежались по другим компаниям."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc16",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1757803214,
+      "text": "Почему нельзя уволить?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc17",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1757803328,
+      "text": "прогресс продукта определяется по рабочим продуктам а не по рассказам участников"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc18",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757803350,
+      "text": "Грэй, когда ты последний раз успешно решал задачу набрать команду из 10 человек в офис? Сейчас на вакансию \u0026#34;только в офисе\u0026#34; тебе не будут присылать резюме!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc19",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757803377,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e , с артефактом это хороший аргумент"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc1a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yamikhailche",
+      "author_name": "Mike Chernoskutov",
+      "datetime": 1757803414,
+      "text": "На удаленке тоже можно провести 20 встреч в зуме и никакого артефакта не заиметь. Разве что запись встречи"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc1b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1757803445,
+      "text": "5 дней в офисе надо быть маркетологам и менеджерам.\u003cbr/\u003eА с программистами нужен особый подход."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc1c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757803466,
+      "text": "да, у нас так директор делал – прогонял запись митинга через AI для суммаризации. А потом всем письмо отсылал, чтобы помнили."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc1d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803473,
+      "text": "в 90% нормальных компаний полный офис сейчас, о чем вы вообще. ну и люди в целом на офис идут выше качеством чем на удаленку"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc1e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1757803516,
+      "text": "Конечно. Я это и пытаюсь сказать - можно работать хорошо и эффективно в офисе, можно удаленно. Но я не понимаю посыла что офис это требование для работы хорошо и эффективно."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc1f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757803519,
+      "text": "я и в такие присылал. Но мало кто предлагает компенсировать разницу времени на дорогу."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc20",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757803536,
+      "text": "Если вы работаете на компании, у которых единственный заказчик это department of war, то возможно. Но остальной мир не такой, как вокруг вас."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc21",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803567,
+      "text": "так устроен рынок труда в сша сейчас. компаний с полной удаленкой мало, они в основном маленькие и платят мало"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc22",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757803580,
+      "text": "и откуда эти цифры? 🙂"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc23",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803650,
+      "text": "не ну если достаточно 200-300к долларов в год, то в целом можно и удаленку найти. на 500+ уже сильно сложнее"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc24",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757803678,
+      "text": "Большие компании как правило географиски распределенные, причём имеют сотрудников в разных странах. Там традиционная совместная работа в офисе невозможна в принципе."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc25",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757803688,
+      "text": "пару лет назад работал в конторе где 7 основных городов присутствия и команды раскиданы. онлайн совещания и консультации почти не прекращались, с любым вопросом можно было обойти кучу разных людей с разных городов. Даже если бы они все были в одном здании, на то что онлайн решалось за 5 минут - пешком бы ушел бы час"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc26",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Vasily",
+      "datetime": 1757803699,
+      "text": "Я понимаю, что не все умеют организовывать свое время на удалёнке, и хотят ничего не делать. Поэтому для увеличения эффективности всех под контроль."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc27",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757803715,
+      "text": "Для меня приходить в офис, раз в неделю-две - класс, нетворкинг все дела. Это полезно для работы - наверное. Но я скажу что это полезно для меня - я знаю коллег, они знают меня, это может сыграть в мою пользу в некоторых ситуациях."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc28",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803762,
+      "text": "почти всегда стараются команды или целиком в одном офисе держать или максимум в 2х крупными частями. ситуации когда люди работающие над одним проектом сидят в разных частях мира - редки"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc29",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antipin_ilya",
+      "author_name": "Antipin Ilya",
+      "datetime": 1757803818,
+      "text": "да пусть просто грей даст двойное слепое рандомизированное исследование и докажет, что умпутуны и лехи – мутанты, а вообще все лагерная пыль на сапогах и нужно с ними как партия, и не иначе )"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc2a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757803821,
+      "text": "В целом, живя в довольно компактном городе (Барселоне) - ездить в офис это максимум час времени. Но это час времени, который я могу потратить на семью."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc2b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757803831,
+      "text": "это где?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc2c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803839,
+      "text": "но вы не с тем спорите. тут вопрос не в том можно ли работать эффективно удаленно. а в том что крупные компании в сша подавляюще требуют офис на 3+ дней в неделю сейчас и вакансий с удаленкой - не больше 10-20%, если не идти работать в стартап какой нибудь"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc2d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803853,
+      "text": "где что?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc2e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757803901,
+      "text": "200-300к долларов в год, ... на 500+ уже сильно сложнее\u003cbr/\u003e\u003cbr/\u003eи на какую работу?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc2f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1757803903,
+      "text": "На высокие зарплаты, как правило, можно рассчитывать в IT-сфере, финансах и консалтинге. Позиции разработчиков, аналитиков или менеджеров проектов могут предложить такие суммы при наличии опыта и востребованных навыков."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc30",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803934,
+      "text": "я так и не понял даже после уточнения что именно вы спрашиваете. но уточню что на работу программиста"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc31",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757803955,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/max_sarmanov\"\u003e@max_sarmanov\u003c/a\u003e мне вот интересно. в этих компаниях, где требуют приходить в офис, на столах есть телефонные аппараты?\u003cbr/\u003eвопрос без стёба."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc32",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757803969,
+      "text": "а географически? Земля, США...\u003cbr/\u003eкакие города?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc33",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757803995,
+      "text": "кажется последний раз видел в яндексе 10 лет назад, кстати удобно было. но так все по зуму или аналогам сейчас"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc34",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1757804008,
+      "text": "сша. ну условно долина, сиэтл, нью-йорк"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc35",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757804132,
+      "text": "Государство - единые правила, но государство - помогает нуждающимся и менее защищённым людям. Кроме того, некоторые государства защищают людей перед большими компаниями, например"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc36",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yamikhailche",
+      "author_name": "Mike Chernoskutov",
+      "datetime": 1757804168,
+      "text": "их сейчас почти не осталось, стоят без дела пока сам не сдашь в helpdesk"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc37",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757804368,
+      "text": "Вот уж где понравилось бы Грэю, так это в Японии. Там могут наказать за разговор с соседом по офису."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc38",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757804381,
+      "text": "воот x2"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc39",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757804483,
+      "text": "так сказать, вооот"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc3a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757804598,
+      "text": "в стране стартапов похожая ситуация - ну работает же - и так сойдет"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc3b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757804644,
+      "text": "вы путаете божий дар с яичницей"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc3c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757804666,
+      "text": "тксказать..."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc3d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757804736,
+      "text": "Юкихиро Мацумо́то - создатель Руби"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc3e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1757804783,
+      "text": "вооот"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc3f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757804786,
+      "text": "Я как-то читал статью, почему Япония так слаба в области софта. Там говорилось, что исторически у них очень долго программирование считалось скучной и низкооплачиваемой работой."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc40",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757804835,
+      "text": "А ещё японцы очень редко покупают ИТ продукты. У многих стартапов в сфере продуктов для ИТ компаний отдел продаж совсем не работает с Японией никак."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc41",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757804853,
+      "text": "наш слоняра!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc42",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757804862,
+      "text": "это скорее ирония, не в обиду бобуку"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc43",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1757805053,
+      "text": "В Газпромбанке были в 2020: все приходили в офис и по этим трубкам проводили утренний дейлик"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc44",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757805150,
+      "text": "Jim Keller как-то в интервью говорил, что он хотел бы сделать процессор для AI, где результат не детерминирован. И что это не важно, потому что данные всё равно зашумлены. Но индустрия плохо относилась к этой идее."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc45",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757805243,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e \u003cbr/\u003eработал я в большой компании и был у неё один клиент из Японии.\u003cbr/\u003e\u003cbr/\u003eНаша копания предоставляла решение биллинга и ЦРМ (ну и всего рядом с этим).\u003cbr/\u003e\u003cbr/\u003eПервая неделя кастомизации и UAT (user acceptance testing) тестеры из Японии открыли 1000 багов.\u003cbr/\u003eЧерез неделю, руководсво Японской компании удивилось, что баги не закрыты, а открыли ещё 1000 багов.\u003cbr/\u003e\u003cbr/\u003eНаш директор ответсвенный за деливери, сказал что это P4 баги (там очень много опечаток было) и мы их вообще не собираемся чинить.\u003cbr/\u003e\u003cbr/\u003eЧерез неделю, Японцы расторгли контракт."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc46",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757805252,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/radiot_superbot\"\u003e@radiot_superbot\u003c/a\u003e Бот! Ты почему ссылки на новости не присылаешь в чат?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc47",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757805314,
+      "text": "лол. а что за компания, если не секрет? случайно не неткракер?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc48",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1757805314,
+      "text": "Так а в чем проблема? Он решил, что сегодня не надо присылать ссылки."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc49",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757805337,
+      "text": "ну пойди загони его в офис, как опытный менеджер"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc4a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1757805417,
+      "text": "Как же можно? Он же сам все понимает и может принимать решения. Вот и принял. \u003cbr/\u003eЧем ты недоволен — осуществлением своих принципов?"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc4b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757805470,
+      "text": "Я не топил против офиса, а констатировал факт того, что офисная работа в привычном нам виде, осталась в прошлом, и это уже не вернуть."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc4c",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757805516,
+      "text": "А это иллюстрация моего тезиса. Пусть и шуточная, но доля правды в этом есть."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc4d",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "☭$ϒ サ۝ ☡",
+      "datetime": 1757805689,
+      "text": "Мотоциклы будете обсуждать"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc4e",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1757805735,
+      "text": "Верните рубрику о UK"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc4f",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1757805791,
+      "text": "Я не против ходить в офис если офисы будут во всех городах, где я бываю"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc50",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1757805819,
+      "text": "Amdocs, всё было в районе 2005. Я пришёл в компанию в 2008 и мне уже расскзывали. Что в начале хотели закрепиться на японском рынке, но после этого случая, поняли что шансов нет когда баги меряются степенью, тогда как в Японии любой баг это шоустопер."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc51",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1757805821,
+      "text": "Офис был в городе где я сейчас, я туда ходил раз-два в неделю"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc52",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757805824,
+      "text": "вроде было что-то такое, коворкинг или как-то так называлось"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc53",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757805833,
+      "text": "советы как сдать вождение"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc54",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1757805880,
+      "text": "Раньше в офис было интересно ходить потому что людей много вокруг было, можно было половину рабочего времени потратить на перекур и разговоры \u003cbr/\u003e\u003cbr/\u003eА на удаленке такого нет, приходится работать"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc55",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1757805930,
+      "text": "Закрывайте чат в телеге, тогда коменты к выпускам оживут"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc56",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1757805947,
+      "text": "мое самое главное разчоварование что в офисе у меня работа в 6 заканчивалась, а дома бывает что и до утра сидишь 🥲"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc57",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1757805963,
+      "text": "Так сейчас и в офисе такого нет. Приходишь в офис - он на 70% пустой. А те, кто есть - сидят в наушниках на митингах."
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc58",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1757806011,
+      "text": "Или сидит какой-то один чувак в углу, который не издаёт никаких звуков кроме матов"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc59",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757806021,
+      "text": "всем спасибо!"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc5a",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Snaker_me",
+      "author_name": "Snaker",
+      "datetime": 1757806043,
+      "text": "У нас тоже)"
+    },
+    {
+      "id": "68c66bc1b78016a5bd45fc5b",
+      "issue": 978,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1757806047,
+      "text": "есть биб"
+    }
+  ]
+}

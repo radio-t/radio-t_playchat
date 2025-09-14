@@ -1,0 +1,48 @@
+{
+  "issue": 978,
+  "date": "2025-09-13",
+  "audio": "https://cdn.radio-t.com/rt_podcast978.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt978.jpg",
+  "start_time": 1757795011,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Свежие новинки от Apple",
+      "links": [
+        "https://www.cnn.com/2025/09/09/tech/new-apple-devices-announcement-event"
+      ],
+      "time": "00:27:39"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "iPhone Air - странно и непонятно",
+      "links": [
+        "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/"
+      ],
+      "time": "00:46:19"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Код на выброс против реального кода",
+      "links": [
+        "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay"
+      ],
+      "time": "01:15:21"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Microsoft приказала всем вернуться в офисы",
+      "links": [
+        "https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9"
+      ],
+      "time": "01:53:15"
+    }
+  ],
+  "tags": null
+}
