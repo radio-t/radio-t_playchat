@@ -1,0 +1,80 @@
+{
+  "issue": 979,
+  "date": "2025-09-20",
+  "audio": "https://cdn.radio-t.com/rt_podcast979.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt979.jpg",
+  "start_time": 1758406119,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Liquid Glass это полная катастрофа",
+      "links": [
+        "https://www.techradar.com/phones/iphone/im-a-huge-ios-26-fan-but-liquid-glass-has-totally-ruined-one-of-the-iphones-most-important-features"
+      ],
+      "time": "00:05:30"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Уход культуры безумных программистов",
+      "links": [
+        "https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/"
+      ],
+      "time": "00:38:30"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "В iTerm2 теперь есть и браузер",
+      "links": [
+        "https://iterm2.com/documentation-web.html"
+      ],
+      "time": "00:59:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Meta Ray-Ban",
+      "links": [
+        "https://www.meta.com/en-gb/blog/meta-ray-ban-display-ai-glasses-connect-2025/"
+      ],
+      "time": "01:10:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Самая неудачная демонстрация",
+      "links": [
+        "https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/?utm_campaign=social"
+      ],
+      "time": "01:23:30"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Аnthropic отчитались о багах",
+      "links": [
+        "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues"
+      ],
+      "time": "01:29:30"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Gemini завезли прямо в Chrome",
+      "links": [
+        "https://gemini.google/overview/gemini-in-chrome/"
+      ],
+      "time": "01:46:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 979",
+      "links": [
+        "https://radio-t.com/p/2025/09/16/prep-979/"
+      ],
+      "time": "01:46:50"
+    }
+  ],
+  "tags": null
+}
