@@ -1,0 +1,1202 @@
+{
+  "chat": [
+    {
+      "id": "68d917f6ce4f8d9fad1bd5bf",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akostenko",
+      "author_name": "😕 🍴",
+      "datetime": 1759002604,
+      "text": "я скорее про то, что реклама в инстаграме. Это как откликаться на вакансию директора компании, которую на столб наклеили"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c0",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hleb_albau",
+      "author_name": "Hleb Albau",
+      "datetime": 1759002975,
+      "text": "День когда придет бобук"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c1",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759003185,
+      "text": "действительно: а Гриша выйдет?"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c2",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1759003245,
+      "text": "Бобук??"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c3",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hleb_albau",
+      "author_name": "Hleb Albau",
+      "datetime": 1759003248,
+      "text": "Пока чет никто не вышел"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c4",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1759003330,
+      "text": "А сюда трансляция будет?"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c5",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hleb_albau",
+      "author_name": "Hleb Albau",
+      "datetime": 1759003350,
+      "text": "Только в максе("
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c6",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1759003368,
+      "text": "О чем речь?"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c7",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1759003452,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e трансляция в телеграм идёт - полёт нормальный"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c8",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1759003468,
+      "text": "Спасибо 🙏"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5c9",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759003479,
+      "text": "Холодильник чего-то не слышно"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5ca",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759003541,
+      "text": "у меня например видео с вебки в браузере лагает в Tahoe"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5cb",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1759003544,
+      "text": "а реально паспорт просит - я сейчас проверил (днем прилетел в Лондон)"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5cc",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1759003569,
+      "text": "как вы тут живете вообще?"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5cd",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1759003585,
+      "text": "если бы проблема была в тахо, то уже на неделе бы проявилась"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5ce",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1759003674,
+      "text": "Скоро еще и Digital ID начнет просить"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5cf",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hleb_albau",
+      "author_name": "Hleb Albau",
+      "datetime": 1759003739,
+      "text": "Или лицензию на вождение мотоцикла например"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d0",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759003798,
+      "text": "и басов навалить"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d1",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "senpos",
+      "author_name": "Senpos",
+      "datetime": 1759003909,
+      "text": "Алексей, если еще не пробовали - стоит попробовать WARP (который \u003ca href=\"https://1.1.1.1\"\u003e1.1.1.1\u003c/a\u003e от Cloudflare).\u003cbr/\u003eУ товарищей когда проблемы с пингом/стабильностью в играх - очень помогает."
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d2",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex_Dubok",
+      "author_name": "Oleksii Dubok",
+      "datetime": 1759003935,
+      "text": "А можно сюда настройку для того чтоб сделать Тахо быстрее?"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d3",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759003937,
+      "text": "Для ускорения Тахо попробуйте следующие настройки: уменьшите качество графики, закройте ненужные программы, оптимизируйте сетевые параметры и выберите сервера, находящиеся ближе к вам. Также важно следить за обновлениями клиента."
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d4",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1759003955,
+      "text": "\u003ca href=\"https://github.com/microsoft/vscode/pull/267724#issuecomment-3316457267\"\u003ehttps://github.com/microsoft/vscode/pull/267724#issuecomment-3316457267\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d5",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1759004101,
+      "text": "\u003ca href=\"https://libreswan.org\"\u003ehttps://libreswan.org\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d6",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1759004181,
+      "text": "IPsec, стандарт вместе с strangswan. Очень популярны оба"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d7",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1759004214,
+      "text": "Разные, оба популярные"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d8",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1759004350,
+      "text": "Ещё бы DoT или DoH бы от \u003ca href=\"https://1.1.1.1\"\u003e1.1.1.1\u003c/a\u003e и Гугла настроить"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5d9",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1759004442,
+      "text": "Слышно"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5da",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "senpos",
+      "author_name": "Senpos",
+      "datetime": 1759004444,
+      "text": "Все огонь"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5db",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1759004446,
+      "text": "Да"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5dc",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "raiderone",
+      "author_name": "Bob Ef",
+      "datetime": 1759004447,
+      "text": "Сделайте лучшую потише глушит голоса"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5dd",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759004451,
+      "text": "восхищение"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5de",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1759004498,
+      "text": "Звук в телеге лучше чем в браузере"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5df",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1759004500,
+      "text": "Ну кстати смешно но сегодня прямо в телеграмме пришлось подключаться\u003cbr/\u003eчто-то не очень соединолсь"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5e0",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1759004506,
+      "text": "Если cleanfeed это webrtc, то DNS не поможет. webrtc может да-же обойти VPN"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5e1",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759004552,
+      "text": "но свой же не откроется по יאאפד"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5e2",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1759004580,
+      "text": "Проверяй не пингом"
+    },
+    {
+      "id": "68d917f6ce4f8d9fad1bd5e3",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759004635,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5e4",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1759004834,
+      "text": "у тонкого спикера нет"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5e5",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1759004845,
+      "text": "вернее его не слышно"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5e6",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1759004898,
+      "text": "Эппл таки занес! )"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5e7",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lama404",
+      "author_name": "D P",
+      "datetime": 1759004952,
+      "text": "Лучше даже чем на WA?)"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5e8",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phoenixua",
+      "author_name": "Oleksandr",
+      "datetime": 1759005060,
+      "text": "впервые за 13+ лет слушаю вещание в онлайне, более того, здесь в ТГ.\u003cbr/\u003eраз уж за Аппл заговорили, то \u003cstrong\u003eспециально для Лёши\u003c/strong\u003e, что обсуждали пару недель назад — обычные AirPods, которые не Про, уже тоже имеют шумодав, который достаточно не плох, хотя и случаются артефакты"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5e9",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1759005102,
+      "text": "А как его включить?"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5ea",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hleb_albau",
+      "author_name": "Hleb Albau",
+      "datetime": 1759005109,
+      "text": "Теперь бобук просто обязан заскочить в подкаст"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5eb",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759005130,
+      "text": "он говорит про Airpods 4"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5ec",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759005152,
+      "text": "там включается как и в прошках"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5ed",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1759005164,
+      "text": "Мультикаст не будет через IPsec работать без PIM или схожей технологии форвардигна. Нужен либо L2 туннель как GRE/IPIP, или PIM. Если уже есть IPsec VPN, то лучше PIM, что бы не городить туннель в туннели."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5ee",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phoenixua",
+      "author_name": "Oleksandr",
+      "datetime": 1759005165,
+      "text": "по ходу аналогично с тем, как это делается в Про \u003ca href=\"https://support.apple.com/en-us/108918\"\u003ehttps://support.apple.com/en-us/108918\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5ef",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "senpos",
+      "author_name": "Senpos",
+      "datetime": 1759005210,
+      "text": "Приятные и тонкие. Это круто, да."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f0",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VKnnov",
+      "author_name": "Vasily K.",
+      "datetime": 1759005215,
+      "text": "У программистов когти стачиваются о кастомные клавиатуры, а Грей получается давно не кодил"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f1",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759005267,
+      "text": "защитка сильно слабее чем родное"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f2",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1759005384,
+      "text": "У меня 2 запарены"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f3",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "senpos",
+      "author_name": "Senpos",
+      "datetime": 1759005556,
+      "text": "А кто с AirPods 2, ни у кого хуже ANC не стал работать недели 3-4 назад?\u003cbr/\u003eТеперь клавиатуру слышно и мышку. Беда."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f4",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "wd4ka",
+      "author_name": "wd4k",
+      "datetime": 1759005663,
+      "text": "Заметил что иногда стало хуже, но помогает вытащить и вставить обратно. Он как будто заново переоценку ситуации делает и лучше блокировать начинает. А вот батарея как будто резко начала быстрее высаживаться в последнее время"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f5",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "senpos",
+      "author_name": "Senpos",
+      "datetime": 1759005728,
+      "text": "Вот это, наверное: \u003ca href=\"https://www.youtube.com/watch?v=vJ43DjwLPGA\"\u003ehttps://www.youtube.com/watch?v=vJ43DjwLPGA\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f6",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "senpos",
+      "author_name": "Senpos",
+      "datetime": 1759005781,
+      "text": "Где-то читал, что надо разбивать о плоскую поверхность. Чтобы внутрь не попало ничего"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f7",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "senpos",
+      "author_name": "Senpos",
+      "datetime": 1759005876,
+      "text": "Наверное, про пазлы речь, не про Лего: \u003ca href=\"https://www.youtube.com/watch?v=WsPHBD5NsS0\"\u003ehttps://www.youtube.com/watch?v=WsPHBD5NsS0\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f8",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1759005914,
+      "text": "вот проблема консистентно сварить яйца в смятку или пашот, это да"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5f9",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1759005954,
+      "text": "Ютуб вроде и сделан чтобы странные видео смотреть какие нравятся)"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5fa",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1759006162,
+      "text": "никаких проблем. Заранее достать яйца минут за 10, чтобы немного прогрелись, вскипятить воду, в три приема опустить в кипящую воду яйцо (ложкой трижды окунуть и на третий раз опустить) и варить 6 минут. 9 минут — вкрутую. У меня даже не лопаются."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5fb",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1759006167,
+      "text": "Проще всего через деньги доказывать, примером того что если выполнять AI на каждый чих, то тех денег что платит клиент не хватит)"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5fc",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1759006312,
+      "text": "Еще соль добавляют."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5fd",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "x0BEB",
+      "author_name": "Beb",
+      "datetime": 1759006372,
+      "text": "Бобука опять нет?"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5fe",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1759006410,
+      "text": "есть. Но в подкаст не пришёл"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd5ff",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759006593,
+      "text": "⚠️ Measuring the performance of our models on real-world tasks | OpenAI - \u003ca href=\"https://openai.com/index/gdpval/\"\u003ehttps://openai.com/index/gdpval/\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd600",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759006594,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eПожалуйста, подождите..."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd601",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1759006755,
+      "text": "Я проверил, кажется, все способы и пришел к выводу что для пашота важна только свежесть яиц, все остальное вообще пофиг. Уксус, воронки, специальные лодочки, это все вторично."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd602",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shevchenco",
+      "author_name": "Євген",
+      "datetime": 1759006898,
+      "text": "Задал вопрос в GPT про котов и мускулы, теперь чуствую себя недоразвитым..."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd603",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759007201,
+      "text": "⚠️ The Last Programmers || Xipu Li - \u003ca href=\"https://www.xipu.li/posts/the-last-programmers\"\u003ehttps://www.xipu.li/posts/the-last-programmers\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd604",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759007206,
+      "text": "\u003cstrong\u003eThe Last Programmers || Xipu Li\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**   \u003cbr/\u003eЭкс-сотрудник Amazon Xipu Li делится опытом перехода к стартапу Icon, подчеркивая, как AI-технологии изменяют разработку ПО. Он рассматривает, как меняется роль программистов, и как важны понимание пользователей и маркетинг в будущем программирования.\u003cbr/\u003e\u003cbr/\u003e- Li покинул Amazon, почувствовав, что ограничен в разработке игр AI с низким качеством.\u003cbr/\u003e- В Icon он наблюдает, как AI заменяет рутинное кодирование, позволяя команде сосредоточиться на понимании пользователей.\u003cbr/\u003e- Его товарищ по команде использует AI для упрощения работы, переключаясь с написания кода на разработку концепций.\u003cbr/\u003e- Два подхода к программированию: экспериментаторы, ищущие обходные пути, и хранители, стремящиеся к глубинному пониманию кода.\u003cbr/\u003e- Разработка позднее фокусируется не на качестве кода, а на понимании потребностей пользователей и эффективном маркетинге.\u003cbr/\u003e- Эволюция разработки ПО движется к коммодитизации, где успех зависит от бренда и понимания психологии потребителей.\u003cbr/\u003e- Будущие программисты должны развивать навыки, выходящие за пределы кодирования, включая взаимодействие с пользователями и рыночный анализ."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd605",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phoenixua",
+      "author_name": "Oleksandr",
+      "datetime": 1759007323,
+      "text": "чтобы яйца не вытекали, даже когда лопнут, достаточно подсолить воду\u003cbr/\u003eя всю жизнь варил всмятку просто варя 3 минуты после того, как вода закипела. Можно подтьюнить под конкретную посуду, воду, яйца"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd606",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759007357,
+      "text": "один работает как диспетчер пользователя"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd607",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1759007490,
+      "text": "good enough"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd608",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1759007675,
+      "text": "Бобук Шрёдингера )"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd609",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759008099,
+      "text": "вот на это 8 процентов и живу"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd60a",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1759008205,
+      "text": "Есть рецепт, когда яйца кладутся в холодную воду, доводится до кипения, и выключается нагрев. Всё накрывается крышкой. 4-5 минут, кажется — всмятку. 7 — вкрутую."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd60b",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1759008361,
+      "text": "Но как учесть размер кастрюли, ведь если кастрюля больше то для нагрева до кипения пройдет больше времени чем для меньшей кастрюли"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd60c",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1759008385,
+      "text": "А dv lottery и не для всех."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd60d",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759008390,
+      "text": "⚠️ Introducing ChatGPT Pulse | OpenAI - \u003ca href=\"https://openai.com/index/introducing-chatgpt-pulse/\"\u003ehttps://openai.com/index/introducing-chatgpt-pulse/\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd60e",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759008392,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eПожалуйста, дайте знать, когда вы будете готовы, чтобы я мог помочь вам с вашим запросом."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd60f",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1759008536,
+      "text": "1$ за dv lottery"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd610",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759008648,
+      "text": "⚠️ GitHub Copilot CLI is now in public preview - GitHub Changelog - \u003ca href=\"https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/\"\u003ehttps://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd611",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759008655,
+      "text": "\u003cstrong\u003eGitHub Copilot CLI is now in public preview - GitHub Changelog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eGitHub Copilot CLI теперь доступен в публичном превью, предлагая разработчикам интегрированного ИИ-ассистента прямо в терминале, облегчая взаимодействие с GitHub без переключения контекстов.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Интеграция с терминалом**: Работайте с Copilot непосредственно в командной строке без переключения между приложениями.\u003cbr/\u003e- **Доступ к GitHub**: Используйте естественный язык для взаимодействия с репозиториями и запросами, авторизуясь через свою учетную запись GitHub.\u003cbr/\u003e- **Возможности ИИ**: Стройте, редактируйте и отлаживайте код с помощью ИИ, который может планировать и выполнять сложные задачи.\u003cbr/\u003e- **Расширяемость**: Copilot поддерживает стандартизированные серверы MCP и предлагает возможность расширения возможностей.\u003cbr/\u003e- **Контроль действий**: Предварительный просмотр всех действий перед выполнением, ничего не происходит без вашего согласия.\u003cbr/\u003e- **Легкость установки**: Установите через npm и аутентифицируйтесь с помощью своей учетной записи GitHub.\u003cbr/\u003e- **Местное использование**: Copilot CLI предназначен для упрощения разработки, от исследования кода до локальной отладки."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd612",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759008678,
+      "text": "только выбора модели нет, вернее только через переменную окружения"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd613",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1759008759,
+      "text": "а чего айдером не пользуетесь? один клиент, много моделей"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd614",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1759008820,
+      "text": "А какая разница, сколько времени прогревается кастрюля? Важно время прогрева яйца."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd615",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759008864,
+      "text": "в корпоративном copilot нужно его включать на уровне организации"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd616",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1759008865,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e о, это я тогда эту статью вкинул )"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd617",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759008887,
+      "text": "⚠️ GitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development - https://github.com/github/spec-kit"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd618",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759008891,
+      "text": "\u003cstrong\u003eGitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eSpec Kit - это набор инструментов для начала работы с разработкой, основанной на спецификациях, что позволяет организациям сосредоточиться на продукте, а не на написании обычного кода.\u003cbr/\u003e\u003cbr/\u003e- Набор инструментов, помогающий начать Spec-Driven Development.\u003cbr/\u003e- Позволяет организациям сосредоточиться на сценариях продукта.\u003cbr/\u003e- Предлагает структуру разработки, избегая создания повторяющегося кода.\u003cbr/\u003e- Поддерживает множество инструментов и шаблонов для разработчиков.\u003cbr/\u003e- Включает документацию и примеры использования.\u003cbr/\u003e- Открытый исходный код, доступный на GitHub.\u003cbr/\u003e- Обновляется для обеспечения актуальности и удобства использования."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd619",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "burov",
+      "author_name": "Dima B",
+      "datetime": 1759008998,
+      "text": "Похоже на BMAD\u003cbr/\u003e\u003ca href=\"https://github.com/bmad-code-org/BMAD-METHOD\"\u003ehttps://github.com/bmad-code-org/BMAD-METHOD\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd61a",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759009068,
+      "text": "примерно то, что делал Kiro"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd61b",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759009276,
+      "text": "⚠️ Announcing Cloudflare Email Service’s private beta - \u003ca href=\"https://blog.cloudflare.com/email-service/\"\u003ehttps://blog.cloudflare.com/email-service/\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd61c",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759009278,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eПожалуйста, подождите немного..."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd61d",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1759009279,
+      "text": "на ютубе полно инфоцыган, которые толкают идею, что это такой способ разработки классный"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd61e",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1759009487,
+      "text": "но оно же прогревается вместе с кастрюлей"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd61f",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759009573,
+      "text": "⚠️ Cap\u0026#39;n Web: a new RPC system for browsers and web servers - \u003ca href=\"https://blog.cloudflare.com/capnweb-javascript-rpc-library/\"\u003ehttps://blog.cloudflare.com/capnweb-javascript-rpc-library/\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd620",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1759009574,
+      "text": "Ну если утрировать ситуацию, представим себе ведро 10 литров,\u003cbr/\u003eми берем холодную воду, кладем туда яйцо и ждем 20 минут пока она закипит \u003cbr/\u003eя думаю яцо на момент закипания будет уже в куртую, даже если не ждать еще 5 минут )"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd621",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759009576,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003eЭтот текст описывает процесс ожидания и терпения, когда требуется немного времени, чтобы завершить задачу или дождаться чего-то важного.\u003cbr/\u003e\u003cbr/\u003e- Ожидание может быть сложным, но это часть жизни.\u003cbr/\u003e- Терпение развивает характер и уверенность в себе.\u003cbr/\u003e- Важно находить способы справляться с ожиданием.\u003cbr/\u003e- Можно использовать время ожидания для личного роста.\u003cbr/\u003e- Ожидание может создать напряжение или стресс.\u003cbr/\u003e- Применение медитации может помочь в период ожидания.\u003cbr/\u003e- Следует помнить, что все хорошее приходит к тем, кто ждет."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd622",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "josser",
+      "author_name": "josser 🍒",
+      "datetime": 1759009772,
+      "text": "но оно же прогревается вместе с кастрюлей\u003cbr/\u003e\u003cbr/\u003eНу если утрировать ситуацию, представим себе ведро 10 литров,\u003cbr/\u003eми берем холодную воду, кладем туда яйцо и ждем 20 минут пока она закипит \u003cbr/\u003eя думаю яцо на момент закипания будет уже в куртую, даже если не ждать еще 5 минут )"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd623",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759009867,
+      "text": "⚠️ Libghostty Is Coming - \u003ca href=\"https://mitchellh.com/writing/libghostty-is-coming\"\u003ehttps://mitchellh.com/writing/libghostty-is-coming\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd624",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759009871,
+      "text": "\u003cstrong\u003eLibghostty Is Coming – Mitchell Hashimoto\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eLibghostty, включая libghostty-vt, предлагает библиотеку для внедрения терминального эмулятора в приложения. Эта библиотека без зависимостей упрощает использование терминалов, исправляет распространенные проблемы и обеспечивает стабильный API для разработчиков.\u003cbr/\u003e\u003cbr/\u003e- Libghostty включает libghostty-vt, библиотеку без зависимостей.\u003cbr/\u003e- libghostty-vt предоставляет API для разбора терминальных последовательностей.\u003cbr/\u003e- Поддерживает кроссплатформенность и минимальные требования к зависимостям.\u003cbr/\u003e- Текущая цель — макOS и Linux с дальнейшей поддержкой Windows и встроенных устройств.\u003cbr/\u003e- Планы расширить функциональность с новыми библиотеками libghostty.\u003cbr/\u003e- Ожидается версия libghostty-vt в течение следующих шести месяцев.\u003cbr/\u003e- Открыта обратная связь от разработчиков для улучшения API."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd625",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1759009895,
+      "text": "Rpc vs graphql звучит странно"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd626",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1759010010,
+      "text": "Graphql запросы они же текстовые - собрать в javascript и отправить по http"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd627",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759010418,
+      "text": "⚠️ The Top Programming Languages 2025 - IEEE Spectrum - \u003ca href=\"https://spectrum.ieee.org/top-programming-languages-2025\"\u003ehttps://spectrum.ieee.org/top-programming-languages-2025\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd628",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759010421,
+      "text": "\u003cstrong\u003e403 Forbidden\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eОшибка 403 Forbidden указывает на запрещённый доступ к ресурсу, представляемый кэш-сервером Varnish. \u003cbr/\u003e\u003cbr/\u003e- Ошибка 403 означает, что доступ запрещён.\u003cbr/\u003e- Код ошибки: 54113.\u003cbr/\u003e- Используется кэш-сервер Varnish.\u003cbr/\u003e- Запрос обработан через кэш FRA.\u003cbr/\u003e- Может быть вызвано отсутствием прав.\u003cbr/\u003e- Проверьте настройки разрешений.\u003cbr/\u003e- Попробуйте обратиться к администратору системы."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd629",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1759010588,
+      "text": "Это те которые невнятно стандарты wifi называют?)"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd62a",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1759010720,
+      "text": "Я на TCL в реальном продакшене писал, вполне себе живой он и сейчас скорее всего."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd62b",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rozhkoaleks",
+      "author_name": "Oleksii Rozhko",
+      "datetime": 1759010887,
+      "text": "Шо ж въ так “любите” вайбкодеров?))))))"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd62c",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1759010998,
+      "text": "Umputun напомнил юмористический рассказ \u0026#34;память или откуда берется Майкрософт\u0026#34;"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd62d",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759011006,
+      "text": "⚠️ Темы слушателей 980 - \u003ca href=\"https://radio-t.com/p/2025/09/23/prep-980/\"\u003ehttps://radio-t.com/p/2025/09/23/prep-980/\u003c/a\u003e"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd62e",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759011028,
+      "text": "[1/14] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003eDmytro Zozulia\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem\"\u003eThe Ruby Community has DHH problem\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eАвтор описывает свои ощущения от недавнего \u003c/em\u003e\u003ca href=\"https://world.hey.com/dhh/as-i-remember-london-e7d38e64\"\u003eпоста DHH про протесты в Лондоне\u003c/a\u003e\u003cem\u003e.\u003cbr/\u003e\u003cbr/\u003eDHH выразил обеспокоенность тем что больше половины населения Лондона не англичане, и сказал что также переживает что в его родном Копенгагене по прогнозам в 2096 будет меньше половины датчан. Он поддержал правые митинги Томми Робинсона в Лондоне.\u003cbr/\u003e\u003cbr/\u003eАвтор поста обвиняет DHH в исламофобии и правом радикализме. Считает что в Руби комьюнити у DHH слишком много рычагов воздействия. И выражает озабоченность что человек такого влияния придерживается странных взглядов.\u003cbr/\u003e\u003cbr/\u003eКороче интересное чтиво, не думаю что кто-то из ведущих осилит до начала подкаста :)\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eThe Ruby community has a DHH problem | \u003c/strong\u003e\u003ca href=\"https://tekin.co.uk\"\u003etekin.co.uk\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003eСообщество Ruby сталкивается с проблемами, связанными с автором фреймворка Ruby on Rails, ДХХ. Это вызывает споры и дискуссии о его влиянии на сообщество.\u003cbr/\u003e\u003cbr/\u003e- Проблема качества и направления сообщества Ruby.\u003cbr/\u003e- ДХХ выступает против некоторых изменений в коде.\u003cbr/\u003e- Обсуждения о необходимости более открытых решений.\u003cbr/\u003e- Конфликт между традициями и современными подходами.\u003cbr/\u003e- Нехватка разнообразия в сообществе программирования.\u003cbr/\u003e- Влияние на разработки и адаптации новых технологий.\u003cbr/\u003e- Настоящие вызовы для сообществ программирования в целом."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd62f",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759011028,
+      "text": "[2/14] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eYusufboy Saydullayev\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eКак руководить в комнате, полной экспертов\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts\"\u003ehttps://idiallo.com/blog/how-to-lead-in-a-roo...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eHow to Lead in a Room Full of Experts\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eРоль технического лидера заключается не в том, чтобы быть самым умным в комнате экспертов, а в том, чтобы эффективно переводить идеи и объединять команды. Лидерство требует социальных навыков, умения ставить правильные вопросы и создавать пространство для обсуждения.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Эффективный перевод:** Лидер должен переводить технические обсуждения в понятный язык для разных аудиторий, включая продуктовые и исполнительные команды.\u003cbr/\u003e- **Социальные навыки:** В команде экспертов важнее устанавливать доверительные отношения, чем просто представлять факты.\u003cbr/\u003e- **Целеполагание:** Лидер должен отслеживать общие цели и избегать отвлекающих технических дебатов.\u003cbr/\u003e- **Признание незнания:** Умение признать, что ты чего-то не знаешь, может повысить доверие и поощрить экспертов.\u003cbr/\u003e- **Адаптация к аудитории:** Каждый уровень команды должен понимать проблему на своем языке, чтобы избежать недопонимания.\u003cbr/\u003e- **Создание пространства:** Лидерство включает предоставление возможностей экспертам проявить себя и внести свой вклад.\u003cbr/\u003e- **Фокус на коллаборации:** Лидер должен создавать условия для сотрудничества, а не доминировать в обсуждениях."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd630",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759011028,
+      "text": "[3/14] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eNikita Podelenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/\"\u003ehttps://www.raspberrypi.com/news/the-ultimate...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eВышел новый Raspberry Pi 500+ – с механической клавиатурой со съёмными кейкапами, RGB-подсветкой, внутренним M.2 слотом с предустановленным 256GB SSD и 16GB оперативки.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003e«Just a moment...» - это фраза, которая используется, чтобы попросить кого-то подождать на мгновение. Она часто употребляется в повседневной жизни и в различных профессиональных ситуациях.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Фраза означает временное ожидание.\u003cbr/\u003e- Используется в личной и профессиональной коммуникации.\u003cbr/\u003e- Подходит для всех возрастных групп.\u003cbr/\u003e- Уменьшает напряжение, когда требуется пауза.\u003cbr/\u003e- Часто используется в обслуживании клиентов.\u003cbr/\u003e- Помогает создать вежливую атмосферу.\u003cbr/\u003e- Может сопровождаться действиями или ожиданием."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd631",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759011028,
+      "text": "[4/14] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eArthur N\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGitHub объявил, что GitHub Copilot CLI теперь доступен в публичном превью.\u003cbr/\u003e\u003cbr/\u003eЭто значит, что функции Copilot, которые раньше работали через IDE или веб-интерфейс, теперь можно использовать прямо из терминала.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/\"\u003ehttps://github.blog/changelog/2025-09-25-gith...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitHub Copilot CLI is now in public preview - GitHub Changelog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eGitHub Copilot CLI теперь доступен в публичном превью, предлагая разработчикам интегрированного ИИ-ассистента прямо в терминале, облегчая взаимодействие с GitHub без переключения контекстов.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Интеграция с терминалом**: Работайте с Copilot непосредственно в командной строке без переключения между приложениями.\u003cbr/\u003e- **Доступ к GitHub**: Используйте естественный язык для взаимодействия с репозиториями и запросами, авторизуясь через свою учетную запись GitHub.\u003cbr/\u003e- **Возможности ИИ**: Стройте, редактируйте и отлаживайте код с помощью ИИ, который может планировать и выполнять сложные задачи.\u003cbr/\u003e- **Расширяемость**: Copilot поддерживает стандартизированные серверы MCP и предлагает возможность расширения возможностей.\u003cbr/\u003e- **Контроль действий**: Предварительный просмотр всех действий перед выполнением, ничего не происходит без вашего согласия.\u003cbr/\u003e- **Легкость установки**: Установите через npm и аутентифицируйтесь с помощью своей учетной записи GitHub.\u003cbr/\u003e- **Местное использование**: Copilot CLI предназначен для упрощения разработки, от исследования кода до локальной отладки."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd632",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1759011028,
+      "text": "[5/14] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eDmitrii Danileiko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eГлавная проблема AI агентов сейчас это размер контекста в глобальном смысле. Он не понимает почему что-то было сделано именно так как сделано. \u003c/em\u003e\u003ca href=\"https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now\"\u003ehttps://runnercode.com/blog/context-is-the-bo...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eRunner - Coding Agent\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eИскусственный интеллект для программирования быстро совершенствуется. На последнем конкурсе ICPC OpenAI продемонстрировала выдающиеся результаты, но ИИ пока не заменяет разработчиков. Основная проблема заключается в недостатке контекста для решения задач.\u003cbr/\u003e\u003cbr/\u003e- ИИ-программные агенты достигли высоких результатов, но ограничены контекстом.\u003cbr/\u003e- Программирование требует понимания спецификаций, практик, общения и других факторов.\u003cbr/\u003e- Современные аналитические системы имеют доступ лишь к 20% необходимого контекста.\u003cbr/\u003e- Агенты не осознают недостаток контекста и часто продвигаются вперед без запроса помощи.\u003cbr/\u003e- Необходимы улучшения в предоставлении контекста для автономной работы ИИ.\u003cbr/\u003e- Большая часть контекста не задокументирована и требует дополнительной обработки.\u003cbr/\u003e- Человеческое руководство останется важным на долгое время."
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd633",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "majotrading",
+      "author_name": "Sergey Ryazanov",
+      "datetime": 1759011292,
+      "text": "Строю такую систему управления проектами:\u003cbr/\u003e\u003cbr/\u003eСистема трёх AI-помощников\u003cbr/\u003e\u003cbr/\u003e  Master Coordinator (ML Trading Assistant):\u003cbr/\u003e  - Анализирует задачи и делегирует специалистам\u003cbr/\u003e  - Агрегирует результаты и отслеживает выполнение\u003cbr/\u003e\u003cbr/\u003e  Специалисты:\u003cbr/\u003e  1. ML DevOps Assistant - K8s, CI/CD, Ansible, IaC\u003cbr/\u003e  2. AI Assistant Go - Мониторинг, логи, метрики, алертинг\u003cbr/\u003e\u003cbr/\u003e  Общая база: PostgreSQL для межассистентного обмена данными\u003cbr/\u003e\u003cbr/\u003e  Задача → Coordinator → Делегирование → Специалист → Результат\u003cbr/\u003e                ↕️                                         ↓\u003cbr/\u003e        Shared Knowledge\u003cbr/\u003e\u003cbr/\u003eА строит это всё Claude Code. Заодно изучаю МЛ на практике. Не знаю, куда меня эта дорожка выведет)"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd634",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1759011714,
+      "text": "К счетам за токены это точно))"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd635",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "majotrading",
+      "author_name": "Sergey Ryazanov",
+      "datetime": 1759011750,
+      "text": "У меня подписка max) Хватает, пока)"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd636",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alek566",
+      "author_name": "Alek",
+      "datetime": 1759012750,
+      "text": "А как Synology отключило аппаратное транспонирование на моделях 2025 года там стоит один плюсик"
+    },
+    {
+      "id": "68d917f7ce4f8d9fad1bd637",
+      "issue": 980,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1759012870,
+      "text": "а ubiquity это из коробки поддерживает? у routeros приходилось костылить штуку снаружи чтобы такой failover сделать"
+    }
+  ]
+}
