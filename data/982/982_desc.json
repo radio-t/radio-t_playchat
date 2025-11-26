@@ -1,0 +1,72 @@
+{
+  "issue": 982,
+  "date": "2025-10-11",
+  "audio": "https://cdn.radio-t.com/rt_podcast982.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt982.jpg",
+  "start_time": 1760213605,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Катастрофическое падение качества",
+      "links": [
+        "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
+      ],
+      "time": "00:26:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Подход к большим проектам",
+      "links": [
+        "https://mitchellh.com/writing/building-large-technical-projects"
+      ],
+      "time": "00:55:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI и Jony Ive пока ничего не смогли вместе",
+      "links": [
+        "https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-details-on-secretive-new-ai-gadget/"
+      ],
+      "time": "01:06:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Неожиданно малые усилия для атаки на LLM",
+      "links": [
+        "https://www.anthropic.com/research/small-samples-poison"
+      ],
+      "time": "01:23:29"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Очередные новинки OpenAI",
+      "links": [
+        "https://www.theverge.com/news/640086/openai-chat-gpt-news-updates"
+      ],
+      "time": "01:29:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "JetBrains подружились с Zed",
+      "links": [
+        "https://blog.jetbrains.com/ai/2025/10/jetbrains-zed-open-interoperability-for-ai-coding-agents-in-your-ide/"
+      ],
+      "time": "01:52:54"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/10/07/prep-982/"
+      ],
+      "time": "01:57:45"
+    }
+  ],
+  "tags": null
+}
