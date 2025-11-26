@@ -1,0 +1,80 @@
+{
+  "issue": 983,
+  "date": "2025-10-18",
+  "audio": "https://cdn.radio-t.com/rt_podcast983.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt983.jpg",
+  "start_time": 1760818343,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Неожиданно достойная модель - Claude Haiku 4.5",
+      "links": [
+        "https://www.anthropic.com/news/claude-haiku-4-5"
+      ],
+      "time": "00:21:19"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Claude Skills",
+      "links": [
+        "https://www.anthropic.com/news/skills"
+      ],
+      "time": "00:31:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple M5: уже в новых устройствах",
+      "links": [
+        "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/"
+      ],
+      "time": "00:42:41"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Слухи о выходе MacBook Pro с Touch Screen",
+      "links": [
+        "https://www.macrumors.com/2025/10/16/macbook-pro-oled-touch-screen/"
+      ],
+      "time": "00:55:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Codex появился в Zed",
+      "links": [
+        "https://zed.dev/blog/codex-is-live-in-zed"
+      ],
+      "time": "01:19:57"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Программисты против AI",
+      "links": [
+        "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html"
+      ],
+      "time": "01:33:29"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Windows 10 официально закончился",
+      "links": [
+        "https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/"
+      ],
+      "time": "02:10:27"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/10/14/prep-983/"
+      ],
+      "time": "02:16:17"
+    }
+  ],
+  "tags": null
+}
