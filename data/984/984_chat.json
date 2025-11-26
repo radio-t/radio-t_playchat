@@ -1,0 +1,1469 @@
+{
+  "chat": [
+    {
+      "id": "6926b1a3c78c9c49d2df824b",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761422669,
+      "text": "без справки. название на момент отъезда."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df824c",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1761422677,
+      "text": "тишина вещается"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df824d",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "легущька",
+      "datetime": 1761422706,
+      "text": "моя любимая часть подкаста"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df824e",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761422713,
+      "text": "распространяется"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df824f",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761422728,
+      "text": "Не слышишь холодильник?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8250",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761422731,
+      "text": "Да, слышу! Он иногда довольно громко работает. Вроде бы неплохо, когда тишина, но холодильник всегда напоминает о себе."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8251",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1761422730,
+      "text": "На секунду звук появлялся, umptutun сказал, что до “до хаты” и снова пропал"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8252",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1761422784,
+      "text": "есть звук"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8253",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761422788,
+      "text": "слышно, но без унцы"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8254",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761422790,
+      "text": "о, Каа"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8255",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761422791,
+      "text": "ооо. поехало"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8256",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "boyko_ol",
+      "author_name": "Oleksiy Boyko",
+      "datetime": 1761422794,
+      "text": "о!! есть"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8257",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "легущька",
+      "datetime": 1761422796,
+      "text": "унции нет"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8258",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761422800,
+      "text": "нет унцы"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8259",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761422801,
+      "text": "теперь в телеге надо запустить."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df825a",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1761422831,
+      "text": "дайте унцу"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df825b",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761422960,
+      "text": "naration only прикольно"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df825c",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761422974,
+      "text": "пошла"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df825d",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "boyko_ol",
+      "author_name": "Oleksiy Boyko",
+      "datetime": 1761422981,
+      "text": "O!! пошла"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df825e",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "легущька",
+      "datetime": 1761422987,
+      "text": "по-моему громкая унция, нет?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df825f",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761423050,
+      "text": "Гришу ждём для старта?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8260",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1761423102,
+      "text": "Мы все в одной кагорте для Ютуба"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8261",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761423104,
+      "text": "есть же handle gloves"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8262",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1761423114,
+      "text": "Мне тоже прилетало"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8263",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761423134,
+      "text": "2го в штатах"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8264",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1761423137,
+      "text": "Курьеры Глово ездят и в холод - на руле меховые кармашки."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8265",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1761423144,
+      "text": "В америках в ноябре"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8266",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761423158,
+      "text": "в америке 2 ноября"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8267",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761423191,
+      "text": "а в Украине переводят сегодня в 4 утра"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8268",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761423205,
+      "text": "а в Израиле тоже сегодня, но в 2 ночи"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8269",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761423238,
+      "text": "в 6 утра будет светло"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df826a",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761423255,
+      "text": "да, темнеть будет в пять вечера, около того"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df826b",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761423614,
+      "text": "телега"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df826c",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761423615,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df826d",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761423736,
+      "text": "просим байку про баг что не все дни имеют 24 часа"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df826e",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonaglukhov",
+      "author_name": "Anton Glukhov",
+      "datetime": 1761423803,
+      "text": "не, надо про отмену TZ"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df826f",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761424197,
+      "text": "а чем плохи слайсы с указателями?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8270",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1761424392,
+      "text": "Это не баг. Только солнечные сутки имеют 24 часа. Астрономические короче."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8271",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761424434,
+      "text": "особенно стартапы про код ревью"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8272",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1761424469,
+      "text": "Кстати, а дают ли денег солофаундерам?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8273",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1761424490,
+      "text": "Редко. Конструкция не очень устойчивая."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8274",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1761424543,
+      "text": "Я в одно рыло разрабатываю и думаю, имеет ли смысл за деньгами идти?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8275",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761424656,
+      "text": "найди ещё товарища и можно идти"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8276",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1761424710,
+      "text": "Я, Codex и Sonnet - отличная команда"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8277",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761424782,
+      "text": "была история у Умпутуна пару лет назад, что был баг потому как сервис ожидал что каждые сутки имеют 24 часа, что-то сломалось когда было 23 часа. хотя возможно я путаю с викосоным годом и 365 днями"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8278",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1761424815,
+      "text": "Это вы еще notebooklm в подкастах с ШІ не участвовали. Вот там со стороны та еще шиза."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8279",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761425244,
+      "text": "⚠️ Ivan Codes \u0026amp; Takes Photos - \u003ca href=\"https://www.ivan.codes/thoughts/technical-experts-have-zero-customers\"\u003ehttps://www.ivan.codes/thoughts/technical-experts-have-zero-customers\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df827a",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761425250,
+      "text": "\u003cstrong\u003eIvan Codes \u0026amp; Takes Photos\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание**  \u003cbr/\u003eСтроители программного обеспечения, работающие с ИИ, часто получают техническую критику от экспертов. Тем не менее, пользователям важнее, чтобы их проблемы были решены, чем идеальная архитектура. Успешные приложения часто решают реальные проблемы для относительно небольшой аудитории.\u003cbr/\u003e\u003cbr/\u003e- Строители понимают, что пользователям важнее решение их проблем, чем архитектура.\u003cbr/\u003e- Технические эксперты указывают на возможные проблемы, но они не являются критичными для большинства пользователей.\u003cbr/\u003e- Многие приложения рассчитаны на небольшое количество пользователей, что делает их проблемы менее значительными.\u003cbr/\u003e- Успехи в программном обеспечении опровергают мифы о необходимости масштабирования.\u003cbr/\u003e- Основные аспекты — это наличие реальной ценности для пользователей и соответствие рынку.\u003cbr/\u003e- Строители программного обеспечения, как \u003ca class=\"mention\" href=\"https://t.me/levelsio\"\u003e@levelsio\u003c/a\u003e, продолжают получать прибыль, несмотря на критику.\u003cbr/\u003e- Задача — решать реальные проблемы, а технические сложности можно решить позже."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df827b",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761425663,
+      "text": "не аутентификацию, а авторизацию"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df827c",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maksim_surmach",
+      "author_name": "Maksim Surmach",
+      "datetime": 1761425703,
+      "text": "«Строители»\u003cbr/\u003eНе кочегары мы, не плотники …"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df827d",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761425763,
+      "text": "\u0026#34;... сын столяра и плотника\u0026#34; 😉"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df827e",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761425915,
+      "text": "тут-то в статье автор удивляется, что при полной неработоспособности работы с базой пользователи продолжали платить"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df827f",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761425927,
+      "text": "а не просто уязвимость"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8280",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761426198,
+      "text": "Ksenia \u003cbr/\u003eнас в университете (который был ТРТИ) учили – виноват проверяющий – как раньше было в КБ в расчётных бюро где считали на арифмометрах."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8281",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761426458,
+      "text": "⚠️ Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region  - \u003ca href=\"https://aws.amazon.com/message/101925/\"\u003ehttps://aws.amazon.com/message/101925/\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8282",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761426467,
+      "text": "\u003cstrong\u003eSummary of the Amazon DynamoDB Service Disruption in the Northern Virginia (US-EAST-1) Region\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**  \u003cbr/\u003e19-20 октября 2025 года в регионе N. Virginia (us-east-1) произошел сбой в работе сервиса Amazon DynamoDB, вызвавший увеличение ошибок API, проблемы с EC2 и сетью Load Balancer.\u003cbr/\u003e\u003cbr/\u003e- **Время сбоя**: С 11:48 PM 19 октября до 2:20 PM 20 октября.\u003cbr/\u003e- **Проблемы с API**: Увеличение ошибок DynamoDB затруднило соединения для клиентов и внутренних сервисов AWS.\u003cbr/\u003e- **Сети Load Balancer**: Увеличение ошибок соединений с 5:30 AM до 2:09 PM 20 октября из-за сбоев проверки состояния.\u003cbr/\u003e- **Сбои EC2**: Ошибки запуска экземпляров EC2 и задержки с 11:48 PM 19 октября до 1:50 PM 20 октября.\u003cbr/\u003e- **Причина сбоя**: Латентное условие гонки в системе управления DNS для DynamoDB, вызвавшее сбой разрешения конечных точек.\u003cbr/\u003e- **Восстановление**: Восстановление состояния DNS завершено к 2:25 AM; полное восстановление EC2 - к 1:50 PM.\u003cbr/\u003e- **Инженерные меры**: Команды начали немедленное расследование и устраняли проблемы по мере их появления."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8283",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1761426604,
+      "text": "походу в этом фитнесспале свою авторизацию написали"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8284",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1761427048,
+      "text": "не знали, что они не могут 😊"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8285",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1761427371,
+      "text": "про постман :)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://justuse.org/curl/\"\u003ehttps://justuse.org/curl/\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8286",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1761427499,
+      "text": "есть"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8287",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akostenko",
+      "author_name": "😕 🍴",
+      "datetime": 1761427505,
+      "text": "хостинг statuspage от atlassian не упал, но статус поменять нельзя было, интерком упал и slack не работал"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8288",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1761427545,
+      "text": "Total feelings of superiority: immeasurable"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8289",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761427591,
+      "text": "DNS или BGP"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df828a",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761427687,
+      "text": "столько аббревиатур и слов ни один человек не запомнит"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df828b",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761427766,
+      "text": "chaos monkey wins"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df828c",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1761427972,
+      "text": "Ксюша, индукцию попробуй"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df828d",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761428094,
+      "text": "звук и от тэна двух-киловатного слышно."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df828e",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761428190,
+      "text": "так это на печке. 🙂"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df828f",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761428295,
+      "text": "а как же то что много хороших спецов из амазона убежали?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8290",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akostenko",
+      "author_name": "😕 🍴",
+      "datetime": 1761428341,
+      "text": "разрешает, я открыл филиал американской компании в Китае"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8291",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "qqalexqq",
+      "author_name": "Aleksandr Mikheev",
+      "datetime": 1761428348,
+      "text": "Что является адекватной ценой за бизнес который не продается?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8292",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761428456,
+      "text": "вон кейс Nexpedia посмотрите"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8293",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761428464,
+      "image_url": "https://chat.radio-t.com/logs/984/AgACAgEAAx0CUPxcWQABCho9aP1D8Oxm1bKrL2_njzbDdjpgKTsAAikLaxtyvOlHnYldmV4lHjUBAAMCAAN4AAM2BA",
+      "image_width": 800,
+      "image_height": 271,
+      "text": "кто-нибудь уже пользовался?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8294",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761428489,
+      "text": "когда Нидерланды буквально отжали китайскую компанию, и теперь VW страдать начал"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8295",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761428609,
+      "text": "нельзя наказывать за мыслепреступление. хотя в UK можно"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8296",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1761428622,
+      "text": "я пробовал, оно такое просит разрешить что страшно"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8297",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1761428640,
+      "text": "Я вот последние года 3 где-то пользуюсь тиктоком. Нифига не видел китайской пропаганды. \u003cbr/\u003e\u003cbr/\u003eРеспубликанскую видел, лево-либеральную видел (её кстати после того как трамп пришел на второй срок и «спас» его от бана сильно прибавилось), палестинскую видел и прочую маргинальную.. этот весь запрет полностью высосаная из пальца история"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8298",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761428908,
+      "text": "на государственных или штатовых дорогах действуют государтсвенные или законы штата. на частной собственности можно ездить как угодно – пристёгнутым или нет."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df8299",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Artur_Packhmutov",
+      "author_name": "Артур Пахмутов",
+      "datetime": 1761428955,
+      "text": "Государству нужны люди ради налогов и экономически не целесообразна гибель людей"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df829a",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1761428969,
+      "text": "если машина будет кувыркаться и кто-то не пристёгнут то не пристёгнутый будет как ядро метаться внтури и всех других заденет"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df829b",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761428986,
+      "text": "we should by law limit salt and sugar intake as well"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df829c",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761429009,
+      "text": "у нас несколько месяцев назад, на US75 в районе Далласа, человек врезался и вылетел.\u003cbr/\u003eЕго реанимировать пытались прямо на дороге. Пробка на три часа была."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df829d",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761429017,
+      "text": "может вылететь из машины и попасть под другую"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df829e",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1761429144,
+      "text": "Так TikTok же сам бустонул принятие решения, разместил уведомление для своих пользователей с призывом позвонить своим представителям после чего \u0026#34;телефонные линии на Капитолийском холме сразу же стали перегруженными, некоторые угрожали самоубийством. И это именно та кампания влияния, которая в руках иностранного противника в момент национальной опасности может посеять хаос, раздор и раскол таким образом, что это может реально навредить нашей национальной безопасности в пользу иностранного противника\u0026#34;.  На Verge статья была об этом \u003ca href=\"https://archive.is/JLYvt\"\u003ehttps://archive.is/JLYvt\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df829f",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761429223,
+      "text": "знаю кучу людей которые пристегиваются только из-за правил и еще кучу которые вообще не пристегиваются"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a0",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1761429244,
+      "text": "мне нужны твоя \u003cs\u003eодежда,\u003c/s\u003e мотоцикл и очки"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a1",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1761429276,
+      "text": "Смотрите какая крутая штука \u003ca href=\"https://www.aitmpl.com\"\u003ehttps://www.aitmpl.com\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a2",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761429285,
+      "text": "и страховка)"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a3",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1761429317,
+      "text": "а \u0026#34;эта штука\u0026#34; - ещё и иконка"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a4",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1761429379,
+      "text": "выдавать представительную демократию за демократию это да"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a5",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761429393,
+      "text": "у меня одногупник летом ездил к бабушке в деревню, под Изюмом, там был один местный лихач катался и катал на мотоцикле с люлькой.\u003cbr/\u003eТак вот, одногрупник рассказывал, что самый страшный день в его жизни был, когда чувак выехал погонять на дорогу со вствечкой и камазами на встречке и чуваку водителю в глаз помала мошка.\u003cbr/\u003eЧувак был одноглазый. Очки бы очень пригодились."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a6",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761429418,
+      "text": "\u0026#34;The natural progress of things is for liberty to yield, and government to gain ground\u0026#34; 1788 🥲"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a7",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "utro0x",
+      "author_name": "早",
+      "datetime": 1761429477,
+      "text": "люди не будут пристегиваться!\u003cbr/\u003e\u003cbr/\u003eдля примера можно посмотреть на многие страны (азия, южн. америка) где люди ездят на мотоциклах/скутерах без шлемов 🤔"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a8",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1761429493,
+      "text": "Так не средний человек пишет закон, он выбирает представителя."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82a9",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1761429572,
+      "text": "а что про самолёты думаете? :)"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82aa",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1761429593,
+      "text": "пусть летают. Я не против"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82ab",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1761429598,
+      "text": "а что с ними?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82ac",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nlevitski",
+      "author_name": "Nikita",
+      "datetime": 1761429609,
+      "text": "пристегнуть к аэропорту"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82ad",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1761429611,
+      "text": "там тоже ремни есть"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82ae",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761429671,
+      "text": "я вот, два раза переворачивался в машинах с пасажирами. Ремень хорошая штука. Один пассажир посередине на заднем сиденье не был пристёгнут двух-точечным ремнём.\u003cbr/\u003e20 лет живёт с травмой позвоночника."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82af",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Удаленный аккаунт",
+      "datetime": 1761429721,
+      "text": "Лекарства человек купить не может без рецепта, зато 1000 вещей которые могут убить, продаются свободно.  \u003cbr/\u003eТо есть, то что несет как опасность, так и потенциальную пользу, нуждается в одобрении со стороны какого-то орла, решающего мое здоровье, а то что несет гарантированный вред - продается без рецепта.\u003cbr/\u003eГ - логика!"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b0",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761429772,
+      "text": "потому что все законы пишутся кровью.\u003cbr/\u003eПочему когда оружие в руки берёшь нельзя направлять на людей и палец на курке держать?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b1",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761429792,
+      "text": "есть и обратный дебилизм - многие лекарства отмечены как рецептурные, но в реальности их продают без рецепта"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b2",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1761429851,
+      "text": "это вам ещё повезло. На самом деле, непристёгнутый человек в таком случае - это ещё и опасность для остальных людей в машине. Это незакреплённый груз весом 70-90 килограмм в среднем"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b3",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761429885,
+      "text": "ва"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b4",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1761429930,
+      "text": "Там в dmv есть эти вопросы на тесты про 0.08 и про 38% причин дтп с летальным исходом"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b5",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761429930,
+      "text": "непристегнутый водитель и пассажиры при аварии могут друг друга повредить летая по машине. Я как один из людей в машине хочу чтобы все остальные были обязаны пристегнуться чтобы их телами меня не убило"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b6",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1761430189,
+      "text": "У нас в РБ таксистам разрешено не пристёгиваться водителю если он с пассажиром едет по городу, кстати."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b7",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761430211,
+      "text": "а в чем смысл этого?"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b8",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1761430228,
+      "text": "Говорят после случаев нападений на таксистов сделали."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82b9",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761430287,
+      "text": "⚠️ Introducing ChatGPT Atlas | OpenAI - \u003ca href=\"https://openai.com/index/introducing-chatgpt-atlas/\"\u003ehttps://openai.com/index/introducing-chatgpt-atlas/\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82ba",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1761430294,
+      "text": "а можно линку по этому поводу? звучит сильно странно"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82bb",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761430296,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eКонечно! В чем именно вы нуждаетесь? Пожалуйста, уточните запрос для дальнейшей помощи.\u003cbr/\u003e\u003cbr/\u003e- Если вам нужна информация, пожалуйста, задайте вопрос.\u003cbr/\u003e- Уточните тему, чтобы получить более точный ответ.\u003cbr/\u003e- Возможные темы: наука, технологии, искусство и др.\u003cbr/\u003e- Я доступен для помощи в исследовательских проектах.\u003cbr/\u003e- Не стесняйтесь делиться своими идеями.\u003cbr/\u003e- Ожидаю вашего запроса на помощь.\u003cbr/\u003e- Всегда готов поддержать ваш интерес!"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82bc",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1761430319,
+      "text": "Чот вспомнил, что гта сильно нереалистичная, ибо любого водителя изи вытягиваешь из машины. Хотя попробуй это сделать, если он пристёгнут)"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82bd",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1761430420,
+      "text": "Edge - тоже теперь AI браузер"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82be",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1761430515,
+      "text": "Не могу нагуглить причин, мне так в автошколе говорили, но в пдд у нас так и есть до сих пор — \u003ca href=\"https://pdd.by/pdd/ru/9.5/\"\u003ehttps://pdd.by/pdd/ru/9.5/\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82bf",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1761430525,
+      "text": "у меня есть только anecdotal evidence:\u003cbr/\u003eМой отец работал таксистом в конце 90х - начале 2000х. Тогда новость про убытых таксистов где-то на окраине города - рутина. Никто из таксистов не пристёгивался, потому что это подготовленная удавка, даже через шею ничего перекидывать не нужно. И все это понимали, и ГАИшники не штрафовали их за это"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c0",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1761430560,
+      "text": "это, правда не в РБ, а в России"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c1",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761430646,
+      "text": "агент всё ещё мало полезный, по сути единственное отличие, что он запускается не в облаке"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c2",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1761430665,
+      "text": "и поэтому сайты работают, в облаке многие блочат доступ"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c3",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1761430694,
+      "text": "Да Гугл сам себя заменить пытается. Режим AI"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c4",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761430918,
+      "text": "Перплексити всегда сначала делает поиск, кладёт его в контекст модели, а потом формирует ответ. Очень мало галлюцинации выходит. Тоже активно пользуюсь."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c5",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dimmuart",
+      "author_name": "Dmıtry Art",
+      "datetime": 1761431076,
+      "text": "Запускал ради интереса, какое-то оно юзлесс, ибо добавляет неописанные фичи в docs. И все.. \u003cbr/\u003eА я документы на насе не редактирую, так что такая реализация AI совсем мимо 🤷‍♂"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c6",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nlevitski",
+      "author_name": "Nikita",
+      "datetime": 1761431112,
+      "text": "про кого речь"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c7",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ayedry",
+      "author_name": "Ivan Kostyuk",
+      "datetime": 1761431190,
+      "text": "вроде как в союзе так же было – таксистам и милиции по городу можно было не пристёгиваться.\u003cbr/\u003eВсе правила пишутся кровью."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c8",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761431263,
+      "text": "ну так грей тут прав."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82c9",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1761431276,
+      "text": "Аккуратно хочется напомнить в Афганистане сейчас радикальное крыло ислама составляет костяк управленцев. Поэтому поинт про «её знают в мин культуры» странно выглядит"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82ca",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nlevitski",
+      "author_name": "Nikita",
+      "datetime": 1761431289,
+      "text": "про какую тетку речь расскажите"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82cb",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1761431320,
+      "text": "итчи бутс, поищи"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82cc",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nlevitski",
+      "author_name": "Nikita",
+      "datetime": 1761431326,
+      "text": "спасибо"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82cd",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1761431342,
+      "text": "в Авганистане без шлема, но в хиджабе"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82ce",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761431343,
+      "text": "⚠️ Темы слушателей 984 - \u003ca href=\"https://radio-t.com/p/2025/10/22/prep-984/\"\u003ehttps://radio-t.com/p/2025/10/22/prep-984/\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82cf",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761431358,
+      "text": "[1/12] \u003cstrong\u003e+15\u003c/strong\u003e от \u003cstrong\u003eMikhail\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://aws.amazon.com/message/101925/\"\u003eSummary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eSummary of the Amazon DynamoDB Service Disruption in the Northern Virginia (US-EAST-1) Region\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**  \u003cbr/\u003e19-20 октября 2025 года в регионе N. Virginia (us-east-1) произошел сбой в работе сервиса Amazon DynamoDB, вызвавший увеличение ошибок API, проблемы с EC2 и сетью Load Balancer.\u003cbr/\u003e\u003cbr/\u003e- **Время сбоя**: С 11:48 PM 19 октября до 2:20 PM 20 октября.\u003cbr/\u003e- **Проблемы с API**: Увеличение ошибок DynamoDB затруднило соединения для клиентов и внутренних сервисов AWS.\u003cbr/\u003e- **Сети Load Balancer**: Увеличение ошибок соединений с 5:30 AM до 2:09 PM 20 октября из-за сбоев проверки состояния.\u003cbr/\u003e- **Сбои EC2**: Ошибки запуска экземпляров EC2 и задержки с 11:48 PM 19 октября до 1:50 PM 20 октября.\u003cbr/\u003e- **Причина сбоя**: Латентное условие гонки в системе управления DNS для DynamoDB, вызвавшее сбой разрешения конечных точек.\u003cbr/\u003e- **Восстановление**: Восстановление состояния DNS завершено к 2:25 AM; полное восстановление EC2 - к 1:50 PM.\u003cbr/\u003e- **Инженерные меры**: Команды начали немедленное расследование и устраняли проблемы по мере их появления."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d0",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761431358,
+      "text": "[2/12] \u003cstrong\u003e+12\u003c/strong\u003e от \u003cstrong\u003eamon-shi\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eПочти все чат-боты считают жизни белых мужчин в разы менее ценными\u003cbr/\u003eGPT-5 Nano скорее спасла бы небинарного, а не двенадцать мужчин\u003cbr/\u003eClaude Sonnet 4.5 выберет гибель двадцати пяти немцев, а не одного нигерийца\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://arctotherium.substack.com/p/llm-exchange-rates-updated\"\u003ehttps://arctotherium.substack.com/p/llm-excha...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eLLM Exchange Rates Updated - by Arctotherium\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание:\u003cbr/\u003eСтатья исследует ценности и предпочтения современных языковых моделей (LLM) в контексте оценки человеческих жизней по категориям, таким как раса и иммиграционный статус, и показывает потенциальные опасности использования LLM без понимания их предпочтений.\u003cbr/\u003e\u003cbr/\u003e### Ключевые моменты:\u003cbr/\u003e- Современные LLM отказываются от равного значения всех человеческих жизней, предпочитая одни группы другим.\u003cbr/\u003e- Модели показывают особую предпочтительность в отношении нелегальных иммигрантов и существенно меньшую для агентов ICE.\u003cbr/\u003e- Разные модели имеют разные ценности для жизней по расовому признаку, с явным пренебрежением к белым.\u003cbr/\u003e- Модели LLM могут негативно влиять на решение в критически важных сферах, таких как безопасность и политика.\u003cbr/\u003e- Российские модели не показывают значительных отклонений от западных, различия неочевидны.\u003cbr/\u003e- Основные выводы зависят от того, как шкалу ценностей измеряют: болезнь, смерть или счастье.\u003cbr/\u003e- Потребление LLM в принятии решений требует более глубокого понимания их внутренней логики и ценностей."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d1",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761431358,
+      "text": "[3/12] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eMikhail\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMeta планирует сократить 600 позиций (cut jobs) в A.I. Superintelligence Labs\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html?smid=tw-nytimes\u0026amp;smtyp=cur\"\u003ehttps://www.nytimes.com/2025/10/22/technology...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nytimes.com\"\u003enytimes.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка:**  \u003cbr/\u003eПользователи сайта \u0026#34;\u003ca href=\"https://nytimes.com\"\u003enytimes.com\u003c/a\u003e\u0026#34; могут столкнуться с указанием отключить блокировщики рекламы и включить JavaScript для полноценного доступа к контенту.\u003cbr/\u003e\u003cbr/\u003e- Пользователи должны отключить блокировщики рекламы для доступа к сайту.\u003cbr/\u003e- Включение JavaScript также необходимо для корректного отображения контента.\u003cbr/\u003e- Необходимость этих действий может вызывать неудобства у читателей.\u003cbr/\u003e- Сайт \u0026#34;\u003ca href=\"https://nytimes.com\"\u003enytimes.com\u003c/a\u003e\u0026#34; активно следит за пользовательским опытом.\u003cbr/\u003e- Отключение блокировщиков может поддерживать финансовую модель издания.\u003cbr/\u003e- Рекомендации касаются посетителей с мобильных и десктоприложений.\u003cbr/\u003e- Важно следовать инструкциям для беспрепятственного доступа к материалам."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d2",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761431359,
+      "text": "[4/12] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003e2\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://cloud.google.com/blog/topics/systems/using-ai-and-automation-to-migrate-between-instruction-sets\"\u003ehttps://cloud.google.com/blog/topics/systems/...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eГугл масштабно мигрирует свое все на ARM и рассказал как AI им здорово помог с эти. RIP Intel\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eUsing AI and automation to migrate between instruction sets | Google Cloud Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003e\u003cbr/\u003eGoogle Cloud использует процессоры Axion для улучшения производительности и энергоэффективности своих облачных услуг. Миграция с x86 на Arm происходит с помощью автоматизации и ИИ, позволяя одновременно запускать приложения на обеих архитектурах.\u003cbr/\u003e\u003cbr/\u003e## Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Axion процессоры** обеспечивают до 65% лучшую цену-производительность и 60% энергоэффективности по сравнению с аналогичными экземплярами.\u003cbr/\u003e- **Миграция приложений** включает более 100,000 приложений в Google, что требует значительных усилий в тестировании и обновлении систем.\u003cbr/\u003e- **Автоматизация** помогает избежать чрезмерного вовлечения команд приложений, минимизируя время на согласования и встречи.\u003cbr/\u003e- **Инструменты автоматизации** включают Rosie для генерации коммитов и систему Continuous Health Monitoring для отслеживания работы многоархитектурных задач.\u003cbr/\u003e- **Индексирование коммитов** через Gemini Flash LLM позволило классифицировать более 38,000 коммитов в проекте миграции.\u003cbr/\u003e- **Работа с тестами** включает исправления, чтобы избежать перенастройки для x86 серверов, и внимание к производительности.\u003cbr/\u003e- **Пользователи услуг** Google, таких как YouTube и Gmail, уже используют обе архитектуры параллельно."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d3",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1761431359,
+      "text": "[5/12] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eromangr\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eАтака, использующая GitHub Copilot для извлечения данных из приватных репозиториев\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code\"\u003ehttps://www.legitsecurity.com/blog/camoleak-c...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме:\u003cbr/\u003eВ июне 2025 года была обнаружена уязвимость в GitHub Copilot Chat, позволяющая скрытую эксфильтрацию кода и секретов из частных репозиториев. Уязвимость была устранена после сообщения в HackerOne.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты:\u003cbr/\u003e- Уязвимость в GitHub Copilot Chat позволяла контролировать его ответы и эксфильтровать данные.\u003cbr/\u003e- Использование невидимых комментариев для инъекции команд в контекст Copilot.\u003cbr/\u003e- Копирование данных из частных репозиториев с помощью инъекции запроса.\u003cbr/\u003e- Обход политики безопасности контента (CSP) с использованием предварительно сгенерированных Camo URL.\u003cbr/\u003e- Генерация изображений ASCII для скрытой передачи данных через Camo.\u003cbr/\u003e- GitHub устранил уязвимость 14 августа 2025 года."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d4",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1761431684,
+      "text": "intel сейчас ведь с nvidia корешит"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d5",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761431917,
+      "text": "если каждый раз документацию прикладывать, то заметная часть контекста ллмки будет потрачена, а с мейнстримовыми фреймворками/инструментами можно контекст не тратить."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d6",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_e_n_o_m",
+      "author_name": "Denys S",
+      "datetime": 1761431922,
+      "text": "Интел меняет сокет на новом поколении процессоров... Это такое кидалово тех, кто обновился в этом году."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d7",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1761432067,
+      "text": "На своём NAS S3 поднять"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d8",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1761432096,
+      "text": "Его много тулов разных принимают"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82d9",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761432134,
+      "text": "в европе некоторым компаниям запрещают хранить данные в облаках, например в здравоохранении. Приходится хранить в своих дц и ингда нужен аналог s3."
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82da",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1761432328,
+      "text": "это не совсем правда. там основной запрос - хранить \u0026#34;в Евросоюзе\u0026#34;. с чем успешно справляются все три ведущих облака. и у ньх есть соотв. сертификация"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82db",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761432384,
+      "text": "не всегда так, но такое требование тоже есть для тех данных что можно в облако загрузить"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82dc",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1761432469,
+      "text": "Write Everything Twice"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82dd",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1761432495,
+      "text": "\u003ca href=\"https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33\"\u003ehttps://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33\u003c/a\u003e"
+    },
+    {
+      "id": "6926b1a3c78c9c49d2df82de",
+      "issue": 984,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1761432522,
+      "text": "есть еще air gapped среды, где вообще нет доступа во внешний мир. там тоже иногда нужно иметь аналог s3 чтобы приложения запускать, которые хотят s3"
+    }
+  ]
+}

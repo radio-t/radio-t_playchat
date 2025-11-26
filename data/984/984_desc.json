@@ -1,0 +1,48 @@
+{
+  "issue": 984,
+  "date": "2025-10-25",
+  "audio": "https://cdn.radio-t.com/rt_podcast984.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt984.jpg",
+  "start_time": 1761423615,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Вайб-кодеры против специалистов",
+      "links": [
+        "https://www.ivan.codes/thoughts/technical-experts-have-zero-customers"
+      ],
+      "time": "00:27:09"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как падал AWS",
+      "links": [
+        "https://aws.amazon.com/message/101925/"
+      ],
+      "time": "00:47:23"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "ChatGPT Atlas",
+      "links": [
+        "https://openai.com/index/introducing-chatgpt-atlas/"
+      ],
+      "time": "01:51:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/10/22/prep-984/"
+      ],
+      "time": "02:08:48"
+    }
+  ],
+  "tags": null
+}
