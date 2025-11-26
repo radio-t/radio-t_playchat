@@ -1,0 +1,80 @@
+{
+  "issue": 985,
+  "date": "2025-11-01",
+  "audio": "https://cdn.radio-t.com/rt_podcast985.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt985.jpg",
+  "start_time": 1762028682,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход нового Cursor 2.0 и модели Composer",
+      "links": [
+        "https://cursor.com/blog/2-0"
+      ],
+      "time": "00:18:40"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Шум вокруг нового агента goose",
+      "links": [
+        "https://github.com/block/goose"
+      ],
+      "time": "00:32:25"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI и проблема самоубийств",
+      "links": [
+        "https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/"
+      ],
+      "time": "00:38:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Хорошо переписали с Go ... на Go",
+      "links": [
+        "https://www.honeycomb.io/blog/how-we-saved-70-cpu-60-memory-refinery"
+      ],
+      "time": "01:04:26"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Релизы и теги на GitHub могут быть неизменяемые",
+      "links": [
+        "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/"
+      ],
+      "time": "01:14:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Дизайн который пугает пользователей",
+      "links": [
+        "http://danieldelaney.net/normal/"
+      ],
+      "time": "01:22:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Ошибки код ревью",
+      "links": [
+        "https://www.seangoedecke.com/good-code-reviews/"
+      ],
+      "time": "01:34:07"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/10/29/prep-985/"
+      ],
+      "time": "02:28:53"
+    }
+  ],
+  "tags": null
+}
