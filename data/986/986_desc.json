@@ -1,0 +1,64 @@
+{
+  "issue": 986,
+  "date": "2025-11-08",
+  "audio": "https://cdn.radio-t.com/rt_podcast986.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt986.jpg",
+  "start_time": 1762633179,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple готовит очень дешевые лаптопы",
+      "links": [
+        "https://www.bloomberg.com/news/articles/2025-11-04/apple-readies-a-low-cost-laptop-to-rival-chromebooks-and-windows-pcs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2MjI3NTgwOSwiZXhwIjoxNzYyODgwNjA5LCJhcnRpY2xlSWQiOiJUNTBIQk9HUFFRODgwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.wYhxdh3k7Sb12pXdc9adUN8L3brLP_M5SgcilqUi6cc\u0026sref=51oIW18F"
+      ],
+      "time": "00:26:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI Slop против OSS Security",
+      "links": [
+        "https://devansh.bearblog.dev/ai-slop/"
+      ],
+      "time": "00:39:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход 26.1",
+      "links": [
+        "https://www.macstories.net/news/apple-releases-26-1-updates-to-its-operating-systems/"
+      ],
+      "time": "00:59:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "2 миллиарда адресов утекли",
+      "links": [
+        "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/"
+      ],
+      "time": "01:27:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Dunning-Kruger посредством AI",
+      "links": [
+        "https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/"
+      ],
+      "time": "01:40:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/11/04/prep-986/"
+      ],
+      "time": "01:57:28"
+    }
+  ],
+  "tags": null
+}
