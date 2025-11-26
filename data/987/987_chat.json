@@ -1,0 +1,1154 @@
+{
+  "chat": [
+    {
+      "id": "6927288e07d85fbbaba0f7e8",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1763237574,
+      "text": "голоса, я слышу голоса в своей голове.."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7e9",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1763237589,
+      "text": "голоса, наконецто"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7ea",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "aabbccdd010",
+      "author_name": "IM",
+      "datetime": 1763237624,
+      "text": "я тоже слышу ваши голоса"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7eb",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1763237671,
+      "text": "тебе тоже говорят поставить kitty и вайбкодить на го?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7ec",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763237674,
+      "text": "Да, такие советы частенько слышу! Кажется, это стало популярным трендом. Ты уже пробовал?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7ed",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "aabbccdd010",
+      "author_name": "IM",
+      "datetime": 1763237691,
+      "text": "там у них только один вайбкодер"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7ee",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1763237774,
+      "text": "голоса есть, Гриши нет, грусть продолжается"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7ef",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Vasily",
+      "datetime": 1763237788,
+      "text": "Слышно!"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f0",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "IgorBakhtin",
+      "author_name": "Igor Bakhtin",
+      "datetime": 1763237799,
+      "text": "голоса!"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f1",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763237807,
+      "text": "А куда он делся?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f2",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1763237834,
+      "text": "отлучился воды испить"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f3",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1763237846,
+      "text": "болеет"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f4",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "InSafeWorld",
+      "author_name": "Udom Bunchu",
+      "datetime": 1763237847,
+      "text": "прем не оплатили"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f5",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763237876,
+      "text": "Оляпку не слышно"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f6",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "LIAHUNDR",
+      "author_name": "Aleksey Golovkov",
+      "datetime": 1763237983,
+      "text": "Ксения слишком честная и добрая)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f7",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763238071,
+      "text": "Можно угадать по бульканью?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f8",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "LIAHUNDR",
+      "author_name": "Aleksey Golovkov",
+      "datetime": 1763238078,
+      "text": "А что со стимом?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7f9",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763238212,
+      "text": "Одобряем"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7fa",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763238289,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7fb",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Vasily",
+      "datetime": 1763238290,
+      "text": "Виски такого объема без пополнения за 2 часа выветривается в ноль."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7fc",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1763238382,
+      "image_url": "https://chat.radio-t.com/logs/987/AgACAgIAAx0CUPxcWQABCivaaRjh7gmmofn6w7PBCUkO_OEwdmsAAsEOaxs3RclI-LVXLtyURnMBAAMCAAN5AAM2BA",
+      "image_width": 960,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7fd",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1763238388,
+      "text": "ожидаем в введении от умпутуна инфу почему тизер был, а ничего дальше не было"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7fe",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "LIAHUNDR",
+      "author_name": "Aleksey Golovkov",
+      "datetime": 1763238405,
+      "text": "Тихая?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f7ff",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763238418,
+      "text": "бесшумная"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f800",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1763238436,
+      "text": "кстати, да - не стучат клавиши?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f801",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "aleksko",
+      "author_name": "aleks ko",
+      "datetime": 1763238459,
+      "text": "струнный ударный)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f802",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Vasily",
+      "datetime": 1763238469,
+      "text": "Наушники воткнуть некуда!"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f803",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763238474,
+      "text": "Сапожник - работает молоточками"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f804",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "LIAHUNDR",
+      "author_name": "Aleksey Golovkov",
+      "datetime": 1763238489,
+      "text": "Зато педали для NFS уже есть"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f805",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763238531,
+      "text": "Кто не сломал в детстве пианино?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f806",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763238643,
+      "text": "А что за фирма пианино?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f807",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1763238660,
+      "text": "7-40?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f808",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1763238701,
+      "text": "\u003ca href=\"https://www.youtube.com/watch?v=htQBS2Ikz6c\"\u003ehttps://www.youtube.com/watch?v=htQBS2Ikz6c\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f809",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1763238759,
+      "text": "Слушаем, какое следующее видео будет нам попадаться в Ютуб ленте"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f80a",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1763238916,
+      "text": "думал сейчас Ксюша скажет, что собираеется переходить в OpenAI )"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f80b",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "LIAHUNDR",
+      "author_name": "Aleksey Golovkov",
+      "datetime": 1763238981,
+      "text": "вы это обсуждали"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f80c",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1763238988,
+      "text": "что спросить про креветку?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f80d",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "LIAHUNDR",
+      "author_name": "Aleksey Golovkov",
+      "datetime": 1763238999,
+      "text": "В темах Слушателей\u003cbr/\u003eПару выпусков назад"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f80e",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "aabbccdd010",
+      "author_name": "IM",
+      "datetime": 1763239029,
+      "image_url": "https://chat.radio-t.com/logs/987/AgACAgEAAx0CUPxcWQABCivsaRjkdfYTtB5wAiVkwTBOw2BpyVgAAkYLaxvjZchEodFFanKSY8MBAAMCAAN5AAM2BA",
+      "image_width": 1258,
+      "image_height": 698,
+      "text": ""
+    },
+    {
+      "id": "6927288e07d85fbbaba0f80f",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1763239129,
+      "text": "интересно, у меня сработало \u003ccode\u003eshow me seahorse emoji\u003c/code\u003e на 5.1, ответил странно"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f810",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "LIAHUNDR",
+      "author_name": "Aleksey Golovkov",
+      "datetime": 1763239139,
+      "text": "Чувство ДежаВю? - Ошибка записи-вывода)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f811",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1763239152,
+      "text": "когнитивные искажения нейронки"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f812",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1763239173,
+      "text": "\u003ca href=\"https://clocks.brianmoore.com\"\u003ehttps://clocks.brianmoore.com\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f813",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1763239191,
+      "text": "это чисто эффект манделы\u003cbr/\u003e\u003cbr/\u003eконек должен быть но его нет"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f814",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Kinmila",
+      "author_name": "Serhii KM Turkov",
+      "datetime": 1763239266,
+      "text": "\u003cstrong\u003eKimi K2  - круты\u003c/strong\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f815",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1763239286,
+      "text": "svg как пьяный ребёнок рисует пока что в chatgpt, да, но уже рисует и рендерит сразу"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f816",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763239435,
+      "image_url": "https://chat.radio-t.com/logs/987/AgACAgIAAx0CUPxcWQABCiv0aRjmC0-vuFfNnm-J_LsZjxmMrM4AAtUOaxs3RclIdGnT2CyNQa0BAAMCAAN5AAM2BA",
+      "image_width": 1085,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "6927288e07d85fbbaba0f817",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763239437,
+      "text": "⚠️ Go’s Sweet 16 - The Go Programming Language - \u003ca href=\"https://go.dev/blog/16years\"\u003ehttps://go.dev/blog/16years\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f818",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763239441,
+      "text": "\u003cstrong\u003eGo’s Sweet 16 - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003e10 ноября Go отметил свой 16-й день рождения с выпуском версий 1.24 и 1.25. Команда продолжает развивать язык с акцентом на интеграции с AI, улучшения безопасности и производительности, а также обновления инструментария для разработки.\u003cbr/\u003e\u003cbr/\u003e- Отмечено 16-летие языка Go.\u003cbr/\u003e- Выпущены Go версии 1.24 и 1.25 с новыми API и улучшениями.\u003cbr/\u003e- Улучшена безопасная разработка с сертификатами CAVP и FIPS 140-3.\u003cbr/\u003e- Введены тестирование с пакетом synctest для асинхронного кода.\u003cbr/\u003e- Улучшена работа с контейнерами в Go 1.25.\u003cbr/\u003e- Появился альфа-GC Green Tea для снижения накладных расходов.\u003cbr/\u003e- Развивается поддержка AI через gopls и SDK для MCP."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f819",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763239472,
+      "text": "в России выдают в 14"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f81a",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1763239486,
+      "text": "я понял на днях, что gpt-oss-120b лучше, чем всё, что было полгода назад"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f81b",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763240369,
+      "text": "Майя"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f81c",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1763240399,
+      "text": "Ну китайский и jalali календари реально используются."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f81d",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1763240416,
+      "text": "А если праздники поддерживать нужно — там ещё вычурные календари есть чтобы описывать праздники религий."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f81e",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763240443,
+      "text": "Если Ампатан не использует - значит никому не надо"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f81f",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763240444,
+      "text": "под дотнет есть Noda Time от самого популярного автора на Stackoverflow - Jon Skeet"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f820",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1763240812,
+      "text": "Скорее Adga какая-нибудь)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f821",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763240827,
+      "text": "Coq"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f822",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763241213,
+      "text": "⚠️ Introducing Beads: A coding agent memory system | by Steve Yegge | Oct, 2025 | Medium - \u003ca href=\"https://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-637d7d92514a\"\u003ehttps://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-637d7d92514a\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f823",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763241219,
+      "text": "\u003cstrong\u003eIntroducing Beads: A coding agent memory system | by Steve Yegge | Oct, 2025 | Medium\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eSteve Yegge делится своим опытом разработки системы памяти для кодирующего агента под названием Beads. Он рассказывает о проблемах в предыдущем проекте и объясняет, почему Beads — это важное улучшение для автоматизации рабочих процессов.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Vibe coding**: Yegge описывает, как он использует \u0026#34;vibe coding\u0026#34;, даже в опасных ситуациях, как в ходе вождения.\u003cbr/\u003e- **Разработка Beads**: Неверные проектные решения привели к созданию Beads после неудачи предыдущего проекта.\u003cbr/\u003e- **Централизованное управление планами**: Beads решает проблему потери контекста у кодирующих агентов благодаря централизованному хранилищу планов.\u003cbr/\u003e- **Проблемы с памятью**: Агенты теряют информацию между сессиями, что приводит к путанице и перегрузке планами.\u003cbr/\u003e- **Методология**: Beads позволяет улучшить долгосрочное планирование и поиск задач для агентов, что делает их более эффективными.\u003cbr/\u003e- **Уроки из неудач**: Yegge делится опытом своих ошибочных архитектурных решений в первом проекте.\u003cbr/\u003e- **Будущее разработки**: Обсуждение перспектив автоматизации и улучшения взаимодействия с кодирующими агентами."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f824",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kigor",
+      "author_name": "Igor Kozlov",
+      "datetime": 1763241643,
+      "text": "А если bitz как скил в клоде подключить?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f825",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763241749,
+      "text": "\u003ca href=\"https://www.vibekanban.com\"\u003ehttps://www.vibekanban.com\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f826",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763241759,
+      "text": "вот такая штука есть для менеджмента тасков"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f827",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763241824,
+      "text": "⚠️ sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10 - Phoronix - \u003ca href=\"https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10\"\u003ehttps://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f828",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763241829,
+      "text": "\u003cstrong\u003esudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10 - Phoronix\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eУтилита sudo-rs подвержена нескольким уязвимостям безопасности, которые влияют на Ubuntu 25.10. \u003cbr/\u003e\u003cbr/\u003e**Основные моменты:**\u003cbr/\u003e- sudo-rs имеет уязвимости, которые могут повлиять на безопасность пользователей.\u003cbr/\u003e- Уязвимости касаются версии Ubuntu 25.10.\u003cbr/\u003e- Michael Larabel — основатель Phoronix и ведущий автор сайта.\u003cbr/\u003e- Он написал более 20,000 статей о Linux и аппаратной поддержке.\u003cbr/\u003e- Larabel является разработчиком Phoronix Test Suite и других инструментов.\u003cbr/\u003e- Пользователи могут следить за его новостями через Twitter и LinkedIn.\u003cbr/\u003e- Для связи доступен сайт \u003ca href=\"https://MichaelLarabel.com\"\u003eMichaelLarabel.com\u003c/a\u003e."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f829",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242120,
+      "text": "а как определили что без AI?"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f82a",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1763242208,
+      "text": "Ну, пофиксят. Сегодня вот такую статью видел — \u003ca href=\"https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html\"\u003ehttps://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eРаста в андроиде стало писаться больше, чем плюсов и количество уязвимостей по памяти и шанс отката изменений снижается."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f82b",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1763242237,
+      "text": "Omarchy"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f82c",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763242430,
+      "text": "⚠️ Valve is about to win the console generation - \u003ca href=\"https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/\"\u003ehttps://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f82d",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763242433,
+      "text": "\u003cstrong\u003eMaking sure you\u0026#39;re not a bot!\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003eОбеспечение безопасности соединения возможно с помощью проверки пользовательских данных и предотвращения доступа ботов.\u003cbr/\u003e\u003cbr/\u003e- Обеспечение безопасности соединения важно для защиты данных.\u003cbr/\u003e- Проверка пользователей помогает выявить ботов.\u003cbr/\u003e- Используйте CAPTCHA для подтверждения, что пользователь – человек.\u003cbr/\u003e- Безопасность предотвращает мошеннические действия.\u003cbr/\u003e- Регулярные обновления ПО улучшают защиту.\u003cbr/\u003e- Использование шифрования данных для защиты информации.\u003cbr/\u003e- Обеспечьте регулярные аудиты безопасности соединений."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f82e",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763242473,
+      "text": "GabeBox"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f82f",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1763242517,
+      "text": "У этого кубика не будет третьей версии, толку от него)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f830",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242547,
+      "text": "так стим ос это просто арч"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f831",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763242562,
+      "text": "не просто арч, а арч, который сделали immutable"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f832",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_kovalevv",
+      "author_name": "Vladimir Kovalev",
+      "datetime": 1763242648,
+      "text": "про apple studio display - лучше без нано, более резкий и дешевле"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f833",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242705,
+      "text": "Так дум не ексклюзив"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f834",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242726,
+      "text": "😂😂😂"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f835",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1763242734,
+      "text": "\u003ca href=\"https://www.bee-link.com/\"\u003ehttps://www.bee-link.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f836",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242739,
+      "text": "Чтото мужики совсем не шарят)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f837",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1763242764,
+      "text": "Дум в Стиме. Тока гад на писи идёт."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f838",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242789,
+      "text": "играть в дум на консоли это вообще богохульство какоето"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f839",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "adobromilskiy",
+      "author_name": "Alexander Dobromilskiy",
+      "datetime": 1763242798,
+      "text": "Цитирую из одного канала:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003ePlayStation откажется от выпуска игр на PC и оставит там только свои сервисные проекты \u003c/strong\u003e— заявляет инсайдер Джеза Кордена\u003cbr/\u003e\u003cbr/\u003eПо информации от «очень хорошего источника», выпуск игр на PC слабо повлиял на финансовые показатели компании. И теперь в Sony рассматривают вариант полностью свернуть это направление, сохранив на PC только игры-сервисы.\u003cbr/\u003e\u003cbr/\u003eДжез не исключает, что Sony намеренно выпускала игры на ПК — для демонстрации инвесторам, что это направление не влияет на бизнес, и вернуться к эксклюзивности.\u003cbr/\u003e\u003cbr/\u003eНедавно обнаруженные иконки CrossBuy и PS5/PC, по его данным, в итоге не будут использоваться.\u003cbr/\u003e\u003cbr/\u003eВполне вероятно, что Ghost of Yotei уже не выйдет на PC."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f83a",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242801,
+      "text": "примерно как гошники среди программистов"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f83b",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1763242818,
+      "text": "Угу. Согласен. Не освоил как оно там."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f83c",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1763242833,
+      "text": "да зайдите к любым ребятам что собирают компы, скажите что хотите мини pc и вам соберут ещё меньше/тише и мощнее"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f83d",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1763242839,
+      "text": "Так с стим машин будет также - подключи как пс5, прийдешь нажмешь кнопку - оно запустится"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f83e",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "adobromilskiy",
+      "author_name": "Alexander Dobromilskiy",
+      "datetime": 1763242843,
+      "text": "Прошел все думы на пс5. Это кайф"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f83f",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1763242848,
+      "text": "Для гонок кокпит больше нужен, чем сам пк)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f840",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1763242850,
+      "text": "плебее это мобильный(именно телефон) гейминг"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f841",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1763242857,
+      "text": "и даже винду поставят, без активации"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f842",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763242883,
+      "text": "⚠️ Introducing GPT-5.1 for developers | OpenAI - \u003ca href=\"https://openai.com/index/gpt-5-1-for-developers/\"\u003ehttps://openai.com/index/gpt-5-1-for-developers/\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f843",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763242885,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме:  \u003cbr/\u003eКонтент требует временной задержки, возможно для получения информации или выполнения задачи.\u003cbr/\u003e\u003cbr/\u003e- Задержка в выполнении задачи может быть необходима для обработки данных.\u003cbr/\u003e- Ожидание может улучшить качество результатов.\u003cbr/\u003e- Важно быть терпеливым во время задержки.\u003cbr/\u003e- Технологические проблемы могут вызывать задержки.\u003cbr/\u003e- Задержка может быть временной и незначительной.\u003cbr/\u003e- Учитесь использовать время ожидания эффективно.\u003cbr/\u003e- Будьте в курсе обновлений во время ожидания."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f844",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1763242889,
+      "text": "ну тут уже к кому зайдёшь)"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f845",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1763242896,
+      "text": "Нишмогла на хбоксе"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f846",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_kovalevv",
+      "author_name": "Vladimir Kovalev",
+      "datetime": 1763242948,
+      "text": "перепрошел последние три дума на пк, это совсем другое"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f847",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763243095,
+      "text": "думающая модель чаще решает, что думать не надо и сразу начинает отвечать"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f848",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlilt",
+      "author_name": "Максим Зырянов",
+      "datetime": 1763243547,
+      "text": "Теперь можно запускать x86 среду разработки в ВР очках 😉"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f849",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763243732,
+      "text": "codex всё внимательно трассирует и выдаёт буквально одну ошибку, но зато какую"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f84a",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763243743,
+      "text": "claude выдаёт пятьсот ошибок, и все какая-то мелочь"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f84b",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763243781,
+      "text": "а ещё codex умеет спорить! а не бежит как claude тут же всё переделывать со словами You\u0026#39;re absolutely right"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f84c",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763243840,
+      "text": "⚠️ A simpler, faster way to unlock 1Password | 1Password - \u003ca href=\"https://1password.com/blog/a-simpler-way-to-unlock-1password\"\u003ehttps://1password.com/blog/a-simpler-way-to-unlock-1password\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f84d",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763243845,
+      "text": "\u003cstrong\u003eA simpler, faster way to unlock 1Password | 1Password\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003e1Password упростил процесс разблокировки, позволяя пользователям открывать его одновременно с устройством, сохраняя при этом безопасность. Новые настройки безопасности предлагают три уровня удобства, адаптируясь к предпочтениям пользователя.\u003cbr/\u003e\u003cbr/\u003e- **Быстрая разблокировка:** 1Password теперь открывается вместе с устройством, используя Face ID, Touch ID или PIN.\u003cbr/\u003e- **Гибкие настройки безопасности:** Вводятся три предустановленных варианта доступа для удобства и безопасности.\u003cbr/\u003e- **Восстановительный код:** Пользователей просят создать код восстановления для защиты аккаунта в случае потери доступа.\u003cbr/\u003e- **Доступ на мобильных устройствах:** Похожие опции разблокировки доступны на мобильных, но с некоторыми отличиями.\u003cbr/\u003e- **Синхронизация настроек:** Предустановки безопасности изменяются в зависимости от каждого устройства.\u003cbr/\u003e- **Персонализация опыта:** Легкость в изменении настроек позволяет пользователю выбрать идеальный баланс удобства и безопасности.\u003cbr/\u003e- **Участие в сообществе:** 1Password приглашает делиться отзывами в сообществе для дальнейших улучшений."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f84e",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763244286,
+      "text": "⚠️ Code Wiki - \u003ca href=\"https://codewiki.google/\"\u003ehttps://codewiki.google/\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f84f",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763244289,
+      "text": "\u003cstrong\u003eCode Wiki\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eCode Wiki - это платформа для совместной работы, хранения и обмена кодом, предоставляющая пользователям возможность делиться знаниями и ресурсами, улучшая коллективное программирование и обучение.\u003cbr/\u003e\u003cbr/\u003e- Удобный интерфейс для изучения и поисков кода.\u003cbr/\u003e- Возможность сотрудничества между разработчиками.\u003cbr/\u003e- Поддержка различных языков программирования.\u003cbr/\u003e- Ресурсы для обучения и повышения квалификации.\u003cbr/\u003e- Интеграция с инструментами разработки и управления проектами.\u003cbr/\u003e- Возможность комментирования и обсуждения кода.\u003cbr/\u003e- Регулярные обновления и новые функции."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f850",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763244310,
+      "text": "\u003ca href=\"https://deepwiki.com\"\u003ehttps://deepwiki.com\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f851",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763244639,
+      "text": "этот code wiki кажется для того, чтобы просто экономить время агенту на анализ взаимосвязей всего в проекте"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f852",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1763244649,
+      "text": "не для людей это"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f853",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1763245197,
+      "text": "\u003ca href=\"https://www.youtube.com/watch?v=XhJYNSssqrA\"\u003ehttps://www.youtube.com/watch?v=XhJYNSssqrA\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f854",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763245263,
+      "text": "⚠️ Темы слушателей 987 - \u003ca href=\"https://radio-t.com/p/2025/11/13/prep-987/\"\u003ehttps://radio-t.com/p/2025/11/13/prep-987/\u003c/a\u003e"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f855",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763245276,
+      "text": "[1/7] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eMax Oreshnikov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003ehtmx 4.0 alpha release\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://four.htmx.org/\"\u003ehttps://four.htmx.org/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://habr.com/ru/articles/962924/\"\u003ehttps://habr.com/ru/articles/962924/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e\u0026lt;/\u0026gt; htmx - high power tools for html\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003ehtmx - это мощный инструмент для работы с HTML, позволяющий выполнять HTTP-запросы и создавать интерактивные интерфейсы с помощью простых атрибутов.\u003cbr/\u003e\u003cbr/\u003e- Поддержка `fetch()`, `CSS`, `View Transitions`, и SSE.\u003cbr/\u003e- Легкий (около 10к) и без зависимостей.\u003cbr/\u003e- Уменьшает кодовую базу на 67% по сравнению с React.\u003cbr/\u003e- Позволяет делать HTTP-запросы с различных событий и методов.\u003cbr/\u003e- Применяет гибкий подход к обновлению HTML-контента.\u003cbr/\u003e- Предоставляет простоту разработки интерфейсов с помощью атрибутов.\u003cbr/\u003e- Является преемником intercooler.js."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f856",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763245276,
+      "text": "[2/7] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eRoman Makarskiy\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eЭто конечно подкаст не про мотоциклы, но все же тут про технологичное решение.\u003cbr/\u003e\u003cbr/\u003eПопытка внедрить active noise control в шлем. Было бы отлично не использовать беруши, все таки уши устают.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.motorcyclenews.com/bike-kit/news/cardo-beyond-gt-and-gts-smart-helmets-unveiled/\"\u003ehttps://www.motorcyclenews.com/bike-kit/news/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCardo unveil Beyond helmet with active noise cancellation\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eCardo представила шлем Beyond с активным шумоподавлением, датчиками повреждений и задним стоп-сигналом. Он доступен в двух версиях, GTS и GT, и включает технологию Packtalk Pro для улучшенного взаимодействия и безопасности.\u003cbr/\u003e\u003cbr/\u003e- **Активное шумоподавление:** Шлем использует большие встроенные динамики для подавления вредных частот, обеспечивая безопасность и качество звука.\u003cbr/\u003e  \u003cbr/\u003e- **Датчики повреждений:** Сенсоры информируют владельца о повреждениях и могут автоматически уведомлять контакт при аварии.\u003cbr/\u003e\u003cbr/\u003e- **Задний стоп-сигнал:** Модель GTS включает светодиодный стоп-сигнал, который использует IMU для определения замедления.\u003cbr/\u003e\u003cbr/\u003e- **Качество шлема:** Соответствует стандартам ECE 22.06, с хорошими характеристиками для спортивных шлемов.\u003cbr/\u003e\u003cbr/\u003e- **Упрощенный интерфейс:** Новая система управления с одним нажатием для каждого действия улучшает удобство использования.\u003cbr/\u003e\u003cbr/\u003e- **Съемная батарея:** Удобно заряжать шлем, особенно в офисе, с возможностью беспроводной зарядки на модели GTS.\u003cbr/\u003e\u003cbr/\u003e- **Цены и доступность:** Ожидается, что шлемы будут продаваться по цене от €949 до €1199 в Европе с пятилетней гарантией."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f857",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763245276,
+      "text": "[3/7] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eDzmitry Kalianchuk\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eValve анонсировала железки для игр:\u003cbr/\u003eконтролер – \u003c/em\u003e\u003ca href=\"https://store.steampowered.com/sale/steamcontroller\"\u003ehttps://store.steampowered.com/sale/steamcont...\u003c/a\u003e\u003cem\u003e,\u003cbr/\u003eкомпьютер – \u003c/em\u003e\u003ca href=\"https://store.steampowered.com/sale/steammachine\"\u003ehttps://store.steampowered.com/sale/steammachine\u003c/a\u003e\u003cem\u003e,\u003cbr/\u003eи очки – \u003c/em\u003e\u003ca href=\"https://store.steampowered.com/sale/steamframe\"\u003ehttps://store.steampowered.com/sale/steamframe\u003c/a\u003e\u003cem\u003e.\u003cbr/\u003eКомпьютер на базе SteamOs (то бишь Линукса под капотом)\u003cbr/\u003eЯ понимаю, что это не игровой подкаст и ведущим это не интересно. Но хотелось бы услышать ваше мнение – может ли этот проект взлететь и использоваться людьми как домашние машинки, и таки увеличить количество инсталяций Линукса на десктопах? ))\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eSteam Controller\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое содержание: Steam Controller позволяет пользователям изменять язык интерфейса и получать доступ к мобильному приложению Steam, а также просматривать веб-сайт на компьютере.\u003cbr/\u003e\u003cbr/\u003e- Steam Controller поддерживает изменение языковых настроек.\u003cbr/\u003e- Приложение Steam доступно на мобильных устройствах.\u003cbr/\u003e- Пользователи могут переключаться между мобильным приложением и настольным сайтом.\u003cbr/\u003e- Удобный интерфейс для геймеров.\u003cbr/\u003e- Отличная совместимость с различными играми.\u003cbr/\u003e- Легкость в настройках и персонализации.\u003cbr/\u003e- Возможность подключать другие устройства управления."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f858",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763245276,
+      "text": "[4/7] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eRoman Grankin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eАдский эксперимент: личный сайт на нищих микросервисах\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://habr.com/en/articles/964450/\"\u003ehttps://habr.com/en/articles/964450/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eАдский эксперимент: личный сайт на нищих микросервисах / Habr\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме:\u003cbr/\u003eСтатья обсуждает проектирование архитектуры микросервисов с использованием DDD, API, UX/UI, и работы с базами данных. Приводятся лучшие практики и технологии, такие как Docker, Kubernetes, Redis и Apache Kafka, для организации эффективной работы микросервисов.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты:\u003cbr/\u003e- **DDD (Domain-Driven Design):** Подход к проектированию систем, берегущий бизнес-логику и упрощающий взаимодействие между сервисами.\u003cbr/\u003e- **Микросервисы:** Структурирование приложений на изолированные сервисы для повышения масштабируемости и легкости развертывания.\u003cbr/\u003e- **API и UX/UI:** Важные аспекты для обеспечения взаимодействия между компонентами и комфортного пользовательского опыта.\u003cbr/\u003e- **Docker и Kubernetes:** Ключевые технологии для контейнеризации и управления развертыванием приложений.\u003cbr/\u003e- **Базы данных:** Сравнение SQL и NoSQL, выбор подходящей базы данных в зависимости от требований приложения.\u003cbr/\u003e- **Инструменты разработки:** Использование Figma для проектирования UX/UI и Postman для тестирования API.\u003cbr/\u003e- **Кросс-функциональный подход:** Интеграция различных технологий и услуг для создания комплексной системы."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f859",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1763245276,
+      "text": "[5/7] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eafedin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eAnthropic рассказали о Project Fetch — однодневном эксперименте, в котором смотрели, насколько Claude помог сотрудникам компании выполнять сложные задачи на робо-собаке.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.anthropic.com/research/project-fetch-robot-dog\"\u003ehttps://www.anthropic.com/research/project-fe...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eProject Fetch: Can Claude train a robot dog? \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**\u003cbr/\u003eПроект Fetch исследует, насколько AI-модель Claude может помочь в управлении роботом-собакой. Команда, использующая Claude, завершила задачи быстрее и достигла большей автономии, чем команда без AI. Эксперимент демонстрирует, как AI улучшает производительность в робототехнике.\u003cbr/\u003e\u003cbr/\u003e- Проект поставил цель проверить, как Claude помогает в управлении роботом-собакой.\u003cbr/\u003e- Две команды программистов разделили доступ к Claude, чтобы сравнить производительность.\u003cbr/\u003e- Команда с Claude завершила задачи в среднем в два раза быстрее, чем без AI.\u003cbr/\u003e- Члены команды с Claude продемонстрировали более высокую мораль и меньше путаницы.\u003cbr/\u003e- Эксперимент помог выявить преимущества и недостатки использования AI в робототехнике.\u003cbr/\u003e- Результаты показывают, что улучшение моделей AI может повлиять на физический мир.\u003cbr/\u003e- Тестирование прошло с элементами развлечения, когда роботы выполняли акробатические трюки."
+    },
+    {
+      "id": "6927288e07d85fbbaba0f85a",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1763246665,
+      "text": "Если тачка 34-36 пси обычно"
+    },
+    {
+      "id": "6927288e07d85fbbaba0f85b",
+      "issue": 987,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1763246697,
+      "text": "Датчик менять нужно"
+    }
+  ]
+}
