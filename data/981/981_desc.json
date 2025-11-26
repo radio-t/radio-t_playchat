@@ -1,0 +1,72 @@
+{
+  "issue": 981,
+  "date": "2025-10-04",
+  "audio": "https://cdn.radio-t.com/rt_podcast981.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt981.jpg",
+  "start_time": 1759609662,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Claude Sonnet 4.5",
+      "links": [
+        "https://www.anthropic.com/news/claude-sonnet-4-5"
+      ],
+      "time": "00:18:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Code 2",
+      "links": [
+        "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"
+      ],
+      "time": "00:50:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "О хорошем вкусе в нашем деле",
+      "links": [
+        "https://www.seangoedecke.com/taste/"
+      ],
+      "time": "01:03:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Go с новинками для New",
+      "links": [
+        "https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression"
+      ],
+      "time": "01:21:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "RAG уходит",
+      "links": [
+        "https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents"
+      ],
+      "time": "01:26:47"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Sora 2",
+      "links": [
+        "https://openai.com/index/sora-2-system-card/"
+      ],
+      "time": "01:38:44"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/09/30/prep-981/"
+      ],
+      "time": "02:01:01"
+    }
+  ],
+  "tags": null
+}
