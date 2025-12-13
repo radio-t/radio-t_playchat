@@ -1,0 +1,88 @@
+{
+  "issue": 990,
+  "date": "2025-12-06",
+  "audio": "https://cdn.radio-t.com/rt_podcast990.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt990.jpg",
+  "start_time": 1765051992,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "MinIO уходит из опен соурса",
+      "links": [
+        "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
+      ],
+      "time": "00:23:32"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "JetBrans Air: нашли для чего применить Fleet",
+      "links": [
+        "https://air.dev/"
+      ],
+      "time": "00:39:03"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Base44 для вайб-разработки в промышленных масштабах",
+      "links": [
+        "https://base44.com/features"
+      ],
+      "time": "00:59:33"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Opus 4.5 добавили в Pro подписку",
+      "links": [
+        "https://x.com/claudeai/status/1996310793017594124"
+      ],
+      "time": "01:05:45"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Все в Сиэтле ненавидят AI",
+      "links": [
+        "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html"
+      ],
+      "time": "01:11:19"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Golang профукал все полимеры",
+      "links": [
+        "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
+      ],
+      "time": "01:17:03"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Micron закрывает Crucial подразделение",
+      "links": [
+        "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business"
+      ],
+      "time": "01:27:54"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Программирование, которое мы потеряли",
+      "links": [
+        "https://functional.computer/"
+      ],
+      "time": "01:31:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/12/02/prep-990/"
+      ],
+      "time": "01:50:12"
+    }
+  ],
+  "tags": null
+}

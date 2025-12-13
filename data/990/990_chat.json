@@ -1,0 +1,1219 @@
+{
+  "chat": [
+    {
+      "id": "693d1771d195fa34068d36ae",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1765051471,
+      "text": "голоса"
+    },
+    {
+      "id": "693d1771d195fa34068d36af",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1765051485,
+      "text": "Бобука только погромче надо"
+    },
+    {
+      "id": "693d1771d195fa34068d36b0",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "illiachen",
+      "author_name": "Ilya",
+      "datetime": 1765051622,
+      "text": "эт шутка или Бобук пришел?? 😳"
+    },
+    {
+      "id": "693d1771d195fa34068d36b1",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765051671,
+      "text": "он точно где-то разговаривает, нужно лишь гейн увеличить, тогда можно будет услышать"
+    },
+    {
+      "id": "693d1771d195fa34068d36b2",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1765051694,
+      "text": "шипы работают на льду только в некотором диапозоне температур, при некоторых липучка лучше"
+    },
+    {
+      "id": "693d1771d195fa34068d36b3",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flwre",
+      "author_name": "Maksim",
+      "datetime": 1765051853,
+      "text": "Гришу снова не слышно"
+    },
+    {
+      "id": "693d1771d195fa34068d36b4",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1765051895,
+      "text": "а налить?"
+    },
+    {
+      "id": "693d1771d195fa34068d36b5",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765051949,
+      "text": "скила такого еще нет"
+    },
+    {
+      "id": "693d1771d195fa34068d36b6",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765051992,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36b7",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1765052088,
+      "text": "999 мб тогда, а не 1001, или только 1 и 0 можно?"
+    },
+    {
+      "id": "693d1771d195fa34068d36b8",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765052235,
+      "text": "для ui есть прикольный экспериментальный сервис от гугла - \u003ca href=\"https://stitch.withgoogle.com\"\u003ehttps://stitch.withgoogle.com\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36b9",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1765053348,
+      "text": "А как он перевёл буба шельдовар?"
+    },
+    {
+      "id": "693d1771d195fa34068d36ba",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765053405,
+      "text": "⚠️ update \u003ca href=\"https://README.md\"\u003eREADME.md\u003c/a\u003e maintenance mode · minio/minio@27742d4 - \u003ca href=\"https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2\"\u003ehttps://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36bb",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765053405,
+      "text": "⚠️ update \u003ca href=\"https://README.md\"\u003eREADME.md\u003c/a\u003e maintenance mode · minio/minio@27742d4 - \u003ca href=\"https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2\"\u003ehttps://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36bc",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765053410,
+      "text": "\u003cstrong\u003eupdate \u003c/strong\u003e\u003ca href=\"https://README.md\"\u003eREADME.md\u003c/a\u003e\u003cstrong\u003e maintenance mode · minio/minio@27742d4 · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткий обзор\u003cbr/\u003eРепозиторий MinIO обновил свой файл README, добавив информацию о режиме поддержки. Проект находится в режиме обслуживания, не принимает изменений, но продолжает предоставлять базовую поддержку.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Режим обслуживания**: проект временно не принимает новых изменений.\u003cbr/\u003e- **Состояние кодовой базы**: только поддержка, без новых функций.\u003cbr/\u003e- **Без новых функций**: улучшения и запросы на пул не принимаются.\u003cbr/\u003e- **Критические исправления безопасности**: рассматриваются индивидуально.\u003cbr/\u003e- **Существующие проблемы**: не будут активно проверяться.\u003cbr/\u003e- **Поддержка сообщества**: осуществляется на основе лучших усилий через Slack.\u003cbr/\u003e- **Предпринимательская поддержка**: предоставляется для активно поддерживаемых версий."
+    },
+    {
+      "id": "693d1771d195fa34068d36bd",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765053411,
+      "text": "\u003cstrong\u003eupdate \u003c/strong\u003e\u003ca href=\"https://README.md\"\u003eREADME.md\u003c/a\u003e\u003cstrong\u003e maintenance mode · minio/minio@27742d4 · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003e\u003cbr/\u003eПроект MinIO сейчас находится в режиме обслуживания и не принимает новых изменений. Поддерживается только в рамках существующего кода, и многие новые функции не будут добавлены.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Режим обслуживания**: проект не принимает новых изменений.\u003cbr/\u003e- **Поддержка кода**: кодовая база находится в состоянии только для обслуживания.\u003cbr/\u003e- **Нет новых функций**: новые функции и улучшения не будут приниматься.\u003cbr/\u003e- **Критические исправления**: случаи с критическими уязвимостями будут рассматриваться индивидуально.\u003cbr/\u003e- **Существующие запросы**: ранее открытые проблемы и запросы не будут активно рассматриваться.\u003cbr/\u003e- **Командная поддержка**: поддержка сообщества осуществляется на основе наилучших усилий через Slack.\u003cbr/\u003e- **Поддержка для бизнеса**: для корпоративной поддержки рассматривайте MinIO AIStor."
+    },
+    {
+      "id": "693d1771d195fa34068d36be",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765053416,
+      "text": "F"
+    },
+    {
+      "id": "693d1771d195fa34068d36bf",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "Igor Perminov",
+      "datetime": 1765053441,
+      "text": "Не только гиковский выпуск но и почти максимально число, кайф )"
+    },
+    {
+      "id": "693d1771d195fa34068d36c0",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765053468,
+      "text": "для тестирования тоже используют, интеграционного"
+    },
+    {
+      "id": "693d1771d195fa34068d36c1",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Vasily",
+      "datetime": 1765053571,
+      "text": "Денег может хотел?"
+    },
+    {
+      "id": "693d1771d195fa34068d36c2",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765053605,
+      "text": "так вот же MinIO AIStor"
+    },
+    {
+      "id": "693d1771d195fa34068d36c3",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765053846,
+      "text": "а какие альтернативы у minio хорошие?"
+    },
+    {
+      "id": "693d1771d195fa34068d36c4",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Vasily",
+      "datetime": 1765053864,
+      "text": "Почему не может сделать closed source? Он разве не главный в проекте?"
+    },
+    {
+      "id": "693d1771d195fa34068d36c5",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1765053886,
+      "text": "self-hosted альтернативы*\u003cbr/\u003eа в остальном видимо только aws"
+    },
+    {
+      "id": "693d1771d195fa34068d36c6",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765053938,
+      "text": "О, про “как можно использовать проект с одним мейнтейнером”, Лёха, а нафига ты фастапи в продакш притащил?\u003cbr/\u003e\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36c7",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765053963,
+      "text": "Лёха борзый получается"
+    },
+    {
+      "id": "693d1771d195fa34068d36c8",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1765054049,
+      "text": "Слышал хорошее про \u003ca href=\"https://github.com/seaweedfs/seaweedfs\"\u003ehttps://github.com/seaweedfs/seaweedfs\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36c9",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1765054053,
+      "text": "Любой форк может начать считаться более основным 🤔"
+    },
+    {
+      "id": "693d1771d195fa34068d36ca",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1765054072,
+      "text": "там оверхед по памяти на хранение, но быстрее"
+    },
+    {
+      "id": "693d1771d195fa34068d36cb",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765054336,
+      "text": "⚠️ Air: Multitask with agents, stay in control - \u003ca href=\"https://air.dev/\"\u003ehttps://air.dev/\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36cc",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765054341,
+      "text": "\u003cstrong\u003eAir: Multitask with agents, stay in control\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eAir предлагает многозадачность с агентами, что позволяет пользователям оставаться под контролем в управлении задачами и проектами.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- **Многозадачность**: Эффективно управляйте несколькими задачами одновременно.\u003cbr/\u003e- **Контроль**: Оставайтесь в центре управления проектами с помощью простого интерфейса.\u003cbr/\u003e- **Агенты**: Используйте агентов для повышения продуктивности.\u003cbr/\u003e- **Автоматизация**: Упрощение повторяющихся задач для экономии времени.\u003cbr/\u003e- ** همکاری**: Легкое сотрудничество с командой в реальном времени.\u003cbr/\u003e- **Интеграция**: Сочетайте с другими инструментами для повышения эффективности.\u003cbr/\u003e- **Доступность**: Доступ к функционалу из любой точки с интернетом."
+    },
+    {
+      "id": "693d1771d195fa34068d36cd",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765054393,
+      "text": "у него есть запуск в докере, прикольно"
+    },
+    {
+      "id": "693d1771d195fa34068d36ce",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765054427,
+      "text": "так руководит разработкой всех ai решений вроде как Ширяем"
+    },
+    {
+      "id": "693d1771d195fa34068d36cf",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765054576,
+      "text": "а там нигде и не упоминается, что это для вайб кодеров"
+    },
+    {
+      "id": "693d1771d195fa34068d36d0",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765054600,
+      "text": "скорее для разработчиков, которые хотят иметь более продвинутый интерфейс"
+    },
+    {
+      "id": "693d1771d195fa34068d36d1",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1765054756,
+      "text": "Я хоть и борзый, но притащил не я, Питонисты. Сказали, так у вас носят. Я бы наверное не потащил. Я кстати реально начал другой небольшой прототип на чистом Starlette и вообще теперь не понимаю зачем нужен FastAPI."
+    },
+    {
+      "id": "693d1771d195fa34068d36d2",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1765054847,
+      "image_url": "https://chat.radio-t.com/logs/990/AgACAgEAAx0CUPxcWQABCjqFaTSZf8EmeHvINNQPgarDn47zX7EAAhILaxvYwqhFIZl7v8l5dfYBAAMCAAN4AAM2BA",
+      "image_width": 438,
+      "image_height": 182,
+      "text": ""
+    },
+    {
+      "id": "693d1771d195fa34068d36d3",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765054904,
+      "text": "то у вас неправильные питонисты, еще и тесты небось не пишут и mypy не юзают\u003cbr/\u003e\u003cbr/\u003e\u0026gt; Я кстати реально начал другой небольшой прототип на чистом Starlette \u003cbr/\u003e\u003cbr/\u003e👍 h\u003ca href=\"ttps://t.me/radio_t_chat/619914\\n\"\u003ettps://t.me/radio_t_chat/619914\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003e\u0026gt; и вообще теперь не понимаю зачем нужен FastAPI.\u003cbr/\u003e\u003cbr/\u003eради автогенерируещегося сваггера"
+    },
+    {
+      "id": "693d1771d195fa34068d36d4",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1765054978,
+      "text": "mypy я выдержал пару дней и убедил уйти на Pyright."
+    },
+    {
+      "id": "693d1771d195fa34068d36d5",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765054999,
+      "text": "ну тут вкусовщина, мне майпай нравится, но не осуждаю"
+    },
+    {
+      "id": "693d1771d195fa34068d36d6",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1765055028,
+      "text": "Base44"
+    },
+    {
+      "id": "693d1771d195fa34068d36d7",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1765055039,
+      "text": "Израильские ребята сделали"
+    },
+    {
+      "id": "693d1771d195fa34068d36d8",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1765055053,
+      "text": "Их недавно wix купили"
+    },
+    {
+      "id": "693d1771d195fa34068d36d9",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1765055083,
+      "text": "mypy прям печально медленный, даже по сравнению с pyright. Есть же как обычно еще один, недоделанный, но крутой чекер от авторов uv, но пока еще слишком молодой."
+    },
+    {
+      "id": "693d1771d195fa34068d36da",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1765055125,
+      "text": "Ну lovable всякие тоже бек предоставляет базовый да? Интеграция с supabase тебе почти все это и даёт"
+    },
+    {
+      "id": "693d1771d195fa34068d36db",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765055165,
+      "text": "\u003ca href=\"https://mypy.readthedocs.io/en/stable/mypy_daemon.html\"\u003ehttps://mypy.readthedocs.io/en/stable/mypy_daemon.html\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36dc",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1765055168,
+      "text": "А все потому что Джейсона ваши перекладывать не фунта лиха если ты предметную область сечешь )"
+    },
+    {
+      "id": "693d1771d195fa34068d36dd",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765055215,
+      "text": "скорее от авторов ruff, мне эти ребята не сильно нравятся, я на их поделки с опаской смотрю"
+    },
+    {
+      "id": "693d1771d195fa34068d36de",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1765055223,
+      "text": "\u003ca href=\"https://stash-bc054b12.base44.app\"\u003ehttps://stash-bc054b12.base44.app\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36df",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765055392,
+      "text": "как \u0026#34;зерокодеры\u0026#34;"
+    },
+    {
+      "id": "693d1771d195fa34068d36e0",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765055417,
+      "text": "плюс грею, переобулся в воздухе)"
+    },
+    {
+      "id": "693d1771d195fa34068d36e1",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1765055424,
+      "text": "ruff и uv разве не одни и те же люди делают?"
+    },
+    {
+      "id": "693d1771d195fa34068d36e2",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765055512,
+      "text": "фильтр?"
+    },
+    {
+      "id": "693d1771d195fa34068d36e3",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1765055564,
+      "text": "это тоггл ASC.DESC"
+    },
+    {
+      "id": "693d1771d195fa34068d36e4",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765055565,
+      "text": "⚠️ Base44 Features | Everything You Need to Build Apps - \u003ca href=\"https://base44.com/features\"\u003ehttps://base44.com/features\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36e5",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765055569,
+      "text": "\u003cstrong\u003eBase44 Features | Everything You Need to Build Apps\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eBase44 – это платформа с поддержкой ИИ, позволяющая пользователям создавать полностью функциональные приложения за считанные минуты, используя только естественный язык.\u003cbr/\u003e\u003cbr/\u003e- Платформа делает разработку приложений доступной для всех.\u003cbr/\u003e- Не требует интеграций для работы созданных приложений.\u003cbr/\u003e- Позволяет создавать персонализированные инструменты для продуктивности.\u003cbr/\u003e- Поддерживает разработку инструментов для бэк-офиса и клиентских порталов.\u003cbr/\u003e- Пользователи могут быстро разрабатывать продукты для полного предприятия.\u003cbr/\u003e- ИИ помогает пользователям переводить идеи в функциональные приложения.\u003cbr/\u003e- Все это возможно за считанные минуты."
+    },
+    {
+      "id": "693d1771d195fa34068d36e6",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1765055656,
+      "text": "да не, я понимаю. просто забавно"
+    },
+    {
+      "id": "693d1771d195fa34068d36e7",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1765055712,
+      "text": "\u0026#39;nj"
+    },
+    {
+      "id": "693d1771d195fa34068d36e8",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765055752,
+      "text": "И да и нет, компания та же, но uv делается толи под руководством толи под большим вдохновением Армина Ронахера - крутой чувак, автор фласка, автор rye, сейчас кажется работает в Сентри\u003cbr/\u003eТак вот uv это не с нуля написанный пакетный менеджер, а с взятым в оснву Rye - пакетным менеджером написанным Ронахером. Поэтому uv ок, но к рафу и к ty Ронахер отношения не имеет\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://astral.sh/blog/uv\"\u003ehttps://astral.sh/blog/uv\u003c/a\u003e\u003cbr/\u003eAs part of this release, we\u0026#39;re also taking stewardship of Rye, an experimental Python packaging tool from Armin Ronacher. We\u0026#39;ll maintain Rye as we expand uv into a unified successor project, to fulfill our shared vision for Python packaging.\u003cbr/\u003e…\u003cbr/\u003eWe saw this as a rare opportunity to team up, and to avoid fragmenting the Python ecosystem. As such, in collaboration with Armin, we\u0026#39;re excited to be taking over Rye. Our goal is to evolve uv into a production-ready \u0026#34;Cargo for Python\u0026#34;, and to provide a smooth migration path from Rye to uv when the time is right."
+    },
+    {
+      "id": "693d1771d195fa34068d36e9",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765055938,
+      "text": "⚠️ Claude on X: \u0026#34;Claude Opus 4.5 is now available in Claude Code for Pro users. Pro users can select Opus using the /model command in their terminal.\u0026#34; / X - \u003ca href=\"https://x.com/claudeai/status/1996310793017594124\"\u003ehttps://x.com/claudeai/status/1996310793017594124\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36ea",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1765055944,
+      "text": "Это про что вообще?"
+    },
+    {
+      "id": "693d1771d195fa34068d36eb",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765055978,
+      "text": "про умпутуна с комментариями про не секьюрно и тд."
+    },
+    {
+      "id": "693d1771d195fa34068d36ec",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765056009,
+      "text": "Я не ругаюсь, спасибо таки"
+    },
+    {
+      "id": "693d1771d195fa34068d36ed",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1765056026,
+      "image_url": "https://chat.radio-t.com/logs/990/AgACAgIAAx0CUPxcWQABCjqkaTSeGkR-DBAxrjtFduJMHe-o2tkAAusPaxuTzalJw02oHt_y6TIBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 927,
+      "text": "очень секьюрно. \u003ccode\u003e/me\u003c/code\u003e на каждое действие проверяет"
+    },
+    {
+      "id": "693d1771d195fa34068d36ee",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1765056177,
+      "text": "просто слишком часто"
+    },
+    {
+      "id": "693d1771d195fa34068d36ef",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1765056201,
+      "text": "наоборот. я ине говорю не секьюрно"
+    },
+    {
+      "id": "693d1771d195fa34068d36f0",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1765056267,
+      "text": "скорее сарказма немного. что очень старались сделать секьюрно, что немного перестарались"
+    },
+    {
+      "id": "693d1771d195fa34068d36f1",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765056271,
+      "text": "⚠️ Everyone in Seattle Hates AI — Jonathon Ready - \u003ca href=\"https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html\"\u003ehttps://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36f2",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765056279,
+      "text": "\u003cstrong\u003eEveryone in Seattle Hates AI — Jonathon Ready\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eВ Сиэтле существует сильная негативная реакция на искусственный интеллект (ИИ), что отражает культурную атмосферу неуверенности и недовольства. Многие инженеры чувствуют отчаяние и считает, что инновации больше не являются их задачей, что замедляет развитие и мешает новым идеям.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Отрицательные реакции на ИИ**: Инженеры в Сиэтле проявляют враждебность к ИИ, в отличие от более открытых городов, таких как Сидней и Париж.\u003cbr/\u003e  \u003cbr/\u003e- **Культура Сиэтла**: Ранее в Microsoft царила атмосфера возможностей и новаторства, теперь она заполнена страхом и недоверием к ИИ.\u003cbr/\u003e\u003cbr/\u003e- **Потеря доверия**: Коллективы деморализованы массовыми увольнениями и негативным отношением к ИИ, что мешает их продуктивности.\u003cbr/\u003e\u003cbr/\u003e- **Бедственное положение инженеров**: Инженеры оказываются в замкнутом круге страха, считая, что не могут работать с ИИ, что тормозит их карьерный рост.\u003cbr/\u003e\u003cbr/\u003e- **Упрощение статуса ИИ**: Проекты, не имеющие четкой связи с ИИ, теряют ценность, что приводит к стагнации карьеры у инженеров.\u003cbr/\u003e\u003cbr/\u003e- **Кредит доверия**: Научиться работать с ИИ трудно, а неудачи лишь подтверждают мнение о бесполезности технологий, создавая собственную культурную петлю.\u003cbr/\u003e\u003cbr/\u003e- **Нужен новый взгляд**: Для существования и развития талантов в Сиэтле необходимо переосмыслять подход к ИИ и вернуть уверенность в своих силах."
+    },
+    {
+      "id": "693d1771d195fa34068d36f3",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765056616,
+      "text": "⚠️ Golang’s Big Miss on Memory Arenas - \u003ca href=\"https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90\"\u003ehttps://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36f4",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765056619,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003eСекундочку, пожалуйста, я готов помочь вам с вашим запросом.\u003cbr/\u003e\u003cbr/\u003e- Подождите, пока я собираю информацию.\u003cbr/\u003e- Ваш запрос обрабатывается.\u003cbr/\u003e- Если у вас есть вопросы, не стесняйтесь задавать.\u003cbr/\u003e- Скоро я вернусь с ответом.\u003cbr/\u003e- Ваше терпение ценится.\u003cbr/\u003e- Благодарю за понимание.\u003cbr/\u003e- Продолжайте ожидание, я здесь."
+    },
+    {
+      "id": "693d1771d195fa34068d36f5",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765056671,
+      "text": "шо, опять?"
+    },
+    {
+      "id": "693d1771d195fa34068d36f6",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765056750,
+      "text": "выделяется  память, которую gc не менеджит"
+    },
+    {
+      "id": "693d1771d195fa34068d36f7",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1765056974,
+      "text": "Зачем на го писать, если уже упёрся в гц? 🤔"
+    },
+    {
+      "id": "693d1771d195fa34068d36f8",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765057014,
+      "text": "ну базы ж пишут, правда мучаются с mmap"
+    },
+    {
+      "id": "693d1771d195fa34068d36f9",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1765057077,
+      "text": "В си-интерфейсе есть потери на abi"
+    },
+    {
+      "id": "693d1771d195fa34068d36fa",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765057161,
+      "text": "так zig же с гитхаба ушел"
+    },
+    {
+      "id": "693d1771d195fa34068d36fb",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765057178,
+      "text": "поливали ж его на прошлой неделе"
+    },
+    {
+      "id": "693d1771d195fa34068d36fc",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1765057200,
+      "text": "Cloudflare"
+    },
+    {
+      "id": "693d1771d195fa34068d36fd",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1765057202,
+      "text": "Интересно, есть язык в котором мейнтейнер не странный?"
+    },
+    {
+      "id": "693d1771d195fa34068d36fe",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765057267,
+      "text": "⚠️ Micron Announces Exit from Crucial Consumer Business | Micron Technology - \u003ca href=\"https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business\"\u003ehttps://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d36ff",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765057274,
+      "text": "\u003cstrong\u003eMicron Announces Exit from Crucial Consumer Business | Micron Technology\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка:**  \u003cbr/\u003eMicron Technology объявила о выходе из бизнеса потребительских товаров Crucial, сосредоточив усилия на корпоративных и коммерческих сегментах, чтобы улучшить поддержку стратегических клиентов в быстрорастущих областях.\u003cbr/\u003e\u003cbr/\u003e- Micron покинет рынок потребительских товаров Crucial, включая продажу продукции под собственным брендом.\u003cbr/\u003e- Продукция Crucial продолжит поступать до конца второго квартала 2026 года.\u003cbr/\u003e- Компания предпримет шаги для минимизации влияния на сотрудников за счет перераспределения на открытые вакансии.\u003cbr/\u003e- Выход из потребительского сегмента направлен на улучшение долгосрочной прибыльности.\u003cbr/\u003e- Micron сосредоточится на стратегически важных клиентах в секторах ИТ и памяти.\u003cbr/\u003e- Sumit Sadana, EVP Micron, подчеркивает влияние AI на растущий спрос.\u003cbr/\u003e- Micron продолжит поддержку и обслуживание продукции Crucial для клиентов."
+    },
+    {
+      "id": "693d1771d195fa34068d3700",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765057465,
+      "text": "⚠️ Programming peaked - \u003ca href=\"https://functional.computer/\"\u003ehttps://functional.computer/\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d3701",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765057469,
+      "text": "\u003cstrong\u003esamir : coffee → nonsense\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eСамир Талвар делится своими мыслями и опытом по созданию программного обеспечения на своём блоге. Он надеется сделать процесс проще для людей и призывает подписываться на обновления.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- Самир стремится упростить процесс разработки программного обеспечения.\u003cbr/\u003e- Ведёт блог, где делится полезной информацией.\u003cbr/\u003e- Публикует статьи и предлагает подписаться на рассылку.\u003cbr/\u003e- Обновления можно получить через Atom-канал.\u003cbr/\u003e- Открыт для общения по электронной почте и в социальных сетях.\u003cbr/\u003e- Информация о сайте доступна на странице «О сайте».\u003cbr/\u003e- Блог содержит индекс всех ранее опубликованных материалов."
+    },
+    {
+      "id": "693d1771d195fa34068d3702",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1765057481,
+      "text": "\u003ca href=\"https://functional.computer/blog/programming-peaked\"\u003ehttps://functional.computer/blog/programming-peaked\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d3703",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765057609,
+      "text": "\u003cpre\u003eWe run our k8s cluster in the “Cloud”. It’s a bunch of services that run on Linux, but we don’t run Linux ourselves, we run it on VMs that we rent by the hour for approximately the same cost as buying a computer outright every month. We do this because no one knows how to plug a computer in any more.\u003cbr/\u003e\u003c/pre\u003e\u003cbr/\u003e😄"
+    },
+    {
+      "id": "693d1771d195fa34068d3704",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765057780,
+      "text": "Гвидо"
+    },
+    {
+      "id": "693d1771d195fa34068d3705",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "osinmv",
+      "author_name": "Max Osin",
+      "datetime": 1765057801,
+      "text": "так он же уже не мейнтейнер"
+    },
+    {
+      "id": "693d1771d195fa34068d3706",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765057810,
+      "text": "схуяли?"
+    },
+    {
+      "id": "693d1771d195fa34068d3707",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765057844,
+      "text": "он входит в steering council"
+    },
+    {
+      "id": "693d1771d195fa34068d3708",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "osinmv",
+      "author_name": "Max Osin",
+      "datetime": 1765057851,
+      "text": "он же в 2018 отошел от дел"
+    },
+    {
+      "id": "693d1771d195fa34068d3709",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1765057855,
+      "image_url": "https://chat.radio-t.com/logs/990/AgACAgIAAx0CUPxcWQABCjrAaTSlPyXZjBthxTtP0fMJD0N_Cv8AAhYQaxuTzalJSaBeq2C-pLEBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 428,
+      "text": "О, в тему жалоб автора и проблем с оперативкой. Может ща раскрутим всё обратно и начнём оптимизировать, чтобы гигабайта хватало всем)"
+    },
+    {
+      "id": "693d1771d195fa34068d370a",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765057883,
+      "text": "ты или живёшь в альтернативной вселенной или..."
+    },
+    {
+      "id": "693d1771d195fa34068d370b",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1765057925,
+      "text": "Core 2 Duo еще в 2010 ставили в Apple mini\u003cbr/\u003e\u003ca href=\"https://everymac.com/systems/apple/mac_mini/specs/mac-mini-core-2-duo-2.66-mid-2010-server-specs.html\"\u003ehttps://everymac.com/systems/apple/mac_mini/specs/mac-mini-core-2-duo-2.66-mid-2010-server-specs.html\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d370c",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765057952,
+      "text": "особенно было круто по фтп править проект параллельно с другим разработчиком"
+    },
+    {
+      "id": "693d1771d195fa34068d370d",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "osinmv",
+      "author_name": "Max Osin",
+      "datetime": 1765057958,
+      "text": "ну я не тролю, он же уходил с поста главного уже давно и говорил что уходит на долгий отдых"
+    },
+    {
+      "id": "693d1771d195fa34068d370e",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765057996,
+      "text": "так и я не тролю - ты слышал звон но …, короче не особо понимаешь как оно на самом деле"
+    },
+    {
+      "id": "693d1771d195fa34068d370f",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "osinmv",
+      "author_name": "Max Osin",
+      "datetime": 1765058029,
+      "text": "ну наверно"
+    },
+    {
+      "id": "693d1771d195fa34068d3710",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1765058111,
+      "text": "Где-то в 2007-2008 двухядерные процы из непонятной вундервафли превратились в то что более-менее по-умолчанию в новые компы шло"
+    },
+    {
+      "id": "693d1771d195fa34068d3711",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765058189,
+      "text": "как плавно перешли от за что хейтят автора в хейт автора)"
+    },
+    {
+      "id": "693d1771d195fa34068d3712",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1765058385,
+      "text": "Я в 2006 году покупал iMac с Core 2 Duo. И это не первый двухядерный процессор Intel, если что."
+    },
+    {
+      "id": "693d1771d195fa34068d3713",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1765058562,
+      "text": "C#, F#, Clojure, Go, да много таких."
+    },
+    {
+      "id": "693d1771d195fa34068d3714",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1765058586,
+      "text": "В целом даже Одерски вменяемый, просто слишком умный"
+    },
+    {
+      "id": "693d1771d195fa34068d3715",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765058605,
+      "text": "⚠️ Темы слушателей 990 - \u003ca href=\"https://radio-t.com/p/2025/12/02/prep-990/\"\u003ehttps://radio-t.com/p/2025/12/02/prep-990/\u003c/a\u003e"
+    },
+    {
+      "id": "693d1771d195fa34068d3716",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1765058613,
+      "text": "В сишарпе в говернансе скандалы почище растовских"
+    },
+    {
+      "id": "693d1771d195fa34068d3717",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765058630,
+      "text": "[1/22] \u003cstrong\u003e+14\u003c/strong\u003e от \u003cstrong\u003eAleksandr\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eНе так давно была в эфире дискуссия касательно размещения ЦОД в космосе.\u003cbr/\u003eРазбор почему это не работает: \u003c/em\u003e\u003ca href=\"https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/\"\u003ehttps://taranis.ie/datacenters-in-space-are-a...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDatacenters in space are a terrible, horrible, no good idea.\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eСоздание дата-центров в космосе — это плохая идея. Инженер NASA утверждает, что сложности с энергоснабжением, охлаждением и радиацией делают этот проект экономически нецелесообразным, если не невозможным.\u003cbr/\u003e\u003cbr/\u003e- Дата-центры в космосе требуют огромной мощности, которую трудно обеспечить.\u003cbr/\u003e- Солнечные панели и ядерные генераторы не подходят для питания GPU и TPU.\u003cbr/\u003e- Охлаждение в космосе проблематично, из-за отсутствия конвекции.\u003cbr/\u003e- Космическая радиация угрожает электронике, требуя особой защиты.\u003cbr/\u003e- Современные GPU не подходят для работы в условиях космоса из-за низкой радиационной стойкости.\u003cbr/\u003e- Связь с Землей будет медленной, что снижает производительность.\u003cbr/\u003e- Завершая, создание космических дата-центров нецелесообразно и дорого."
+    },
+    {
+      "id": "693d1771d195fa34068d3718",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765058631,
+      "text": "[2/22] \u003cstrong\u003e+11\u003c/strong\u003e от \u003cstrong\u003eAndrey Mavlyanov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMinio «ффсё». Проект на Github переведён в Maintanance mode.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/minio/minio\"\u003ehttps://github.com/minio/minio\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eАльтернативы:\u003cbr/\u003e– \u003c/em\u003e\u003ca href=\"https://github.com/seaweedfs/seaweedfs\"\u003ehttps://github.com/seaweedfs/seaweedfs\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e– \u003c/em\u003e\u003ca href=\"https://github.com/rustfs/rustfs\"\u003ehttps://github.com/rustfs/rustfs\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e– \u003c/em\u003e\u003ca href=\"https://git.deuxfleurs.fr/Deuxfleurs/garage\"\u003ehttps://git.deuxfleurs.fr/Deuxfleurs/garage\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitHub - minio/minio: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**MinIO** – это высокопроизводительное, совместимое с S3 хранилище объектов, с открытым исходным кодом под лицензией GNU AGPLv3.\u003cbr/\u003e\u003cbr/\u003e- MinIO находится в состоянии лишь поддержания, без принятия новых изменений.\u003cbr/\u003e- Кодовая база не принимает новые функции или улучшения.\u003cbr/\u003e- Критические исправления безопасности будут рассматриваться индивидуально.\u003cbr/\u003e- Сообщество поддерживается через Slack.\u003cbr/\u003e- Для активных версий поддержки обратитесь к MinIO AIStor.\u003cbr/\u003e- У проекта 12,563 коммита на GitHub.\u003cbr/\u003e- Хранилище поддерживает работу с Docker и Kubernetes."
+    },
+    {
+      "id": "693d1771d195fa34068d3719",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765058631,
+      "text": "[3/22] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eNikita Podelenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.cnbc.com/2025/12/01/meta-instagram-rto-return-to-office.html\"\u003ehttps://www.cnbc.com/2025/12/01/meta-instagra...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eСотрудников Instagram загоняют на 5 дней в неделю в офис\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMeta\u0026#39;s Instagram orders employees back to the office 5 days a week\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eMeta\u0026#39;s Instagram has mandated its U.S.-based employees to return to the office five days a week starting February 2, 2024. This move aims to enhance collaboration and creativity while shifting away from extensive meeting culture. The policy affects only Instagram, not other Meta apps.\u003cbr/\u003e\u003cbr/\u003e- В Instagram начинается новая политика: сотрудники должны работать в офисе 5 дней в неделю.\u003cbr/\u003e- Это решение вступает в силу 2 февраля 2024 года.\u003cbr/\u003e- Целью является повышение творчества и сотрудничества в команде.\u003cbr/\u003e- Адам Моссери, глава Instagram, хочет уменьшить количество встреч.\u003cbr/\u003e- Сотрудников призывают представлять больше прототипов продуктов.\u003cbr/\u003e- Политика возвращения в офис касается только Instagram, а не других приложений Meta. \u003cbr/\u003e- Технологические компании активно возвращают сотрудников в офисы после пандемии."
+    },
+    {
+      "id": "693d1771d195fa34068d371a",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765058631,
+      "text": "[4/22] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eEduard\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eBun (javascript runtime) was acquired by Anthropic\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://bun.com/blog/bun-joins-anthropic\"\u003ehttps://bun.com/blog/bun-joins-anthropic\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eBun is joining Anthropic | Bun Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eBun был приобретен Anthropic, который делает ставку на него как на инфраструктуру для Claude Code, Claude Agent SDK и будущие инструменты AI-кодирования. Bun останется открытым исходным кодом, активно поддерживается и продолжит развитие.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Bun теперь будет использоваться Anthropic для Claude Code и других продуктов.\u003cbr/\u003e- Сохраняется активное публичное развитие и лицензия MIT.\u003cbr/\u003e- Команда Bun по-прежнему работает над проектом и уточняет его будущее.\u003cbr/\u003e- Roadmap будет сосредоточен на производительности JavaScript и совместимости с Node.js.\u003cbr/\u003e- Bun теперь имеет долгосрочную стабильность и ресурсы Anthropic.\u003cbr/\u003e- Система поможет интегрироваться с инструментами AI-кодирования.\u003cbr/\u003e- Инвестирование Anthropic позволит повысить качество разработки с использованием Bun."
+    },
+    {
+      "id": "693d1771d195fa34068d371b",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1765058631,
+      "text": "[5/22] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eClaude\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eCritical Security Vulnerability (on 10.0 points) in React Server Components\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components\"\u003ehttps://react.dev/blog/2025/12/03/critical-se...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eCritical Security Vulnerability in React Server Components – React\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eУ React Server Components обнаружена уязвимость удаленного выполнения кода без аутентификации, требующая немедленного обновления. Она затрагивает версии 19.0 до 19.2.0. Рекомендуется обновиться до исправленных версий для защиты.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Уязвимость**: CVE-2025-55182, критическая оценка CVSS 10.0.\u003cbr/\u003e- **Затронутые версии**: 19.0, 19.1.0, 19.1.1, 19.2.0.\u003cbr/\u003e- **Исправленные версии**: 19.0.1, 19.1.2, 19.2.1.\u003cbr/\u003e- **Требуемые действия**: Немедленное обновление до фиксированных версий.\u003cbr/\u003e- **Не затронутые приложения**: Если не используются серверные функции React.\u003cbr/\u003e- **Затронутые платформы**: next, react-router, waku и др.\u003cbr/\u003e- **Хостинг-провайдеры**: Применены временные меры, но все равно необходимо обновление."
+    },
+    {
+      "id": "693d1771d195fa34068d371c",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765059096,
+      "text": "😂"
+    },
+    {
+      "id": "693d1771d195fa34068d371d",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765059158,
+      "text": "Да это и на нерегулярных встречах происходит если зачемто в одной встрече смешивают вопросы для людей разных компетенций"
+    },
+    {
+      "id": "693d1771d195fa34068d371e",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765059514,
+      "text": "bun никогда не получал revenue ($0), имел сотрудников, и не имел никаких планов как зарабатывать деньги"
+    },
+    {
+      "id": "693d1771d195fa34068d371f",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1765059544,
+      "text": "довольно безумная затея"
+    },
+    {
+      "id": "693d1771d195fa34068d3720",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1765059570,
+      "text": "Они с bun свой клод код запускают"
+    },
+    {
+      "id": "693d1771d195fa34068d3721",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1765059655,
+      "text": "то есть за лярд купили команду разрабов, которых не смогли заменить?"
+    },
+    {
+      "id": "693d1771d195fa34068d3722",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1765059679,
+      "text": "История про то как AI пишет 80% кода"
+    },
+    {
+      "id": "693d1771d195fa34068d3723",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765059891,
+      "text": "так это не новость - это было давно известно, не?"
+    },
+    {
+      "id": "693d1771d195fa34068d3724",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1765059909,
+      "text": "его борьба"
+    },
+    {
+      "id": "693d1771d195fa34068d3725",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "roman_gr",
+      "author_name": "Roman",
+      "datetime": 1765060144,
+      "text": "ai! Я потерял контекст, чья \u0026#34;его борьба\u0026#34;?"
+    },
+    {
+      "id": "693d1771d195fa34068d3726",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "roman_gr",
+      "author_name": "Roman",
+      "datetime": 1765060192,
+      "text": "Понял"
+    },
+    {
+      "id": "693d1771d195fa34068d3727",
+      "issue": 990,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yuriybz",
+      "author_name": "Uriy Zadachin",
+      "datetime": 1765061194,
+      "text": "400 дол стоит max версия"
+    }
+  ]
+}
