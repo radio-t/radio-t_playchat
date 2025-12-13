@@ -1,0 +1,72 @@
+{
+  "issue": 989,
+  "date": "2025-11-29",
+  "audio": "https://cdn.radio-t.com/rt_podcast989.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt989.jpg",
+  "start_time": 1764447590,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Opus 4.5 хорош",
+      "links": [
+        "https://www.anthropic.com/news/claude-opus-4-5"
+      ],
+      "time": "00:18:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Reddit перешли с Python на Go и все стало лучше",
+      "links": [
+        "https://www.infoq.com/news/2025/11/reddit-comments-go-migration/"
+      ],
+      "time": "00:52:38"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Обрастание проекта на одном примере",
+      "links": [
+        "https://github.com/umputun/stash/blob/master/README.md"
+      ],
+      "time": "01:01:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Почему компании производят плохой код",
+      "links": [
+        "https://www.seangoedecke.com/bad-code-at-big-companies/"
+      ],
+      "time": "01:22:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Kineto от JetBrains, тоже для вайб-кодеров",
+      "links": [
+        "https://kineto.dev/"
+      ],
+      "time": "01:44:29"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Локальные LLM это фикция",
+      "links": [
+        "https://world.hey.com/dhh/local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b"
+      ],
+      "time": "01:53:14"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/11/25/prep-989/"
+      ],
+      "time": "02:13:13"
+    }
+  ],
+  "tags": null
+}

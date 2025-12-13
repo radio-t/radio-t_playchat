@@ -1,0 +1,1383 @@
+{
+  "chat": [
+    {
+      "id": "693d166508a2353d689a1013",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1764446207,
+      "text": "о боже, я не слышу.. я не слышу голоса Грея.. и товарища Ампатана"
+    },
+    {
+      "id": "693d166508a2353d689a1014",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764446224,
+      "text": "лишь только голос бобука в голове"
+    },
+    {
+      "id": "693d166508a2353d689a1015",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "boyko_ol",
+      "author_name": "Oleksiy Boyko",
+      "datetime": 1764446227,
+      "text": "Бобука ждут"
+    },
+    {
+      "id": "693d166508a2353d689a1016",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1764446263,
+      "text": "так мы второго пришествия давно уже ждём"
+    },
+    {
+      "id": "693d166508a2353d689a1017",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764446432,
+      "text": "вас слышно"
+    },
+    {
+      "id": "693d166508a2353d689a1018",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "легущька",
+      "datetime": 1764446471,
+      "text": "когда?"
+    },
+    {
+      "id": "693d166508a2353d689a1019",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764446471,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 1мин 11сек назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 58мин 48сек"
+    },
+    {
+      "id": "693d166508a2353d689a101a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1764446523,
+      "text": "йокнуло"
+    },
+    {
+      "id": "693d166508a2353d689a101b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764446524,
+      "text": "оно сломалось"
+    },
+    {
+      "id": "693d166508a2353d689a101c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1764446525,
+      "text": "пропал"
+    },
+    {
+      "id": "693d166508a2353d689a101d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764446691,
+      "text": "лёшу тихо слышно"
+    },
+    {
+      "id": "693d166508a2353d689a101e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764446768,
+      "text": "норм"
+    },
+    {
+      "id": "693d166508a2353d689a101f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1764446775,
+      "text": "слышим тебя Каа"
+    },
+    {
+      "id": "693d166508a2353d689a1020",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "легущька",
+      "datetime": 1764446831,
+      "text": "в телеграме будет вещание или отказались от него?"
+    },
+    {
+      "id": "693d166508a2353d689a1021",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1764446991,
+      "text": "Baby Kangaroo"
+    },
+    {
+      "id": "693d166508a2353d689a1022",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1764447055,
+      "text": "мы и Бобука ждём"
+    },
+    {
+      "id": "693d166508a2353d689a1023",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "IlyaAleksandrov",
+      "author_name": "Ilya Aleksandrov",
+      "datetime": 1764447136,
+      "text": "Ждём Бобика"
+    },
+    {
+      "id": "693d166508a2353d689a1024",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1764447200,
+      "text": "Легендарный Бобук"
+    },
+    {
+      "id": "693d166508a2353d689a1025",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1764447246,
+      "image_url": "https://chat.radio-t.com/logs/989/AgACAgEAAx0CUPxcWQABCjVjaStUDvTys0QEY0F0fCZNel_bEdsAAlILaxuB71hFU8a-4iGtvEQBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 705,
+      "text": ""
+    },
+    {
+      "id": "693d166508a2353d689a1026",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1764447299,
+      "text": "делают и мото с шипами. для спорта"
+    },
+    {
+      "id": "693d166508a2353d689a1027",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764447447,
+      "text": "VHS"
+    },
+    {
+      "id": "693d166508a2353d689a1028",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764447558,
+      "text": "видел я порнхабе ролики с таким веном"
+    },
+    {
+      "id": "693d166508a2353d689a1029",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764447569,
+      "text": "бедная собачка"
+    },
+    {
+      "id": "693d166508a2353d689a102a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "легущька",
+      "datetime": 1764447585,
+      "text": "поехали и без Бобука?"
+    },
+    {
+      "id": "693d166508a2353d689a102b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764447590,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a102c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764447904,
+      "text": "Лучший сериал последних десятилетий это твин пикс"
+    },
+    {
+      "id": "693d166508a2353d689a102d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1764447927,
+      "text": "мне больше madmen понравились."
+    },
+    {
+      "id": "693d166508a2353d689a102e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764447970,
+      "text": "лучшая эволюция персонажа в breaking bad"
+    },
+    {
+      "id": "693d166508a2353d689a102f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1764447978,
+      "text": "а как же лост, доктор хаус?"
+    },
+    {
+      "id": "693d166508a2353d689a1030",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "issue666",
+      "author_name": "Константин 🪬",
+      "datetime": 1764447992,
+      "text": "вавилон 5"
+    },
+    {
+      "id": "693d166508a2353d689a1031",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1764448007,
+      "image_url": "https://chat.radio-t.com/logs/989/AgACAgEAAx0CUPxcWQABCjVxaStXB5u1KH7IpAXBjMXDeyMwfLIAAlMLaxuB71hF-WagF4m8KPsBAAMCAAN4AAM2BA",
+      "image_width": 498,
+      "image_height": 478,
+      "text": ""
+    },
+    {
+      "id": "693d166508a2353d689a1032",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448030,
+      "text": "😂😂😂"
+    },
+    {
+      "id": "693d166508a2353d689a1033",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448047,
+      "text": "тут сейчас набегут свидетели нвима и будут советовать на него перейти"
+    },
+    {
+      "id": "693d166508a2353d689a1034",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1764448092,
+      "text": "Дайте Леше про медленных лошадей договорить :)"
+    },
+    {
+      "id": "693d166508a2353d689a1035",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "легущька",
+      "datetime": 1764448104,
+      "text": "нвим от лукавого, сед + греп + кат"
+    },
+    {
+      "id": "693d166508a2353d689a1036",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448136,
+      "text": "А вот в nvim..."
+    },
+    {
+      "id": "693d166508a2353d689a1037",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448244,
+      "text": "ого сколько времени Ампатан економит каждый день"
+    },
+    {
+      "id": "693d166508a2353d689a1038",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448263,
+      "text": "и это тот же человек что пользуется IDEA"
+    },
+    {
+      "id": "693d166508a2353d689a1039",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764448356,
+      "text": "codex умеет спорить с тобой, claude - нет"
+    },
+    {
+      "id": "693d166508a2353d689a103a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1764448431,
+      "text": "у меня противоположный опыт, на моих задачах codex имеет просто на порядок больше критического мышления чем sonnet4.5/gemini3"
+    },
+    {
+      "id": "693d166508a2353d689a103b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1764448446,
+      "text": "Меня сильно раздражает, что jetbrains не дают установить clion-плагин в goland, я же заплатил за full-product pack, дайте мне хотя бы базовый плагин. Поэтому все больше мыслей перейти полностью на zed."
+    },
+    {
+      "id": "693d166508a2353d689a103c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448482,
+      "text": "или го плагин в пичарм"
+    },
+    {
+      "id": "693d166508a2353d689a103d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448492,
+      "text": "у них как-то выборочно всё"
+    },
+    {
+      "id": "693d166508a2353d689a103e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764448503,
+      "text": "зато питон плагин в голанд - пожалуйста"
+    },
+    {
+      "id": "693d166508a2353d689a103f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1764448592,
+      "text": "Не, ну тут-то все понятно. Ненастоящий язык должен идти как придаток к чему-то настоящему:)"
+    },
+    {
+      "id": "693d166508a2353d689a1040",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764448720,
+      "text": "⚠️ Introducing Claude Opus 4.5 \\ Anthropic - \u003ca href=\"https://www.anthropic.com/news/claude-opus-4-5\"\u003ehttps://www.anthropic.com/news/claude-opus-4-5\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1041",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764448731,
+      "text": "\u003cstrong\u003eIntroducing Claude Opus 4.5 \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003eМы представляем Claude Opus 4.5, нашу новейшую модель, доступную с сегодня. Она умная, эффективная и лучшая в мире для программирования и выполнения повседневных задач. Opus 4.5 предлагает новые возможности в производительности, доступности и автоматизации, устанавливая новый стандарт в области ИИ.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Преимущества алгоритма**: Claude Opus 4.5 демонстрирует выдающиеся результаты в программировании, благодаря более высокой эффективности и меньшему расходу токенов.\u003cbr/\u003e  \u003cbr/\u003e- **Улучшение игрового движения**: Модель лучше справляется с многосистемными задачами, обеспечивая высокую производительность при планировании и оркестрации.\u003cbr/\u003e\u003cbr/\u003e- **Инновации в автоматизации**: Новый параметр «усилия» позволяет находить оптимальный баланс между быстродействием и массовостью задач.\u003cbr/\u003e\u003cbr/\u003e- **Безопасность**: Opus 4.5 имеет улучшенные меры защиты от атак, став самой надежной моделью на рынке.\u003cbr/\u003e\u003cbr/\u003e- **Новые возможности**: Обновления для разработчиков, включая Claude Code и новинки для Excel, предлагают больше возможностей взаимодействия с ИИ.\u003cbr/\u003e\u003cbr/\u003e- **Эффективность применения**: Оптимизация работы в браузере и расширения возможностей для пользователей делают взаимодействие более удобным и быстрым.\u003cbr/\u003e\u003cbr/\u003e- **Доступность**: Цены на использование Opus 4.5 снизились, что позволяет большему числу пользователей и команд воспользоваться продвинутыми функциями модели."
+    },
+    {
+      "id": "693d166508a2353d689a1042",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dwsky",
+      "author_name": "Denis",
+      "datetime": 1764448878,
+      "text": "боюсь, что он останется лучшим сериалом эвар"
+    },
+    {
+      "id": "693d166508a2353d689a1043",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1764449123,
+      "text": "А когда уже будут революционные обновления? Как gpt3-\u0026gt;gpt4"
+    },
+    {
+      "id": "693d166508a2353d689a1044",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764449384,
+      "text": "когда у китайцев из-за нехватки железа смогут придумать альтернативу трансформерам"
+    },
+    {
+      "id": "693d166508a2353d689a1045",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764449789,
+      "text": "когда архитектуру сменят"
+    },
+    {
+      "id": "693d166508a2353d689a1046",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764449980,
+      "text": "😂"
+    },
+    {
+      "id": "693d166508a2353d689a1047",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1764450265,
+      "text": "\u003ca href=\"https://www.anthropic.com/economic-index\"\u003ehttps://www.anthropic.com/economic-index\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1048",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764450749,
+      "text": "⚠️ Reddit Migrates Comment Backend from Python to Go Microservice to Halve Latency - InfoQ - \u003ca href=\"https://www.infoq.com/news/2025/11/reddit-comments-go-migration/\"\u003ehttps://www.infoq.com/news/2025/11/reddit-comments-go-migration/\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1049",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764450755,
+      "text": "\u003cstrong\u003eReddit Migrates Comment Backend from Python to Go Microservice to Halve Latency - InfoQ\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eReddit has successfully migrated its comment backend from Python to a Go microservice, improving latency and scalability. This migration enhances performance, reduces downtime, and prepares for further modernization of core services.\u003cbr/\u003e\u003cbr/\u003e- Reddit transitioned from Python to a Go microservice for its comment backend.\u003cbr/\u003e- The migration aimed to improve latency and reliability in high-write environments.\u003cbr/\u003e- Engineers implemented a “tap-compare” approach for safe validation of new services.\u003cbr/\u003e- Challenges included data serialization mismatches and database pressure due to differing access methods.\u003cbr/\u003e- The new architecture simplifies dependencies while ensuring event delivery guarantees.\u003cbr/\u003e- Comments and Accounts have been fully migrated; Posts and Subreddits are in progress.\u003cbr/\u003e- Overall latency for critical operations was halved compared to the previous system."
+    },
+    {
+      "id": "693d166508a2353d689a104a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764450810,
+      "text": "они просто пускали в параллель трафик"
+    },
+    {
+      "id": "693d166508a2353d689a104b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1764450845,
+      "text": "Дискорд тоже сперва на го переписал, эти тоже через год на раст перепишут уже окончательно"
+    },
+    {
+      "id": "693d166508a2353d689a104c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764451136,
+      "text": "у них основа вообще elixir"
+    },
+    {
+      "id": "693d166508a2353d689a104d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764451309,
+      "text": "⚠️ stash/\u003ca href=\"https://README.md\"\u003eREADME.md\u003c/a\u003e at master · umputun/stash · GitHub - \u003ca href=\"https://github.com/umputun/stash/blob/master/README.md\"\u003ehttps://github.com/umputun/stash/blob/master/README.md\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a104e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764451317,
+      "text": "\u003cstrong\u003estash/\u003c/strong\u003e\u003ca href=\"https://README.md\"\u003eREADME.md\u003c/a\u003e\u003cstrong\u003e at master · umputun/stash · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eStash — это инструмент для управления конфигурациями, предоставляющий функции аутентификации, кэширования и API. Он предлагает простую установку и поддержку различных баз данных, что делает его универсальным решением для хранения данных и управления ими.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Быстрый старт**: Установка через GitHub, Homebrew, пакеты Debian или Docker.\u003cbr/\u003e- **Функции**: Поддержка аутентификации, кэширования и API для гибкого управления данными.\u003cbr/\u003e- **Безопасность**: Обратите внимание на настройки безопасности при развертывании.\u003cbr/\u003e- **Веб-интерфейс**: Интуитивно понятный интерфейс с темной и светлой темами.\u003cbr/\u003e- **Примеры использования**: Возможности интеграции с SQLite и PostgreSQL.\u003cbr/\u003e- **Документация**: Подробная документация по настройке и использованию.\u003cbr/\u003e- **Без лицензии**: Продукт с открытым исходным кодом, доступный для свободного использования."
+    },
+    {
+      "id": "693d166508a2353d689a104f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1764451494,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e не многовато комментариев в коде? ) Отпустил Клода порезвиться? :D"
+    },
+    {
+      "id": "693d166508a2353d689a1050",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1764451599,
+      "text": "может все же в \u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e добавить какие-то инструкции для регуляции объема комментирования?"
+    },
+    {
+      "id": "693d166508a2353d689a1051",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1764451625,
+      "text": "\u003ca href=\"https://github.com/umputun/stash/tree/master?tab=readme-ov-file#web-ui\"\u003ehttps://github.com/umputun/stash/tree/master?tab=readme-ov-file#web-ui\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1052",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1764451626,
+      "text": "А видели ли ведущие ещё 1 поделку в ту же сторону?\u003cbr/\u003e\u003ca href=\"https://www.linkedin.com/pulse/confighub-now-available-alexis-richardson-hsaoe/?trackingId=QFjzUwR3VCfjjM/tfa29RQ==\"\u003ehttps://www.linkedin.com/pulse/confighub-now-available-alexis-richardson-hsaoe/?trackingId=QFjzUwR3VCfjjM/tfa29RQ==\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1053",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1764451779,
+      "text": "какие проблемы решает внутренняя git история?"
+    },
+    {
+      "id": "693d166508a2353d689a1054",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1764451946,
+      "text": "аудит и рекавери"
+    },
+    {
+      "id": "693d166508a2353d689a1055",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1764452457,
+      "text": "\u003ca href=\"https://github.com/umputun/stash/blob/master/.github/workflows/ci.yml#L14\"\u003ehttps://github.com/umputun/stash/blob/master/.github/workflows/ci.yml#L14\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1056",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764452515,
+      "text": "⚠️ How good engineers write bad code at big companies - \u003ca href=\"https://www.seangoedecke.com/bad-code-at-big-companies/\"\u003ehttps://www.seangoedecke.com/bad-code-at-big-companies/\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1057",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764452520,
+      "text": "\u003cstrong\u003eHow good engineers write bad code at big companies\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003e\u003cbr/\u003eВ крупных технологических компаниях высококвалифицированные инженеры часто пишут плохой код из-за нехватки времени, недостаточной экспертизы и частой смены команд. Эта динамика приводит к низкому качеству программного обеспечения, несмотря на высокий уровень заработной платы.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Инженеры часто работают вне своей области экспертизы, что приводит к плохому коду.\u003cbr/\u003e- Большинство изменений кода вносят новички, что увеличивает вероятность ошибок.\u003cbr/\u003e- Опытные инженеры перегружены и не могут уделять должное внимание каждому изменению.\u003cbr/\u003e- Большие компании предпочитают внутреннюю подвижность, жертвуя качеством кода ради скорости.\u003cbr/\u003e- Инженеры не могут выбирать проекты и зачастую сталкиваются с незнакомыми системами.\u003cbr/\u003e- Плохой код происходит не из-за некомпетентности, а из-за организационной динамики.\u003cbr/\u003e- Обсуждение причин плохого кода в компаниях показало разные точки зрения среди комментаторов."
+    },
+    {
+      "id": "693d166508a2353d689a1058",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1764452845,
+      "text": "требования часто меняются"
+    },
+    {
+      "id": "693d166508a2353d689a1059",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764452859,
+      "text": "есть еще один момент: в больших компаниях есть еще странные решения ввиду массовости его принятия, и код выходит плохой. отвращение уже при написании возникает"
+    },
+    {
+      "id": "693d166508a2353d689a105a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1764452861,
+      "text": "проект на 2 пользователей и на 1М разные по требованиям даже если функционал один"
+    },
+    {
+      "id": "693d166508a2353d689a105b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1764452963,
+      "text": "\u0026gt; высококвалифицированные инженеры часто пишут плохой код  из-за {...}, \u003cstrong\u003eнедостаточной экспертизы\u003c/strong\u003e {...}\u003cbr/\u003e\u003cbr/\u003eтолько я тут вижу какое-то несоответствие?"
+    },
+    {
+      "id": "693d166508a2353d689a105c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764453085,
+      "text": "Ну, вообзе говоря, от плохой кодовой базы еще как можно отупеть"
+    },
+    {
+      "id": "693d166508a2353d689a105d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1764453308,
+      "text": "костыль может не ухудшать ничего на короткой дистанции, но быть бомбой замедленного действия, которая когда-то кааак сделает BADABOOM!"
+    },
+    {
+      "id": "693d166508a2353d689a105e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764453394,
+      "text": "вот вам пример плохой кодовой базы, где вообще хрен пофиксаешь ошибки:\u003cbr/\u003e\u003ca href=\"https://github.com/jellyfin/jellyfin\"\u003ehttps://github.com/jellyfin/jellyfin\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a105f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1764453434,
+      "text": "Реплика для грея в стиле умпутуна: «да какие же это люди, это инженеры, прости господи»"
+    },
+    {
+      "id": "693d166508a2353d689a1060",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1764453462,
+      "text": "Молодой актер(М) заходит в гримуборную к заслуженному артисту (З) и говорит:\u003cbr/\u003e- Василий Илларионович, я бы хотел с вами посоветоваться... Вот мне в новом спектакле роль дали, и в первом акте, в первой сцене я должен сыграть человека, слегка выпившего...\u003cbr/\u003e- Ну, душа моя, проще ничего нет. Идешь в буфет, берешь 150 г водочки и соленый огурчик, и все.\u003cbr/\u003e- Василий Илларионович, а во второй сцене я уже должен сыграть мертвецки пьяного...\u003cbr/\u003e- Ну и что особенного? Идешь в буфет, берешь еще 350 г водки и два соленых огурчика, выходишь на сцену - и порядок.\u003cbr/\u003e- Да, но потом, во вторм акте, я уже появляюсь совершенно трезвый!\u003cbr/\u003e- А вот это, голубчик, уже СЫГРАТЬ надо!"
+    },
+    {
+      "id": "693d166508a2353d689a1061",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1764453472,
+      "text": "так и у программистов - уметь код писать надо"
+    },
+    {
+      "id": "693d166508a2353d689a1062",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1764453523,
+      "text": "дебаг разный бывает - \u003ccode\u003eprintln\u003c/code\u003e тоже вариант дебаггинга ;)"
+    },
+    {
+      "id": "693d166508a2353d689a1063",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1764453769,
+      "text": "Когда я работал в вендоре лаптопов, нам давали отладочные символы от беты 10 винды которой ещё впринципе в паблике не было. Наверняка крупным партнерам эппл тоже выдаёт."
+    },
+    {
+      "id": "693d166508a2353d689a1064",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764453814,
+      "text": "Ууу. Cannot reproduce. А у нас принято возбуждаться до топ-менеждмента по ошибкам repro 1/100. .хрен репродюснешь... без логов, естественно :("
+    },
+    {
+      "id": "693d166508a2353d689a1065",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764453839,
+      "text": "совсем крутым ребятям типа спецслужб дают даже исходники"
+    },
+    {
+      "id": "693d166508a2353d689a1066",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764453860,
+      "text": "⚠️ Kineto by JetBrains, a no-code platform to generate websites and web apps with AI. - \u003ca href=\"https://kineto.dev/\"\u003ehttps://kineto.dev/\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1067",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764453865,
+      "text": "\u003cstrong\u003eKineto by JetBrains, a no-code platform to generate websites and web apps with AI.\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eKineto от JetBrains - это платформа без кода для генерации веб-сайтов и веб-приложений с помощью ИИ. Пользователи могут создать свои приложения, просто описав их.\u003cbr/\u003e\u003cbr/\u003e- Kineto позволяет легко создавать веб-приложения без кода, используя ИИ.\u003cbr/\u003e- Начните с входа в систему и описания вашего приложения в виде краткого рассказа.\u003cbr/\u003e- Платформа генерирует начальную концепцию для вашего обзора и доработки.\u003cbr/\u003e- Создайте прототип, который можно настроить до совершенства.\u003cbr/\u003e- Публикация приложения осуществляется на платформе Kineto без технических сложностей.\u003cbr/\u003e- Вы можете делиться приложением, использовать его самостоятельно или оставить приватным. \u003cbr/\u003e- Платформа ориентирована на пользователей, нуждающихся в быстрой разработке."
+    },
+    {
+      "id": "693d166508a2353d689a1068",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vasilich6107",
+      "author_name": "vasilich",
+      "datetime": 1764453967,
+      "text": "На правах догоняющих со всех ног?"
+    },
+    {
+      "id": "693d166508a2353d689a1069",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1764454013,
+      "text": "\u003ca href=\"https://www.claude.com/blog/improving-frontend-design-through-skills\"\u003ehttps://www.claude.com/blog/improving-frontend-design-through-skills\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a106a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764454047,
+      "text": "это всё Ширяев виноват"
+    },
+    {
+      "id": "693d166508a2353d689a106b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1764454109,
+      "text": "Не, про крутых это точно не про нас было, мы были скорее наоборот"
+    },
+    {
+      "id": "693d166508a2353d689a106c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764454374,
+      "text": "в тикток"
+    },
+    {
+      "id": "693d166508a2353d689a106d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764454384,
+      "text": "⚠️ Local LLMs are how nerds now justify a big computer they don\u0026#39;t need - \u003ca href=\"https://world.hey.com/dhh/local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b\"\u003ehttps://world.hey.com/dhh/local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a106e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764454389,
+      "text": "\u003cstrong\u003eLocal LLMs are how nerds now justify a big computer they don\u0026#39;t need\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003eМестные LLM считаются способом оправдания большого компьютера, который не всегда нужен. Хотя технологии улучшаются, многие модели остаются далеко позади передовых. Большинство разработчиков по-прежнему полагаются на арендованные модели и могут работать с меньшими ресурсами.\u003cbr/\u003e\u003cbr/\u003e- Местные LLM доступны для разных компьютеров, но они значительно уступают передовым моделям.\u003cbr/\u003e- Несмотря на достижения, мелкие модели еще не готовы к повседневной работе разработчиков.\u003cbr/\u003e- Оценивать компьютеры по возможностям запуска местных моделей бессмысленно.\u003cbr/\u003e- Рынок предлагает много возможностей, но большинство разработчиков вернется к арендованным моделям.\u003cbr/\u003e- Наличие модели небольшой памяти может быть достаточным для большинства.\u003cbr/\u003e- Линукс позволяет разработчикам работать на большинстве старых компьютеров.\u003cbr/\u003e- Вероятно, вам нужно меньше ресурсов, чем вы думаете."
+    },
+    {
+      "id": "693d166508a2353d689a106f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1764454616,
+      "text": "у меня был 128Г макс про бук. перестрадал и сейчас на эйре норм"
+    },
+    {
+      "id": "693d166508a2353d689a1070",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764454640,
+      "text": "не, 24 гб мало, 32 в притык"
+    },
+    {
+      "id": "693d166508a2353d689a1071",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764454683,
+      "text": "“почемуто питон делает на одном ядре” 😂😂"
+    },
+    {
+      "id": "693d166508a2353d689a1072",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764454768,
+      "text": "для сборки aosp нужно \u003cbr/\u003e32gb."
+    },
+    {
+      "id": "693d166508a2353d689a1073",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764454790,
+      "text": "И ядер побольше"
+    },
+    {
+      "id": "693d166508a2353d689a1074",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764454906,
+      "text": "тоесть наличие свапа Лёха проигнорировал"
+    },
+    {
+      "id": "693d166508a2353d689a1075",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1764454970,
+      "text": "да да, “возможно”, “скорее всего”"
+    },
+    {
+      "id": "693d166508a2353d689a1076",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1764455079,
+      "text": "эйр легче и эт оч заметно когда таскаешь каждый день"
+    },
+    {
+      "id": "693d166508a2353d689a1077",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455207,
+      "text": "⚠️ Темы слушателей 989 - \u003ca href=\"https://radio-t.com/p/2025/11/25/prep-989/\"\u003ehttps://radio-t.com/p/2025/11/25/prep-989/\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1078",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455223,
+      "text": "[1/11] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eДанил Литвин\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eAnother npm supply chain attack Shai-Hulud 2.0 affected tens of thousands of repositories\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack\"\u003ehttps://about.gitlab.com/blog/gitlab-discover...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitLab discovers widespread npm supply chain attack\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме:\u003cbr/\u003eGitLab обнаружил масштабную атаку на цепочку поставок npm с использованием разрушительного вредоносного ПО, которое распространяется через скомпрометированные пакеты. Мафия включает механизм “смертельного переключателя”, угрожающий уничтожением данных пользователей. Исследование продолжается для понимания полномасштабной атаки и её эффективного противодействия.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты:\u003cbr/\u003e- **Масштабная атака**: Вредоносное ПО было найдено в множестве npm-пакетов, используя сложный механизм распространения.\u003cbr/\u003e- **“Смертельное переключение”**: Вредоносный код может уничтожить данные пользователей, если теряется доступ к его инфраструктуре.\u003cbr/\u003e- **Кража учетных данных**: Вредоносное ПО ищет токены GitHub, AWS, GCP и Azure для кражи учетных данных.\u003cbr/\u003e- **Распространение через npm**: Вредоносное ПО загружает и инфицирует пакеты, добавляя вредоносные скрипты.\u003cbr/\u003e- **Уничтожение данных**: В случае потери доступа к сервисам, вредоносное ПО стирает пользовательские файлы.\u003cbr/\u003e- **Идентификация компрометаций**: Обнаружены индикаторы компрометации, которые могут помочь в выявлении инфекции.\u003cbr/\u003e- **Рекомендации GitLab**: Используйте системы автоматического обнаружения и анализа зависимостей для защиты."
+    },
+    {
+      "id": "693d166508a2353d689a1079",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455223,
+      "text": "[2/11] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eEduard\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://ziglang.org/news/migrating-from-github-to-codeberg/\"\u003ehttps://ziglang.org/news/migrating-from-githu...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eЗиг переезжает с Github на Codeberg\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e\u003cbr/\u003e      Migrating from GitHub to Codeberg\u003cbr/\u003e      ⚡\u003cbr/\u003e      Zig Programming Language\u003cbr/\u003e    \u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003e\u003cbr/\u003eПроект Zig переходит с GitHub на Codeberg из-за недовольства текущим состоянием GitHub и его проблемами. Разработчики стремятся избежать зависимости от старой платформы и планируют оказывать поддержку в новом месте.\u003cbr/\u003e\u003cbr/\u003e## Пункты\u003cbr/\u003e\u003cbr/\u003e- Zig использовал GitHub в течение десяти лет, но переходит на Codeberg.\u003cbr/\u003e- Проблемы GitHub, включая зависимость от Microsoft, вызывают недовольство.\u003cbr/\u003e- Разработчики Zig отмечают ошибки и медлительность GitHub Actions.\u003cbr/\u003e- GitHub Sponsors утратил первоначальную ценность после ухода ключевого человека.\u003cbr/\u003e- Пожертвования через GitHub рассматриваются как потенциальная ответственность.\u003cbr/\u003e- Новый репозиторий Zig размещен на Codeberg, но старые проблемы останутся.\u003cbr/\u003e- Migration plan включает сохранение существующих проблем и пулл-реквестов."
+    },
+    {
+      "id": "693d166508a2353d689a107a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455223,
+      "text": "[3/11] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eOvsep Avakian\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eFlow Based Programming microframework in Go \u003c/em\u003e\u003ca href=\"https://github.com/hovsep/fmesh\"\u003ehttps://github.com/hovsep/fmesh\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitHub - hovsep/fmesh: FBP (flow based programming) inspired framework\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eFMesh - это фреймворк на базе Go, вдохновлённый концепцией программирования, основанного на потоках. Он предназначен для управления потоками данных и улучшает проектирование и тестирование приложений.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Фреймворк**: Основан на принципах FBP для управления потоками данных.\u003cbr/\u003e- **Язык программирования**: Написан на Go, что обеспечивает высокую производительность.\u003cbr/\u003e- **Открытый код**: Репозиторий доступен на GitHub для общественности.\u003cbr/\u003e- **Тестирование**: Содержит интеграционные тесты для проверки функциональности.\u003cbr/\u003e- **Лицензия**: Использует лицензию MIT, что позволяет свободное использование и модификацию.\u003cbr/\u003e- **Документация**: Включает README с руководствами по использованию.\u003cbr/\u003e- **Поддержка**: Активные обновления и поддержка сообщества."
+    },
+    {
+      "id": "693d166508a2353d689a107b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455223,
+      "text": "[4/11] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eVlad Gavrilov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eKagi зарелизили свой браузер Orion\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://blog.kagi.com/orion\"\u003ehttps://blog.kagi.com/orion\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOrion 1.0 ✴︎ Browse Beyond | Kagi Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eOrion 1.0 для MacOS официально выпущен после шести лет разработки, представляя собой новый браузер, акцентирующий внимание на приватности и удобстве пользователя. Orion предлагает уникальные функции и быстрое, безопасное серфинг в рамках экосистемы Kagi.\u003cbr/\u003e\u003cbr/\u003e- **Новый браузер:** Orion 1.0 - ответ на проблемы современных браузеров, предлагая приватность без компромиссов.\u003cbr/\u003e- **Об исполнении:** Orion разработан на основе WebKit, обеспечивая высокую производительность и оптимизацию для macOS и iOS.\u003cbr/\u003e- **Приватность:**  Отсутствие сбора данных и рекламы, с акцентом на защиту конфиденциальности с первого запуска.\u003cbr/\u003e- **AI и безопасность:** Orion не включает встроенный AI-код, сохраняя безопасность пользователей.\u003cbr/\u003e- **Уникальные функции:** Инструменты, такие как Фокусный режим и Мини-панель, делают браузер интуитивно понятным и мощным.\u003cbr/\u003e- **Независимость:** Orion бесплатен, финансируется пользователями через подписки, не продает данные.\u003cbr/\u003e- **Дальнейшие планы:** Развитие функций, улучшение стабильности и работа над версиями для Linux и Windows."
+    },
+    {
+      "id": "693d166508a2353d689a107c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455223,
+      "text": "[5/11] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eromangr\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eJetBrains запустили бету вайбкодинг платформы \u003c/em\u003e\u003ca href=\"https://kineto.dev\"\u003ekineto.dev\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eWelcome to Kineto, the AI-powered platform designed to help you easily create websites and web applications. No code, just chat.\u003c/em\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a107d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1764455327,
+      "text": "Про манкис самое забавное"
+    },
+    {
+      "id": "693d166508a2353d689a107e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455583,
+      "text": "⚠️ Темы слушателей 989 - \u003ca href=\"https://radio-t.com/p/2025/11/25/prep-989/\"\u003ehttps://radio-t.com/p/2025/11/25/prep-989/\u003c/a\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a107f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455583,
+      "text": "[1/11] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eДанил Литвин\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eAnother npm supply chain attack Shai-Hulud 2.0 affected tens of thousands of repositories\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack\"\u003ehttps://about.gitlab.com/blog/gitlab-discover...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitLab discovers widespread npm supply chain attack\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме:\u003cbr/\u003eGitLab обнаружил масштабную атаку на цепочку поставок npm с использованием разрушительного вредоносного ПО, которое распространяется через скомпрометированные пакеты. Мафия включает механизм “смертельного переключателя”, угрожающий уничтожением данных пользователей. Исследование продолжается для понимания полномасштабной атаки и её эффективного противодействия.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты:\u003cbr/\u003e- **Масштабная атака**: Вредоносное ПО было найдено в множестве npm-пакетов, используя сложный механизм распространения.\u003cbr/\u003e- **“Смертельное переключение”**: Вредоносный код может уничтожить данные пользователей, если теряется доступ к его инфраструктуре.\u003cbr/\u003e- **Кража учетных данных**: Вредоносное ПО ищет токены GitHub, AWS, GCP и Azure для кражи учетных данных.\u003cbr/\u003e- **Распространение через npm**: Вредоносное ПО загружает и инфицирует пакеты, добавляя вредоносные скрипты.\u003cbr/\u003e- **Уничтожение данных**: В случае потери доступа к сервисам, вредоносное ПО стирает пользовательские файлы.\u003cbr/\u003e- **Идентификация компрометаций**: Обнаружены индикаторы компрометации, которые могут помочь в выявлении инфекции.\u003cbr/\u003e- **Рекомендации GitLab**: Используйте системы автоматического обнаружения и анализа зависимостей для защиты."
+    },
+    {
+      "id": "693d166508a2353d689a1080",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455583,
+      "text": "[2/11] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eEduard\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://ziglang.org/news/migrating-from-github-to-codeberg/\"\u003ehttps://ziglang.org/news/migrating-from-githu...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eЗиг переезжает с Github на Codeberg\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e\u003cbr/\u003e      Migrating from GitHub to Codeberg\u003cbr/\u003e      ⚡\u003cbr/\u003e      Zig Programming Language\u003cbr/\u003e    \u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003e\u003cbr/\u003eПроект Zig переходит с GitHub на Codeberg из-за недовольства текущим состоянием GitHub и его проблемами. Разработчики стремятся избежать зависимости от старой платформы и планируют оказывать поддержку в новом месте.\u003cbr/\u003e\u003cbr/\u003e## Пункты\u003cbr/\u003e\u003cbr/\u003e- Zig использовал GitHub в течение десяти лет, но переходит на Codeberg.\u003cbr/\u003e- Проблемы GitHub, включая зависимость от Microsoft, вызывают недовольство.\u003cbr/\u003e- Разработчики Zig отмечают ошибки и медлительность GitHub Actions.\u003cbr/\u003e- GitHub Sponsors утратил первоначальную ценность после ухода ключевого человека.\u003cbr/\u003e- Пожертвования через GitHub рассматриваются как потенциальная ответственность.\u003cbr/\u003e- Новый репозиторий Zig размещен на Codeberg, но старые проблемы останутся.\u003cbr/\u003e- Migration plan включает сохранение существующих проблем и пулл-реквестов."
+    },
+    {
+      "id": "693d166508a2353d689a1081",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455583,
+      "text": "[3/11] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eOvsep Avakian\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eFlow Based Programming microframework in Go \u003c/em\u003e\u003ca href=\"https://github.com/hovsep/fmesh\"\u003ehttps://github.com/hovsep/fmesh\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitHub - hovsep/fmesh: FBP (flow based programming) inspired framework\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eFMesh - это фреймворк на базе Go, вдохновлённый концепцией программирования, основанного на потоках. Он предназначен для управления потоками данных и улучшает проектирование и тестирование приложений.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Фреймворк**: Основан на принципах FBP для управления потоками данных.\u003cbr/\u003e- **Язык программирования**: Написан на Go, что обеспечивает высокую производительность.\u003cbr/\u003e- **Открытый код**: Репозиторий доступен на GitHub для общественности.\u003cbr/\u003e- **Тестирование**: Содержит интеграционные тесты для проверки функциональности.\u003cbr/\u003e- **Лицензия**: Использует лицензию MIT, что позволяет свободное использование и модификацию.\u003cbr/\u003e- **Документация**: Включает README с руководствами по использованию.\u003cbr/\u003e- **Поддержка**: Активные обновления и поддержка сообщества."
+    },
+    {
+      "id": "693d166508a2353d689a1082",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455584,
+      "text": "[4/11] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eVlad Gavrilov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eKagi зарелизили свой браузер Orion\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://blog.kagi.com/orion\"\u003ehttps://blog.kagi.com/orion\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOrion 1.0 ✴︎ Browse Beyond | Kagi Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eOrion 1.0 для MacOS официально выпущен после шести лет разработки, представляя собой новый браузер, акцентирующий внимание на приватности и удобстве пользователя. Orion предлагает уникальные функции и быстрое, безопасное серфинг в рамках экосистемы Kagi.\u003cbr/\u003e\u003cbr/\u003e- **Новый браузер:** Orion 1.0 - ответ на проблемы современных браузеров, предлагая приватность без компромиссов.\u003cbr/\u003e- **Об исполнении:** Orion разработан на основе WebKit, обеспечивая высокую производительность и оптимизацию для macOS и iOS.\u003cbr/\u003e- **Приватность:**  Отсутствие сбора данных и рекламы, с акцентом на защиту конфиденциальности с первого запуска.\u003cbr/\u003e- **AI и безопасность:** Orion не включает встроенный AI-код, сохраняя безопасность пользователей.\u003cbr/\u003e- **Уникальные функции:** Инструменты, такие как Фокусный режим и Мини-панель, делают браузер интуитивно понятным и мощным.\u003cbr/\u003e- **Независимость:** Orion бесплатен, финансируется пользователями через подписки, не продает данные.\u003cbr/\u003e- **Дальнейшие планы:** Развитие функций, улучшение стабильности и работа над версиями для Linux и Windows."
+    },
+    {
+      "id": "693d166508a2353d689a1083",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1764455584,
+      "text": "[5/11] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eromangr\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eJetBrains запустили бету вайбкодинг платформы \u003c/em\u003e\u003ca href=\"https://kineto.dev\"\u003ekineto.dev\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eWelcome to Kineto, the AI-powered platform designed to help you easily create websites and web applications. No code, just chat.\u003c/em\u003e"
+    },
+    {
+      "id": "693d166508a2353d689a1084",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1764455701,
+      "text": "попытка занести декларативное программирование в императивное"
+    },
+    {
+      "id": "693d166508a2353d689a1085",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457326,
+      "text": "когда вокруг одни шарлатаны, быть честным - значит ничего не продать"
+    },
+    {
+      "id": "693d166508a2353d689a1086",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457368,
+      "text": "а с точки зрения инженера работать в компании, которая продала фичу, про которую никто, кроме продажников не знает - не надо"
+    },
+    {
+      "id": "693d166508a2353d689a1087",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1764457393,
+      "text": "А в чем проблема что мы не тренируем свою нейронку? Это ж куча денег, мы тупо экономим, это уменьшает расходы"
+    },
+    {
+      "id": "693d166508a2353d689a1088",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457404,
+      "text": "t3 chat тупейший враппер над api с неглючащим ui"
+    },
+    {
+      "id": "693d166508a2353d689a1089",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1764457411,
+      "text": "Я искренне не понимаю"
+    },
+    {
+      "id": "693d166508a2353d689a108a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457414,
+      "text": "сидит на венчурных инвестициях"
+    },
+    {
+      "id": "693d166508a2353d689a108b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764457436,
+      "text": "Круто зарубились.... а мне пофиг..."
+    },
+    {
+      "id": "693d166508a2353d689a108c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1764457438,
+      "text": "Ксюша считает, что это не кошерно."
+    },
+    {
+      "id": "693d166508a2353d689a108d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1764457484,
+      "text": "Я может что-то пропустил, но поинт Ксении - проговорить это. Не рассказывать что «мы крутые, мы все можем»"
+    },
+    {
+      "id": "693d166508a2353d689a108e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457523,
+      "text": "и инвесторы уйдут к тем, кто будут говорить, что они крутые и всё сделают за секунду лучшим образом, и это принесёт 100х через месяц"
+    },
+    {
+      "id": "693d166508a2353d689a108f",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457563,
+      "text": "даже если в проекте нет ни одного программиста"
+    },
+    {
+      "id": "693d166508a2353d689a1090",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1764457591,
+      "text": "про это фильм сняли, \u0026#34;Не смотрите наверх\u0026#34; называется"
+    },
+    {
+      "id": "693d166508a2353d689a1091",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1764457607,
+      "text": "А что на счёт Theranos? (это про тест крови который провалился)"
+    },
+    {
+      "id": "693d166508a2353d689a1092",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457618,
+      "text": "именно поэтому это и существовало"
+    },
+    {
+      "id": "693d166508a2353d689a1093",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1764457621,
+      "text": "Все рано инвесторы прогорят и оплатят прогресс. Не моя мысль, но интересная"
+    },
+    {
+      "id": "693d166508a2353d689a1094",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457639,
+      "text": "если бы нормально провели due dilligence, theranos закрылся бы сильно раньше"
+    },
+    {
+      "id": "693d166508a2353d689a1095",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457665,
+      "text": "а так можно ходить и с умным видом толкать стопроцентное лекарство от всех видов рака"
+    },
+    {
+      "id": "693d166508a2353d689a1096",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1764457667,
+      "text": "Ну так если ты переиспользуешь другую работу - в моем понимании это и есть сильная сторона. Ты не тратишь кучу денег на то чтобы добиться того, что умеет сосед."
+    },
+    {
+      "id": "693d166508a2353d689a1097",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1764457766,
+      "image_url": "https://chat.radio-t.com/logs/989/AgACAgIAAx0CUPxcWQABCjXiaSt9Jr9ucfKwmTft_b3FSKRx_bgAAioOaxsgHWFJCpjLWwb7TTQBAAMCAAN5AAM2BA",
+      "image_width": 1132,
+      "image_height": 620,
+      "text": ""
+    },
+    {
+      "id": "693d166508a2353d689a1098",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1764457867,
+      "text": "А whisper не nvidia?"
+    },
+    {
+      "id": "693d166508a2353d689a1099",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457906,
+      "text": "openai"
+    },
+    {
+      "id": "693d166508a2353d689a109a",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457934,
+      "text": "у t3 chat есть бэкенд"
+    },
+    {
+      "id": "693d166508a2353d689a109b",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764457965,
+      "text": "просто оба на typescript написаны"
+    },
+    {
+      "id": "693d166508a2353d689a109c",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764458290,
+      "text": "не будет рендерить всё как надо тогда"
+    },
+    {
+      "id": "693d166508a2353d689a109d",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1764458323,
+      "text": "этим cli продуктом был opencode"
+    },
+    {
+      "id": "693d166508a2353d689a109e",
+      "issue": 989,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1764458327,
+      "text": "там же консольные приложения используют всякие нестандартные штуки, которые реально поддерживаются только во всяких kitty"
+    }
+  ]
+}
