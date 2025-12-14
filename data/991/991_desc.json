@@ -1,0 +1,80 @@
+{
+  "issue": 991,
+  "date": "2025-12-13",
+  "audio": "https://cdn.radio-t.com/rt_podcast991.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt991.jpg",
+  "start_time": 1765657014,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Использование C для вайб кодинга",
+      "links": [
+        "https://stephenramsay.net/posts/vibe-coding.html"
+      ],
+      "time": "00:37:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Использование питона для скриптов",
+      "links": [
+        "https://hypirion.com/musings/use-python-for-scripting"
+      ],
+      "time": "00:50:13"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как правильно депрекейтить",
+      "links": [
+        "https://entropicthoughts.com/deprecate-like-you-mean-it"
+      ],
+      "time": "01:06:21"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Gin это какой-то позор",
+      "links": [
+        "https://eblog.fly.dev/ginbad.html"
+      ],
+      "time": "01:16:01"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход GPT-5.2",
+      "links": [
+        "https://openai.com/index/introducing-gpt-5-2/"
+      ],
+      "time": "01:25:32"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI незаметно добавили skills",
+      "links": [
+        "https://simonwillison.net/2025/Dec/12/openai-skills/"
+      ],
+      "time": "01:31:37"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Fleet ожидаемо не полетел",
+      "links": [
+        "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/"
+      ],
+      "time": "01:41:57"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2025/12/10/prep-991/"
+      ],
+      "time": "02:04:34"
+    }
+  ],
+  "tags": null
+}
