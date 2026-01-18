@@ -1,0 +1,96 @@
+{
+  "issue": 996,
+  "date": "2026-01-17",
+  "audio": "https://cdn.radio-t.com/rt_podcast996.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt996.jpg",
+  "start_time": 1768681659,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Ralph Wiggum для агентов, на практике",
+      "links": [
+        "https://ghuntley.com/ralph/"
+      ],
+      "time": "00:09:10"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Агент для простых людей",
+      "links": [
+        "https://claude.com/blog/cowork-research-preview"
+      ],
+      "time": "00:28:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Впечатления от использования Claude Cowork",
+      "links": [
+        "https://simonw.substack.com/p/first-impressions-of-claude-cowork"
+      ],
+      "time": "00:34:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как сделать из Claude Code что-то, чем можно пользоваться",
+      "links": [
+        "https://1code.dev/"
+      ],
+      "time": "00:40:33"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Сертификаты на адреса и совсем короткие теперь доступны",
+      "links": [
+        "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html"
+      ],
+      "time": "00:44:48"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Turso - как sqlite, но другая",
+      "links": [
+        "https://turso.tech/"
+      ],
+      "time": "01:06:14"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Зачем нам нужна DuckDB",
+      "links": [
+        "https://www.robinlinacre.com/recommend_duckdb/"
+      ],
+      "time": "01:06:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Ожидание прихода рекламы в ChatGPT",
+      "links": [
+        "https://www.wired.com/story/openai-testing-ads-us/"
+      ],
+      "time": "01:12:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Еще раз о том, как все поменялось",
+      "links": [
+        "https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md"
+      ],
+      "time": "01:32:06"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 996",
+      "links": [
+        "https://radio-t.com/p/2026/01/14/prep-996/"
+      ],
+      "time": "01:45:05"
+    }
+  ],
+  "tags": null
+}
