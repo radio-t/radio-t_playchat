@@ -1,0 +1,48 @@
+{
+  "issue": 994,
+  "date": "2026-01-03",
+  "audio": "https://cdn.radio-t.com/rt_podcast994.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt994.jpg",
+  "start_time": 1767471695,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "История про JDSL",
+      "links": [
+        "https://www.youtube.com/watch?v=kZGyz9jCUj0"
+      ],
+      "time": "00:46:56"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Миф о 90% снижении затрат",
+      "links": [
+        "https://sderosiaux.medium.com/the-90-cost-reduction-myth-in-ai-assisted-development-14d11c89f8d8"
+      ],
+      "time": "01:13:14"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Полезное для проверки ошибок в новом Go",
+      "links": [
+        "https://antonz.org/accepted/errors-astype/"
+      ],
+      "time": "01:48:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 994",
+      "links": [
+        "https://radio-t.com/p/2026/01/02/prep-994/"
+      ],
+      "time": "01:59:58"
+    }
+  ],
+  "tags": null
+}
