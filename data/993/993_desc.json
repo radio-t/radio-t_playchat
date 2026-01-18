@@ -1,0 +1,88 @@
+{
+  "issue": 993,
+  "date": "2025-12-27",
+  "audio": "https://cdn.radio-t.com/rt_podcast993.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt993.jpg",
+  "start_time": 1766866738,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Радио-Т в 2025 году",
+      "links": [
+        "https://radio-t.com/2025/"
+      ],
+      "time": "00:13:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "2025 в разрезе LLM",
+      "links": [
+        "https://karpathy.bearblog.dev/year-in-review-2025/"
+      ],
+      "time": "00:31:38"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "exe.dev - странно, сыро, но интересно",
+      "links": [
+        "https://blog.exe.dev/meet-exe.dev"
+      ],
+      "time": "00:44:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Роб Пайк против AI",
+      "links": [
+        "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/"
+      ],
+      "time": "01:22:24"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Они обретут разум, а мы не заметим",
+      "links": [
+        "https://www.cam.ac.uk/research/news/we-may-never-be-able-to-tell-if-ai-becomes-conscious-argues-philosopher"
+      ],
+      "time": "01:41:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Почему надо избегать мини-фреймворки",
+      "links": [
+        "https://laike9m.com/blog/avoid-mini-frameworks,171/"
+      ],
+      "time": "01:50:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Падение Waymo застопорило все",
+      "links": [
+        "https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/"
+      ],
+      "time": "02:07:03"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Праздничная уязвимость для MongoDB",
+      "links": [
+        "https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/#technical_analysis"
+      ],
+      "time": "02:19:37"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 993",
+      "links": [
+        "https://radio-t.com/p/2025/12/24/prep-993/"
+      ],
+      "time": "02:25:44"
+    }
+  ],
+  "tags": null
+}

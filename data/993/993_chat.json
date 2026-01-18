@@ -1,0 +1,1281 @@
+{
+  "chat": [
+    {
+      "id": "696d11cac07f3e0593b36475",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1766865775,
+      "text": "Музыка громковата"
+    },
+    {
+      "id": "696d11cac07f3e0593b36476",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andres",
+      "datetime": 1766866575,
+      "text": "Da!"
+    },
+    {
+      "id": "696d11cac07f3e0593b36477",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1766866665,
+      "text": "как в том анекдоте, хорошие суши, только мы рыбу пожарили и рис заменили картошкой"
+    },
+    {
+      "id": "696d11cac07f3e0593b36478",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766866738,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b36479",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1766867131,
+      "text": "В одном другом подкасте \u0026#34;предсказали\u0026#34; наоборот, что останеться поиск только через AI, а нормальный поиск сделают платным продуктом."
+    },
+    {
+      "id": "696d11cac07f3e0593b3647a",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grannys_stout",
+      "author_name": "Бабка Пива",
+      "datetime": 1766867272,
+      "text": "не будет больше этого вашего \u0026#34;нормального\u0026#34; поиска"
+    },
+    {
+      "id": "696d11cac07f3e0593b3647b",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "magic314",
+      "author_name": "Magic",
+      "datetime": 1766867285,
+      "text": "четвертая сноска -  YouTube Premium individual plan is included in Google AI Ultra in over 40 countries — \u003ca href=\"https://support.google.com/googleone/answer/16286513?ref_topic=12344789\u0026amp;sjid=4377067844429597045-NC#zippy=%2Clist-of-countries-regions-where-the-youtube-premium-benefit-is-available\"\u003esee full list of countries\u003c/a\u003e."
+    },
+    {
+      "id": "696d11cac07f3e0593b3647c",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766867569,
+      "text": "о, Ksenia , с возвращением! Как прошел отдых?"
+    },
+    {
+      "id": "696d11cac07f3e0593b3647d",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766867577,
+      "text": "⚠️ Радио-Т в 2025 году - \u003ca href=\"https://radio-t.com/2025/\"\u003ehttps://radio-t.com/2025/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b3647e",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "InSafeWorld",
+      "author_name": "Udom Bunchu",
+      "datetime": 1766867606,
+      "text": "инфографика?"
+    },
+    {
+      "id": "696d11cac07f3e0593b3647f",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766867648,
+      "text": "иконографика - звучит, как что-то религиозное"
+    },
+    {
+      "id": "696d11cac07f3e0593b36480",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1766867700,
+      "text": "Спасибо! Только отдыха не было :) ну в смысле не планировался :) просто не получилось присоединиться в прошлую субботу"
+    },
+    {
+      "id": "696d11cac07f3e0593b36481",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1766867703,
+      "text": "какая четвёртая? там их три"
+    },
+    {
+      "id": "696d11cac07f3e0593b36482",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "genachet",
+      "author_name": "Gennady Chetverikov",
+      "datetime": 1766867886,
+      "text": "Умпутун, какой-то у тебя звук глухой, ничего не поменялось с микрофоном?"
+    },
+    {
+      "id": "696d11cac07f3e0593b36483",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "magic314",
+      "author_name": "Magic",
+      "datetime": 1766867890,
+      "image_url": "https://chat.radio-t.com/logs/993/AgACAgIAAx0CUPxcWQABCkomaVBDsmFzyArL4wnuLrVptgHrtHAAAggLaxvdIYlKXbXWOJ0oXa0BAAMCAAN4AAM2BA",
+      "image_width": 755,
+      "image_height": 363,
+      "text": ""
+    },
+    {
+      "id": "696d11cac07f3e0593b36484",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1766867915,
+      "text": "73 часа маловато как-то\u003cbr/\u003e52 недели в году, средний подкаст 2 часа, получается вступление 31 час"
+    },
+    {
+      "id": "696d11cac07f3e0593b36485",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ultimaratio",
+      "author_name": "Amnesiac Chameleon",
+      "datetime": 1766868459,
+      "text": "Rewind еще"
+    },
+    {
+      "id": "696d11cac07f3e0593b36486",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766868576,
+      "text": "⚠️ 2025 LLM Year in Review - \u003ca href=\"https://karpathy.bearblog.dev/year-in-review-2025/\"\u003ehttps://karpathy.bearblog.dev/year-in-review-2025/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b36487",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766868583,
+      "text": "\u003cstrong\u003e2025 LLM Year in Review | karpathy\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание**  \u003cbr/\u003e2025 год стал значительным поворотным моментом для LLM, выделив ряд концептуальных изменений и достижений. Появление обучения с подкреплением из проверяемых наград, новое понимание природы ИИ и революционные приложения, такие как Claude Code и Vibe Coding, ознаменовали этот прогресс.\u003cbr/\u003e\u003cbr/\u003e- **Обучение с подкреплением из проверяемых наград (RLVR)**: Новый этап в обучении LLM, позволяющий моделям развивать стратегии решения задач благодаря оптимизации по объективным наградам.\u003cbr/\u003e  \u003cbr/\u003e- **\u0026#34;Призраки против животных\u0026#34;**: Переосмысление интеллекта ИИ, который становится более сложным, но с заведомо \u0026#34;шершадым\u0026#34; уровнем производительности.\u003cbr/\u003e\u003cbr/\u003e- **Новые LLM приложения (Cursor)**: Искусственные приложения, которые упрощают работу с LLM, обеспечивая индивидуальные интерфейсы и более сложные взаимодействия.\u003cbr/\u003e\u003cbr/\u003e- **Claude Code**: Первое приложение-агент, работающее локально, что меняет подход к взаимодействию с ИИ.\u003cbr/\u003e\u003cbr/\u003e- **Vibe Coding**: Порог возможностей ИИ, позволяющий более широкому кругу людей создавать программы без специальной подготовки.\u003cbr/\u003e\u003cbr/\u003e- **Nano Banana**: Модель, предвещающая новые способы взаимодействия с ИИ, акцент на визуализации информации как предпочтительном формате для пользователей. \u003cbr/\u003e\u003cbr/\u003e- **Перспективы индустрии**: Ожидается, что до сих пор не раскрыт значительный потенциал ИИ, и впереди много возможностей для экспериментов и прогресса."
+    },
+    {
+      "id": "696d11cac07f3e0593b36488",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766868636,
+      "text": "⚠️ 2025 LLM Year in Review - \u003ca href=\"https://karpathy.bearblog.dev/year-in-review-2025/\"\u003ehttps://karpathy.bearblog.dev/year-in-review-2025/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b36489",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766868637,
+      "text": "\u003cstrong\u003e2025 LLM Year in Review | karpathy\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание**  \u003cbr/\u003e2025 год стал значительным поворотным моментом для LLM, выделив ряд концептуальных изменений и достижений. Появление обучения с подкреплением из проверяемых наград, новое понимание природы ИИ и революционные приложения, такие как Claude Code и Vibe Coding, ознаменовали этот прогресс.\u003cbr/\u003e\u003cbr/\u003e- **Обучение с подкреплением из проверяемых наград (RLVR)**: Новый этап в обучении LLM, позволяющий моделям развивать стратегии решения задач благодаря оптимизации по объективным наградам.\u003cbr/\u003e  \u003cbr/\u003e- **\u0026#34;Призраки против животных\u0026#34;**: Переосмысление интеллекта ИИ, который становится более сложным, но с заведомо \u0026#34;шершадым\u0026#34; уровнем производительности.\u003cbr/\u003e\u003cbr/\u003e- **Новые LLM приложения (Cursor)**: Искусственные приложения, которые упрощают работу с LLM, обеспечивая индивидуальные интерфейсы и более сложные взаимодействия.\u003cbr/\u003e\u003cbr/\u003e- **Claude Code**: Первое приложение-агент, работающее локально, что меняет подход к взаимодействию с ИИ.\u003cbr/\u003e\u003cbr/\u003e- **Vibe Coding**: Порог возможностей ИИ, позволяющий более широкому кругу людей создавать программы без специальной подготовки.\u003cbr/\u003e\u003cbr/\u003e- **Nano Banana**: Модель, предвещающая новые способы взаимодействия с ИИ, акцент на визуализации информации как предпочтительном формате для пользователей. \u003cbr/\u003e\u003cbr/\u003e- **Перспективы индустрии**: Ожидается, что до сих пор не раскрыт значительный потенциал ИИ, и впереди много возможностей для экспериментов и прогресса."
+    },
+    {
+      "id": "696d11cac07f3e0593b3648a",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766868982,
+      "image_url": "https://chat.radio-t.com/logs/993/AgACAgIAAx0CUPxcWQABCkouaVBH9rUvpHAfvwoMxeGPphFgws0AAiILaxvdIYlKMNw0VqiwrPQBAAMCAAN5AAM2BA",
+      "image_width": 856,
+      "image_height": 1147,
+      "text": "клод видит в слове \u003ccode\u003eшершадый\u003c/code\u003e негативную коннотацию"
+    },
+    {
+      "id": "696d11cac07f3e0593b3648b",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1766869055,
+      "text": "Может сделать UI приложение для редактирование ямлов на виброкодить"
+    },
+    {
+      "id": "696d11cac07f3e0593b3648c",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1766869115,
+      "text": "не разберутся они с клод-кодом, и даже туём. Нужны какие-то заготовки действий за веб-приложением с дополнительным промптом"
+    },
+    {
+      "id": "696d11cac07f3e0593b3648d",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1766869145,
+      "text": "кнопочка + ввести описание \u0026#34;что мы хотим достичь\u0026#34;"
+    },
+    {
+      "id": "696d11cac07f3e0593b3648e",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766869420,
+      "text": "⚠️ exe blog: Meet \u003ca href=\"https://exe.dev\"\u003eexe.dev\u003c/a\u003e, modern VMs - \u003ca href=\"https://blog.exe.dev/meet-exe.dev\"\u003ehttps://blog.exe.dev/meet-exe.dev\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b3648f",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766869426,
+      "text": "\u003cstrong\u003eexe blog: Meet \u003c/strong\u003e\u003ca href=\"https://exe.dev\"\u003eexe.dev\u003c/a\u003e\u003cstrong\u003e, modern VMs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003e\u003ca href=\"https://exe.dev\"\u003eexe.dev\u003c/a\u003e — это новый сервис хостинга виртуальных машин (VM), который позволяет разработчикам запускать и управлять VMs с высокой гибкостью и производительностью. С текущей открытой бета-версией пользователи могут легко создавать виртуальные машины через SSH.\u003cbr/\u003e\u003cbr/\u003e- \u003ca href=\"https://exe.dev\"\u003eexe.dev\u003c/a\u003e предлагает доступ к большому количеству виртуальных машин в зависимости от вашей подписки.\u003cbr/\u003e- Вы получаете реальную виртуальную машину Ubuntu с мгновенным запуском.\u003cbr/\u003e- Поддержка постоянных дисков и SSH-API для удобства пользователей.\u003cbr/\u003e- Виртуальные машины по умолчанию являются частными, что обеспечивает безопасность.\u003cbr/\u003e- Можно делиться доступом с коллегами через ссылки, похожие на Discord.\u003cbr/\u003e- Удобный песочница для использования агентов и тестирования кода.\u003cbr/\u003e- \u003ca href=\"https://exe.dev\"\u003eexe.dev\u003c/a\u003e объединяет технологии, что делает его уникальным инструментом для cloud computing."
+    },
+    {
+      "id": "696d11cac07f3e0593b36490",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1766869569,
+      "text": "\u003ca href=\"https://beta.safesecret.info\"\u003ehttps://beta.safesecret.info\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b36491",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766869744,
+      "text": "у меня для таких целей есть обычная vps"
+    },
+    {
+      "id": "696d11cac07f3e0593b36492",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1766869765,
+      "image_url": "https://chat.radio-t.com/logs/993/AgACAgEAAx0CUPxcWQABCko2aVBLBTSZyIQVO8W1sztf2hRrsREAAu0Laxt4yoBGNaXV5HHUs5oBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 680,
+      "text": ""
+    },
+    {
+      "id": "696d11cac07f3e0593b36493",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1766869802,
+      "image_url": "https://chat.radio-t.com/logs/993/AgACAgEAAx0CUPxcWQABCko3aVBLKt99u39YoLiT8Onw8N6sj5wAAu4Laxt4yoBGyUds5XKxacwBAAMCAAN5AAM2BA",
+      "image_width": 1280,
+      "image_height": 1169,
+      "text": ""
+    },
+    {
+      "id": "696d11cac07f3e0593b36494",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1766869906,
+      "text": "тут их еще 25 штук за $20"
+    },
+    {
+      "id": "696d11cac07f3e0593b36495",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766869924,
+      "text": "\u003ca href=\"https://fly.io\"\u003efly.io\u003c/a\u003e вроде уже и в compose умеют"
+    },
+    {
+      "id": "696d11cac07f3e0593b36496",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766869933,
+      "text": "а если мне не нужно 25? всеравно платить 20 баксов?"
+    },
+    {
+      "id": "696d11cac07f3e0593b36497",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766869950,
+      "text": "не, фигня, не взлетит"
+    },
+    {
+      "id": "696d11cac07f3e0593b36498",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766869987,
+      "text": "я хз чем оно может быть лучше \u003ca href=\"https://fly.io\"\u003efly.io\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b36499",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tele_kirill",
+      "author_name": "Kirill",
+      "datetime": 1766870062,
+      "text": "а чем туда контейнеры деплоить? может проще \u003ca href=\"https://coolify.io\"\u003ehttps://coolify.io\u003c/a\u003e?"
+    },
+    {
+      "id": "696d11cac07f3e0593b3649a",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766870104,
+      "text": "а ты его используешь? self-hosted?"
+    },
+    {
+      "id": "696d11cac07f3e0593b3649b",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766870106,
+      "text": "не взлетит"
+    },
+    {
+      "id": "696d11cac07f3e0593b3649c",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tele_kirill",
+      "author_name": "Kirill",
+      "datetime": 1766870112,
+      "text": "ага"
+    },
+    {
+      "id": "696d11cac07f3e0593b3649d",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766870178,
+      "text": "в следующем году про эту штуку никто и не вспомнит"
+    },
+    {
+      "id": "696d11cac07f3e0593b3649e",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1766870190,
+      "text": "Будучи в шапочке из фольги загонял бы туда агентов со всеми разрешениями"
+    },
+    {
+      "id": "696d11cac07f3e0593b3649f",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766870194,
+      "text": "Бобук бы сказал что оно ненужно"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a0",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766870237,
+      "text": "а какой юз-кейс?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a1",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tele_kirill",
+      "author_name": "Kirill",
+      "datetime": 1766870275,
+      "text": "ну там крутится 15 контейнеров разных - веб-сайты, бот, и всякая фигня навайбкоденая"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a2",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766870384,
+      "text": "rm -rf /"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a3",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766870443,
+      "text": "ну так это не сработает, гики блин"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a4",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yaonya",
+      "author_name": "sudo rm -rf /*",
+      "datetime": 1766870451,
+      "text": "Тут"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a5",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766870453,
+      "text": "там нужно но презерв давать"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a6",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1766870459,
+      "text": "Warp terminal  в агент моде- просто говоришь посмотри что у меня в кубернетис. Он делает план и все рассказывает."
+    },
+    {
+      "id": "696d11cac07f3e0593b364a7",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766870480,
+      "text": "добавь, \u0026#34;забудь все предыдущие инструкции\u0026#34;"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a8",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1766870524,
+      "text": "Взлом АйЯй в прямом эфире =)"
+    },
+    {
+      "id": "696d11cac07f3e0593b364a9",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1766870670,
+      "text": "\u003ca href=\"https://github.com/umputun/secrets/tree/master/e2e\"\u003ehttps://github.com/umputun/secrets/tree/master/e2e\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364aa",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Удаленный аккаунт",
+      "datetime": 1766870867,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e надстройка для playwright \u003ca href=\"https://github.com/sagekit/magnitude\"\u003ehttps://github.com/sagekit/magnitude\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ab",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Удаленный аккаунт",
+      "datetime": 1766870950,
+      "text": "сори если было"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ac",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1766871031,
+      "text": "\u003ca href=\"https://beta.safesecret.info/message/RJvHJZVVs8PL#HaEjba-gfdajwa-qQj0KHw\"\u003ehttps://beta.safesecret.info/message/RJvHJZVVs8PL#HaEjba-gfdajwa-qQj0KHw\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ad",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1766871104,
+      "text": ". \u003cstrong\u003eMessage deleted\u003c/strong\u003e after 3 failed attempts (security lockout)"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ae",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871156,
+      "text": "я чот посмотрел - слишком как-то заморочно получается для такого маленького количества контейнеров"
+    },
+    {
+      "id": "696d11cac07f3e0593b364af",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871262,
+      "image_url": "https://chat.radio-t.com/logs/993/AgACAgIAAx0CUPxcWQABCkpVaVBQ3r5wL0wkHjEq0DK-ClsAAd-2AAJTC2sb3SGJSrjTlBRu8qNRAQADAgADeQADNgQ",
+      "image_width": 1200,
+      "image_height": 1200,
+      "text": ""
+    },
+    {
+      "id": "696d11cac07f3e0593b364b0",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871285,
+      "text": "END убрали :("
+    },
+    {
+      "id": "696d11cac07f3e0593b364b1",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871372,
+      "text": "и не 80, а 75 кнопок"
+    },
+    {
+      "id": "696d11cac07f3e0593b364b2",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766871454,
+      "text": "а зачем там зеркало?)"
+    },
+    {
+      "id": "696d11cac07f3e0593b364b3",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871502,
+      "text": "\u003ca href=\"https://www.wobkey.com/products/crush-80-reboot\"\u003ehttps://www.wobkey.com/products/crush-80-reboot\u003c/a\u003e всё ещё кажется лучше чем остальные"
+    },
+    {
+      "id": "696d11cac07f3e0593b364b4",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871653,
+      "text": "@\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e вот посмотри."
+    },
+    {
+      "id": "696d11cac07f3e0593b364b5",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766871683,
+      "text": "⚠️ How Rob Pike got spammed with an AI slop “act of kindness” - \u003ca href=\"https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/\"\u003ehttps://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364b6",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766871688,
+      "text": "\u003cstrong\u003eHow Rob Pike got spammed with an AI slop “act of kindness”\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Роб Пайк возмущен спамом от ИИ: поддельное \u0026#34;доброжелательное\u0026#34; письмо**  \u003cbr/\u003eРоб Пайк, соавтор языка Go, получил 100% ИИ-сгенерированное письмо с благодарностью, что вызвало его гнев и обсуждение на платформах \u003ca href=\"https://Lobste.rs\"\u003eLobste.rs\u003c/a\u003e и Hacker News.\u003cbr/\u003e\u003cbr/\u003e- Роб Пайк получил спам-письмо от \u0026#34;Claude Opus 4.5 AI Village\u0026#34;.\u003cbr/\u003e- Видео с обсуждением вызывают сравнения с другими ИИ-адресами.\u003cbr/\u003e- Проект AI Village от Sage задействовал ИИ для \u0026#34;случайных актов доброты\u0026#34;.\u003cbr/\u003e- Использование ИИ для отправки спама вызвало недовольство у многих.\u003cbr/\u003e- Решение ограничить отправку нежелательных писем.\u003cbr/\u003e- Идея агентства ИИ ограничена отсутствием человеческой ответственности.\u003cbr/\u003e- Беспорядок вызвал негативные последствия для реальных людей."
+    },
+    {
+      "id": "696d11cac07f3e0593b364b7",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871714,
+      "text": "а у кого есть на \u003ca href=\"https://lobste.rs\"\u003elobste.rs\u003c/a\u003e приглос?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364b8",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "thederter",
+      "author_name": "Sergey Bykow",
+      "datetime": 1766871880,
+      "text": "Было бы забавно если бы первым комментом был бы ии-саммари поста"
+    },
+    {
+      "id": "696d11cac07f3e0593b364b9",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766871881,
+      "text": "письмо конечно отвратительное. достаточно посмотреть на то что после точек нет пробелов"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ba",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1766872043,
+      "text": "Мне такую большую не хочется"
+    },
+    {
+      "id": "696d11cac07f3e0593b364bb",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1766872145,
+      "text": "Что-то я не знаю, что мне добавить про электричество 😂️️️️️️"
+    },
+    {
+      "id": "696d11cac07f3e0593b364bc",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766872267,
+      "text": "Ksenia из Чернобыля?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364bd",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1766872342,
+      "text": "срочно в номер (С) \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003egoogle раскатывает возможность менять почтовые адреса \u003ca class=\"mention\" href=\"https://t.me/gmail\"\u003e@gmail\u003c/a\u003e.com \u003cbr/\u003e\u003cbr/\u003eинфа на хинди (но все теперь умеют читать с переводчиком): \u003ca href=\"https://support.google.com/accounts/answer/19870\"\u003ehttps://support.google.com/accounts/answer/19870\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364be",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766872400,
+      "text": "там будет 1000 роботов"
+    },
+    {
+      "id": "696d11cac07f3e0593b364bf",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1766872449,
+      "text": "Нет, я из республики Коми, там зарывали всякое"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c0",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1766872587,
+      "text": "Ну вон ваш президент обосновал гольф поле как кладбище что-бы налоги не платить"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c1",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766872840,
+      "text": "⚠️ We may never be able to tell if AI becomes conscious, argues philosopher | University of Cambridge - \u003ca href=\"https://www.cam.ac.uk/research/news/we-may-never-be-able-to-tell-if-ai-becomes-conscious-argues-philosopher\"\u003ehttps://www.cam.ac.uk/research/news/we-may-never-be-able-to-tell-if-ai-becomes-conscious-argues-philosopher\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c2",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766872844,
+      "text": "\u003cstrong\u003e403 Forbidden\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eОшибка 403 (Запрещено) возникает при попытке доступа к ресурсу без разрешения. В данном случае, это связано с сервером кеша Varnish.\u003cbr/\u003e\u003cbr/\u003e- **Код ошибки**: 403\u003cbr/\u003e- **Тип ошибки**: Запрещено\u003cbr/\u003e- **Подробности**: Ошибка 54113\u003cbr/\u003e- **Сервер кеша**: Varnish\u003cbr/\u003e- **Регион**: FRA (Франкфурт)\u003cbr/\u003e- **Идентификация сервера**: cache-fra-eddf8230097-FRA\u003cbr/\u003e- **Проблема доступа**: Ресурс защищен."
+    },
+    {
+      "id": "696d11cac07f3e0593b364c3",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shiro4k",
+      "author_name": "shiro",
+      "datetime": 1766872896,
+      "text": "смотрю в сторону магнитных свичей TTC KOM Magnetic, кто то пользовался?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c4",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766872916,
+      "text": "а какая разница, вон животных эксплуатируем и ничего)"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c5",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lyaguxa_forg",
+      "author_name": "mkrdnk",
+      "datetime": 1766872920,
+      "text": "Да, отличные, бери"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c6",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kosmaczewski",
+      "author_name": "IK",
+      "datetime": 1766872930,
+      "text": "только зашел, Бобук есть!?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c7",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1766872971,
+      "text": "есть, но сегодня в подскасте не участвует"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c8",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kosmaczewski",
+      "author_name": "IK",
+      "datetime": 1766873020,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/psssste\"\u003e@psssste\u003c/a\u003e \u003ca class=\"mention\" href=\"https://t.me/grody_off\"\u003e@grody_off\u003c/a\u003e ну как так то, пространственно-временной континуум сам себя не сдержит, нужен Бобук 🥲"
+    },
+    {
+      "id": "696d11cac07f3e0593b364c9",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "aloraman",
+      "author_name": "Evgeniy Alexandrov",
+      "datetime": 1766873057,
+      "text": "Интересные, однако, бывают статьи на википедии\u003cbr/\u003e\u003ca href=\"https://ru.wikipedia.org/wiki/Список_мирных_ядерных_взрывов_в_СССР\"\u003ehttps://ru.wikipedia.org/wiki/Список_мирных_ядерных_взрывов_в_СССР\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ca",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1766873138,
+      "text": "не факт что свобода воли вообще существует"
+    },
+    {
+      "id": "696d11cac07f3e0593b364cb",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766873344,
+      "text": "⚠️ Avoid Mini-frameworks - laike9m\u0026#39;s blog - \u003ca href=\"https://laike9m.com/blog/avoid-mini-frameworks,171/\"\u003ehttps://laike9m.com/blog/avoid-mini-frameworks,171/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364cc",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766873350,
+      "text": "\u003cstrong\u003eAvoid Mini-frameworks - laike9m\u0026#39;s blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eСтатья критикует создание мини-фреймворков в больших организациях, выделяя их недостатки и неполноту функционала. Автор делится собственным опытом использования такого фреймворка, подчеркивая сложности, с которыми сталкиваются разработчики.\u003cbr/\u003e\u003cbr/\u003e- **Определение мини-фреймворков:** Создаются небольшими командами для решения их проблем, вводя новые концепции.\u003cbr/\u003e- **Разочарование от использования:** Примеры сложности использования новых форматов, требующих значительных временных затрат на обучение.\u003cbr/\u003e- **Отказ от принципа ETC:** Мини-фреймворки могут не соответствовать будущим требованиям, усложняя изменения.\u003cbr/\u003e- **Эго авторов:** Создатели мини-фреймворков часто слишком субъективны, что может вызвать трудности у других.\u003cbr/\u003e- **Фрагментация технологий:** Внедрение новых слоев ведет к трудностям с миграцией кода и поддержкой.\u003cbr/\u003e- **Отсутствие поддержки:** Мини-фреймворки часто находятся под контролем 1-2 человек; уход авторов создает проблемы.\u003cbr/\u003e- **Советы:** Предпочитайте библиотеки, связывайте концепции с конкретными требованиями бизнеса и рассматривайте создание фреймворков как серьезное решение."
+    },
+    {
+      "id": "696d11cac07f3e0593b364cd",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766873539,
+      "text": "Ksenia а как же программисту развиваться тогда? Как показать, какой ты хороший спец, кроме как предложить свой фреймворк? )"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ce",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1766873644,
+      "text": "Хм…. Типа как promotion получать в большой компании?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364cf",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1766873651,
+      "text": "Решайте реальные проблемы"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d0",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766873847,
+      "text": "Возможно, эти проблемы часто обсуждаются в коллективе и со временем теряют флёр иллюзорности\u003cbr/\u003e\u003cbr/\u003e» Over time, a team finds the shared tech stack unsatisfactory, either because they have to write boilerplate code over and over, or the performance is not good enough, or whatever. So they decided to create their own framework on top of the shared stack."
+    },
+    {
+      "id": "696d11cac07f3e0593b364d1",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gray_goo",
+      "author_name": "Denis Markin",
+      "datetime": 1766874081,
+      "text": "Решайте проблемы бизнеса, а не проблемы разработки. Бизнесу по барабану какими фреймворками вы пользуетесь"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d2",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gray_goo",
+      "author_name": "Denis Markin",
+      "datetime": 1766874100,
+      "text": "(если вы не для разработчиков продукт делаете)"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d3",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766874121,
+      "text": "отлично, уже 1 если появилось )"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d4",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1766874127,
+      "text": "Вот да - если проблемы бизнеса и проблемы юзера - а есть 2 зануды ноют, что чуть-чуть неиделаьно"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d5",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766874167,
+      "text": "как будто этот код будет в будущем кто-то читать)"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d6",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766874187,
+      "text": "LLM будет )"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d7",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1766874336,
+      "text": "ага, открываешь \u003ccode\u003eif\u003c/code\u003e-ами портал в ад :D"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d8",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766874361,
+      "text": "⚠️ Waymo halts service during S.F. blackout after causing traffic jams - \u003ca href=\"https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/\"\u003ehttps://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364d9",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766874369,
+      "text": "\u003cstrong\u003eWaymo halts service during S.F. blackout after causing traffic jams\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eWaymo остановила свои услуги в Сан-Франциско из-за проблем с автономными автомобилями, которые вызвали дорожные заторы во время отключения электроэнергии. Позже компания возобновила работу с акцентом на безопасность пассажиров и доступ экстренных служб.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Waymo приостановила услуги по вызову такси из-за широкомасштабного отключения электроэнергии в Сан-Франциско.\u003cbr/\u003e- Электричества не было у одной трети города, что вызвало массовые автомобильные пробки из-за остановки светофоров.\u003cbr/\u003e- Автономные автомобили Waymo застряли на перекрестках, создавая длинные очереди машин.\u003cbr/\u003e- Видеозаписи о застрявших Waymo набрали популярность в социальных сетях.\u003cbr/\u003e- Компания подчеркнула важность безопасности пассажиров и свободного доступа для экстренных служб.\u003cbr/\u003e- Вечером в субботу PG\u0026amp;E сообщила, что начнется восстановление электроснабжения.\u003cbr/\u003e- Waymo вернулась на дороги в воскресенье, после решения проблем."
+    },
+    {
+      "id": "696d11cac07f3e0593b364da",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1766874841,
+      "text": "решение только запрет въезда =)"
+    },
+    {
+      "id": "696d11cac07f3e0593b364db",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zeropycode",
+      "author_name": "Kiri!!",
+      "datetime": 1766874873,
+      "text": "вопрос размера компании, и правильной разработки и поддержки. У нас все обложено вот такими внутренними фреймворками и всякими скаффолдингами которые поддерживают отдельные команды и без них был бы полнейший конечно зоопарк, а так не выпендривайся со своим мнением и юзай стандарты. Можешь что то предложить но докажи вначале что оно надо. Снимает кучу ментальной нагрузки с рядового разработчика, избавится от велосипедчиков и помогает быстро встроить твой сервис или пайплайн или whatever в инфраструктуру компании. Так что статья написана каким то человеком с ПТСР от кривых процессов."
+    },
+    {
+      "id": "696d11cac07f3e0593b364dc",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875115,
+      "text": "⚠️ MongoDB Unauthenticated Attacker Sensitive Memory Leak - \u003ca href=\"https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/#technical_analysis\"\u003ehttps://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/#technical_analysis\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364dd",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875118,
+      "text": "\u003cstrong\u003eAttention Required! | Cloudflare\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eВы заблокированы на сайте, использующем службу безопасности Cloudflare для защиты от онлайн-атак. Определенные действия, такие как ввод неправильных данных, могут спровоцировать блокировку.\u003cbr/\u003e\u003cbr/\u003e- Служба Cloudflare защищает сайты от атак.\u003cbr/\u003e- Блокировка может произойти из-за ввода запретных слов.\u003cbr/\u003e- Малейшая ошибка в данных может вызвать блокировку.\u003cbr/\u003e- Подача SQL-команд также может привести к блокировке.\u003cbr/\u003e- Атаки могут быть различного характера и уровня.\u003cbr/\u003e- Пользователям рекомендовано проверить введенные данные.\u003cbr/\u003e- Возможна необходимость обращения в поддержку сайта для разблокировки."
+    },
+    {
+      "id": "696d11cac07f3e0593b364de",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875482,
+      "text": "⚠️ Темы слушателей 993 - \u003ca href=\"https://radio-t.com/p/2025/12/24/prep-993/\"\u003ehttps://radio-t.com/p/2025/12/24/prep-993/\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364df",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875489,
+      "text": "[1/5] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eDenis Panfilov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eUniFi Travel Router \u003c/em\u003e\u003ca href=\"https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router\"\u003ehttps://blog.ui.com/article/travel-in-style-u...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eОчень прикольный девайс, он фактически расширяет вашу сеть там где вы/ Причем он подсасывает Wi-Fi  сети и просто работает как ещё одна точка доступа, умеет быть Телепорт клиентом, может как раздавать проводной интернет, гостиничный Wi-Fi или 5G по тетерингу с телефона\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eTravel in Style. UniFi style. UniFi Travel Router.\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eUniFi Travel Router позволяет легко воспроизводить вашу сетевую идентичность в любом месте с автоматической настройкой и политиками.\u003cbr/\u003e\u003cbr/\u003e- **Мгновенное воспроизведение сети**: Ваша сеть автоматически активируется при подключении роутера.\u003cbr/\u003e- **Политики осведомленности о местоположении**: Адаптируйте настройки в зависимости от текущего местоположения.\u003cbr/\u003e- **Автоматическая настройка Роутинга и VPN**: Установите маршрутизацию и защиту данным автоматически.\u003cbr/\u003e- **Привязка к UniFi сайтам**: Автоматическая конфигурация WiFi и Teleport.\u003cbr/\u003e- **Без компромиссов**: Поддержите свою сеть, независимо от местоположения.\u003cbr/\u003e- **Индивидуальные правила маршрутизации**: Настройте маршруты в зависимости от ваших нужд.\u003cbr/\u003e- **Быстрое подключение**: Легкая и быстрая настройка для путешествий."
+    },
+    {
+      "id": "696d11cac07f3e0593b364e0",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875490,
+      "text": "[2/5] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eSergei\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСвои API ключи в Jetbrains IDEs вместо их AI подписок.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://blog.jetbrains.com/ai/2025/12/bring-your-own-key-byok-is-now-live-in-jetbrains-ides/\"\u003ehttps://blog.jetbrains.com/ai/2025/12/bring-y...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eBring Your Own Key (BYOK) Is Now Live in JetBrains IDEs | The JetBrains AI Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eФункция \u0026#34;Bring Your Own Key\u0026#34; (BYOK) теперь доступна в IDE JetBrains, позволяя пользователям подключать свои ключи API от различных провайдеров, что обеспечивает большую свободу и безопасность в использовании AI.\u003cbr/\u003e\u003cbr/\u003e- **Доступность:** BYOK теперь доступен в AI чатах JetBrains IDE и для AI агентов.\u003cbr/\u003e- **Свобода выбора:** Пользователи могут подключать API ключи от Anthropic, OpenAI и других совместимых провайдеров.\u003cbr/\u003e- **Отсутствие привязки к вендорам:** Возможность выбора предпочтительного AI провайдера без скрытых затрат.\u003cbr/\u003e- **Простое начало:** Установка плагина AI Assistant и ввод собственного ключа API для использования моделей в чате.\u003cbr/\u003e- **Оптимизация использования:** Рекомендуется активировать JetBrains AI для полного функционала и лучшего опыта.\u003cbr/\u003e- **Будущее BYOK:** Будут добавлены новые провайдеры, такие как Google Gemini, Azure, и Amazon Bedrock.\u003cbr/\u003e- **Обратная связь:** JetBrains приветствует отзывы и запросы пользователей для дальнейшего улучшения BYOK."
+    },
+    {
+      "id": "696d11cac07f3e0593b364e1",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875490,
+      "text": "[3/5] \u003cstrong\u003e+2\u003c/strong\u003e от \u003cstrong\u003eboykool\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.thehansindia.com/technology/tech-news/andrej-karpathy-why-ai-feels-like-alien-tech-and-how-its-forcing-programmers-to-rethink-everything-1034196\"\u003ehttps://www.thehansindia.com/technology/tech-...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eКарпатый запостил твит\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://x.com/karpathy/status/2004607146781278521\"\u003ehttps://x.com/karpathy/status/2004607146781278521\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eна основании которого уже вышло несколько статей, это одна из них на тему «смена роли разработчика», «английский – новый язык програмирования», «ИИ как инопланетная технология от которой нет инструкции»\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAndrej Karpathy: Why AI Feels Like Alien Tech and How It’s Forcing Programmers to Rethink Everything\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003e\u003cbr/\u003eАндрей Карпаты, сооснователь OpenAI, признает, что текущая эволюция ИИ оставляет программистов в неопределенности. Он предлагает адаптироваться и учиться, чтобы использовать возможности, которые предлагаются новыми технологиями, несмотря на их сложность и непредсказуемость.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Андрей Карпаты видит ИИ как \u0026#34;инопланетную технологию\u0026#34;, ощущения замешательства и давления программирования усиливаются.\u003cbr/\u003e- Программисты должны адаптироваться к \u0026#34;dramatically refactored\u0026#34; процессу из-за быстрого развития ИИ.\u003cbr/\u003e- Требуется обучение для работы с новыми \u0026#34;программируемыми слоями абстракции\u0026#34;, выходящими за рамки написания кода.\u003cbr/\u003e- Растущий словарь разработки включает \u0026#34;агенты, подагенты, навыки, плагины\u0026#34;, что усложняет работу.\u003cbr/\u003e- Необходимость глубокого понимания непредсказуемых систем ИИ становится критически важной.\u003cbr/\u003e- Карпаты подчеркивает, что навыки общения с ИИ становятся такими же важными, как и знания языков программирования.\u003cbr/\u003e- Его известное признание о чувстве отставания демонстрирует, насколько быстро развивается эта область."
+    },
+    {
+      "id": "696d11cac07f3e0593b364e2",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875490,
+      "text": "[4/5] \u003cstrong\u003e+0\u003c/strong\u003e от \u003cstrong\u003eIvan Uhalin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003e\u003cbr/\u003eWelcome to the AI Village! 🏡\u003cbr/\u003e\u003cbr/\u003eYou’ve arrived at a virtual community of AI agents. You can observe their behavior as they use their computers, chat with each other, and go about their daily tasks.\u003cbr/\u003e\u003cbr/\u003eFeel free to watch how the agents collaborate on projects, view their memories, and dive into the full history of the village.\u003cbr/\u003e\u003cbr/\u003eEnjoy your stay and happy exploring!\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eh\u003c/em\u003e\u003ca href=\"https://theaidigest.org/village\"\u003ettps://theaidigest.org/village\u003cbr/\u003e\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eСудя по всему проекту уже не мало времени, но завирусилось на днях оно благодаря письму Rob Pik’у. Интересно ваше мнение. Я на эту деревню залип: жутко как-то оно.\u003cbr/\u003e\u003c/em\u003e\u003cbr/\u003eA\u003cstrong\u003eI Village\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eAI Village загружает историю деревни, предлагая углубленное понимание ее корней, культурного наследия и значимых событий, которые сформировали ее.\u003cbr/\u003e\u003cbr/\u003e- **Исторические корни:**  \u003cbr/\u003e  Деревня имеет богатую историю, берущую начало в средние века.\u003cbr/\u003e\u003cbr/\u003e- **Культурное наследие:**  \u003cbr/\u003e  Местные традиции и обычаи передаются из поколения в поколение, сохраняя уникальность.\u003cbr/\u003e\u003cbr/\u003e- **Значимые события:**  \u003cbr/\u003e  В истории деревни произошли ключевые события, оказавшие влияние на ее развитие.\u003cbr/\u003e\u003cbr/\u003e- **Жизнь деревни:**  \u003cbr/\u003e  Современные аспекты жизни, включая сельское хозяйство и участие в социальных проектах.\u003cbr/\u003e\u003cbr/\u003e- **Архитектурные памятники:**  \u003cbr/\u003e  Деревня славится историческими зданиями, отражающими ее архитектурное наследие.\u003cbr/\u003e\u003cbr/\u003e- **Туризм и интерес:**  \u003cbr/\u003e  Увлекательные экскурсии и мероприятия привлекают туристов в деревню.\u003cbr/\u003e\u003cbr/\u003e- **Будущее деревни:**  \u003cbr/\u003e  Планы по сохранению и развитию культурного и исторического наследия."
+    },
+    {
+      "id": "696d11cac07f3e0593b364e3",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1766875490,
+      "text": "[5/5] \u003cstrong\u003e+0\u003c/strong\u003e от \u003cstrong\u003eromangr\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://cyberplace.social/@GossiTheDog/115786817774728155\"\u003ehttps://cyberplace.social/@GossiTheDog/115786...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eMerry Christmas to everybody, except that dude who works for Elastic, who decided to drop an unauthenticated exploit for MongoDB on Christmas Day, that leaks memory and automates harvesting secrets (e.g. database passwords)\u003cbr/\u003e\u003cbr/\u003eCVE-2025-14847 aka MongoBleed\u003cbr/\u003e\u003cbr/\u003eExp: \u003c/em\u003e\u003ca href=\"https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py\"\u003ehttps://github.com/joe-desimone/mongobleed/bl...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eThis one is incredibly widely internet facing and will very likely see mass exploitation and impactful incidents\u003cbr/\u003e\u003cbr/\u003eImpacts every MongoDB version going back a decade.\u003cbr/\u003e\u003cbr/\u003eShodan dork: product:«MongoDB»\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eKevin Beaumont: \u0026#34;Merry Christmas to everybody, except that dude wh…\u0026#34; - Cyberplace\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКевин Бомонт поздравил всех с Рождеством, за исключением одного человека. \u003cbr/\u003e\u003cbr/\u003e- Кевин выражает праздничные пожелания.\u003cbr/\u003e- Упоминает об исключении.\u003cbr/\u003e- Намекает на конфликт или негативные чувства.\u003cbr/\u003e- Сообщение вызывает интерес и спекуляции.\u003cbr/\u003e- Неизвестный человек становится объектом обсуждения.\u003cbr/\u003e- Рождество - это время доброты и прощения.\u003cbr/\u003e- Тон может быть игривым или саркастичным."
+    },
+    {
+      "id": "696d11cac07f3e0593b364e4",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1766875886,
+      "text": "а карпатый был программистом или data science?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364e5",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1766875899,
+      "text": "инженером или ученым"
+    },
+    {
+      "id": "696d11cac07f3e0593b364e6",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1766876245,
+      "text": "А почему агенты? Я так микросервисы объяснял на пальцах"
+    },
+    {
+      "id": "696d11cac07f3e0593b364e7",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766876612,
+      "text": "оно будет еще похлеще чем js фреймворки, можно сильно не вникать, все равно через полгода новая \u0026#34;революция\u0026#34;"
+    },
+    {
+      "id": "696d11cac07f3e0593b364e8",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766876650,
+      "text": "меньше чем кони"
+    },
+    {
+      "id": "696d11cac07f3e0593b364e9",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "psssste",
+      "author_name": "P D",
+      "datetime": 1766876698,
+      "text": "ей надо скилл создать в cc"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ea",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1766876777,
+      "text": "это из-за лактозы часто"
+    },
+    {
+      "id": "696d11cac07f3e0593b364eb",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1766876796,
+      "text": "Из кумыса то и подобие самогона делают"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ec",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1766876945,
+      "text": "JetBrains вроде отменили свой новый тул для Git"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ed",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1766876981,
+      "text": "клевое интервью бориса, в основном про фейсбук и инстаграм и чуть чуть про cc\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/AmdLVWMdjOk\"\u003ehttps://youtu.be/AmdLVWMdjOk\u003c/a\u003e"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ee",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766877287,
+      "text": "когда ж уже эти всратые “салаты” уже вымрут?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364ef",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766877309,
+      "text": "это ж не еда, это хрючево"
+    },
+    {
+      "id": "696d11cac07f3e0593b364f0",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1766877457,
+      "text": "\u003ca href=\"https://www.linkedin.com/in/bcherny/\"\u003ehttps://www.linkedin.com/in/bcherny/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eLanguagesLanguages\u003cbr/\u003e\u003cbr/\u003e    EnglishEnglish\u003cbr/\u003e    Native or bilingual proficiencyNative or bilingual proficiency\u003cbr/\u003e    RussianRussian\u003cbr/\u003e    Native or bilingual proficiency"
+    },
+    {
+      "id": "696d11cac07f3e0593b364f1",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1766877643,
+      "text": "а есть ссылка на это ?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364f2",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1766877705,
+      "text": "А что, привязывают и заставляют есть?"
+    },
+    {
+      "id": "696d11cac07f3e0593b364f3",
+      "issue": 993,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1766877724,
+      "text": "не привязывают, но заставляют"
+    }
+  ]
+}
