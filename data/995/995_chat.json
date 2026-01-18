@@ -1,0 +1,1276 @@
+{
+  "chat": [
+    {
+      "id": "696d124760c7639335ed39ca",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mongwo",
+      "author_name": "0x801",
+      "datetime": 1768075225,
+      "text": "Спасибо. Да да, я обзор посмотрел умеет он python"
+    },
+    {
+      "id": "696d124760c7639335ed39cb",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768075312,
+      "text": "🫡"
+    },
+    {
+      "id": "696d124760c7639335ed39cc",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768075410,
+      "text": "MTNU Dolch"
+    },
+    {
+      "id": "696d124760c7639335ed39cd",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768075430,
+      "text": "\u003ca href=\"https://oblotzky.industries\"\u003ehttps://oblotzky.industries\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39ce",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768075451,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39cf",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1768075492,
+      "image_url": "https://chat.radio-t.com/logs/995/AgACAgEAAx0CUPxcWQABClLnaWKw5AqPUr9ngWgj_SNPzrDC1coAAr4LaxsTuxlHKJVbPqfUY5oBAAMCAAN5AAM4BA",
+      "image_width": 1280,
+      "image_height": 831,
+      "text": ""
+    },
+    {
+      "id": "696d124760c7639335ed39d0",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1768075533,
+      "image_url": "https://chat.radio-t.com/logs/995/AgACAgIAAx0CUPxcWQABClLoaWKxDekXEpqIZIy8sCbUDArjr0EAAvwPaxswrRlLN1kaQ4tQMqwBAAMCAAN5AAM4BA",
+      "image_width": 1140,
+      "image_height": 1280,
+      "text": ""
+    },
+    {
+      "id": "696d124760c7639335ed39d1",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1768075632,
+      "text": "\u003ca href=\"https://oblotzky.industries/products/epbt-camo\"\u003ehttps://oblotzky.industries/products/epbt-camo\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39d2",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1768075725,
+      "text": "На МТ3  SK75 тоже не сильно шумит"
+    },
+    {
+      "id": "696d124760c7639335ed39d3",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1768075753,
+      "text": "Тоже верно"
+    },
+    {
+      "id": "696d124760c7639335ed39d4",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768075922,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e вот про что Грей говорит про свет и читаемость"
+    },
+    {
+      "id": "696d124760c7639335ed39d5",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1768075979,
+      "text": "А MTNU это от того же товарища что и мт3?"
+    },
+    {
+      "id": "696d124760c7639335ed39d6",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768075988,
+      "text": "Там несколько"
+    },
+    {
+      "id": "696d124760c7639335ed39d7",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768076007,
+      "text": "Есть там серый"
+    },
+    {
+      "id": "696d124760c7639335ed39d8",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1768076041,
+      "image_url": "https://chat.radio-t.com/logs/995/AgACAgIAAx0CUPxcWQABClLwaWKzCRukhcYj-Ucx5VR3nKtfpUEAAg0QaxswrRlLrl-s58-b0CYBAAMCAAN5AAM4BA",
+      "image_width": 1280,
+      "image_height": 853,
+      "text": ""
+    },
+    {
+      "id": "696d124760c7639335ed39d9",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768076086,
+      "text": "В ДЕ"
+    },
+    {
+      "id": "696d124760c7639335ed39da",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1768076516,
+      "text": "Товарищи, а как кто ревьювит пулы, которые делает клод код. Никто не делал себе плагин/скилл для гайдед ревью?"
+    },
+    {
+      "id": "696d124760c7639335ed39db",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1768076613,
+      "text": "Corsair"
+    },
+    {
+      "id": "696d124760c7639335ed39dc",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akostenko",
+      "author_name": "😕 🍴",
+      "datetime": 1768076641,
+      "text": "codex /review"
+    },
+    {
+      "id": "696d124760c7639335ed39dd",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1768076699,
+      "text": "Так он же просто делает тебе ревью? А я скорее о том что бы тебя протащило по всем изменениям (особенно когда клод ваншотнул что-то, ревьювить 50 файлов как-то сложновато"
+    },
+    {
+      "id": "696d124760c7639335ed39de",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768076739,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39df",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768076886,
+      "text": "это превью просто"
+    },
+    {
+      "id": "696d124760c7639335ed39e0",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768076893,
+      "text": "послдние полгода оно так точно уже"
+    },
+    {
+      "id": "696d124760c7639335ed39e1",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "scrap8653",
+      "author_name": "Anton Samarchyan",
+      "datetime": 1768076902,
+      "text": "\u003ca href=\"https://Fast.ai\"\u003eFast.ai\u003c/a\u003e Бобук рекомендовал вроде"
+    },
+    {
+      "id": "696d124760c7639335ed39e2",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768076972,
+      "text": "лол)"
+    },
+    {
+      "id": "696d124760c7639335ed39e3",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768076993,
+      "text": "пора уже переходить к замене менеджеров"
+    },
+    {
+      "id": "696d124760c7639335ed39e4",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768077070,
+      "text": "Это Theo предложил?"
+    },
+    {
+      "id": "696d124760c7639335ed39e5",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768077081,
+      "text": "конечно"
+    },
+    {
+      "id": "696d124760c7639335ed39e6",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "KristinaaFlo",
+      "author_name": "Kristina",
+      "datetime": 1768077186,
+      "text": "\u003cstrong\u003eТрeбуются людu! \u003c/strong\u003e\u003cbr/\u003eЕжедневная Зарплата 140-200$ в день, времени займет 1,5-2 часа на день. Удаленная рaботa из телефона\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eЗа подробностями пишите в лс «+»менеджеру - \u003c/strong\u003e\u003ca class=\"mention\" href=\"https://t.me/lana_Novikovaa\"\u003e@lana_Novikovaa\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39e7",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1768077220,
+      "text": "/spam"
+    },
+    {
+      "id": "696d124760c7639335ed39e8",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1768077226,
+      "text": "ух ты, в прямом эфире спам с которым не сработало"
+    },
+    {
+      "id": "696d124760c7639335ed39e9",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1768077241,
+      "text": "дважды"
+    },
+    {
+      "id": "696d124760c7639335ed39ea",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1768077277,
+      "text": "тригирнулось на слово менеджер 😅"
+    },
+    {
+      "id": "696d124760c7639335ed39eb",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768077375,
+      "text": "самые тяжелые работы нужно пихать первыми"
+    },
+    {
+      "id": "696d124760c7639335ed39ec",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1768077885,
+      "text": "\u003ca href=\"https://github.com/vortex-data/vortex\"\u003ehttps://github.com/vortex-data/vortex\u003c/a\u003e не пробовали? \u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39ed",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lnExtremo",
+      "author_name": "Max",
+      "datetime": 1768078023,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e ты CPU с IO bounded задачи миксовать хочешь или ..? Что такое \u0026#34;тяжелые\u0026#34; задачи и \u0026#34;легкие\u0026#34; в чем это выражается?"
+    },
+    {
+      "id": "696d124760c7639335ed39ee",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1768078148,
+      "text": "А почему такой анализ не запустить распределенно, в нескольких кластерах? И не придется заниматься такими сложными оптимизациями?"
+    },
+    {
+      "id": "696d124760c7639335ed39ef",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768078379,
+      "text": "Вот да \u003ca class=\"mention\" href=\"https://t.me/alek_sys\"\u003e@alek_sys\u003c/a\u003e. Спас меня ai от выгорания. Ну точнее показал, что меня больше выжигало и начало отталкивать и забрал это на себя."
+    },
+    {
+      "id": "696d124760c7639335ed39f0",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768078393,
+      "text": "Еще б на дейлики за меня ходил"
+    },
+    {
+      "id": "696d124760c7639335ed39f1",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Petrovich",
+      "datetime": 1768078638,
+      "text": "О чем речь вообще?"
+    },
+    {
+      "id": "696d124760c7639335ed39f2",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768078676,
+      "text": "про эйай, как обычно"
+    },
+    {
+      "id": "696d124760c7639335ed39f3",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768078682,
+      "text": "может вот этот? \u003ca href=\"https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md\"\u003ehttps://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39f4",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Petrovich",
+      "datetime": 1768078721,
+      "text": "Пока хватало подсказок copilot - нужен следующий уровень?"
+    },
+    {
+      "id": "696d124760c7639335ed39f5",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768078740,
+      "text": "автодополнение нахрен не нужно"
+    },
+    {
+      "id": "696d124760c7639335ed39f6",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1768078752,
+      "text": "Про режим плана, в версии 2.0.51 его сильно изменили и теперь он слишком интенсивно планирует. Может есть скилл чтобы получить назад режим плана как раньше?"
+    },
+    {
+      "id": "696d124760c7639335ed39f7",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alexlenspb",
+      "author_name": "Alex Lenyashin",
+      "datetime": 1768078764,
+      "text": "Кто-то вышел из криокамеры? )"
+    },
+    {
+      "id": "696d124760c7639335ed39f8",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1768078788,
+      "text": "не, другое"
+    },
+    {
+      "id": "696d124760c7639335ed39f9",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768079035,
+      "text": "⚠️ Broken Claude Max · Issue #7410 · anomalyco/opencode - \u003ca href=\"https://github.com/anomalyco/opencode/issues/7410\"\u003ehttps://github.com/anomalyco/opencode/issues/7410\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39fa",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768079041,
+      "text": "\u003cstrong\u003eBroken Claude Max · Issue #7410 · anomalyco/opencode · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**  \u003cbr/\u003eПроблема с использованием Claude Max возникла, ошибка была зафиксирована. Пользователь попытался перезагрузить, но проблема не исчезла.  \u003cbr/\u003e\u003cbr/\u003e- Ошибка возникла при использовании Claude Max.\u003cbr/\u003e- Попытка переподключения не решила проблему.\u003cbr/\u003e- Версия OpenCode: 1.1.8.\u003cbr/\u003e- Операционная система: mac.\u003cbr/\u003e- Не предоставлено информации о плагинах.\u003cbr/\u003e- Не указаны шаги для воспроизведения проблемы.\u003cbr/\u003e- Дата публикации: 9 января 2026 года."
+    },
+    {
+      "id": "696d124760c7639335ed39fb",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768079124,
+      "image_url": "https://chat.radio-t.com/logs/995/AgACAgIAAx0CUPxcWQABClMYaWK_FDonjQgpxjHXhAzTFydTyIQAAlwQaxswrRlLQvnZRfaIXnsBAAMCAAN3AAM4BA",
+      "image_width": 1976,
+      "image_height": 972,
+      "text": "причём эта фича с подпиской claude - одна из основных, согласно сайту"
+    },
+    {
+      "id": "696d124760c7639335ed39fc",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yuklia_1",
+      "author_name": "Yulia Kostrikova",
+      "datetime": 1768079418,
+      "text": "этот ? \u003ca href=\"https://github.com/timequity/vibe-coder/blob/main/skills/brainstorming/SKILL.md\"\u003ehttps://github.com/timequity/vibe-coder/blob/main/skills/brainstorming/SKILL.md\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39fd",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1768079517,
+      "text": "\u003ca href=\"https://x.com/trq212/status/2009689809875591565\"\u003ehttps://x.com/trq212/status/2009689809875591565\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed39fe",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768079526,
+      "text": "рейт лимиты проверяются на сервере"
+    },
+    {
+      "id": "696d124760c7639335ed39ff",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1768079605,
+      "text": "Да, лимиты у антропика точно на сервере"
+    },
+    {
+      "id": "696d124760c7639335ed3a00",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768079633,
+      "text": "сделать так, чтобы ты был привязан к именно их claude code, их \u0026#34;экосистеме\u0026#34;, полностью зашитой на модели claude"
+    },
+    {
+      "id": "696d124760c7639335ed3a01",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768079714,
+      "text": "opencode например только недавно добавил скиллы, и управление ими возможно только через файлы в папочке вручную"
+    },
+    {
+      "id": "696d124760c7639335ed3a02",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1768079740,
+      "text": "Я слышал что open code пообещали скоро добавить нормальную систему пермишшенов"
+    },
+    {
+      "id": "696d124760c7639335ed3a03",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1768080169,
+      "text": "вообще странен весь этот разговор. напомню что claude интегрируется в zed как ACP. значит могут позволить себе? просто наверное opencode надо пойти и поговорить с ними перед интеграцией"
+    },
+    {
+      "id": "696d124760c7639335ed3a04",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1768080391,
+      "text": "я тоже все делаю через zed"
+    },
+    {
+      "id": "696d124760c7639335ed3a05",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1768080411,
+      "text": "в нем свои агенты есть кстати"
+    },
+    {
+      "id": "696d124760c7639335ed3a06",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768080567,
+      "text": "и теперь работает с codex, официально"
+    },
+    {
+      "id": "696d124760c7639335ed3a07",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768080583,
+      "text": "хотя до этого openai никому не разрешали и всячески препятствовали"
+    },
+    {
+      "id": "696d124760c7639335ed3a08",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1768080661,
+      "text": "Антропик продаёт подписку на свои модели через свои продукты."
+    },
+    {
+      "id": "696d124760c7639335ed3a09",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phuda",
+      "author_name": "Fedor Shchukin",
+      "datetime": 1768080671,
+      "text": "Антропик закрыл API которым пользуется Claude Code, при это пользоваться Claude Agent SDK никто не запрещал, наоборот, SDK для этого и сделан, чтобы писать агентов. Глянул, zed как раз так и делает, потому и не отрубился. \u003ca href=\"https://github.com/zed-industries/claude-code-acp\"\u003ehttps://github.com/zed-industries/claude-code-acp\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eЯ не пойму, почему антропик не формулирует это именно так - используйте SDK, и все будет с вашими агентами нормально."
+    },
+    {
+      "id": "696d124760c7639335ed3a0a",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "escin6f55fj",
+      "author_name": "Sergey",
+      "datetime": 1768080863,
+      "text": "модель это более низкий уровень по ценности чем конечный продукт. для антропика это выход вверх по поставке ценности. потенциально более прибыльно"
+    },
+    {
+      "id": "696d124760c7639335ed3a0b",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1768080934,
+      "text": "Антропик не хочет отдавать свои модели конкурентам. Они смогут с моделями антропика сделать продукт и конкурировать с клод кодом. Антропик, возможно, хочет выиграть войну терминальный агентов и занять первое место, пока у них есть преимущество - лучшие модели для кодинга. В любой момент они это могут потерять."
+    },
+    {
+      "id": "696d124760c7639335ed3a0c",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768080979,
+      "text": "Я думаю, что для антропика планирует, что их главный продукт будет не модель, а продукты/экосистема вокруг этого."
+    },
+    {
+      "id": "696d124760c7639335ed3a0d",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081006,
+      "text": "вот представим: ты сидишь на claude code, у тебя там настроены все пермишны, скиллы, субагенты и прочее прочее.\u003cbr/\u003eзатем выходит чуть более хорошая модель.\u003cbr/\u003eесли у тебя весь флоу завязан на claude code, ты забьёшь и продолжишь пользоваться более плохой моделью.\u003cbr/\u003e\u003cbr/\u003eесли же ты использовал opencode, то ты просто меняешь модельку на другую и продолжаешь работать как работал.\u003cbr/\u003eпоэтому это риск для бизнеса anthropic"
+    },
+    {
+      "id": "696d124760c7639335ed3a0e",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tele_kirill",
+      "author_name": "Kirill",
+      "datetime": 1768081168,
+      "text": "Ну кстати они же сообщения считают, а не токены вроде"
+    },
+    {
+      "id": "696d124760c7639335ed3a0f",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phuda",
+      "author_name": "Fedor Shchukin",
+      "datetime": 1768081177,
+      "text": "Скилы уже открытый стандарт, как и mcp. И давайте вспомним, кто эти стандарты создал и пушит их открытость."
+    },
+    {
+      "id": "696d124760c7639335ed3a10",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1768081206,
+      "text": "возможно я не осилил но пробовал opencode полгода назад он не запустился правда я не долго пытался и бросил..."
+    },
+    {
+      "id": "696d124760c7639335ed3a11",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081210,
+      "text": "я привёл их чисто как что-то связанное с claude code"
+    },
+    {
+      "id": "696d124760c7639335ed3a12",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081249,
+      "text": "формула расчёта неизвестна. как минимум они должны помимо токенов считать, сколько было закэшированных токенов, а также количество сообщений"
+    },
+    {
+      "id": "696d124760c7639335ed3a13",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phuda",
+      "author_name": "Fedor Shchukin",
+      "datetime": 1768081370,
+      "text": "Я слышал, что их основной доход как раз с API, тоесть чистая модель, b2b клиенты."
+    },
+    {
+      "id": "696d124760c7639335ed3a14",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081390,
+      "text": "кстати, ещё claude code же имеет опцию extra usage, где он предложит тебе перейти на использование api, когда лимиты закончены\u003cbr/\u003eopencode стопудово такой опции не предлагал"
+    },
+    {
+      "id": "696d124760c7639335ed3a15",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081418,
+      "text": "получается такая же фигня, как с твиттером и реддитом, которые заблокировали использование сторонних клиентов, которые не вставляли рекламу"
+    },
+    {
+      "id": "696d124760c7639335ed3a16",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "irqoff",
+      "author_name": "Alexander Usov",
+      "datetime": 1768081457,
+      "text": "Пря сейчас на лендинге Max: The Max plan combines Claude desktop and mobile apps and Claude Code in one subscription"
+    },
+    {
+      "id": "696d124760c7639335ed3a17",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1768081458,
+      "text": "да, о чём я и говорю. но поскольку opencode сам агент - то ему несколько странно через SDK ходить."
+    },
+    {
+      "id": "696d124760c7639335ed3a18",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phuda",
+      "author_name": "Fedor Shchukin",
+      "datetime": 1768081511,
+      "text": "Да, и скорей всего неудобно под него писать адаптер. Но как-то можно - zed пример."
+    },
+    {
+      "id": "696d124760c7639335ed3a19",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081527,
+      "text": "ACP это протокол более высокого уровня"
+    },
+    {
+      "id": "696d124760c7639335ed3a1a",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "phuda",
+      "author_name": "Fedor Shchukin",
+      "datetime": 1768081563,
+      "text": "Пока тока zed его сам и использует, но идея хорошая."
+    },
+    {
+      "id": "696d124760c7639335ed3a1b",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081587,
+      "text": "вроде бы jetbrains объявляли, что его будут использовать, и может даже уже используют"
+    },
+    {
+      "id": "696d124760c7639335ed3a1c",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1768081591,
+      "text": "когда-то ОПСОСы зарабатывали миллионы на смс. но потом аська и прочие мсны победили. \u003cbr/\u003e\u003cbr/\u003eТак будет и тут - будет API который будут \u0026#34;всякие\u0026#34; opencode использовать. \u003cbr/\u003e\u003cbr/\u003eмне, как клиенту, вовсе не нужно себя загонять под вендор-лок какого-то определённого поставщка."
+    },
+    {
+      "id": "696d124760c7639335ed3a1d",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081616,
+      "image_url": "https://chat.radio-t.com/logs/995/AgACAgIAAx0CUPxcWQABClM8aWLI0MfHIGaeqqjmtuyjCr8Kl6EAApUQaxswrRlL8Y0HEUkj1UsBAAMCAAN5AAM4BA",
+      "image_width": 1082,
+      "image_height": 534,
+      "text": ""
+    },
+    {
+      "id": "696d124760c7639335ed3a1e",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1768081624,
+      "text": "уже вроде jetbrains подтянулись"
+    },
+    {
+      "id": "696d124760c7639335ed3a1f",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768081659,
+      "text": "⚠️ Stack Overflow’s forum is dead thanks to AI, but the company’s still kicking... thanks to AI - Sherwood News - \u003ca href=\"https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\"\u003ehttps://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed3a20",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768081665,
+      "text": "\u003cstrong\u003eStack Overflow’s forum is dead thanks to AI, but the company’s still kicking... thanks to AI - Sherwood News\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eStack Overflow сталкивается с падением трафика из-за внедрения ИИ, но компания успешно монетизирует свой контент, что позволяет ей оставаться на плаву и увеличивать доход.\u003cbr/\u003e\u003cbr/\u003e**Основные моменты:**\u003cbr/\u003e\u003cbr/\u003e- Stack Overflow, когда-то главный ресурс для разработчиков, теперь страдает от снижения трафика из-за ИИ, таких как ChatGPT и Google Gemini.   \u003cbr/\u003e  \u003cbr/\u003e- В июле 2023 года Илон Маск назвал ситуацию “смертью от LLM”, указывая на резкое падение спроса на простые вопросы.  \u003cbr/\u003e  \u003cbr/\u003e- Количество вопросов на сайте упало до уровня 2008 года, составив всего 6,866 вопросов за последний месяц.  \u003cbr/\u003e  \u003cbr/\u003e- Несмотря на падение посещаемости, годовой доход компании увеличился вдвое до $115 миллионов благодаря новым стратегиям.  \u003cbr/\u003e  \u003cbr/\u003e- Stack Overflow сократил убытки с $84 миллионов в 2023 году до $22 миллионов на текущий момент.  \u003cbr/\u003e  \u003cbr/\u003e- Новый бизнес-модель включает лицензирование данных для ИИ-компаний и решения для бизнеса, такие как \u0026#34;Stack Internal\u0026#34;.  \u003cbr/\u003e  \u003cbr/\u003e- CEO Прешант Чандрасекар подчеркивает, что сложные вопросы все еще задаются на Stack Overflow, поскольку для них нет аналогов."
+    },
+    {
+      "id": "696d124760c7639335ed3a21",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768081686,
+      "text": "неофициально, фактически"
+    },
+    {
+      "id": "696d124760c7639335ed3a22",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768082137,
+      "text": "Я думаю, что это как раз таки сегмент в B2C. Причем в B2C они сильно проигрывают OpenAI. А вот Claude Code дал буст именно в этом сегменте и теперь в этой категории пользователей OpenAI догоняющий"
+    },
+    {
+      "id": "696d124760c7639335ed3a23",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768082147,
+      "text": "естественно они всё собирают и оставляют себе"
+    },
+    {
+      "id": "696d124760c7639335ed3a24",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768082217,
+      "text": "Ну и еще полтора землекопа. Но идея богатая"
+    },
+    {
+      "id": "696d124760c7639335ed3a25",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768082221,
+      "text": "подтверждающий сигнал, что ты не продолжил общение"
+    },
+    {
+      "id": "696d124760c7639335ed3a26",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stordev",
+      "author_name": "Dmitry",
+      "datetime": 1768082238,
+      "text": "StackOverFlow GPT нужно создать"
+    },
+    {
+      "id": "696d124760c7639335ed3a27",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "OscarG91",
+      "author_name": "Oskars",
+      "datetime": 1768082247,
+      "text": "Мне кажется реддит тоже отчасти заменил стак оверфлоу"
+    },
+    {
+      "id": "696d124760c7639335ed3a28",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768082249,
+      "text": "в гугле один из ранжирующих факторов выдачи это то, что ты открыл сайт из выдачи и всё, больше никуда не переходил"
+    },
+    {
+      "id": "696d124760c7639335ed3a29",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768082300,
+      "text": "Самый токсичный llm будет 🤣 И вместо “You absolutely right” будет это дублирующий вопросы"
+    },
+    {
+      "id": "696d124760c7639335ed3a2a",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768082372,
+      "text": "⚠️ feat: add llms.txt endpoint for LLM-optimized documentation by quantizor · Pull Request #2388 · tailwindlabs/\u003ca href=\"https://tailwindcss.com\"\u003etailwindcss.com\u003c/a\u003e - \u003ca href=\"https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957\"\u003ehttps://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed3a2b",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768082380,
+      "text": "\u003cstrong\u003efeat: add llms.txt endpoint for LLM-optimized documentation by quantizor · Pull Request #2388 · tailwindlabs/\u003c/strong\u003e\u003ca href=\"https://tailwindcss.com\"\u003etailwindcss.com\u003c/a\u003e\u003cstrong\u003e · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003e\u003cbr/\u003eДобавлен новый эндпоинт `/llms.txt` для оптимизированной документации Tailwind CSS, подходящей для больших языковых моделей (LLMs). Это упрощает доступ к материалам и исключает лишние элементы интерфейса.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Эндпоинт `/llms.txt` предоставляет текстовую версию документации Tailwind CSS.\u003cbr/\u003e- Оптимизация для языковых моделей упрощает восприятие контента.\u003cbr/\u003e- Документация включает все 185 файлов и правильно структурирована.\u003cbr/\u003e- Удаляются компоненты JSX, HTML, и извлекается значимый контент.\u003cbr/\u003e- Генерация проходила во время сборки, что повышает производительность.\u003cbr/\u003e- Закрытие PR вызвало разногласия среди сообщества разработчиков.\u003cbr/\u003e- Оценки пользователей показали смешанные реакции на изменения."
+    },
+    {
+      "id": "696d124760c7639335ed3a2c",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768082392,
+      "text": "ну так это первоисточник"
+    },
+    {
+      "id": "696d124760c7639335ed3a2d",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex911111",
+      "author_name": "Sasha",
+      "datetime": 1768082428,
+      "text": "Про лицензию на контент достаточно смешно, все забыли как мету судят за использование торрентов."
+    },
+    {
+      "id": "696d124760c7639335ed3a2e",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1768083239,
+      "text": "AI привнёс смысл в жизни этих разработчиков"
+    },
+    {
+      "id": "696d124760c7639335ed3a2f",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768083294,
+      "text": "⚠️ Which programming languages are most token-efficient? - Martin Alderson - \u003ca href=\"https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/\"\u003ehttps://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed3a30",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768083300,
+      "text": "\u003cstrong\u003eWhich programming languages are most token-efficient? - Martin Alderson\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Резюме\u003cbr/\u003eМартин Альдерсон обсуждает, как эффективность токенов языков программирования влияет на разработку ПО, особенно в контексте использования LLM. Языки, такие как Haskell и F#, оказываются более эффективными по токенам, что позволяет сократить время разработки.\u003cbr/\u003e\u003cbr/\u003e## Основные моменты\u003cbr/\u003e- Лимит на длинну контекста LLM затрудняет обработку больших объемов данных из-за использования памяти.\u003cbr/\u003e- Эффективность токенов языков программирования может повлиять на выбор языка в будущем для разработки.\u003cbr/\u003e- APL стал менее эффективным по токенам из-за неудачной оптимизации токенизатора.\u003cbr/\u003e- Динамические языки, в основном, более эффективны, так как не требуют декларации типов.\u003cbr/\u003e- Языки функционального программирования, такие как Haskell и F#, имеют высокую токен-эффективность благодаря системам вывода типов.\u003cbr/\u003e- Выбор языков с высокой эффективностью токенов может увеличить продолжительность сессий разработки.\u003cbr/\u003e- Стратегии использования LLM в разработке ПО требуют пересмотра концепций программирования."
+    },
+    {
+      "id": "696d124760c7639335ed3a31",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768083324,
+      "text": "Я немного проспал, как tailwind стал популярным. Согласен с Лехой, что вообще не понял зачем она вообще нужна, просто назанимаем писать css в html, причем не удобно (на мой вкус). Bootstrap понятно, что решал: адаптивность (пока спецификации не подтянулись со всякими флексбоксами)"
+    },
+    {
+      "id": "696d124760c7639335ed3a32",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768083405,
+      "text": "пайтон опять впереди планеты всей"
+    },
+    {
+      "id": "696d124760c7639335ed3a33",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768083615,
+      "text": "ни разу такого с отступами не видел"
+    },
+    {
+      "id": "696d124760c7639335ed3a34",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768083670,
+      "text": "⚠️ Темы слушателей 995 - \u003ca href=\"https://radio-t.com/p/2026/01/09/prep-995/\"\u003ehttps://radio-t.com/p/2026/01/09/prep-995/\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed3a35",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1768083677,
+      "text": "[1/1] \u003cstrong\u003e+1\u003c/strong\u003e от \u003cstrong\u003eДмитрий «josser» Чиркин\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eОказивается история про работника доставки аі-вранье!\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/\"\u003ehttps://www.platformer.news/fake-uber-eats-wh...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDebunking the AI food delivery hoax that fooled Reddit\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eНедавняя утечка, которая привлекла внимание на Reddit относительно мошенничества в приложении доставки еды, оказалась фальшивой. Как журналист, пытающийся проверить информацию, я наткнулся на подделанные документы и жалобы, что подчеркивает уязвимость СМИ к дезинформации с использованием ИИ.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Мошенничество по приложению**: Пользователь Reddit опубликовал пост о манипуляциях в приложении доставки еды, вызвавший большой отклик.\u003cbr/\u003e- **Ложные документы**: Утекший документ, который выглядел достоверным, был создан с помощью ИИ и содержал недостоверные данные.\u003cbr/\u003e- **Старая журналистская мудрость**: Проверка источников и критическое мышление остаются важными для борьбы с фейковыми новостями.\u003cbr/\u003e- **Сложности верификации**: ИИ может эффективно подделывать документы, затрудняя журналистам проверку информации.\u003cbr/\u003e- **Полученный опыт**: Этот инцидент подтверждает сложность работы журналистов в эпоху ИИ и дезинформации.\u003cbr/\u003e- **Реакция на мошенничество**: Платформы, такие как Uber Eats и DoorDash, опровергли обвинения и недовольства.\u003cbr/\u003e- **Заключение**: Событие подчеркивает необходимость настороженности при работе с информацией, распространяемой в социальных сетях."
+    },
+    {
+      "id": "696d124760c7639335ed3a36",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768083724,
+      "text": "я только одну вижу"
+    },
+    {
+      "id": "696d124760c7639335ed3a37",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768083755,
+      "text": "У меня тоже бывало. Причем косячил кодекс 5.1 даже пару раз за день"
+    },
+    {
+      "id": "696d124760c7639335ed3a38",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768083769,
+      "text": "правильная ссылка вот: \u003ca href=\"https://radio-t.com/p/2026/01/06/prep-995/\"\u003ehttps://radio-t.com/p/2026/01/06/prep-995/\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed3a39",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768083830,
+      "text": "ну так нормальным агентом пользоваться надо"
+    },
+    {
+      "id": "696d124760c7639335ed3a3a",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1768083860,
+      "text": "насколько я помню на реддите в оригинальном посте не было никаких документов, только текст без ссылок"
+    },
+    {
+      "id": "696d124760c7639335ed3a3b",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "isayko",
+      "author_name": "Vlad Isayko",
+      "datetime": 1768084119,
+      "text": "Что ж пришлось когда выжрал весь опус"
+    },
+    {
+      "id": "696d124760c7639335ed3a3c",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1768084239,
+      "text": "про абстракцию хорошо подмечено 😂"
+    },
+    {
+      "id": "696d124760c7639335ed3a3d",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1768084624,
+      "text": "ещё про покрытие кода"
+    },
+    {
+      "id": "696d124760c7639335ed3a3e",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1768084696,
+      "text": "(про метрики) Звучит как классический Закон Гудхарта \u003ca href=\"https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%93%D1%83%D0%B4%D1%85%D0%B0%D1%80%D1%82%D0%B0\"\u003ehttps://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%93%D1%83%D0%B4%D1%85%D0%B0%D1%80%D1%82%D0%B0\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003eКогда мера становится целью, она перестает быть хорошей мерой"
+    },
+    {
+      "id": "696d124760c7639335ed3a3f",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768084777,
+      "text": "это ностальгирующие по висте"
+    },
+    {
+      "id": "696d124760c7639335ed3a40",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1768084784,
+      "text": "Так Ксюше нравиться"
+    },
+    {
+      "id": "696d124760c7639335ed3a41",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1768084794,
+      "text": "нравится"
+    },
+    {
+      "id": "696d124760c7639335ed3a42",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1768084816,
+      "text": "там олимпиадники два поиска в телеге сделали, сниху и сверху"
+    },
+    {
+      "id": "696d124760c7639335ed3a43",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1768084827,
+      "text": "Ну я вот не переехал\u003cbr/\u003eИ прям обновился не на последний телефон чтобы  не получить это действие"
+    },
+    {
+      "id": "696d124760c7639335ed3a44",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1768084831,
+      "text": "надо включить матовое стекло, чтобы было юзабельно. Но в целом ничего так, почти как Compiz"
+    },
+    {
+      "id": "696d124760c7639335ed3a45",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "webAmoeba",
+      "author_name": "Валера",
+      "datetime": 1768085054,
+      "text": "на мак для логитековских мышей SteerMouse по-моему лучше"
+    },
+    {
+      "id": "696d124760c7639335ed3a46",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1768085056,
+      "text": "Истекший сертификат на макоси не блокирует запуск приложения. Эти гении сами постарались и сделали, что программа не работает с тухлым сертификатом.\u003cbr/\u003e\u003ca href=\"https://lapcatsoftware.com/articles/2026/1/2.html\"\u003ehttps://lapcatsoftware.com/articles/2026/1/2.html\u003c/a\u003e"
+    },
+    {
+      "id": "696d124760c7639335ed3a47",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1768085438,
+      "text": "Ну раньше был человек который говорил нет"
+    },
+    {
+      "id": "696d124760c7639335ed3a48",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "NickNameFail",
+      "author_name": "Chi Bum (Mult0)",
+      "datetime": 1768085896,
+      "text": "/review"
+    },
+    {
+      "id": "696d124760c7639335ed3a49",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1768086034,
+      "text": "перестал бы zed сам скачивать всё подряд из интернета..."
+    },
+    {
+      "id": "696d124760c7639335ed3a4a",
+      "issue": 995,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1768086153,
+      "text": "так сейчас все все скачивают.."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "issue": 995,
+  "date": "2026-01-10",
+  "audio": "https://cdn.radio-t.com/rt_podcast995.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt995.jpg",
+  "start_time": 1768076739,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Max обижает конкурентов",
+      "links": [
+        "https://github.com/anomalyco/opencode/issues/7410"
+      ],
+      "time": "00:38:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Stack Overflow совсем заканчивается",
+      "links": [
+        "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/"
+      ],
+      "time": "01:22:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как AI убил все доходы tailwind",
+      "links": [
+        "https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957"
+      ],
+      "time": "01:33:53"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Самые эффективные для токенизации языки",
+      "links": [
+        "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/"
+      ],
+      "time": "01:49:15"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/01/09/prep-995/"
+      ],
+      "time": "01:55:31"
+    }
+  ],
+  "tags": null
+}
