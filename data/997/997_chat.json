@@ -1,0 +1,1150 @@
+{
+  "chat": [
+    {
+      "id": "6975a930c0e24e7937bafcd2",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tutunak",
+      "author_name": "tutunak",
+      "datetime": 1769284813,
+      "text": "доколе?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcd3",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769284814,
+      "text": "\u003cem\u003eникто не знает. пока не надоест\u003c/em\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcd4",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1769285082,
+      "text": "Лампованая унццаа"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcd5",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1769285141,
+      "text": "У меня ломка начинается, когда вовремя не начинают"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcd6",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1769285174,
+      "text": "Пошло"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcd7",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "boyarintsevav",
+      "author_name": "Anatoliy Boyarintsev",
+      "datetime": 1769285177,
+      "text": "Вот же"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcd8",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1769285208,
+      "text": "Теплые голоса"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcd9",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1769285347,
+      "text": "В холодном мирке.."
+    },
+    {
+      "id": "6975a930c0e24e7937bafcda",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iosif380",
+      "author_name": "Joseph",
+      "datetime": 1769285391,
+      "text": "Rainy 75 настраивается без проблем"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcdb",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1769285459,
+      "text": "mermaid"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcdc",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1769285479,
+      "text": "пишем не читая?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcdd",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "bro_nin",
+      "author_name": "Cooing Pigeon",
+      "datetime": 1769285497,
+      "text": "По этой причине перешел на инстансы invidious"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcde",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1769285505,
+      "text": "так мермейд же умеет в свг норм рисовать?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcdf",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769285507,
+      "text": "Да, мермейд действительно может создавать SVG-диаграммы. Это удобно для визуализации данных и проектирования! Пользовался уже этим функционалом?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce0",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1769285515,
+      "text": "ну там стили нужно один раз настроить просто и потом красиво все"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce1",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "eugene_pav",
+      "author_name": "Eugene",
+      "datetime": 1769285531,
+      "text": "Уже даже винда поддерживает рар, а маос нет?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce2",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1769285557,
+      "text": "Да, не читая"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce3",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dmitryzaets",
+      "author_name": "Dmitry",
+      "datetime": 1769285613,
+      "text": "просто если мермейд сам по себе то гх криво может рисовать, а если с него генерить свгшки со стилями то вроде ведь норм выходит?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce4",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "KloggLV",
+      "author_name": "Alex Kirhenshtein",
+      "datetime": 1769285702,
+      "text": "Я перебрал несколько и остановился на d2, но с tala рендерером"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce5",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769285769,
+      "text": "эх, вот был один гость..."
+    },
+    {
+      "id": "6975a930c0e24e7937bafce6",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1769285771,
+      "text": "QA позовите"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce7",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1769285806,
+      "text": "как к вам придут сисадмины, если они не существуют?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce8",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1769285808,
+      "text": "Позовите Бориса из КК ;)"
+    },
+    {
+      "id": "6975a930c0e24e7937bafce9",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1769285834,
+      "text": "Он недавно приходил к кому-то"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcea",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "boyarintsevav",
+      "author_name": "Anatoliy Boyarintsev",
+      "datetime": 1769285874,
+      "text": "К кому?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafceb",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1769285939,
+      "text": "\u003ca href=\"https://youtu.be/DW4a1Cm8nG4?si=NSdxKKGPdkWN5-0T\"\u003ehttps://youtu.be/DW4a1Cm8nG4?si=NSdxKKGPdkWN5-0T\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcec",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769285997,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafced",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1769286437,
+      "text": "постоянно так делаю после появления ИИ"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcee",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1769286465,
+      "text": "но вообще мне alpine.js нравится"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcef",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769286711,
+      "text": "в codex точно можно откатываться, оно сделано на основе т.н. shadow commit"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf0",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769286790,
+      "text": "иногда codex с deepthink думает сильно дольше, но часто может найти какие-то баги которые не может определить опус 4.5"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf1",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769286802,
+      "text": "это почти в 100% случаев"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf2",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769286819,
+      "text": "во всех случаях работы с существующей кодовой базой codex был лучше opus"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf3",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769286830,
+      "text": "особенно, когда касается расследования багов"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf4",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769286848,
+      "text": "нуу.. я бы не сказал что в 100, по моим ощущениям процентах в 80, при этом именно в плане написания он уступает"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf5",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769286873,
+      "text": "claude лучше в плане написания текстов, красивых markdown файлов"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf6",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769286902,
+      "text": "при этом когда механизм консенсуса для анализа использую, то с 1 и тем же запросом codex чаще выдает более глубокий результат, но это кажется еще и от задач зависит"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf7",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769286925,
+      "text": "щас у codex подтянут скорость работы с переходом на cerebras, и подправят стиль общения, и опусу хана"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf8",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769286985,
+      "text": "они после выхода gemini еще и с лимитами что-то сделали, даже на 20$ версии вполне надолго хватает"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcf9",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769287012,
+      "text": "именно, в то время как опуса за 20 баксов хватает на несколько запросов"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcfa",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769287040,
+      "text": "опус невероятно расходует токены попусту, особенно если использовать с костылём в виде ralph loop"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcfb",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769287371,
+      "text": "тут кстати несколько выпусков назад кто-то говорил о том что oh my opencode шустрее работает, кажется грей, я вот всю неделю игрался, действительно разница есть, непонятно как они это достигают, но это ощутимо"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcfc",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769287536,
+      "text": "⚠️ Results from the 2025 Go Developer Survey - The Go Programming Language - \u003ca href=\"https://go.dev/blog/survey2025\"\u003ehttps://go.dev/blog/survey2025\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcfd",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769287543,
+      "text": "\u003cstrong\u003eResults from the 2025 Go Developer Survey - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание**  \u003cbr/\u003eВ статье обсуждаются результаты Опросов разработчиков Go 2025, проведенного в сентябре 2025 года. Исследование, на которое ответили 5 379 разработчиков, выявило ключевые проблемы и потребности в сообществе Go.\u003cbr/\u003e\u003cbr/\u003e- 91% респондентов удовлетворены работой с Go, что указывает на его стабильную популярность с 2019 года.\u003cbr/\u003e- Большинство разработчиков требуют улучшений в определении лучших практик и расширении инструментов.\u003cbr/\u003e- 33% респондентов сталкиваются с трудностями в написании идиоматического Go-кода.\u003cbr/\u003e- 28% жалуются на отсутствие функций, присущих другим языкам программирования.\u003cbr/\u003e- 26% респондентов испытывают проблемы с поиском надежных Go-модулей.\u003cbr/\u003e- AI-разработки в Go уменьшаются, 78% не используют функции AI в своем ПО.\u003cbr/\u003e- Стабильность среды и невмешательство в язык являются ключевыми факторами успеха Go."
+    },
+    {
+      "id": "6975a930c0e24e7937bafcfe",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1769288369,
+      "text": "народ?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafcff",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrey Ash",
+      "datetime": 1769288371,
+      "text": "\u003ca href=\"https://narod.ru\"\u003enarod.ru\u003c/a\u003e ?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd00",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "BoberMod",
+      "author_name": "BoberMod",
+      "datetime": 1769288376,
+      "text": "ukoz?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd01",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iosif380",
+      "author_name": "Joseph",
+      "datetime": 1769288376,
+      "text": "укоз?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd02",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1769288385,
+      "text": "юкоз?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd03",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kosykh",
+      "author_name": "Артём Косых",
+      "datetime": 1769288398,
+      "text": "что-то на f"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd04",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlilt",
+      "author_name": "Максим Зырянов",
+      "datetime": 1769288412,
+      "text": "Геоситиес"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd05",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iflosstik",
+      "author_name": "German Kornev",
+      "datetime": 1769288430,
+      "text": "Dreamviewer)"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd06",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769289393,
+      "text": "Достаточно много кто пишет код на лине, с выходом tahoe кажется их стало больше 😃"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd07",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289443,
+      "text": ":)))"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd08",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Snaker_me",
+      "author_name": "Snaker",
+      "datetime": 1769289500,
+      "text": "Всё пропало?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd09",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1769289506,
+      "text": "Наверно в Индии и Китае вместе взятых разработчиков на Go больше чем всех разработчиков в США. А там не все могут мак позволить себе."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd0a",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1769289528,
+      "text": "У меня много знакомы именно пишут прям на линуксе со словами «хочу писать там, где запускаю»"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd0b",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289533,
+      "text": "\u0026gt; Most respondents develop on macOS (60%) or Linux (58%) and deploy to Linux-based systems, including containers (96%)."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd0c",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769289550,
+      "text": "Вы удивитесь, многие linux добровольно выбирают 😅"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd0d",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289560,
+      "text": "чо вы тут обсуждаете? тут явно написмано - 60% используют мак, 58 - линукс. то есть 1 человек может и линукс и мак использовать"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd0e",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1769289563,
+      "text": "так и есть. на работе выдали винду и запретили работать на другом"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd0f",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289582,
+      "text": "особенно в европе и азии. у \u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e просто америкоцентричный взгляд"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd10",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1769289600,
+      "text": "еще часто WSL используют потому что Windows в AD и по другому, без AD, в корпорации нельзя."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd11",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289605,
+      "text": "причём США-центричный, потому что бразилия (а это дофига разрабов) например - это почти всё линукс"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd12",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289677,
+      "text": "wsl там отдельно посчитали - 14%"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd13",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289703,
+      "text": "4% это ОВЕРДОФИГА для редактора который ещё разрабатывается и не все базовые фичи готовы"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd14",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769289745,
+      "text": "с учетом того что zed почти ничего не предлагает это прям офигеть какая большая цифра"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd15",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1769289759,
+      "text": "вот именно!Ё"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd16",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769289785,
+      "text": "ничо, ща helix steel допилит и поконкурируем ;D"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd17",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1769289841,
+      "text": "интеграция с гитов в idea просто лучшая, единственное что меня держит. В остальном уже давно бы на zed ушел"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd18",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ksenofobious",
+      "author_name": "ksenobite",
+      "datetime": 1769289992,
+      "text": "это не для печати, более того, скорость печати не влияет на скорость разработки.. и если замерить сколько в день % времени уходит на печать то цифра получится в самом лучшем случае процентов 10"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd19",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290070,
+      "text": "⚠️ Why Senior Engineers Let Bad Projects Fail - Lalit Maganti - \u003ca href=\"https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/\"\u003ehttps://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd1a",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290071,
+      "text": "⚠️ Software engineers can no longer neglect their soft skills - \u003ca href=\"https://www.qu8n.com/posts/most-important-software-engineering-skill-2026\"\u003ehttps://www.qu8n.com/posts/most-important-software-engineering-skill-2026\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd1b",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290075,
+      "text": "\u003cstrong\u003eSoftware engineers can no longer neglect their soft skills\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**  \u003cbr/\u003eНачиная с 2026 года, программисты должны развивать навыки общения, так как они становятся критически важными. Искусственный интеллект значительно улучшил выполнение программирования, однако эффективная коммуникация и понимание требований остаются необходимыми.\u003cbr/\u003e\u003cbr/\u003e- Программисты больше не могут игнорировать софт-скиллы.\u003cbr/\u003e- Эффективная коммуникация теперь важнее, чем кодирование.\u003cbr/\u003e- Искусственный интеллект значительно упростил многие программные задачи.\u003cbr/\u003e- Качественная спецификация критична для успешного выполнения проектов.\u003cbr/\u003e- Взаимодействие с людьми требует эмпатии и навыков общения.\u003cbr/\u003e- Хорошая коммуникация не может быть автоматизирована.\u003cbr/\u003e- Программисты должны быть мастерами своих инструментов, включая ИИ."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd1c",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290077,
+      "text": "\u003cstrong\u003eWhy Senior Engineers Let Bad Projects Fail - Lalit Maganti\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Summary:**\u003cbr/\u003eSenior engineers often allow suboptimal projects to continue due to the complexities of corporate politics, strategic influence, and the subjective nature of what constitutes a \u0026#34;bad project.\u0026#34; Navigating these challenges requires careful judgment and prioritization when voicing concerns.\u003cbr/\u003e\u003cbr/\u003e**Key Points:**\u003cbr/\u003e\u003cbr/\u003e- Инженеры видят плохие проекты, но часто не вмешиваются из-за корпоративной политики и быстроты действий.\u003cbr/\u003e- Не все проекты легко оценить как «плохие», решения принимаются на основе субъективных критериев.\u003cbr/\u003e- Важно уметь управлять своим влиянием, подобно банковскому счету, делая большие выводы только при необходимости.\u003cbr/\u003e- Оценка степени близости проекта к вашей команде помогает определить, стоит ли предпринимать действия против него.\u003cbr/\u003e- Меньшие вмешательства могут быть более эффективными для направления проекта в нужное русло.\u003cbr/\u003e- Честность с командой важна для поддержания доверия, даже когда проект не идеален.\u003cbr/\u003e- Стратегический подход к выражению беспокойств помогает избежать политической банкротства в компании."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd1d",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290080,
+      "text": "⚠️ Why Senior Engineers Let Bad Projects Fail - Lalit Maganti - \u003ca href=\"https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/\"\u003ehttps://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd1e",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290080,
+      "text": "\u003cstrong\u003eWhy Senior Engineers Let Bad Projects Fail - Lalit Maganti\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Summary:**\u003cbr/\u003eSenior engineers often allow suboptimal projects to continue due to the complexities of corporate politics, strategic influence, and the subjective nature of what constitutes a \u0026#34;bad project.\u0026#34; Navigating these challenges requires careful judgment and prioritization when voicing concerns.\u003cbr/\u003e\u003cbr/\u003e**Key Points:**\u003cbr/\u003e\u003cbr/\u003e- Инженеры видят плохие проекты, но часто не вмешиваются из-за корпоративной политики и быстроты действий.\u003cbr/\u003e- Не все проекты легко оценить как «плохие», решения принимаются на основе субъективных критериев.\u003cbr/\u003e- Важно уметь управлять своим влиянием, подобно банковскому счету, делая большие выводы только при необходимости.\u003cbr/\u003e- Оценка степени близости проекта к вашей команде помогает определить, стоит ли предпринимать действия против него.\u003cbr/\u003e- Меньшие вмешательства могут быть более эффективными для направления проекта в нужное русло.\u003cbr/\u003e- Честность с командой важна для поддержания доверия, даже когда проект не идеален.\u003cbr/\u003e- Стратегический подход к выражению беспокойств помогает избежать политической банкротства в компании."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd1f",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1769290693,
+      "text": "Надо было Умпутуну дать контакт Грея этой девушке - специалиста по vibe программированию"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd20",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290727,
+      "text": "⚠️ 30 years of ReactOS - \u003ca href=\"https://reactos.org/blogs/30yrs-of-ros//\"\u003ehttps://reactos.org/blogs/30yrs-of-ros//\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd21",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769290735,
+      "text": "\u003cstrong\u003e30 years of ReactOS | ReactOS Project\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eСегодня исполняется 30 лет проекту ReactOS, который начался как клонирование Windows 95. Проект за это время прошел через множество этапов, трансформируясь в стабильную и функциональную альтернативу Windows с открытым исходным кодом.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **1996-2003: Путь к ReactOS 0.1.0**  \u003cbr/\u003e  ReactOS возник из FreeWin95, целью которого было создание бесплатного клона Windows 95. Разработка продвигалась медленно.\u003cbr/\u003e\u003cbr/\u003e- **2003-2006: ReactOS 0.2.x**  \u003cbr/\u003e  Период бурного развития, новые драйверы и базовый интерфейс. В 2006 году усилены правила по интеллектуальной собственности.\u003cbr/\u003e\u003cbr/\u003e- **2006-2016: ReactOS 0.3.x**  \u003cbr/\u003e  Ограничения на исправления и замедление развития, но добавлены новые функции, включая поддержку сетевого подключения.\u003cbr/\u003e\u003cbr/\u003e- **2016-Настоящее время: ReactOS 0.4.x**  \u003cbr/\u003e  Введение графического интерфейса, совместимость с инструментами от Windows. Реализованы обновления до версии 0.4.15.\u003cbr/\u003e\u003cbr/\u003e- **Будущее ReactOS**  \u003cbr/\u003e  Несколько новых проектов, включая поддержку новых драйверов и систем. Открытые возможности для пользователей внести вклад. \u003cbr/\u003e\u003cbr/\u003e- **Статистика**  \u003cbr/\u003e  Всего коммитов: 88,198; уникальных контрибьюторов: 301; файлов: 31,025; строк кода: 14,929,578."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd22",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1769290864,
+      "text": "под виндовс сервер 2003 они мимикрируют. И в целом правильно, потом там в винде такого наворотили..."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd23",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex911111",
+      "author_name": "Sasha",
+      "datetime": 1769290889,
+      "text": "А почему Умпутун запретил упоминание react os?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd24",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MrPynk",
+      "author_name": "Dmitrij",
+      "datetime": 1769290951,
+      "text": "1х онлайн после всех этих лет на 1.5х вызывает страшное желание накатить. Чтоб догнать"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd25",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1769290993,
+      "text": "они не юзают исхрдники винды. был даже скандал когда-то и удаляли. они просто заимплементили спеку win32api"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd26",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1769291118,
+      "text": "даже тут упомянули Дейва, который еженедельно рассказывает, что это он написал task manager"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd27",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769291164,
+      "text": "⚠️ Why We\u0026#39;ve Tried to Replace Developers Every Decade Since 1969 - \u003ca href=\"https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html\"\u003ehttps://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd28",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769291171,
+      "text": "\u003cstrong\u003eWhy We\u0026#39;ve Tried to Replace Developers Every Decade Since 1969\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Подытоживание\u003cbr/\u003e\u003cbr/\u003eС 1969 года существует повторяющийся паттерн стремления упростить разработку программного обеспечения, ведя к ожиданиям о сокращении числа разработчиков. Этот цикл подчеркивает, что, несмотря на технологические достижения, сложность программирования требует специализированных знаний.\u003cbr/\u003e\u003cbr/\u003e### Ключевые моменты\u003cbr/\u003e\u003cbr/\u003e- **Истоки мечты**: Программирование стало критически важным благодаря достижениям в исследовании космоса, как показал проект Аполлон.\u003cbr/\u003e\u003cbr/\u003e- **COBOL**: Язык, призванный сделать программирование доступным для бизнес-аналитиков, на самом деле потребовал специализированных знаний.\u003cbr/\u003e\u003cbr/\u003e- **Инструменты CASE**: Обещали автоматизацию разработки, но столкнулись с проблемами сложности логики и обслуживания.\u003cbr/\u003e\u003cbr/\u003e- **Visual Basic и Delphi**: Снизили порог входа в разработку, но опытные разработчики оставались необходимыми.\u003cbr/\u003e\u003cbr/\u003e- **Современные инструменты**: Платформы low-code и no-code сделали разработку быстрее, но не устранили необходимость в профессиональных разработчиках.\u003cbr/\u003e\u003cbr/\u003e- **Причины повторения паттерна**: Сложность программного обеспечения требует умственной работы, что не может быть заменено инструментами.\u003cbr/\u003e\u003cbr/\u003e- **Будущее разработки**: Эффективность новых инструментов должна сочетаться с развитием навыков решения комплексных задач."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd29",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1769291475,
+      "text": "а для jboos нужен winxp вот и реактос пригодился =)"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd2a",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1769291847,
+      "text": "\u003cem\u003eЧто бы мы не делали, у нас получается КПСС\u003c/em\u003e. Черномырдин"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd2b",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769292570,
+      "text": "⚠️ Software engineers can no longer neglect their soft skills - \u003ca href=\"https://www.qu8n.com/posts/most-important-software-engineering-skill-2026\"\u003ehttps://www.qu8n.com/posts/most-important-software-engineering-skill-2026\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd2c",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769292571,
+      "text": "\u003cstrong\u003eSoftware engineers can no longer neglect their soft skills\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме**  \u003cbr/\u003eНачиная с 2026 года, программисты должны развивать навыки общения, так как они становятся критически важными. Искусственный интеллект значительно улучшил выполнение программирования, однако эффективная коммуникация и понимание требований остаются необходимыми.\u003cbr/\u003e\u003cbr/\u003e- Программисты больше не могут игнорировать софт-скиллы.\u003cbr/\u003e- Эффективная коммуникация теперь важнее, чем кодирование.\u003cbr/\u003e- Искусственный интеллект значительно упростил многие программные задачи.\u003cbr/\u003e- Качественная спецификация критична для успешного выполнения проектов.\u003cbr/\u003e- Взаимодействие с людьми требует эмпатии и навыков общения.\u003cbr/\u003e- Хорошая коммуникация не может быть автоматизирована.\u003cbr/\u003e- Программисты должны быть мастерами своих инструментов, включая ИИ."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd2d",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769293009,
+      "text": "⚠️ Темы слушателей 997 - \u003ca href=\"https://radio-t.com/p/2026/01/20/prep-997/\"\u003ehttps://radio-t.com/p/2026/01/20/prep-997/\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd2e",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769293026,
+      "text": "[1/13] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eDmitry Demenchuk\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eПохоже, с начала года дневные и недельные лимиты в Claude Code Pro сокращаются:\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.theregister.com/2026/01/05/claude_devs_usage_limits/\"\u003ehttps://www.theregister.com/2026/01/05/claude...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.reddit.com/r/ClaudeCode/comments/1q4s1wz/anyone_finding_claude_code_weekly_limit_shrinking/\"\u003ehttps://www.reddit.com/r/ClaudeCode/comments/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eClaude devs complain about surprise usage limits • The Register\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eРазработчики программного обеспечения выражают недовольство из-за неожиданных ограничений на использование сервиса Claude от Anthropic, утверждая, что лимиты снизились на 60%. Anthropic заявляет, что изменения связаны с окончанием праздников, а не с намеренным сокращением лимитов.\u003cbr/\u003e\u003cbr/\u003e- Разработчики Claude Code пожаловались на неожиданные ограничения использования токенов.\u003cbr/\u003e- Пользователи утверждают, что их критику замалчивают модераторы в Discord.\u003cbr/\u003e- Anthropic утверждает, что изменения связаны с окончанием праздничного бонуса.\u003cbr/\u003e- Текущие пользователи отмечают, что лимиты расходуются быстрее, чем прежде.\u003cbr/\u003e- Пользователи Reddit сообщают о проблемах с доступом из-за строгих лимитов.\u003cbr/\u003e- Например, один пользователь профессионального аккаунта исчерпал свои токены всего за 10-15 минут.\u003cbr/\u003e- Anthropic отверг обвинения в снижении объемов использования как необоснованные."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd2f",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769293026,
+      "text": "[2/13] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003efluggelgleckheimlen\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eBenQ выпустил идеальный монитор для программистов:\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.pcworld.com/article/3033011/benq-rd280ug-review.html\"\u003ehttps://www.pcworld.com/article/3033011/benq-...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eBenQ RD280UG review: The best monitor for coding gets an upgrade | PCWorld\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Summary**  \u003cbr/\u003eBenQ RD280UG is an exceptional 28.2-inch coding monitor featuring a 3:2 aspect ratio, high resolution, and ambient light sensor. While it offers upgrades like a 120Hz refresh rate, some aspects like HDR performance fall short. Its unique features make it ideal for programmers.\u003cbr/\u003e\u003cbr/\u003e**Преимущества и недостатки**  \u003cbr/\u003e- **Уникальное соотношение сторон:** 3:2 для дополнительного вертикального пространства, удобное для coding.\u003cbr/\u003e- **Повышенная четкость:** Разрешение 3840x2560, больше стандартного 4K.\u003cbr/\u003e- **Улучшенная частота обновления:** 120 Гц, что значительно выше по сравнению с предыдущей моделью.\u003cbr/\u003e- **Автоматическая регулировка яркости:** Сенсор освещенности для повышения комфорта.\u003cbr/\u003e- **Аудиопроизводительность:** Встроенные динамики объемом 3 Вт, хотя качество звука недостаточно высокое.\u003cbr/\u003e- **Сопротивление HDR:** Поддержка HDR, но с недостаточным качеством отображения.\u003cbr/\u003e- **Выше ценовой диапазон:** MSRP в $699.99 может показаться высоким для размера монитора."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd30",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769293026,
+      "text": "[3/13] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eАлександр\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eЯ считаю, что мимо этой новости нельзя пройти в 2026 году.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.linux.org.ru/news/opensource/18198821\"\u003ehttps://www.linux.org.ru/news/opensource/18198821\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.phoronix.com/news/ReactOS-Async-Net-Connect\"\u003ehttps://www.phoronix.com/news/ReactOS-Async-N...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eВ ReactOS:\u003cbr/\u003e – добились значительного повышения производительности сети;\u003cbr/\u003e – значительное улучшение совместимости с Windows NT 6;\u003cbr/\u003e – появилась поддержка асинхронных TCP-соединений.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eReactOS добился значительного повышения производительности сети — Open Source — Новости\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме:\u003cbr/\u003eReactOS, аналог Windows с открытым исходным кодом, значительно улучшил производительность сети благодаря поддержке асинхронных TCP-соединений, что ожидает повысит эффективность сетевых приложений.\u003cbr/\u003e\u003cbr/\u003e- ReactOS — открытый исходный код, аналог Windows.\u003cbr/\u003e- Улучшена совместимость с Windows NT 6.\u003cbr/\u003e- Исправлено отображение папок в файловом менеджере.\u003cbr/\u003e- Принимается поддержка асинхронных TCP-соединений.\u003cbr/\u003e- Повышение производительности для сетевых приложений.\u003cbr/\u003e- Патч был представлен в 2016 году.\u003cbr/\u003e- Реакция разработчиков на долгожданное обновление."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd31",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769293027,
+      "text": "[4/13] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eDzmitry Kalianchuk\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eТвит Хашимото о изменении политики AI Assieted PRs в Ghossty.\u003cbr/\u003e\u003cbr/\u003e«Ghostty is getting an updated AI policy. AI assisted PRs are now only allowed for accepted issues. Drive-by AI PRs will be closed without question. Bad AI drivers will be banned from all future contributions. If you’re going to use AI, you better be good.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/ghostty-org/ghostty/pull/10412%22\"\u003ehttps://github.com/ghostty-org/ghostty/pull/10412»\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eИнтересно мнение редакции в правильную ли сторону он воюет\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003ePage not found · GitHub · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eСтраница не найдена на GitHub, но пользователи могут использовать сохраненные поисковые запросы для более быстрого фильтрации результатов.\u003cbr/\u003e\u003cbr/\u003e- Функция сохраненных поисков позволяет сохранять и повторно использовать поисковые запросы.\u003cbr/\u003e- Это экономит время при поиске нужных репозиториев или файлов.\u003cbr/\u003e- Пользователи могут создавать несколько сохраненных поисков для разных нужд.\u003cbr/\u003e- Удобен для разработки, исследования и мониторинга проектов.\u003cbr/\u003e- Легкая навигация между сохраненными поисками.\u003cbr/\u003e- Возможность редактирования и удаления сохраненных поисков.\u003cbr/\u003e- Выборка результатов ограничивается только сохраненными параметрами."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd32",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1769293027,
+      "text": "[5/13] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003evladislav-yevtushenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eOllama v0.14.0 and later are now compatible with the Anthropic Messages API\u003cbr/\u003eOllama blog: \u003c/em\u003e\u003ca href=\"https://ollama.com/blog/claude\"\u003ehttps://ollama.com/blog/claude\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eReddit: \u003c/em\u003e\u003ca href=\"https://www.reddit.com/r/ClaudeCode/comments/1qibh6o/are_we_sure_this_is_100_allowed_by_anthropic/?utm_source=share\u0026amp;utm_medium=web3x\u0026amp;utm_name=web3xcss\u0026amp;utm_term=1\u0026amp;utm_content=share_button\"\u003ehttps://www.reddit.com/r/ClaudeCode/comments/...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eClaude Code with Anthropic API compatibility · Ollama Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**\u003cbr/\u003eС выходом версии Ollama v0.14.0, теперь доступна совместимость с API Anthropic, что позволяет использовать Claude Code с открытыми моделями, как локально, так и в облаке.\u003cbr/\u003e\u003cbr/\u003e- **Совместимость:** Ollama v0.14.0 поддерживает API Anthropic для Claude Code.\u003cbr/\u003e- **Установка:** Установите Claude Code с помощью команд для macOS, Linux и Windows.\u003cbr/\u003e- **Конфигурация:** Настройте переменные среды для использования Ollama и Claude Code.\u003cbr/\u003e- **Модели:** Рекомендуется использовать модели с длиной контекста не менее 32K токенов.\u003cbr/\u003e- **SDK:** Существующие приложения на Anthropic SDK могут подключаться к Ollama, изменив базовый URL.\u003cbr/\u003e- **Интеграция:** Модели могут использовать инструменты для взаимодействия с внешними системами.\u003cbr/\u003e- **Поддерживаемые функции:** Сообщения, многослойные разговоры, потоковая передача, вызовы функций и работа с изображениями."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd33",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1769293109,
+      "text": "Умпутун, ты же недавно хвастался 16 код-ревью агентами. Туда токены и улетают."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd34",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1769293253,
+      "image_url": "https://chat.radio-t.com/logs/997/AgACAgIAAx0CUPxcWQABCl5daXVFxZbL5JVshWbxnbehcdZxSCUAAkgMaxtc1LFLPYrivWrG5KoBAAMCAAN5AAM4BA",
+      "image_width": 1080,
+      "image_height": 896,
+      "text": "А вы видели это?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd35",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cheepo2109",
+      "author_name": "Adil",
+      "datetime": 1769293402,
+      "text": "говорят сейчас нужно бежать покупать мак мини чтобы на нем clawdbot хостить?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd36",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1769293633,
+      "text": "NT6 это виста"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd37",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1769293635,
+      "text": "Nt 6 - vista/7"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd38",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1769293644,
+      "text": "XP — NT 5.1"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd39",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "genachet",
+      "author_name": "Gennady Chetverikov",
+      "datetime": 1769293774,
+      "text": "Что то вы подзабыли - XP и 2000 это одно и то же.\u003cbr/\u003eБыла даже переключалка программная для этого."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd3a",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1769293796,
+      "text": "Ладно, может и 8 агентов, Но паттерн использования клода сильно изменился. Поэтому кажется что лимиты в кк стали меньше."
+    },
+    {
+      "id": "6975a930c0e24e7937bafd3b",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1769293820,
+      "text": "я так же и до нового года пользовал"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd3c",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769293983,
+      "text": "документация этого clawdbot выглядит максимально сгенерированной клодом и заполненной водой на 99%"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd3d",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769294005,
+      "text": "qwen-tts"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd3e",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1769294050,
+      "text": "умпутуну консент не нужен 🙂"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd3f",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1769294085,
+      "text": "а можно ссылку на войс клон?"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd40",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769294089,
+      "text": "китайским моделям он в принципе не нужен"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd41",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1769294111,
+      "text": "\u003ca href=\"https://huggingface.co/spaces/Qwen/Qwen3-TTS\"\u003ehttps://huggingface.co/spaces/Qwen/Qwen3-TTS\u003c/a\u003e"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd42",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Snaker_me",
+      "author_name": "Snaker",
+      "datetime": 1769294523,
+      "text": "Ребят, а можно поподробнее про Codex в IntelliJ?\u003cbr/\u003e\u003cbr/\u003eНе все сбежали в Zed..)"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd43",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1769294565,
+      "text": "я только что все сказал, слушать надо а не чат читать"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd44",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Snaker_me",
+      "author_name": "Snaker",
+      "datetime": 1769294622,
+      "text": "Что на medium работает быстро, я слышал)\u003cbr/\u003eНо как-то скупо..)"
+    },
+    {
+      "id": "6975a930c0e24e7937bafd45",
+      "issue": 997,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1769295174,
+      "text": "о, второй раз пошло 🙂"
+    }
+  ]
+}
