@@ -1,0 +1,48 @@
+{
+  "issue": 998,
+  "date": "2026-01-31",
+  "audio": "https://cdn.radio-t.com/rt_podcast998.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt998.jpg",
+  "start_time": 1769890664,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Moltbook почему-то порвал весь интернет",
+      "links": [
+        "https://simonwillison.net/2026/Jan/30/moltbook/"
+      ],
+      "time": "00:33:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как сеньоры назначают эстимэйты",
+      "links": [
+        "https://www.seangoedecke.com/how-i-estimate-work/"
+      ],
+      "time": "01:11:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Что не так с рынком труда, и почему AI тут не при чем",
+      "links": [
+        "https://bayramovanar.substack.com/p/tech-market-is-fucked-up"
+      ],
+      "time": "01:37:59"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/01/27/prep-998/"
+      ],
+      "time": "01:54:44"
+    }
+  ],
+  "tags": null
+}
