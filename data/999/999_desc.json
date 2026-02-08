@@ -1,0 +1,56 @@
+{
+  "issue": 999,
+  "date": "2026-02-07",
+  "audio": "https://cdn.radio-t.com/rt_podcast999.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt999.jpg",
+  "start_time": 1770495417,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Opus 4.6",
+      "links": [
+        "https://www.anthropic.com/news/claude-opus-4-6"
+      ],
+      "time": "00:13:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Быстрый но дорогой режим для Claude Code",
+      "links": [
+        "https://code.claude.com/docs/en/fast-mode"
+      ],
+      "time": "00:52:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GPT-5.3 Codex от OpenAI",
+      "links": [
+        "https://openai.com/index/introducing-gpt-5-3-codex/"
+      ],
+      "time": "01:10:06"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Xcode заполучил AI агента",
+      "links": [
+        "https://appleinsider.com/articles/26/02/03/xcode-263-hands-on-ai-agent-coding-is-astoundingly-fast-smart-and-too-convenient?utm_source=rss"
+      ],
+      "time": "01:38:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Путешествие в глубины AI",
+      "links": [
+        "https://mitchellh.com/writing/my-ai-adoption-journey"
+      ],
+      "time": "02:10:59"
+    }
+  ],
+  "tags": null
+}
