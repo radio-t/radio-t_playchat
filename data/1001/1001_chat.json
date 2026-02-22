@@ -1,0 +1,811 @@
+{
+  "chat": [
+    {
+      "id": "699a7410d57bdc2e0ae1986b",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771703821,
+      "text": "прошлом выпуске были какие-нибудь призы для слушателей?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1986c",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1771703957,
+      "text": "вроде никого не банили"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1986d",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Bober8083",
+      "author_name": "Denys",
+      "datetime": 1771703957,
+      "text": "Сам по себе выпуск уже хороший приз, чего еще надо то?..."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1986e",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771704079,
+      "text": "Футболку с подписью ведущих, памятная кружка, оплаченная подписка на нейросеть пожизненная."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1986f",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1771704089,
+      "text": "да, автомобиль Лада разыграли"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19870",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771704117,
+      "text": "Ну это 1 апрельский розыгрыш)"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19871",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1771704488,
+      "text": "Странно \u003cbr/\u003eМне уже пришлел"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19872",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1771704497,
+      "text": "голоса.."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19873",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1771704550,
+      "text": "Req.Context"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19874",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1771704556,
+      "text": "Сочувствую"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19875",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1771704558,
+      "text": "в реквест засунь, господи"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19876",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1771704566,
+      "text": "виброкодерам привет, есть в проекте часть кода которая делает что-то вроде макросов и у тех поддержки часто возникают мол почему вот так макрос не работает или почему вот это вывело, а не вот это\u003cbr/\u003eи вот"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19877",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1771704606,
+      "text": "я хз про какой язык ты, но обычно в мидлвари после выполнения реквеста ты можешь доступиться к реквесту уже со всеми данными"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19878",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1771704622,
+      "text": "ааааа, го\u003cbr/\u003eну тогда страдай"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19879",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1771704646,
+      "text": "виброкодерам привет, есть в проекте часть кода которая делает что-то вроде макросов и у тех поддержки часто возникают мол почему вот так макрос не работает или почему вот это вывело, а не вот это\u003cbr/\u003eи вот хочу написать на агентика который будет в рид онли режиме читать код и отвечать и вот вопрос, подскажите какой минимальный агентик для этого подойдёт"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1987a",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1771704657,
+      "text": "урряя"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1987b",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1771704662,
+      "text": "гость зачастил"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1987c",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1771704673,
+      "text": "у маринка будет?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1987d",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shevchenco",
+      "author_name": "Євген",
+      "datetime": 1771704719,
+      "text": "Унцу тише плз"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1987e",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "azinaz1",
+      "author_name": "Nazym",
+      "datetime": 1771704840,
+      "text": "Когда?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1987f",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771704841,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 14мин назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 45мин 59сек"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19880",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1771704879,
+      "text": "это две якимки или что это"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19881",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1771704924,
+      "text": "у гостся микрафон эффект басейна"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19882",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1771704943,
+      "text": "микрофон говно"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19883",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771704961,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19884",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1771704964,
+      "text": "Ну вот кстати да, в Питоне бы просто в request state положил и проблемы бы не было. А тут прям придется поприседать."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19885",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shevchenco",
+      "author_name": "Євген",
+      "datetime": 1771705079,
+      "text": "Один я Сергея за унцой почти не слышу?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19886",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1771705081,
+      "text": "хорошая, но ведь не лучше чем постгрес"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19887",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771705140,
+      "text": "⚠️ MongoDB Go Driver v2: миграция, которая не должна была быть такой болезненной • Umputun тут был - \u003ca href=\"https://p.umputun.com/2026/02/21/mongodb-go-driver-v2/\"\u003ehttps://p.umputun.com/2026/02/21/mongodb-go-driver-v2/\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19888",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771705147,
+      "text": "\u003cstrong\u003eMongoDB Go Driver v2: миграция, которая не должна была быть такой болезненной • Umputun тут был\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eMongoDB Go Driver v2 предлагает обновлённый API для работы с MongoDB на языке Go, улучшая пользовательский опыт и производительность. Ожидается, что версия 2.0 выйдет в 2025 году.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Обновленный API:** Новый драйвер v2 улучшает функциональность по сравнению с v1.\u003cbr/\u003e- **Производительность:** Ожидается 20-25% улучшение при работе с BSON.\u003cbr/\u003e- **Поддержка MongoDB:** Новый драйвер включает в себя поддержку современных возможностей MongoDB.\u003cbr/\u003e- **Работа с контекстом:** Улучшенная работа с контекстом с использованием SessionContext.\u003cbr/\u003e- **Типизация:** Вводится строгая типизация для коллекций и операций.\u003cbr/\u003e- **Упрощение кода:** Упрощение операций, таких как InsertMany и FindOne, в v2.\u003cbr/\u003e- **Планируемые обновления:** Ожидаются дополнительные функции и улучшения до выхода версии 2.0."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19889",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "James",
+      "datetime": 1771705234,
+      "text": "Сделайте немножко унцу тише"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1988a",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1771705921,
+      "text": "народ, а что сейчас носят вместо Audio-Technica AT2020? что есть новое модное и молодёжное?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1988b",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1771706140,
+      "image_url": "https://chat.radio-t.com/logs/1001/AgACAgEAAx0CUPxcWQABCnZzaZoXHHMjzF6UWRCV28-cRpIcuAUAAlIMaxviStBEHo-pAAF50DB9AQADAgADeQADOgQ",
+      "image_width": 1280,
+      "image_height": 282,
+      "text": ""
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1988c",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771706289,
+      "text": "Разве существует что-то кроме Sony WH-1000XM6?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1988d",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "RU AL",
+      "datetime": 1771706301,
+      "text": "а транзакцию или сессию закрыть"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1988e",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1771706325,
+      "text": "Ты говоришь о наушниках, а он о микрофоне"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1988f",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1771706325,
+      "text": "предлагаешь использовать наушники вместо микрофона?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19890",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771706338,
+      "text": "Вай нот?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19891",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1771706341,
+      "text": "Еще и наушники не самые лучшие по качеству звука"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19892",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1771706353,
+      "text": "хочется качество"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19893",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1771706357,
+      "text": "Качество микрофона несравнимо разное"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19894",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1771706379,
+      "text": "\u003ca href=\"https://github.com/mongodb/mongo-go-driver/blob/master/docs/migration-2.0.md\"\u003ehttps://github.com/mongodb/mongo-go-driver/blob/master/docs/migration-2.0.md\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19895",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771706397,
+      "text": "Ой все вам золотые прогреты провода подавай."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19896",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1771706502,
+      "text": "Здесь золотые провода ни при чем. Просто блютус кодек имеет суровые ограничения в плане качества звука микрофона. И проводной микрофон даже в гарнитуре от айфона 4 будет звучать лучше чем почти все блютус микрофоны"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19897",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771706830,
+      "text": "Подключить поводом"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19898",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1771707772,
+      "text": "а монга шардированная?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae19899",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771708000,
+      "text": "⚠️ Sam Altman on X: \u0026#34;Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our\u0026#34; / Twitter - \u003ca href=\"https://x.com/sama/status/2023150230905159801\"\u003ehttps://x.com/sama/status/2023150230905159801\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1989a",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Faithmurod",
+      "author_name": "Bobomurod",
+      "datetime": 1771708494,
+      "text": "Покажите пожалуйста как Claude code и Codex спорят"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1989b",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1771708632,
+      "text": "Как похорошели фатальные недостатки при вайбкодинге :)"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1989c",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1771708897,
+      "text": "вот здесь они уточняли \u003ca href=\"https://x.com/trq212/status/2024212380142752025?s=20\"\u003ehttps://x.com/trq212/status/2024212380142752025?s=20\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1989d",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1771708949,
+      "text": "Тео пару дней назад выступал что нет определения что такое «бизнес» - непонятно вообще запуск клод кода в батч-режиме из своего продукта считается или нет"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1989e",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771709015,
+      "text": "⚠️ Introducing Sonnet 4.6 - \u003ca href=\"https://www.anthropic.com/news/claude-sonnet-4-6\"\u003ehttps://www.anthropic.com/news/claude-sonnet-4-6\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae1989f",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771709020,
+      "text": "\u003cstrong\u003eIntroducing Sonnet 4.6 \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка**  \u003cbr/\u003eClaude Sonnet 4.6 - это самый продвинутый модуль с увеличенными возможностями в кодировании, планировании, долгосрочном мышлении и дизайне. Он предлагает расширенные функции для пользователей, сохраняя прежние цены. Модуль показывает значительные улучшения по сравнению с предыдущими версиями в ряде задач.\u003cbr/\u003e\u003cbr/\u003e- Claude Sonnet 4.6 - это обновлённая версия модели, обладающая улучшенными навыками в кодировании и работе с компьютером.\u003cbr/\u003e- Внедрит окно контекста в 1 миллион токенов для более глубокого понимания текста.\u003cbr/\u003e- Улучшение в соблюдении инструкций, снижению ошибок и взаимодействию с пользователями.\u003cbr/\u003e- Новая модель демонстрирует значительные улучшения в понимании документов и долгосрочном планировании.\u003cbr/\u003e- Claude Sonnet 4.6 конкурирует с Opus 4.6 и предлагает более доступные цены.\u003cbr/\u003e- Внедрение множественных инструментов и интеграции для повышения эффективности.\u003cbr/\u003e- Доступен для всех планов, включая бесплатный, со встроенными новыми функциями."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a0",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Faithmurod",
+      "author_name": "Bobomurod",
+      "datetime": 1771709343,
+      "text": "Скажите пожалуйста, как можно в Zed в режиме Vim использовать что-то на подобии AceJump ???"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a1",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "М О",
+      "datetime": 1771709705,
+      "text": "Чёт эта гонка за версиями превратилась в тоже что и в других сферах.  В показуху."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a2",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771709743,
+      "text": "⚠️ Gemini 3.1 Pro: A smarter model for your most complex tasks - \u003ca href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\"\u003ehttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a3",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771709749,
+      "text": "\u003cstrong\u003eGemini 3.1 Pro: Announcing our latest Gemini AI model\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eGemini 3.1 Pro запускается в предварительном режиме с улучшениями на основе отзывов пользователей. В доступе для Pro и Ultra пользователей, новая версия стремится расширить возможности и упростить рабочие процессы.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- Gemini 3.1 Pro запускается в предварительном режиме для оценки обновлений.\u003cbr/\u003e- Улучшения основаны на отзывах пользователей после выпуска 3 Pro в ноябре.\u003cbr/\u003e- Повышены лимиты для пользователей Google AI Pro и Ultra планов.\u003cbr/\u003e- Доступно на NotebookLM исключительно для пользователей Pro и Ultra.\u003cbr/\u003e- Доступ к 3.1 Pro через API для разработчиков и компаний.\u003cbr/\u003e- Поддержка доступна через AI Studio, Antigravity и другие платформы.\u003cbr/\u003e- Ожидаем новые творения и открытия от пользователей с 3.1 Pro."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a4",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tikhdm",
+      "author_name": "Dmitrii",
+      "datetime": 1771710162,
+      "text": "Работает с вимом. А в wezterm просто сплит открывает, там нет оверлеев"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a5",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771710205,
+      "text": "⚠️ Introduce the Vouch/Denouncement Contribution Model by mitchellh · Pull Request #10559 · ghostty-org/ghostty - \u003ca href=\"https://github.com/ghostty-org/ghostty/pull/10559\"\u003ehttps://github.com/ghostty-org/ghostty/pull/10559\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a6",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771710213,
+      "text": "\u003cstrong\u003eIntroduce the Vouch/Denouncement Contribution Model by mitchellh · Pull Request #10559 · ghostty-org/ghostty · GitHub\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eМодель взносов Vouch/Denouncement, предложенная Mitchell Hashimoto, запускает систему, где только утверждённые пользователи могут вносить изменения в проект Ghostty. Эта система предоставляет возможность отстранения недобросовестных участников и основывается на общественном доверии.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Модель Vouch**: Только пользователи с одобрением могут вносить изменения в проект.\u003cbr/\u003e- **Поддержка отказа**: Неподобающим участникам можно сохранять публичный чёрный список.\u003cbr/\u003e- **Утверждение**: Это может быть выполнено поддерживающими пользователями через комментарии.\u003cbr/\u003e- **Тестирование**: Система находится на начальной стадии, требуется дальнейшая доработка.\u003cbr/\u003e- **Проблемы доверия**: В условиях роста AI-инструментов нужен более строгий контроль над взносами.\u003cbr/\u003e- **Гибкость**: Файл VOUCHED прост в использовании и с легкостью адаптируется к другим проектам.\u003cbr/\u003e- **Публичный доступ**: Система разрабатывается с расчетом на возможность использования другими проектами."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a7",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1771710297,
+      "text": "Если модное и молодежное, то Rode NT1, если хочешь более крутое — NT1Gen5B, там USB."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a8",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "grody_off",
+      "author_name": "grody",
+      "datetime": 1771710422,
+      "text": "спасибо, посмотрю"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198a9",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1771710539,
+      "text": "у меня кстати тоже rode, только недорогой xcm50. он правда только от type-c работает, в нем нет xlr разъема"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198aa",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonsedlovskiy",
+      "author_name": "Anton Sedlovskiy",
+      "datetime": 1771710619,
+      "text": "И его потом никуда не воткнешь, если микрофон не поддерживает стандартный микрофонный вход, его мало где можно использовать."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198ab",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1771710689,
+      "text": "все так и есть, это был мой основной консёрн при покупке. но по итогу я понял что не готов обрастать микшером или внешней звуковой картой. поэтому пошел на такой компромисс"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198ac",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonsedlovskiy",
+      "author_name": "Anton Sedlovskiy",
+      "datetime": 1771710827,
+      "text": "Микшер лишнее, а звуковуха маст хэв. Что-то вроде EVO 4 или 8. И не дорого и возможности сильно расширяет. Даже к телефону можно подключить такую и профессионально звук писать."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198ad",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonsedlovskiy",
+      "author_name": "Anton Sedlovskiy",
+      "datetime": 1771710966,
+      "text": "Микрофон с юсб тоже конечно позволяет писать, но область применения сильно ограничена. Тот же подкаст уже два микрофона нужно."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198ae",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771711346,
+      "text": "⚠️ The path to ubiquitous AI | Taalas - \u003ca href=\"https://taalas.com/the-path-to-ubiquitous-ai/\"\u003ehttps://taalas.com/the-path-to-ubiquitous-ai/\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198af",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771711357,
+      "text": "\u003cstrong\u003eThe path to ubiquitous AI | Taalas\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003eTaalas представляет платформу, которая преобразует AI-модели в специализированные аппаратные решения. Это обеспечивает высокую скорость, низкие затраты и эффективное использование мощности. Taalas устраняет высокую латентность и затраты, способствуя внедрению универсального AI.\u003cbr/\u003e\u003cbr/\u003e## Основные моменты\u003cbr/\u003e- **Специализация**: Глубокая специализация больших моделей AI повышает эффективность вычислений, что критично для обработки AI-вычислений.\u003cbr/\u003e  \u003cbr/\u003e- **Объединение памяти и вычислений**: Устранение барьеров между памятью и вычислениями позволяет значительно повысить производительность, упрощая архитектуру.\u003cbr/\u003e\u003cbr/\u003e- **Радикальное упрощение**: Применение простых технологий снижает общие затраты на оборудование, улучшая финансовую доступность.\u003cbr/\u003e\u003cbr/\u003e- **Первый продукт**: Taalas представляет Llama 3.1 8B, обеспечивая скорость 17K токенов/с и пониженную стоимость.\u003cbr/\u003e\u003cbr/\u003e- **Будущие модели**: Ожидается выпуск среднего размерного LLM и передовой LLM, который увеличит плотность и скорость обработки.\u003cbr/\u003e\u003cbr/\u003e- **Участие разработчиков**: Открытая бета-служба позволяет разработчикам экспериментировать с низкой задержкой и низкими затратами.\u003cbr/\u003e\u003cbr/\u003e- **Общая философия**: Taalas нацелен на инновации, пересматривая существующие предположения о том, как строятся и разворачиваются AI-системы."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b0",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "o010g",
+      "author_name": "Helgo Simakov",
+      "datetime": 1771712002,
+      "text": "В телеграмме нет вещания?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b1",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771712063,
+      "text": "⚠️ Темы слушателей 001 - \u003ca href=\"https://radio-t.com/p/2026/02/17/prep-1001/\"\u003ehttps://radio-t.com/p/2026/02/17/prep-1001/\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b2",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771712078,
+      "text": "[1/12] \u003cstrong\u003e+15\u003c/strong\u003e от \u003cstrong\u003eDenis Mishankov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eАнтропик банит владельцев нескольких подписок Max \u003c/em\u003e\u003ca href=\"https://x.com/ctrlaltdwayne/status/2024088357081694577?s=46\"\u003ehttps://x.com/ctrlaltdwayne/status/2024088357...\u003c/a\u003e"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b3",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771712078,
+      "text": "[2/12] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eDmytro Zozulia\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eНе знаю есть ли здесь аудиофилы, но прикольное исследование где аудиофилы не смогли на слух отличить звук пропущенный через медный провод, банан, и ванночку с грязью :)\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator\"\u003ehttps://www.tomshardware.com/speakers/in-a-bl...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eIn a blind test, audiophiles couldn\u0026#39;t tell the difference between audio signals sent through copper wire, a banana, or wet mud — \u0026#39;The mud should sound perfectly awful, but it doesn\u0026#39;t,\u0026#39; notes the experiment creator | Tom\u0026#39;s Hardware\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eВ слепом тесте меломаны не смогли отличить звуковые сигналы, передаваемые через медный провод, банан или влажную грязь. Эксперимент показал, что различия в звуке незаметны для слушателей.\u003cbr/\u003e\u003cbr/\u003e- Меломаны не смогли различить звуковые сигналы от разных источников.\u003cbr/\u003e- Использовались медный провод, банан и влажная грязь.\u003cbr/\u003e- Тестеры услышали четыре варианта звуковых записей.\u003cbr/\u003e- Вероятность случайного угадывания была 6.12%.\u003cbr/\u003e- Всего 13.95% ответов были правильными.\u003cbr/\u003e- Изменения звука от проводов слишком незаметны для обычных слушателей.\u003cbr/\u003e- Эксперимент вдохновлён документальным фильмом о телеграфе."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b4",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771712078,
+      "text": "[3/12] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/rtk-ai/rtk\"\u003ehttps://github.com/rtk-ai/rtk\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eCLI proxy that reduces LLM token consumption by 60-90% on common dev commands.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGitHub - rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003e\u003cbr/\u003eGitHub-репозиторий rtk представляет собой CLI-прокси, который снижает потребление токенов LLM на 60-90% при выполнении распространенных команд разработчиков. Это единственный бинарный файл на Rust без зависимостей.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Высокая производительность**: rtk минимизирует потребление токенов для LLM, оптимизируя вывод команд.\u003cbr/\u003e- **Экономия токенов**: Снижение потребления токенов на 60-90% при обычных операциях.\u003cbr/\u003e- **Простота использования**: Один бинарный файл на Rust без сторонних зависимостей.\u003cbr/\u003e- **Открытый исходный код**: Доступно на GitHub, что позволяет сообществу вносить свой вклад.\u003cbr/\u003e- **Обширные возможности**: Поддерживает различные команды разработчиков, включая фильтрацию и сжатие вывода.\u003cbr/\u003e- **Документация**: Полное руководство по установке и использованию доступно в README.\u003cbr/\u003e- **Альтернативные проекты**: Указываются наименования других проектов с тем же именем, чтобы избежать путаницы."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b5",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771712078,
+      "text": "[4/12] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eDmytro Zozulia\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСоздатель OpenClaw Peter Steinberger присоединился к Open AI\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://steipete.me/posts/2026/openclaw\"\u003ehttps://steipete.me/posts/2026/openclaw\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOpenClaw, OpenAI and the future | Peter Steinberger\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eПитер Штайнбергер присоединился к OpenAI для доступа к новейшим моделям и исследованиям, сохраняя проект OpenClaw открытым и независимым. Он стремится создать удобного агента и изменить мир, а также благодарит сообщество за поддержку.\u003cbr/\u003e\u003cbr/\u003e- Питер присоединяется к OpenAI для работы с агентами.\u003cbr/\u003e- OpenClaw станет независимым фондом с открытым исходным кодом.\u003cbr/\u003e- Штайнбергер хочет создать агента для простого использования.\u003cbr/\u003e- Он ищет безопасные способы развития технологий и их применение.\u003cbr/\u003e- OpenAI поддерживает проект и его амбиции.\u003cbr/\u003e- Сообщество OpenClaw вдохновляет его на новое творчество.\u003cbr/\u003e- Питер хочет изменить мир, а не построить крупную компанию."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b6",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1771712079,
+      "text": "[5/12] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eAlex Antonov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software\"\u003ehttps://www.modular.com/blog/the-claude-c-com...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eКрис Латнер (автор llvm, clang, swift) о AI in Software, на основе анализа компилятора написаного opus 4.6 агентами\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eModular: The Claude C Compiler: What It Reveals About the Future of Software\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eClaude C Compiler (CCC) представляет собой значительный прогресс в разработке компиляторов, демонстрируя достижения ИИ в кодировании, охватывающем не только малые фрагменты, но и сложные системы. Он ставит важные вопросы о будущем программного обеспечения и роли инженеров.\u003cbr/\u003e\u003cbr/\u003e- Компиляторы являются обязательным аспектом образования в информатике и позволяют глубже понять процесс разработки ПО. \u003cbr/\u003e- CLAUDE C Compiler (CCC) показывает, как ИИ способен поддерживать архитектуру в больших системах, а не только работать с отдельными функциями. \u003cbr/\u003e- ИИ облегчает автоматизацию кодирования, что меняет приоритеты на архитектуру, проектирование и инновации в разработке ПО.\u003cbr/\u003e- CCC демонстрирует, как ИИ перерабатывает опыт, полученный от предшествующих систем, обеспечивая быструю реализацию, что поднимает вопросы об авторских правах.\u003cbr/\u003e- Ближайшее будущее включает в себя изменение роли инженеров, которые будут сосредоточены на управлении сложностью и проектировании, а не на рутинном написании кода.\u003cbr/\u003e- Очевидна необходимость адаптации юридических норм к новым технологиям, так как ИИ усложняет жёсткие границы между обучением и копированием.\u003cbr/\u003e- Переход от механического выполнения задач к управлению системами позволит выйти на новый уровень разработки ПО, требуя от инженеров более глубокого понимания структуры и дизайна."
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b7",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "zhk_1n",
+      "author_name": "Evgenii S",
+      "datetime": 1771712187,
+      "text": "Посмотри на sneak motion \u003ca href=\"https://zed.dev/docs/vim#optional-key-bindings\"\u003ehttps://zed.dev/docs/vim#optional-key-bindings\u003c/a\u003e, только подсветку символов они еще не реализовали, тикеты на гитхабе на это открыты"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b8",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1771712452,
+      "text": "а может это был специальный кабель, которому придали форму банана"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198b9",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1771712566,
+      "text": "а где Бобук взял советские картонки для яиц?)"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198ba",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1771712968,
+      "text": "темы не про AI объявить темами DEI"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198bb",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1771712979,
+      "text": "майкрософт?"
+    },
+    {
+      "id": "699a7410d57bdc2e0ae198bc",
+      "issue": 1001,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1771713106,
+      "text": "ну кабанчик довольно культовая книга"
+    }
+  ]
+}

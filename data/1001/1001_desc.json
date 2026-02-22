@@ -1,0 +1,72 @@
+{
+  "issue": 1001,
+  "date": "2026-02-21",
+  "audio": "https://cdn.radio-t.com/rt_podcast1001.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1001.jpg",
+  "start_time": 1771704961,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "MongoDB Go Driver v2: миграция, которая не должна была быть такой болезненной",
+      "links": [
+        "https://p.umputun.com/2026/02/21/mongodb-go-driver-v2/"
+      ],
+      "time": "00:02:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Sam Altman купил себе Peter Steinberger",
+      "links": [
+        "https://x.com/sama/status/2023150230905159801"
+      ],
+      "time": "00:50:38"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Sonnet 4.6",
+      "links": [
+        "https://www.anthropic.com/news/claude-sonnet-4-6"
+      ],
+      "time": "01:07:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Gemini 3.1 Pro",
+      "links": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
+      ],
+      "time": "01:19:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как нам сортировать контрибьютеров",
+      "links": [
+        "https://github.com/ghostty-org/ghostty/pull/10559"
+      ],
+      "time": "01:27:24"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Taalas - очень быстро, но пока очень глупо",
+      "links": [
+        "https://taalas.com/the-path-to-ubiquitous-ai/"
+      ],
+      "time": "01:46:25"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/02/17/prep-1001/"
+      ],
+      "time": "01:58:22"
+    }
+  ],
+  "tags": null
+}
