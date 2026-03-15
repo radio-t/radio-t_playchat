@@ -1,0 +1,971 @@
+{
+  "chat": [
+    {
+      "id": "69b6bc9289beb44eddf0a68c",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772913837,
+      "text": "голоса.."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a68d",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "the_very_same_alex",
+      "author_name": "Alex",
+      "datetime": 1772913840,
+      "text": "голоса пошли"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a68e",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vitkarpov",
+      "author_name": "Viktor Karpov",
+      "datetime": 1772913859,
+      "text": "на заре"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a68f",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772913882,
+      "text": "слышно двоих"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a690",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772913921,
+      "text": "в среднем голубцы)"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a691",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Artur_Packhmutov",
+      "author_name": "Артур Пахмутов",
+      "datetime": 1772914094,
+      "text": "3000 там было"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a692",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Artur_Packhmutov",
+      "author_name": "Артур Пахмутов",
+      "datetime": 1772914109,
+      "text": "В intel 4040"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a693",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772914114,
+      "text": "так что, маринка на подходе?"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a694",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772914147,
+      "text": "или можно уже начинать?"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a695",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1772914168,
+      "text": "сегодня разве не гиковский выпуск?"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a696",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772914189,
+      "text": "он самый"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a697",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772914650,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a698",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MercurieVV",
+      "author_name": "Victor Kalinin",
+      "datetime": 1772914733,
+      "text": "Плохая примета - не поздравлять"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a699",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772914756,
+      "text": "дискриминация"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a69a",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1772914877,
+      "text": "Mother\u0026#39;s Day in UK"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a69b",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1772914982,
+      "text": "Мы поздравляем, вроде бы 8 марта это международный праздник"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a69c",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MercurieVV",
+      "author_name": "Victor Kalinin",
+      "datetime": 1772915024,
+      "text": "Поздравлять человека с тем, что он обладает вагиной... так себе"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a69d",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1772915082,
+      "text": "так ейр и про 14 дюймов это одно и то же железо, просто про с вентилятором"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a69e",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1772915096,
+      "text": "Ksenia надо было брать ейр"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a69f",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1772915290,
+      "text": "надо брать MacBook Neo"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a0",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1772915403,
+      "text": "сижу на m1 max, и переходить буду разве что, когда редизайн сделают, ну там олед экран или ещё что"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a1",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1772915406,
+      "text": "сейчас Ксюша сподвигнет Умпутуну обновится на М5 🙂"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a2",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1772915407,
+      "text": "я с м1 на м4 перешел"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a3",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1772915433,
+      "text": "так зачем мощща, скоро чатгпт 8 будет слбтрать приложения в облаке и выкладывать на попробовать сразу в аппстор"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a4",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "arthurnarthurn",
+      "author_name": "arthur n",
+      "datetime": 1772915488,
+      "text": "+\u003cbr/\u003e\u003cbr/\u003eсижу на м1 про с 32 гб, жду олед"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a5",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1772915520,
+      "text": "60"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a6",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772915531,
+      "text": "если работать с лаптопа - брать надо про. экран там нормальный. а на эйр - старый"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a7",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772915568,
+      "text": "если работать с внешним монитором - эйр норм. если время от времени его юзать."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a8",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1772915625,
+      "text": "богатая компания видимо"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6a9",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1772915636,
+      "text": "что нет вообще пулинга устройств"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6aa",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MercurieVV",
+      "author_name": "Victor Kalinin",
+      "datetime": 1772915841,
+      "text": "Ну да. Убыток. Ты сравни с месячной зарплатой разраба"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ab",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772916131,
+      "text": "или сотрудники не часто увольняются. это кстати хорошая примета сотрудничать ли с этой компанией или нет"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ac",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772916145,
+      "text": "а вот это неважно если компания на бирже."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ad",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1772916199,
+      "text": "google бухучет, пожалуйста. Там очень просто, арифметика, гуманитарий может попробовать понять"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ae",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "denysshnurenko",
+      "author_name": "🌻 DENYS SHNURENKO",
+      "datetime": 1772916247,
+      "text": "Мне одному хочется громче спикеров на фоне музыки?"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6af",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dtanatme",
+      "author_name": "Dmytro",
+      "datetime": 1772916373,
+      "text": "очень не комфортно - очень громко"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b0",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Artur_Packhmutov",
+      "author_name": "Артур Пахмутов",
+      "datetime": 1772916435,
+      "text": "Сейчас нормально"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b1",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "denysshnurenko",
+      "author_name": "🌻 DENYS SHNURENKO",
+      "datetime": 1772916449,
+      "text": "о, да, щас клас прям"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b2",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1772917274,
+      "text": "Лучше чем Deepseek - Minimax 2.5"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b3",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1772917598,
+      "text": "забавно, что ещё ни одной темы не было выбрано 🙂"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b4",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772917643,
+      "text": "ну 1000 выпусков прошло. тяжело же"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b5",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1772917757,
+      "image_url": "https://chat.radio-t.com/logs/1003/AgACAgEAAx0CUPxcWQABCoJOaayT_UW8ijiFbv_Nx2entJikmi0AAsULaxs3jmhFI9ICu5lux2QBAAMCAAN5AAM6BA",
+      "image_width": 1280,
+      "image_height": 834,
+      "text": ""
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b6",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918289,
+      "text": "⚠️ Apple introduces the new MacBook Air with M5 - \u003ca href=\"https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/\"\u003ehttps://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b7",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918294,
+      "text": "\u003cstrong\u003eApple introduces the new MacBook Air with M5 - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eApple представила новый MacBook Air с процессором M5 и операционной системой macOS Tahoe, предлагающим невероятные функции и приложения, улучшая опыт пользователей.\u003cbr/\u003e\u003cbr/\u003e- Новый MacBook Air оснащен мощным процессором M5 и macOS Tahoe.\u003cbr/\u003e- Включает встроенные приложения: Safari, Photos, Messages и FaceTime.\u003cbr/\u003e- Персонализация с помощью Liquid Glass: настраиваемые цвета для папок и иконок.\u003cbr/\u003e- Поддержка Live Translation в сообщениях для общения на разных языках.\u003cbr/\u003e- Функции непрерывности, включая Phone app для переадресации звонков.\u003cbr/\u003e- Устойчивость: 55% переработанного материала, включая 100% переработанный алюминий.\u003cbr/\u003e- Энергоэффективность и легкость в ремонте, упаковка из 100% переработанного волокна."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b8",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772918391,
+      "text": "я тут задумался свой эйр на м1 на чтото на м5 махнуть и вопрос. есть ли смысл эйр брать или про? мне он чисто для  поездок и все такое. плюс иногда какой нить сс погонять"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6b9",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772918405,
+      "text": "32"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ba",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772918436,
+      "text": "ну просто вот м5 и м5 в чем профит от про?"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6bb",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918558,
+      "text": "⚠️ Apple introduces MacBook Pro with all-new M5 Pro and M5 Max - \u003ca href=\"https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/\"\u003ehttps://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6bc",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918565,
+      "text": "\u003cstrong\u003eApple introduces MacBook Pro with all-new M5 Pro and M5 Max - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003e\u003cbr/\u003eApple представила новый MacBook Pro с процессорами M5 Pro и M5 Max, дополненный операционной системой macOS Tahoe, что улучшает производительность и защиту конфиденциальности, а также предлагает новые возможности для разработчиков и экологичные решения.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- Новый MacBook Pro оснащён процессорами M5 Pro и M5 Max, улучшая рабочие характеристики.\u003cbr/\u003e- macOS Tahoe включает обновлённый Spotlight для поиска приложений и файлов.\u003cbr/\u003e- Apple Intelligence теперь обеспечивает большую защиту конфиденциальности пользователей при использовании.\u003cbr/\u003e- Интеграция живого перевода в Messages, FaceTime и Phone позволяет общаться на разных языках.\u003cbr/\u003e- MacBook Pro произведен с учётом экологии, используя 45% переработанного материала.\u003cbr/\u003e- Устройство предлагает новые функции, такие как вызовы на телефоне и управление из Control Center.\u003cbr/\u003e- Безопасная упаковка на 100% из переработанных материалов, что упрощает утилизацию."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6bd",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772918663,
+      "text": "буратинки"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6be",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772918786,
+      "text": "ну вот диск это такое себе для макбука."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6bf",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918799,
+      "text": "⚠️ MacBook Neo - \u003ca href=\"https://www.apple.com/macbook-neo/\"\u003ehttps://www.apple.com/macbook-neo/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c0",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918799,
+      "text": "⚠️ MacBook Neo - \u003ca href=\"https://www.apple.com/macbook-neo/\"\u003ehttps://www.apple.com/macbook-neo/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c1",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918803,
+      "text": "\u003cstrong\u003eMacBook Neo - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eMacBook Neo от Apple позволяет быстро настраивать устройство с помощью вашего iPhone и инструментов миграции, предлагая легкое переключение с ПК и доступ к поддержке.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- Быстрая настройка MacBook Neo с помощью iPhone и iCloud.\u003cbr/\u003e- Используйте Setup Assistant для импорта файлов и приложений.\u003cbr/\u003e- Обычное переключение с ПК делает Migration Assistant.\u003cbr/\u003e- Обширная поддержкаApple через чат, телефон или в магазине.\u003cbr/\u003e- Простое и удобное взаимодействие с системой.\u003cbr/\u003e- Синхронизация всех необходимых данных без труда.\u003cbr/\u003e- Подходит для пользователей всех уровней."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c2",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772918803,
+      "text": "\u003cstrong\u003eMacBook Neo - Apple\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eMacBook Neo предлагает простую настройку с помощью помощника по настройке, позволяя быстро импортировать данные с iPhone или ПК. Дополнительная поддержка доступна через чат, телефон или в магазинах.\u003cbr/\u003e\u003cbr/\u003e- Используйте помощника по настройке для импорта данных с iPhone.\u003cbr/\u003e- Импортируйте файлы и приложения из iCloud с легкостью.\u003cbr/\u003e- Помощник по миграции упрощает переключение с ПК.\u003cbr/\u003e- Процесс настройки быстрый и понятный.\u003cbr/\u003e- Apple Support доступен онлайн и по телефону.\u003cbr/\u003e- Есть возможность записаться на встречу в магазине.\u003cbr/\u003e- Полная поддержка от Apple всегда под рукой."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c3",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772918989,
+      "text": "нетбуки на атоме 🙂"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c4",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1772919043,
+      "text": "ну сейчас то любой айфон по мощности будет не хуже хромбука, так что макбук нео будет вполне себе хорошим устройством"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c5",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772919066,
+      "text": "нео имхо мертворожденная модель. это как бмв х1"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c6",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1772919083,
+      "text": "гомеопатический цвет"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c7",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "grayodesa",
+      "author_name": "Sergiy Petrenko",
+      "datetime": 1772919085,
+      "text": "у меня для тебя неожиданные новости 😊"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c8",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772919116,
+      "text": "я знаю. но это же не бмв 🙂"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6c9",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1772919199,
+      "text": "потому что в А19 Pro один usb контроллер"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ca",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772919229,
+      "text": "что интересно Ipad теперь на Мх процах. а ноут на Ax 🙂"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6cb",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772919308,
+      "text": "маркус душка. один из самых приятных чуваков в youtube"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6cc",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1772919391,
+      "text": "тача нет? тогда еще меньше аудитория будет"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6cd",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1772919392,
+      "text": "все кому ничего кодить не надо будут этим компьютером довольны"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ce",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772919417,
+      "text": "\u003ca href=\"https://www.youtube.com/watch?v=9gk_rl3y_SU\"\u003ehttps://www.youtube.com/watch?v=9gk_rl3y_SU\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6cf",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772919442,
+      "text": "\u003ca href=\"https://www.youtube.com/watch?v=RTxrS1lLwjY\"\u003ehttps://www.youtube.com/watch?v=RTxrS1lLwjY\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d0",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sergeibershadsky",
+      "author_name": "Sergey B",
+      "datetime": 1772919455,
+      "text": "заплакал когда увидел что больше 8Гб нельзя выбрать на Neo"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d1",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772919474,
+      "text": "для браузера рецепты посмотреть и youtube - хватит"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d2",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772919625,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e XDR нужен. чтобы матчится с макбуками прошками. тут как раз разделение - кто покупает air покупает \u0026#34;обычный\u0026#34;, кто покупает pro - покупает XDR. очень логично"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d3",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772919646,
+      "text": "и самое главное - НАКОНЕЦ ТО! nano-textured glass для большого дисплея apple"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d4",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772919661,
+      "text": "⚠️ Glaze by Raycast. Desktop apps, reimagined by you. - \u003ca href=\"https://www.glazeapp.com/\"\u003ehttps://www.glazeapp.com/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d5",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772919665,
+      "text": "\u003cstrong\u003eGlaze by Raycast. Desktop apps, reimagined by you.\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Сводка:**  \u003cbr/\u003eGlaze от Raycast — это приложение для настольных ПК, которое предлагает прямой доступ к файловой системе и интеграцию с ОС, в отличие от браузерных инструментов, сохраняя ваши данные в безопасности на вашем устройстве.\u003cbr/\u003e\u003cbr/\u003e- Glaze разрабатывает приложения для настольных ПК, а не для браузеров.\u003cbr/\u003e- Доступ к файловой системе, интеграции с клавиатурными сокращениями и меню.\u003cbr/\u003e- Поддержка фоновых процессов для улучшенной производительности.\u003cbr/\u003e- Более глубокая интеграция с вашей операционной системой.\u003cbr/\u003e- Ваши данные остаются на вашем компьютере, не на серверах третьих лиц.\u003cbr/\u003e- Открывает новые возможности для разработчиков настольных приложений.\u003cbr/\u003e- Совершенно новая категория приложений для пользователей."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d6",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1772919684,
+      "text": "мне еще понравилось, что теперь их можно между собой кабелем соединять"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d7",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772919704,
+      "text": "а раньше тоже chaining был. ещё когда-то на DP был chaining"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d8",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772920116,
+      "text": "⚠️ Introducing GPT-5.4 - \u003ca href=\"https://openai.com/index/introducing-gpt-5-4/\"\u003ehttps://openai.com/index/introducing-gpt-5-4/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6d9",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772920117,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eПожалуйста, дайте знать, что именно вы хотите обобщить, и я с радостью помогу!"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6da",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1772920180,
+      "text": "он жрёт больше лимитов"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6db",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772920699,
+      "text": "⚠️ The Window Chrome of Our Discontent – Pixel Envy - \u003ca href=\"https://pxlnv.com/blog/window-chrome-of-our-discontent/\"\u003ehttps://pxlnv.com/blog/window-chrome-of-our-discontent/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6dc",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772920707,
+      "text": "\u003cstrong\u003eThe Window Chrome of Our Discontent – Pixel Envy\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eОбсуждается эволюция интерфейса Mac OS от Apple с акцентом на минимизацию визуальных элементов и выделение содержимого. Хотя цель очевидна, автор находит, что современные интерфейсы иногда отвлекают пользователей из-за недостаточной четкости различий между элементами управления и документом.\u003cbr/\u003e\u003cbr/\u003e- Дизайн Aqua в Mac OS X Lion акцентирует внимание на содержимом окна.\u003cbr/\u003e- Apple и Microsoft стремятся минимизировать визуальный беспорядок, выделяя важность контента.\u003cbr/\u003e- Начиная с Yosemite, интерфейс был пересмотрен для упрощения и повышения понятности.\u003cbr/\u003e- Liquid Glass в MacOS Tahoe должен радовать пользователя, но может создавать путаницу из-за похожести элементов.\u003cbr/\u003e- В новых версиях Pages наблюдается уменьшение четкости между панели инструментов и документами.\u003cbr/\u003e- Цвета и контраст в современных интерфейсах зачастую ухудшают восприятие и могут перегружать.\u003cbr/\u003e- Рассматривается творческое использование цветов и форм для помощи пользователям в навигации по программам."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6dd",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1772921015,
+      "text": "Lion первая ось которая уже не выпускалась на CD"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6de",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1772921020,
+      "text": "что-нибудь"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6df",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "denysshnurenko",
+      "author_name": "🌻 DENYS SHNURENKO",
+      "datetime": 1772921051,
+      "text": "я с прозрачным живу"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e0",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "denysshnurenko",
+      "author_name": "🌻 DENYS SHNURENKO",
+      "datetime": 1772921062,
+      "text": "мне нрав"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e1",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1772921102,
+      "text": "а я так не переехал на Тахо из-за прозрачности"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e2",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772921202,
+      "text": "⚠️ Темы слушателей 003 - \u003ca href=\"https://radio-t.com/p/2026/03/03/prep-1003/\"\u003ehttps://radio-t.com/p/2026/03/03/prep-1003/\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e3",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772921224,
+      "text": "[1/19] \u003cstrong\u003e+11\u003c/strong\u003e от \u003cstrong\u003eSasha\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eШведские журналисты выяснили, что видео с умных очков Meta Ray-Ban — включая интимные моменты пользователей (обнажёнка, туалет, данные банковских карт) — просматривают наёмные работники в Кении\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://mashable.com/article/meta-ai-ray-ban-glasses-intimate-videos-workers\"\u003ehttps://mashable.com/article/meta-ai-ray-ban-...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMeta workers forced to review intimate videos taken by Ray-Ban smart glasses | Mashable\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eСотрудники Meta в Кении были вынуждены просматривать личные видео, записанные пользователями смарт-очков Ray-Ban, включая интимные моменты, что вызвало серьезные опасения по поводу конфиденциальности и эксплуатации контент-модераторов.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Работники Meta анализируют видео, сделанные смарт-очками Ray-Ban, без согласия пользователей.\u003cbr/\u003e- Видеоматериалы часто сняты в личных ситуациях, включая ванных комнатах и с интимным содержанием.\u003cbr/\u003e- Работникам компании стоило выполнять задачи, не задавая вопросов о том, что они видят.\u003cbr/\u003e- Meta подверглась критике за права работников, которые могут быть принуждены к просмотру травмирующего контента.\u003cbr/\u003e- Популярность смарт-очков выросла, но также возросло беспокойство по поводу конфиденциальности.\u003cbr/\u003e- Технология может подвергнуть риску личные данные при использовании в сторонних целях.\u003cbr/\u003e- Проблемы с согласованием использования записей требуют жесткого контроля и регуляции."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e4",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772921224,
+      "text": "[2/19] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eVlad Gavrilov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eDonald Knuth (создатель TeX и автор The Art of Computer Programming) делится позитивным опытом использования модели Claude Opus 4.6 для решения задач комбинаторики.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf\"\u003ehttps://www-cs-faculty.stanford.edu/~knuth/pa...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eError: \u003cpre\u003efailed to get summary from cache: can\u0026#39;t get content for https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf: bad content type https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf: application/pdf\u003c/pre\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e5",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772921224,
+      "text": "[3/19] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html\"\u003ehttps://ejholmes.github.io/2026/02/28/mcp-is-...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eMCP is dead. Long live the CLI\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMCP is dead. Long live the CLI\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eСогласно мнению автора, Протокол контекста модели (MCP) умирает. Он утверждает, что командные интерфейсы (CLI) более эффективны для взаимодействия с LLM, так как они проще, надежнее и менее подвержены сбоям. \u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Отсутствие реальной пользы MCP**: LLM уже отлично работают с CLI и не нуждаются в новом протоколе для взаимодействия с инструментами. \u003cbr/\u003e- **Легкость отладки**: CLI позволяют быстро проверять команды, тогда как MCP скрывает детали, что усложняет поиск ошибок.\u003cbr/\u003e- **Композиционность**: CLI удобно комбинировать и перерабатывать, в отличие от ограниченных возможностей MCP.\u003cbr/\u003e- **Проверка подлинности**: CLI не требуют сложных схем аутентификации, что упрощает работу и уменьшает вероятность ошибок.\u003cbr/\u003e- **Локальное управление**: CLI не требуют постоянной работы фоновый серверов, что снижает риск возникновения ошибок.\u003cbr/\u003e- **Практические неудобства**: MCP часто сбоит, требует многократного входа в систему и не предлагает гибкости разрешений на операции.\u003cbr/\u003e- **Лучшие инструменты**: Выбор команды интерфейса (CLI) более адаптивен, прост в отладке и надежен по сравнению с MCP; стоит инвестировать в создание качественного интерфейса CLI."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e6",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772921224,
+      "text": "[4/19] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eSergey Pugachev\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eЯ выпустил SideSeat – инструмент для локального observability AI-агентов. В подкасте обсуждали Amazon, Bedrock Converse API, Agent Core и в целом разработку агентов на платформе Amazon. Я как раз представил open source инструмент для визуализации и отладки агентов, который работает полностью локально с нативной поддержкой стека Amazon. Он написан на Rust (кто бы мог подумать!?), работает с OpenTelemetrу, а все трейсы сохраняются в DuckDB. Грей упомянул, что использовал Langfuse, и по сути моё решение, это локальный аналог.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://sideseat.ai/\"\u003ehttps://sideseat.ai/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/sideseat/sideseat\"\u003ehttps://github.com/sideseat/sideseat\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://builder.aws.com/content/3ARFmJ7lwpDWFvvg8RDSITGau7Y/local-observability-for-amazon-bedrock-and-strands-agents-with-sideseat\"\u003ehttps://builder.aws.com/content/3ARFmJ7lwpDWF...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eSideSeat - Local AI Development Workbench\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**\u003cbr/\u003eSideSeat - это локальный инструмент для разработки ИИ, который восстанавливает полные запуски агентов из фрагментов логов, позволяя быстро выявлять ошибки.\u003cbr/\u003e\u003cbr/\u003e- SideSeat объединяет фрагменты запусков агентов для полного анализа.\u003cbr/\u003e- Логи представляют собой фрагменты, которые необходимо сшивать.\u003cbr/\u003e- Инструмент включает в себя подсказки, вызовы инструментов и модели.\u003cbr/\u003e- Служит для быстрой диагностики ошибок в запусках.\u003cbr/\u003e- Облегчает процесс разработки ИИ в локальных условиях.\u003cbr/\u003e- Повышает эффективность работы с журналами и данными.\u003cbr/\u003e- Помогает понять затраты на выполнение каждой задачи."
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e7",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1772921225,
+      "text": "[5/19] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eAlice Wang\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMitchell Hashimoto хвалит Codex 5.3, который пофиксил баг, который он, другие контрибьюторы и другие модели не могли пофиксить более полугода.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://x.com/mitchellh/status/2029348087538565612\"\u003ehttps://x.com/mitchellh/status/2029348087538565612\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e8",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1772921649,
+      "text": "ForgeJo"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6e9",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Walstper",
+      "author_name": "Roman",
+      "datetime": 1772921694,
+      "text": "Реально гитея только перелицованная, там внутри много где упоминается gitea"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ea",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "denzalman",
+      "author_name": "Den Zalman",
+      "datetime": 1772921763,
+      "text": "Пробовал на днях. Воркеры и сам бекенд за 2 дня валят хоумлаб на кубере от бездействия. Где-то там есть лик по ЦПу. Не стал разбираться - снес нах"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6eb",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1772922084,
+      "text": "\u003ca href=\"https://friends.radio-t.com\"\u003ehttps://friends.radio-t.com\u003c/a\u003e"
+    },
+    {
+      "id": "69b6bc9289beb44eddf0a6ec",
+      "issue": 1003,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nlevitski",
+      "author_name": "Nikita",
+      "datetime": 1772922242,
+      "text": "может это слезы? =)"
+    }
+  ]
+}
