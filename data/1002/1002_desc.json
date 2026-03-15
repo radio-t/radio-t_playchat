@@ -1,0 +1,96 @@
+{
+  "issue": 1002,
+  "date": "2026-02-28",
+  "audio": "https://cdn.radio-t.com/rt_podcast1002.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1002.jpg",
+  "start_time": 1772309544,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "На этот раз это другое",
+      "links": [
+        "https://shkspr.mobi/blog/2026/02/this-time-is-different/"
+      ],
+      "time": "00:22:57"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Block уволил половину бездельников из за AI",
+      "links": [
+        "https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247"
+      ],
+      "time": "00:35:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude для Open Source",
+      "links": [
+        "https://claude.com/contact-sales/claude-for-oss"
+      ],
+      "time": "00:58:41"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Coveralls тихо лег",
+      "links": [
+        "https://status.coveralls.io"
+      ],
+      "time": "01:11:50"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Code Remote Control",
+      "links": [
+        "https://x.com/claudeai/status/2026418433911603668"
+      ],
+      "time": "01:21:06"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Уптавлене памяьтю для Claude Code",
+      "links": [
+        "https://code.claude.com/docs/en/memory"
+      ],
+      "time": "01:23:38"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Калифорния будет проверять возраст пользователей холодильников",
+      "links": [
+        "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/"
+      ],
+      "time": "01:30:19"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "1Password заметно подорожал",
+      "links": [
+        "https://www.macrumors.com/2026/02/24/1password-march-price-increase/"
+      ],
+      "time": "01:43:27"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Next.js переписали с AI за неделю",
+      "links": [
+        "https://blog.cloudflare.com/vinext/"
+      ],
+      "time": "01:48:24"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/02/24/prep-1002/"
+      ],
+      "time": "02:15:48"
+    }
+  ],
+  "tags": null
+}
