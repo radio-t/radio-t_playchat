@@ -1,0 +1,64 @@
+{
+  "issue": 1016,
+  "date": "2026-06-06",
+  "audio": "https://cdn.radio-t.com/rt_podcast1016.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1016.jpg",
+  "start_time": 1780776452,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как не надо называть комиты",
+      "links": [
+        "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
+      ],
+      "time": "00:37:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "rsync отдался вибрационному программированию",
+      "links": [
+        "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0"
+      ],
+      "time": "00:54:21"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Не надо обновлять зависимости",
+      "links": [
+        "https://www.mendral.com/blog/you-should-not-update"
+      ],
+      "time": "01:02:52"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Программисты готовы документировать для агентов, но не для людей",
+      "links": [
+        "https://blog.plover.com/meta/about-me.html"
+      ],
+      "time": "01:18:52"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Uber начал подрезать токены",
+      "links": [
+        "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
+      ],
+      "time": "01:34:15"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/06/02/prep-1016/"
+      ],
+      "time": "01:47:51"
+    }
+  ],
+  "tags": null
+}

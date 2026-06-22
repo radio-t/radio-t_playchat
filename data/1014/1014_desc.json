@@ -1,0 +1,56 @@
+{
+  "issue": 1014,
+  "date": "2026-05-23",
+  "audio": "https://cdn.radio-t.com/rt_podcast1014.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1014.jpg",
+  "start_time": 1779567228,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Google I/O 2026: еще больше AI везде",
+      "links": [
+        "https://blog.google/products-and-platforms/products/search/search-io-2026/?utm_source=chatgpt.com"
+      ],
+      "time": "00:30:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Zed выкрутился, на время",
+      "links": [
+        "https://zed.dev/blog/terminal-threads"
+      ],
+      "time": "00:56:02"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "HTML это новый маркдаун",
+      "links": [
+        "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html"
+      ],
+      "time": "01:04:01"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Весь набор AI инструментов сливается в синтезе",
+      "links": [
+        "https://thenewstack.io/ai-coding-tool-stack/?utm_source=chatgpt.com"
+      ],
+      "time": "01:12:48"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/05/20/prep-1014/"
+      ],
+      "time": "01:35:32"
+    }
+  ],
+  "tags": null
+}

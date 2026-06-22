@@ -1,0 +1,48 @@
+{
+  "issue": 1017,
+  "date": "2026-06-13",
+  "audio": "https://cdn.radio-t.com/rt_podcast1017.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1017.jpg",
+  "start_time": 0,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Claude Fable 5",
+      "links": [
+        "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      ],
+      "time": "00:26:14"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Запрет Fable 5",
+      "links": [
+        "https://www.anthropic.com/news/fable-mythos-access"
+      ],
+      "time": "00:51:53"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "WWDC 2026 - скучно и предсказуемо",
+      "links": [
+        "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
+      ],
+      "time": "01:13:18"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 1017",
+      "links": [
+        "https://radio-t.com/p/2026/06/09/prep-1017/"
+      ],
+      "time": "01:52:52"
+    }
+  ],
+  "tags": null
+}

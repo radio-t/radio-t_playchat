@@ -1,0 +1,72 @@
+{
+  "issue": 1008,
+  "date": "2026-04-11",
+  "audio": "https://cdn.radio-t.com/rt_podcast1008.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1008.jpg",
+  "start_time": 1775938396,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Безумный культ вибрационного программирования",
+      "links": [
+        "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane"
+      ],
+      "time": "00:27:21"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Bank of England подливает масла в огонь страхов",
+      "links": [
+        "https://www.telegraph.co.uk/business/2026/04/10/bank-of-england-raises-alarm-over-threat-from-ai-too-danger/"
+      ],
+      "time": "00:45:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Gemma 4",
+      "links": [
+        "https://deepmind.google/models/gemma/gemma-4/"
+      ],
+      "time": "00:55:32"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "caveman решает проблему токенов",
+      "links": [
+        "https://github.com/JuliusBrussee/caveman/blob/main/README.md"
+      ],
+      "time": "01:02:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новый, лучший гит уже на подходе",
+      "links": [
+        "https://blog.gitbutler.com/series-a"
+      ],
+      "time": "01:13:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Anthropic подтвердил проблему перерасхода лимитов в Claude Code",
+      "links": [
+        "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/"
+      ],
+      "time": "01:24:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/04/07/prep-1008/"
+      ],
+      "time": "01:47:53"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,710 @@
+{
+  "chat": [
+    {
+      "id": "6a395bc20ee0df4f1f9e868f",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1779566515,
+      "text": "уж полночь близится, а Бобука всё нет"
+    },
+    {
+      "id": "6a395bc20ee0df4f1f9e8690",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1779566580,
+      "text": "он появляется только под покровом ночи"
+    },
+    {
+      "id": "6a395bc20ee0df4f1f9e8691",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1779566693,
+      "text": "пошла тёплнькая"
+    },
+    {
+      "id": "6a395bc20ee0df4f1f9e8692",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex_RybinVL",
+      "author_name": "Александр Рыбин",
+      "datetime": 1779567142,
+      "text": "По-моему унца громковата."
+    },
+    {
+      "id": "6a395bc20ee0df4f1f9e8693",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1779567223,
+      "text": "совсем тихо стало. но ок"
+    },
+    {
+      "id": "6a395bc20ee0df4f1f9e8694",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779567228,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e8695",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1779568551,
+      "text": "Интересно, учитывает ли он кэш при расчёте цены"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e8696",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1779568875,
+      "text": "У них серия конференций в разных странах.  Code with Claude"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e8697",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1779568928,
+      "text": "\u003ca href=\"https://claude.com/code-with-claude\"\u003ehttps://claude.com/code-with-claude\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e8698",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779569033,
+      "text": "⚠️ Google Search’s I/O 2026 updates: AI agents and more - \u003ca href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/?utm_source=chatgpt.com\"\u003ehttps://blog.google/products-and-platforms/products/search/search-io-2026/?utm_source=chatgpt.com\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e8699",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779569038,
+      "text": "\u003cstrong\u003eGoogle Search’s I/O 2026 updates: AI agents and more\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eGoogle Search обновлений I/O 2026 вводит ИИ-агентов для интеллектуального поиска информации. Эти агенты работают круглосуточно, отслеживают изменения по вашим запросам и предоставляют актуальные обновления, позволяя эффективнее управлять задачами.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- Введение ИИ-агентов для управления задачами прямо в поиске.\u003cbr/\u003e- Агенты работают 24/7 и анализируют информацию для точного поиска.\u003cbr/\u003e- Обновления будут синтезированными, с возможностью выполнения действий.\u003cbr/\u003e- Идеально для поиска квартир или спортивных новинок.\u003cbr/\u003e- Первые запуски для подписчиков Google AI Pro \u0026amp; Ultra этим летом.\u003cbr/\u003e- Агенты могут мониторить блоги, новости и социальные сети.\u003cbr/\u003e- Возможность настраивать агента под ваши конкретные нужды."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e869a",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1779569382,
+      "text": "Все так, в Каги вот ищет да"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e869b",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1779569399,
+      "text": "согласен: плохо ищет"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e869c",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "feelblank",
+      "author_name": "Orain",
+      "datetime": 1779569455,
+      "text": "стало сложнее запрос составить, чтобы нужное найти"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e869d",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1779569586,
+      "text": "я недавно в инкогнито хотел найти сайт реакта и их офф сайт был только на 4 месте в гугле. А в каги с этим все норм"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e869e",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1779569599,
+      "text": "это явно не баг, а оптимизация"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e869f",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1779569873,
+      "text": "Есть такое)"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a0",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1779570154,
+      "text": "скорее всего, как обычно в корпорациях, разные команды борятся за kpi и повышения, и им полностью плевать, будет ли этим кто-то пользоваться"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a1",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1779570202,
+      "text": "какая-нибудь параллельная команда убедила боссов, что gemini cli типа плох, а вот наше решение - antigravity cli - ого-го!"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a2",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1779570341,
+      "text": "они там еще spark (openСlaw like) анонсировали"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a3",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "more_then_proud",
+      "author_name": "✙ Кряк Лапчатый ✙",
+      "datetime": 1779570350,
+      "text": "там, вроде, лимиты у gemini-cli и antigravity раздельные были\u003cbr/\u003eа сейчас, если не путаю, теперь общие лимиты"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a4",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1779570480,
+      "text": "Ну субъективно gemini cli лучше в gcp ориентируется , но может мне кажется"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a5",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1779570486,
+      "text": "я жду от гугла десктопную приложуху, чтобы простые менеджеры могли работать со своими текстовыми проектами, типа Claude Cowork"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a6",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1779570548,
+      "text": "Они его ещё не выпустили. только рассказывали."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a7",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1779570560,
+      "text": "У was интерфейс после gcp кажется понятным"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a8",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "more_then_proud",
+      "author_name": "✙ Кряк Лапчатый ✙",
+      "datetime": 1779570589,
+      "text": "у гугла gcp сам по себе такой что чёрт ногу сломит"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86a9",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779570590,
+      "text": "⚠️ Terminal Threads Are Live in Zed — Zed\u0026#39;s Blog - \u003ca href=\"https://zed.dev/blog/terminal-threads\"\u003ehttps://zed.dev/blog/terminal-threads\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86aa",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1779570595,
+      "text": "Кстати они же на Го переписали/написали антигравити сли"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86ab",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779570597,
+      "text": "\u003cstrong\u003eTerminal Threads Are Live in Zed — Zed\u0026#39;s Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**\u003cbr/\u003eТеперь в Zed доступны терминальные потоки, позволяющие пользователям управлять терминалами как отдельными потоками в боковой панели. Это обеспечит улучшенную интеграцию работы с различными агентами и простоту в управлении параллельными сессиями.\u003cbr/\u003e\u003cbr/\u003e- Терминальные потоки — это новая функция в Zed, позволяющая запускать терминалы как потоки.\u003cbr/\u003e- Пользователи могут открывать процессы, такие как claude или amp, и отслеживать их в боковой панели.\u003cbr/\u003e- Каждый терминал связан с вашим проектом и рабочим деревом, автоматически обновляя название в боковой панели.\u003cbr/\u003e- Возможность открывать неограниченное количество терминальных потоков и комбинировать их с потоками Zed Agent и ACP.\u003cbr/\u003e- Терминальные потоки полезны не только для агентов, но и для отображения длительных компиляций и оценочных запусков.\u003cbr/\u003e- Эта функция позволяет пользователям интегрировать свои инструменты без привязки к ACP.\u003cbr/\u003e- Обновите Zed до последней версии, чтобы попробовать новые терминальные потоки и дать отзыв через GitHub."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86ac",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779571070,
+      "text": "⚠️ Using Claude Code: The unreasonable effectiveness of HTML | Claude - \u003ca href=\"https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html\"\u003ehttps://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86ad",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779571073,
+      "text": "\u003cstrong\u003eUsing Claude Code: The unreasonable effectiveness of HTML | Claude\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eHTML эффективен для работы с Claude Code, позволяя представлять насыщенную информацию, обеспечивать визуальную ясность, упрощать обмен и создавать интерактивность. Это улучшает процесс чтения, обсуждения и редактирования данных.\u003cbr/\u003e\u003cbr/\u003e- HTML передает более богатую информацию, чем Markdown.\u003cbr/\u003e- Интуитивный интерфейс упрощает навигацию и восприятие данных.\u003cbr/\u003e- Обмен HTML-файлами удобнее благодаря легкому доступу.\u003cbr/\u003e- HTML поддерживает интерактивность через элементы и скрипты.\u003cbr/\u003e- Claude Code интегрирует контекст из разных источников для большей эффективности.\u003cbr/\u003e- Использование HTML упрощает создание прототипов и планов.\u003cbr/\u003e- HTML ускоряет процесс работы и улучшает взаимодействие с Claude."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86ae",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1779571240,
+      "text": "Я увидел этот прием в презентации о pi у одного программиста, разрабатывающего игры. С тех пор сам им пользуюсь, очень удобно разбираться в оверинжиниринге и говнокоде"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86af",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1779571264,
+      "text": "Все-таки визуальное представление намного более наглядное чем текстовое"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b0",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1779571393,
+      "text": "Можно попросить mermaid сделать и любой маркдаун viewer умеет рисовать эти графики"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b1",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "FaionFaion",
+      "author_name": "Ruslan",
+      "datetime": 1779571431,
+      "text": "HTML это частный вариант HTMX, а ллмки по исслежованиям дают с ним лучьше результат"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b2",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nlevitski",
+      "author_name": "Nikita",
+      "datetime": 1779571454,
+      "text": "svg схемы можно отображать"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b3",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779571596,
+      "text": "⚠️ Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned - The New Stack - \u003ca href=\"https://thenewstack.io/ai-coding-tool-stack/?utm_source=chatgpt.com\"\u003ehttps://thenewstack.io/ai-coding-tool-stack/?utm_source=chatgpt.com\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b4",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779571603,
+      "text": "\u003cstrong\u003eCursor, Claude Code, and Codex are merging into one AI coding stack nobody planned - The New Stack\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eCursor, Claude Code и Codex объединились в новый стек AI-кодирования, который никто не планировал. Вместо консолидации на рынке инструментов для кодирования AI образуются специальные уровни, предлагающие разработчикам возможность композировать и использовать несколько инструментов одновременно.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Объединение инструментов**: Cursor, Claude Code и Codex образуют стек AI без конкуренции, предоставляя возможности для параллельного использования.\u003cbr/\u003e- **Новые интерфейсы**: Cursor 3 представил Agents Window для управления множеством AI-агентов и интеграцию с Claude Code через плагин.\u003cbr/\u003e- **Слои функций**: Три слоя: оркестрация (Cursor), выполнение (Claude Code и Codex) и проверка (плагин Codex), каждый со своей ролью.\u003cbr/\u003e- **Выбор моделей**: Разработчики выбирают модели, основываясь на качествах задач, а не на преданности брендам.\u003cbr/\u003e- **Асимметричная проверка**: Использование двух разных AI-агентов для проверки кода улучшает качество из-за независимого анализа.\u003cbr/\u003e- **Композиция vs консолидация**: Паттерн работы перешел от выбора одного инструмента к использованию нескольких, подчеркивая важность совместимости.\u003cbr/\u003e- **Будущее**: Ожидается, что стек AI-кодирования будет развиваться, приводя к новым контрольным точкам и возможностям на рынке."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b5",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "duch94",
+      "author_name": "Viktor Titov",
+      "datetime": 1779571618,
+      "text": "Первый вариант был православный)"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b6",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1779571981,
+      "text": "Я игрался с superpowers brainstorm, чтоб кодекс отвечал на вопросы Claude code. Если изначально дать нормальное описание задачи, то они договариваются нормально сами. Типо ralphex только для спецификации"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b7",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779572269,
+      "text": "Боря имхо как будто не от бизнеса а больше как чел что сам так пользует"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b8",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779572393,
+      "text": "Антропики сильно агрессивно пиарят. Но они ограничивают из-за того что это все прайсы счас сами не понимают и такие вещи делают нагрузку выше"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86b9",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1779572920,
+      "text": "Ну бизнес в нем тоже говорит, он же постоянно говорит, что код уже не читает и никому не советует"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86ba",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779572961,
+      "text": "⚠️ Темы слушателей 014 - \u003ca href=\"https://radio-t.com/p/2026/05/20/prep-1014/\"\u003ehttps://radio-t.com/p/2026/05/20/prep-1014/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86bb",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779572968,
+      "text": "[1/7] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eAleksandr Melnikov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eTeamPCP хакнули GitHub и украли весь внутренний код\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/\"\u003ehttps://github.blog/security/investigating-un...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eInvestigating unauthorized access to GitHub-owned repositories - The GitHub Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое резюме\u003cbr/\u003e18 мая GitHub обнаружил несанкционированный доступ к внутренним репозиториям, вызванный вредоносным расширением VS Code от третьих лиц. Вместо этого, они уже предприняли меры по изоляции устройства и реагированию на инциденты, без подтвержденного воздействия на информацию клиентов.\u003cbr/\u003e\u003cbr/\u003e## Основные моменты\u003cbr/\u003e- Обнаружили компрометацию устройства сотрудника через зараженное расширение VS Code.\u003cbr/\u003e- Удалили вредоносную версию расширения и начали реагирование на инциденты.\u003cbr/\u003e- Проведённая оценка показала, что утечка касается только внутренних репозиториев GitHub.\u003cbr/\u003e- Атакующий утверждает о ~3,800 репозиториях, что соответствует данным расследования.\u003cbr/\u003e- До сих пор нет доказательств воздействия на информацию клиентов за пределами внутренних репозиториев.\u003cbr/\u003e- Гитхаб досрочно провел ротацию критических секретов и приоритетизировал наиболее важные.\u003cbr/\u003e- Полный отчет будет опубликован по завершении расследования."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86bc",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779572969,
+      "text": "[2/7] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eAlex Talyuk\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage\"\u003ehttps://blog.railway.com/p/incident-report-ma...\u003c/a\u003e\u003cem\u003e Google banned Railway’s account. Everything down\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eIncident Report: May 19, 2026- GCP Account Suspension\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003e19 мая 2026 года Railway столкнулась с глобальным сбоем из-за некорректной приостановки аккаунта Google Cloud. Это привело к недоступности всех сервисов и необходимости восстановления инфраструктуры, при этом были приняты меры для предотвращения повторения ситуации.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Быстрая реакция:** Сбой был обнаружен автоматизированным мониторингом, после чего сразу начались действия.\u003cbr/\u003e- **Помехи для пользователей:** Доступ к API и приборной панели был ограничен, пользователи получали ошибки 503 и 404.\u003cbr/\u003e- **Распространение сбоя:** Зависимости от Google Cloud привели к широкой недоступности сервисов Railway, несмотря на работающие альтернативные мощности.\u003cbr/\u003e- **Восстановление сервиса:** Восстановление происходило поэтапно, с временной приостановкой развертывания для избежания перегрузки системы.\u003cbr/\u003e- **Меры по предотвращению:** Планируется устранение зависимости от Google Cloud и улучшение архитектуры для более сильной отказоустойчивости.\u003cbr/\u003e- **Ответственность:** Railway берет на себя полную ответственность за архитектурные решения, приведшие к сбоям.\u003cbr/\u003e- **Будущее подтверждение:** Новая архитектурная стратегия направлена на минимизацию воздействия сторонних поставщиков на основные сервисы."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86bd",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779572969,
+      "text": "[3/7] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eГугл меняет поиск в сети (еще больше AI)\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html\"\u003ehttps://www.nytimes.com/2026/05/19/business/g...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nytimes.com\"\u003enytimes.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Статья на сайте NYTimes предлагает отключить блокировщики рекламы и включить JavaScript для улучшения пользовательского опыта.\u003cbr/\u003e\u003cbr/\u003e- Данная статья предупреждает о необходимости включить JS.\u003cbr/\u003e- Отключение блокировщиков рекламы является обязательным условием.\u003cbr/\u003e- Рекомендуется использовать веб-браузеры, поддерживающие JavaScript.\u003cbr/\u003e- Пользовательский опыт может значительно улучшиться с активированными функциями.\u003cbr/\u003e- Чтение статей может стать более удобным и приятным.\u003cbr/\u003e- Автор подчеркивает важность современных веб-технологий.\u003cbr/\u003e- Обеспечение доступа к контенту требует выполнения простых настройок."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86be",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779572969,
+      "text": "[4/7] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eIvan Uhalin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eyt-dlp: Bun support is now limited and deprecate\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://news.ycombinator.com/item?id=48238789\"\u003ehttps://news.ycombinator.com/item?id=48238789\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eDue to foreseeable compatibility and security issues, yt-dlp’s support for Bun as an ejs-compatible JavaScript runtime is being both limited and deprecated.\u003cbr/\u003e\u003cbr/\u003e…\u003cbr/\u003e\u003cbr/\u003eBun support will also be deprecated. This means that while yt-dlp will continue to support this narrower range of Bun versions for as long as they’re able to meet the needs of yt-dlp and ejs, we reserve the right to completely drop support for Bun should it at any point become too burdensome to maintain.\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eИнтересно, как сейчас ощущают себя те кто по-настоящему используют Bun в prod — это была моя первая мысль после того как Bun переписали. Мне кажется новостей подобных yt-dlp мы будем видеть больше и больше.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003eError: \u003cpre\u003efailed to get summary from cache: can\u0026#39;t get content for https://news.ycombinator.com/item?id=48238789: can\u0026#39;t get summary for https://news.ycombinator.com/item?id=48238789: Get \u0026#34;https://ureadability.radio-t.com/api/content/v1/parser?token=undefined\u0026amp;url=https://news.ycombinator.com/item?id=48238789\u0026#34;: context deadline exceeded (Client.Timeout exceeded while awaiting headers)\u003c/pre\u003e"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86bf",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1779572969,
+      "text": "[5/7] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003ehermes agent\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/\"\u003ehttps://fortune.com/2026/05/22/microsoft-ai-c...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eВидимо не всех программистов уволят\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMicrosoft reports expose AI\u0026#39;s cost problem: The tech is more expensive than paying human employees | Fortune\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eОтчёты Microsoft показывают, что использование искусственного интеллекта (AI) становится экономически сложным, так как его стоимость превышает затраты на человеческий труд. Текущие оценки предполагают, что, несмотря на снижение цен за токены, общие расходы на AI могут возрасти.\u003cbr/\u003e\u003cbr/\u003e- Microsoft отменяет лицензии на Claude Code, переключая сотрудников на GitHub Copilot CLI.\u003cbr/\u003e- Uber исчерпал свой бюджет на AI инструменты за четыре месяца, несмотря на поощрения использования.\u003cbr/\u003e- Бюджет на AI может обернуться более высокими затратами, чем текущие расходы на сотрудников.\u003cbr/\u003e- Затраты на один токен, возможно, снизятся, но общее потребление возрастёт.\u003cbr/\u003e- По прогнозам, к 2030 году потребление токенов вырастет в 24 раза.\u003cbr/\u003e- Более многочисленные токены для агентных моделей могут привести к росту общих затрат.\u003cbr/\u003e- Технологии AI требуют осмотрительности в оценке их истинной стоимости для бизнеса."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c0",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1779573207,
+      "text": "Это второй раз когда nx ломают"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c1",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "steve_kite",
+      "author_name": "Steve Korshakov",
+      "datetime": 1779573379,
+      "text": "у нас странные люди днем стучались и продавали solar и через неделю один дом вскрыло ночью. оч удобное прикрытие - можешь осматривать все дома оч подробно. это у bay area"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c2",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779573564,
+      "text": "Боря просто так это пользует. Обычный дев просто вайбкодер"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c3",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779573705,
+      "text": "Как всегда приходят топы с горящими глазами жжем токены и все такое а потом ой мы много денег тратим"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c4",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1779573780,
+      "text": "Есть ощущения, что тут либо дев, либо вайб)"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c5",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779573832,
+      "text": "А как часто это когда следующий шаг это всем накатывают КПИ по токенам на чела."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c6",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779573869,
+      "text": "Ну я не согласен. И то и другое норм"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c7",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779573953,
+      "text": "Согласен с умпутуном но они хотят их продукты"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c8",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779574040,
+      "text": "Бгг. Мультиверс услышал :) плохое направление"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86c9",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779574148,
+      "text": "Это 300к в год где-то. Или больше. А подписка будет дорожать"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86ca",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1779574220,
+      "text": "Так они вроде обещали на -p эквивалент подписки в $ выдать на это все"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86cb",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779574300,
+      "text": "Для больших компаний Ксюша права там сложнее это чем что у Умпутуна"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86cc",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779574491,
+      "text": "Так этого и хотят все."
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86cd",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779574511,
+      "text": "В породах он просто по другому глюкнул"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86ce",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane [Junior mysql DBA at Revjet.com]",
+      "datetime": 1779574646,
+      "text": "сикофанси"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86cf",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1779574746,
+      "text": "Брут?"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86d0",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1779574773,
+      "text": "Касиус - отсылка к Мохамеду Али"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86d1",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779574786,
+      "text": "Леха на коленки не сажал для парного?"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86d2",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779574944,
+      "text": "Болт кладет"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86d3",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1779574961,
+      "text": "неведение"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86d4",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1779575323,
+      "text": "Радиот луп"
+    },
+    {
+      "id": "6a395bc30ee0df4f1f9e86d5",
+      "issue": 1014,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1779575408,
+      "text": "Cassian Andor из star wars"
+    }
+  ]
+}

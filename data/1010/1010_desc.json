@@ -1,0 +1,70 @@
+{
+  "issue": 1010,
+  "date": "2026-04-25",
+  "audio": "https://cdn.radio-t.com/rt_podcast1010.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1010.jpg",
+  "start_time": 1777148245,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Проблема тестов в эпоху AI агентов",
+      "links": [],
+      "time": "00:15:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Нам не нужны ваши PR",
+      "links": [
+        "https://dpc.pw/posts/i-dont-want-your-prs-anymore/"
+      ],
+      "time": "00:44:31"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Framework Laptop 13 Pro",
+      "links": [
+        "https://frame.work/fi/en/laptop13pro"
+      ],
+      "time": "01:00:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход GPT-5.5 | OpenAI",
+      "links": [
+        "https://openai.com/index/introducing-gpt-5-5/"
+      ],
+      "time": "01:15:31"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple сменяет лидера",
+      "links": [
+        "https://daringfireball.net/2026/04/another_day_has_come"
+      ],
+      "time": "01:33:18"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "AI пришел за программистами Meta и Microsoft",
+      "links": [
+        "https://www.cnbc.com/amp/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html"
+      ],
+      "time": "01:57:29"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/04/21/prep-1010/"
+      ],
+      "time": "02:16:57"
+    }
+  ],
+  "tags": null
+}

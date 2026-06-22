@@ -1,0 +1,64 @@
+{
+  "issue": 1013,
+  "date": "2026-05-16",
+  "audio": "https://cdn.radio-t.com/rt_podcast1013.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1013.jpg",
+  "start_time": 1778962545,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Драконовские меры против Claude Agent SDK и -p",
+      "links": [
+        "https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan"
+      ],
+      "time": "00:28:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Zed пытается обойти",
+      "links": [
+        "https://zed.dev/blog/anthropic-subscription-changes"
+      ],
+      "time": "00:51:35"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "В Amazon все меряют токенами",
+      "links": [
+        "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
+      ],
+      "time": "01:18:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Anthropic набирает суперменов для заброски в корпорации",
+      "links": [
+        "https://job-boards.greenhouse.io/anthropic/jobs/5012991008"
+      ],
+      "time": "01:43:38"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Bun на Rust больше не шутка",
+      "links": [
+        "https://github.com/oven-sh/bun/pull/30412"
+      ],
+      "time": "01:53:28"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/05/15/prep-1013/"
+      ],
+      "time": "02:03:37"
+    }
+  ],
+  "tags": null
+}

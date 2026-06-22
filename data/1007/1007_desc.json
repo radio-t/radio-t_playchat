@@ -1,0 +1,72 @@
+{
+  "issue": 1007,
+  "date": "2026-04-04",
+  "audio": "https://cdn.radio-t.com/rt_podcast1007.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1007.jpg",
+  "start_time": 1775334955,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Artemis II потерял два Outlook, миссия под угрозой",
+      "links": [
+        "https://www.tomshardware.com/software/microsoft-office/artemis-ii-astronaut-finds-two-outlook-instances-running-on-computers-call-on-houston-to-fix-microsoft-anomaly-puzzled-caller-describes-two-outlooks-and-neither-one-of-those-are-working"
+      ],
+      "time": "00:20:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Code внезапно вышел в опен соурс",
+      "links": [
+        "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
+      ],
+      "time": "00:33:11"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Что бывает, если избавиться от лишнего монитора",
+      "links": [
+        "https://ounapuu.ee/posts/2026/04/01/focus/"
+      ],
+      "time": "01:14:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Microsoft Copilot пытался добавлять рекламу в PR",
+      "links": [
+        "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/"
+      ],
+      "time": "01:28:13"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Почему мы все еще используем Markdown",
+      "links": [
+        "https://bgslabs.org/blog/why-are-we-using-markdown/"
+      ],
+      "time": "01:38:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Codex для Claude Code",
+      "links": [
+        "https://github.com/openai/codex-plugin-cc/blob/main/README.md"
+      ],
+      "time": "01:47:07"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 007",
+      "links": [
+        "https://radio-t.com/p/2026/04/02/prep-1007/"
+      ],
+      "time": "01:49:12"
+    }
+  ],
+  "tags": null
+}

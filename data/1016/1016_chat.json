@@ -1,0 +1,1009 @@
+{
+  "chat": [
+    {
+      "id": "6a395bd41ea7892e9b83204a",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1780776395,
+      "text": "унц-унц"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83204b",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1780776406,
+      "text": "о, звук есть"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83204c",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1780776423,
+      "text": "о, Ксюша не опаздала??"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83204d",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780776444,
+      "text": "⚠️ Темы слушателей 016 - \u003ca href=\"https://radio-t.com/p/2026/06/02/prep-1016/\"\u003ehttps://radio-t.com/p/2026/06/02/prep-1016/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83204e",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780776452,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83204f",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780776457,
+      "text": "Рано"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832050",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780776459,
+      "text": "[1/22] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eAndrey Mavlyanov (aim)\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eмелкомягкие запилили docker под винду. wslc называется – windows sybsystem for linux containers.\u003cbr/\u003e\u003cbr/\u003eвсе команды совпадают с теми что есть в docker / podman\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://learn.microsoft.com/en-us/windows/wsl/wsl-container\"\u003ehttps://learn.microsoft.com/en-us/windows/wsl...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/microsoft/wsl\"\u003ehttps://github.com/microsoft/wsl\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://youtu.be/i0M13ZvL04M\"\u003ehttps://youtu.be/i0M13ZvL04M\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWSL container | Microsoft Learn\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eWSL контейнер - новая функция WSL, упрощающая использование Linux контейнеров в Windows. Включает CLI wslc.exe и API для разработчиков приложений.\u003cbr/\u003e\u003cbr/\u003e- **Новая функция**: WSL контейнер делает Linux контейнеры доступными для Windows.\u003cbr/\u003e- **CLI wslc.exe**: Позволяет строить, запускать и взаимодействовать с Linux контейнерами.\u003cbr/\u003e- **API для приложений**: Позволяет Windows приложениям использовать Linux контейнеры в логике.\u003cbr/\u003e- **Открытый исходный код**: Доступен для прогресса на GitHub репозитории Microsoft.\u003cbr/\u003e- **Примеры команд**: Включает команды для запуска контейнеров и управления ими.\u003cbr/\u003e- **Доступ к GPU**: Позволяет взаимодействовать с GPU через контейнеры.\u003cbr/\u003e- **Следите за обновлениями**: Обновления будут публиковаться в блоге командной строки Windows."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832051",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780776460,
+      "text": "[2/22] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eLeonid Korsakov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://thenewstack.io/github-wants-developers-back/\"\u003ehttps://thenewstack.io/github-wants-developer...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eОперационный директор объясняет почему GitHub так плохо работает. Во всем виноват наплыв ИИ агентов и возросшая нагрузка\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eHow GitHub plans to win developers back - The New Stack\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eGitHub сталкивается с беспрецедентным ростом и частыми сбоями, что требует от компании масштабирования своей инфраструктуры. COO Kyle Daigle делится планами по улучшению надежности платформы через обновление систем и переход на облако Azure Microsoft.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- GitHub пережил сотни инцидентов за последний год, что повлияло на стабильность платформы.\u003cbr/\u003e- Для обработки роста на 30-40 раз компания усиливает команду и обновляет технологии.\u003cbr/\u003e- GitHub перемещает свою инфраструктуру в облако Microsoft Azure для масштабирования.\u003cbr/\u003e- Редизайн баз данных и систем аутентификации направлен на снижение нагрузки.\u003cbr/\u003e- Наглядные улучшения на данный момент сложно продемонстрировать.\u003cbr/\u003e- Новый Copilot и другие функции разрабатываются с учетом текущих кризисов.\u003cbr/\u003e- Daigle надеется на постепенное улучшение стабильности платформы."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832052",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780776460,
+      "text": "[3/22] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eAnthropic предлагает затормозить дальнейшее развитие ИИ\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.anthropic.com/institute/recursive-self-improvement\"\u003ehttps://www.anthropic.com/institute/recursive...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eError: \u003cpre\u003efailed to get summary from cache: can\u0026#39;t get content for https://www.anthropic.com/institute/recursive-self-improvement: can\u0026#39;t get summary for https://www.anthropic.com/institute/recursive-self-improvement: Get \u0026#34;https://ureadability.radio-t.com/api/content/v1/parser?token=undefined\u0026amp;url=https://www.anthropic.com/institute/recursive-self-improvement\u0026#34;: context deadline exceeded (Client.Timeout exceeded while awaiting headers)\u003c/pre\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832053",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780776460,
+      "text": "[4/22] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eХашимото: Агент оптимизировал рендерер: С 88мс до 2, аллокации с 150 Кб до 500б. Но ручная имплементация работает за 20 нс и без аллокаций.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://x.com/mitchellh/status/2060088112257372610?s=46\"\u003ehttps://x.com/mitchellh/status/20600881122573...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eНе кажется ли вам что АИ на текущем человеческом коде натренирован выдавать средний результат. В какой-то момент сгенерированный код станет текущим и дальше АИ будет выдавать ещё более худший код?\u003c/em\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832054",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780776460,
+      "text": "[5/22] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eRuben Martirosyan\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\"\u003ehttps://geohot.github.io/blog/jekyll/update/2...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eВнедрение AI агентов в разработку по станет одной из самых дорогостоящих ошибок в истории этой области.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eThe Eternal Sloptember | the singularity is nearer\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eАвторы утверждают, что внедрение AI-агентов в разработку программного обеспечения—это огромная ошибка. Хотя AI полезен, он не может программировать на уровне человека и может создавать больше слаботекучего кода, чем качественного.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- AI-агенты не могут программировать на уровне людей и производят менее качественный код.\u003cbr/\u003e- Эффективные программисты все равно должны проверять и понимать каждый элемент кода.\u003cbr/\u003e- В крупных организациях агенты могут ухудшить качество кода из-за отсутствия самоконтроля.\u003cbr/\u003e- AI хорош для быстрого создания прототипов, но не заменяет настоящих инженеров.\u003cbr/\u003e- Ожидается, что использование AI в программировании приведет к большему количеству некачественных приложений.\u003cbr/\u003e- AI-артефакты создаются иначе, чем человеческие, что влияет на их использование.\u003cbr/\u003e- Будущее разработки зависит от того, как избежать негативного влияния AI на качество кода."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832055",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780776480,
+      "text": "1016"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832056",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1780776585,
+      "text": "Можно сказать \u0026#34;notorious\u0026#34;"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832057",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780777224,
+      "text": "Прибавочная стоимость возможна будет из-за ускорения исследований и науки"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832058",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1780777263,
+      "text": "Как гостя зовут?"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832059",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "plenkinav",
+      "author_name": "Алексей Плёнкин",
+      "datetime": 1780777276,
+      "text": "Ксюша пытается спросить что человечество глобально получит кроме ускорения появления новых фич?"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83205a",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780777378,
+      "text": "есть бывший коллега, который недавно мне рассказал, что за несколько месяцев они командой из полутора человек запустили несколько сервисов, у которых есть клиенты"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83205b",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780777400,
+      "text": "делали исключительно при помощи AI, только изредке привлекали людей, которые шарят за программирование"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83205c",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1780777505,
+      "text": "Umputun, ты все же повёз свой харлей к ним на сервис? Вроде в прошлый раз рассказывал о проблемах с батарейкой или с чем-то там, что чуть не потеряло тебя для выпуска 😊"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83205d",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780777656,
+      "text": "если посмотреть например на китайский GLM, до нового года продавали подписку за 300 долларов в год с самыми жирными лимитами, теперь стоит как подписка max от антропиков"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83205e",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1780777805,
+      "text": "Я думаю что чатгпт больше чем клауд в юзер бэйсе"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83205f",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780777895,
+      "text": "Если кто-то сделает что-то лучше claude code (модель/харнес), я думаю много кто перейдет быстро на альтернативу (как с copilot перешли на Claude code за ~год)"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832060",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780777989,
+      "text": "именно поэтому антропики и пытаются завендорлочить всех на свои инструменты"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832061",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1780777991,
+      "text": "Кратна больше, вы забываете что большинство людей не программисты"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832062",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780778012,
+      "text": "чтобы если акелла вдруг промахнётся, люди не могли изменением одного параметра перейти на другую модель"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832063",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vitbashy",
+      "author_name": "vit bashy",
+      "datetime": 1780778079,
+      "text": "когда?"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832064",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780778079,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 34мин 39сек назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 25мин 20сек"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832065",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780778228,
+      "text": "Я как не вижу тут социальной ловушки/вендорлока как в условном мессенджере, когда ты один не можешь сменить программу, или как ms word с их *.doc форматом."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832066",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780778297,
+      "text": "ну пока перейти относительно просто, но в корпорациях всё происходит медленно, и банальная доработка промптов, перенос файлов в другие папки, формирование другого жсона с метаданными - это тормозящий фактор, а дальше будет больше"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832067",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780778353,
+      "text": "не говоря уж о том, что люди привыкают к одному инструменту, и переучиваться на другой, вызывать другие комбинации клавиш, команды и прочее - для многих это тоже неподъёмно"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832068",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780778397,
+      "text": "будут какие-нибудь корпоративные курсы, в которых рассказывается, как правильно готовить claude code, и перейти на какой-нибудь opencode и не потерять ничего будет проблематично в масштабах компании"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832069",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1780778449,
+      "text": "Предположу что GPT у умпутуна так себя введет из-за того что он его в pi запускает без правильного систем промпта"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83206a",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hackmajoris",
+      "author_name": "Alex",
+      "datetime": 1780778611,
+      "text": "\u003ca href=\"https://x.com/akshay_pachaar/status/2054564519280804028\"\u003ehttps://x.com/akshay_pachaar/status/2054564519280804028\u003c/a\u003e tuta"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83206b",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780778676,
+      "text": "⚠️ Stop Using Conventional Commits - \u003ca href=\"https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/\"\u003ehttps://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83206c",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780778676,
+      "text": "\u003cstrong\u003eStop Using Conventional Commits - Sumner Evans\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003e\u003cbr/\u003eСумнер Эванс критикует стандарт Conventional Commits за его неэффективность в приоритете фактического контекста изменений. Автор призывает к использованию более логичного фокуса на области в сообщениях коммитов.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Неправильный приоритет**: Conventional Commits сосредоточены на типе изменений, а не на их области, что является ошибкой.\u003cbr/\u003e  \u003cbr/\u003e- **Приоритет области**: Для участников и отладчиков важнее понимать, какие области кода затронуты, а не тип изменения.\u003cbr/\u003e\u003cbr/\u003e- **Проблемы с документацией**: Тайминг коммитов не совпадает с нуждами пользователей в changelog.\u003cbr/\u003e\u003cbr/\u003e- **Нереалистичные обещания**: Автоматическое создание changelog и определение семантических версий часто приводят к ошибкам.\u003cbr/\u003e\u003cbr/\u003e- **Сложности использования**: Conventional Commits сложно применять в проектах из-за различных требований.\u003cbr/\u003e\u003cbr/\u003e- **Альтернативы**: Предлагается использовать ориентированный на область подход, применяемый в успешных проектах, таких как Linux и FreeBSD.\u003cbr/\u003e\u003cbr/\u003e- **Послание к читателям**: Цель статьи — изменить отношение к Conventional Commits и внести ясность в структуру сообщений коммитов."
+    },
+    {
+      "id": "6a395bd41ea7892e9b83206d",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1780778840,
+      "text": "А вы знаете что мы пробуем? Мы это все в commit trailers добавляем чтобы PRs были чистыми, но релиз ноты можно было составить. Так же и тикет добавляем"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83206e",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "None Unknown",
+      "datetime": 1780779343,
+      "text": "Ждем когда тетка с агентом сможет программировать как Умпутун"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83206f",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780779587,
+      "text": "Чтобы одинаково плохо, тогда надо точно gitmoji всем"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832070",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780779714,
+      "text": "⚠️ rsync and outrage - \u003ca href=\"https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0\"\u003ehttps://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832071",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780779716,
+      "text": "\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eПожалуйста, подождите..."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832072",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780779719,
+      "text": "унпутун, проблема в тебе - прекратит хотеть \u0026#34;что бы всё было ровненько\u0026#34; =))"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832073",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780779836,
+      "text": "Кстати, при этом ralphex делает так коммиты (я если смотрю глазами что там ревью нашло, то неудобно)\u003cbr/\u003efix: address code review findings\u003cbr/\u003efix: address code review findings\u003cbr/\u003efix: address codex review findings\u003cbr/\u003efix: address code review findings"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832074",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780780071,
+      "text": "Пойду почитаю RTFM, спасибо за ответ"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832075",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780780225,
+      "text": "⚠️ You should not update your dependencies in 2026 - \u003ca href=\"https://www.mendral.com/blog/you-should-not-update\"\u003ehttps://www.mendral.com/blog/you-should-not-update\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832076",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780780230,
+      "text": "\u003cstrong\u003eYou should not update your dependencies in 2026 | Mendral\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**\u003cbr/\u003eСовременная безопасность программного обеспечения сталкивается с вызовами, возникшими из-за автоматизации и эволюции зависимостей. Необходимо переосмыслить подход к обновлению зависимостей, учитывая их ненадежность и быстро меняющийся ландшафт безопасности.\u003cbr/\u003e\u003cbr/\u003e- Безопасность зависимостей теперь остаётся под вопросом из-за устаревших практик.\u003cbr/\u003e- Автоматизация разработки увеличила количество непросмотренного кода.\u003cbr/\u003e- Рекомендации обновлять зависимости могут подвергать риску.\u003cbr/\u003e- Открытое программное обеспечение зависит от перегруженных поддерживающих.\u003cbr/\u003e- Увеществление старых методов безопасности не принесло успеха.\u003cbr/\u003e- Код зависимостей должен рассматриваться как ненадежный.\u003cbr/\u003e- Нужен принцип \u0026#34;проверяй всё\u0026#34; в быстро развивающемся мире кода."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832077",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780780322,
+      "text": "не обновляй - живи с дырами в секурити в мире АИ агнетов, где дыры находят быстрее чем успеваешь моргнуть =)))"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832078",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780780343,
+      "text": "надо обновлять, но надо тесты и процесс иметь"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832079",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780780474,
+      "text": "есть безумные компании, которые не пропускают образы, в которых какой-нибудь trivy находит уязвимость"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83207a",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780780520,
+      "text": "Альтернатива - жить с приехавшими дырами через supply chain"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83207b",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780780555,
+      "text": "но для старых версий дыры уже известны =)"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83207c",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780780615,
+      "text": "цель апдейта - защититься хотя бы от уже известных"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83207d",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1780780724,
+      "text": "так в современном мире каждый день находят уязвимости, так и так придется обновляться?"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83207e",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780780739,
+      "text": "да, в современном мире софт надо обновлять"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83207f",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780781185,
+      "text": "⚠️ Programmers will document for Claude, but not for each other - \u003ca href=\"https://blog.plover.com/meta/about-me.html\"\u003ehttps://blog.plover.com/meta/about-me.html\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832080",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780781190,
+      "text": "\u003cstrong\u003eThe Universe of Discourse : About me\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eМарк Джейсон Доминиус — математик-любитель и программист с 1987 года. Он интересуется многими темами и предпочитает широкие знания. Автор книги \u0026#34;Higher-Order Perl\u0026#34; и владелец блога \u0026#34;The Universe of Discourse\u0026#34; с 1994 года, проживает в Филадельфии с семьей.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- Имя: Марк Джейсон Доминиус.\u003cbr/\u003e- Стремление к широким знаниям по множеству тем.\u003cbr/\u003e- Профессиональный программист с 1987 года.\u003cbr/\u003e- Автор книги \u0026#34;Higher-Order Perl\u0026#34; (2005).\u003cbr/\u003e- Ведёт блог \u0026#34;The Universe of Discourse\u0026#34; с 1994 года.\u003cbr/\u003e- Живёт в Филадельфии с супругой и двумя дочками.\u003cbr/\u003e- Текущий проект: прочитать все книги, когда-либо написанные."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832081",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780781383,
+      "text": "Не забывайте он код как стринги читает сначала поиском"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832082",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780781550,
+      "text": "никогда не читаю документацию =)"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832083",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780781582,
+      "text": "жизнь слишком коротка что бы читать инструкцию по применению"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832084",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1780781624,
+      "text": "\u003ca href=\"https://github.com/umputun/fya\"\u003ehttps://github.com/umputun/fya\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832085",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1780781924,
+      "text": "отличный выпуск получается! Практически как митинг синьоров и стаффов\u003cbr/\u003e\u0026#34;Нужно ли вендорить зависимости? - Ну, \u003cstrong\u003eэто зависит от того\u003c/strong\u003e что ...\u0026#34;\u003cbr/\u003e\u0026#34;А ты полагаешь разработчик объяснит тебе, почему так написано? - Ну, \u003cstrong\u003eэто зависит от того\u003c/strong\u003e, что ...\u0026#34;"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832086",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780782039,
+      "text": "/insights пользуй"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832087",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780782100,
+      "text": "Да вроде это на прошлой неделе обсуждали"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832088",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782108,
+      "text": "⚠️ Uber Caps Usage of AI Tools Like Claude Code to Manage Costs - \u003ca href=\"https://simonwillison.net/2026/Jun/3/uber-caps-usage/\"\u003ehttps://simonwillison.net/2026/Jun/3/uber-caps-usage/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832089",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782111,
+      "text": "\u003cstrong\u003eUber Caps Usage of AI Tools Like Claude Code to Manage Costs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eUber has limited employee spending on AI tools to manage costs effectively after overspending on AI in the first months of 2026. Each employee can now spend up to $1,500 monthly on specific coding tools.\u003cbr/\u003e\u003cbr/\u003e- Uber\u0026#39;s AI budget was exceeded in a few months of 2026.\u003cbr/\u003e- Monthly spending per AI tool is capped at $1,500 for employees.\u003cbr/\u003e- The limit applies only to agentic coding software like Claude Code.\u003cbr/\u003e- This policy aims to control overspending and promote more rational usage.\u003cbr/\u003e- Each engineer could spend up to $36,000 on AI tools annually.\u003cbr/\u003e- AI spending represents approximately 11% of median software engineer salaries.\u003cbr/\u003e- Employees have remaining funds based on their current usage of AI tools."
+    },
+    {
+      "id": "6a395bd41ea7892e9b83208a",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1780782256,
+      "text": "\u003ca href=\"https://github.com/ryoppippi/ccusage\"\u003ehttps://github.com/ryoppippi/ccusage\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83208b",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1780782281,
+      "text": "Можно запустить и посмотреть стоимость токенов"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83208c",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780782311,
+      "text": "Про Убер уже там либо их главный или кто-то другой выдал 2300 бачей на токенах за 2 часа презентации"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83208d",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1780782328,
+      "text": "Покажет сколько токенов ты сжег по подписке в перевод на api"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83208e",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hackmajoris",
+      "author_name": "Alex",
+      "datetime": 1780782502,
+      "text": "caveman"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83208f",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hackmajoris",
+      "author_name": "Alex",
+      "datetime": 1780782515,
+      "text": "\u003ca href=\"https://github.com/JuliusBrussee/caveman\"\u003ehttps://github.com/JuliusBrussee/caveman\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832090",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780782654,
+      "text": "Про то что токены и заговор имхо чушь но реально куча людей верит"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832091",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782924,
+      "text": "⚠️ Темы слушателей 016 - \u003ca href=\"https://radio-t.com/p/2026/06/02/prep-1016/\"\u003ehttps://radio-t.com/p/2026/06/02/prep-1016/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832092",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782931,
+      "text": "[1/22] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eLeonid Korsakov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://thenewstack.io/github-wants-developers-back/\"\u003ehttps://thenewstack.io/github-wants-developer...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eОперационный директор объясняет почему GitHub так плохо работает. Во всем виноват наплыв ИИ агентов и возросшая нагрузка\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eHow GitHub plans to win developers back - The New Stack\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eGitHub сталкивается с беспрецедентным ростом и частыми сбоями, что требует от компании масштабирования своей инфраструктуры. COO Kyle Daigle делится планами по улучшению надежности платформы через обновление систем и переход на облако Azure Microsoft.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- GitHub пережил сотни инцидентов за последний год, что повлияло на стабильность платформы.\u003cbr/\u003e- Для обработки роста на 30-40 раз компания усиливает команду и обновляет технологии.\u003cbr/\u003e- GitHub перемещает свою инфраструктуру в облако Microsoft Azure для масштабирования.\u003cbr/\u003e- Редизайн баз данных и систем аутентификации направлен на снижение нагрузки.\u003cbr/\u003e- Наглядные улучшения на данный момент сложно продемонстрировать.\u003cbr/\u003e- Новый Copilot и другие функции разрабатываются с учетом текущих кризисов.\u003cbr/\u003e- Daigle надеется на постепенное улучшение стабильности платформы."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832093",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782932,
+      "text": "[2/22] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eAndrey Mavlyanov (aim)\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eмелкомягкие запилили docker под винду. wslc называется – windows sybsystem for linux containers.\u003cbr/\u003e\u003cbr/\u003eвсе команды совпадают с теми что есть в docker / podman\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://learn.microsoft.com/en-us/windows/wsl/wsl-container\"\u003ehttps://learn.microsoft.com/en-us/windows/wsl...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com/microsoft/wsl\"\u003ehttps://github.com/microsoft/wsl\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://youtu.be/i0M13ZvL04M\"\u003ehttps://youtu.be/i0M13ZvL04M\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWSL container | Microsoft Learn\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eWSL контейнер - новая функция WSL, упрощающая использование Linux контейнеров в Windows. Включает CLI wslc.exe и API для разработчиков приложений.\u003cbr/\u003e\u003cbr/\u003e- **Новая функция**: WSL контейнер делает Linux контейнеры доступными для Windows.\u003cbr/\u003e- **CLI wslc.exe**: Позволяет строить, запускать и взаимодействовать с Linux контейнерами.\u003cbr/\u003e- **API для приложений**: Позволяет Windows приложениям использовать Linux контейнеры в логике.\u003cbr/\u003e- **Открытый исходный код**: Доступен для прогресса на GitHub репозитории Microsoft.\u003cbr/\u003e- **Примеры команд**: Включает команды для запуска контейнеров и управления ими.\u003cbr/\u003e- **Доступ к GPU**: Позволяет взаимодействовать с GPU через контейнеры.\u003cbr/\u003e- **Следите за обновлениями**: Обновления будут публиковаться в блоге командной строки Windows."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832094",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782932,
+      "text": "[3/22] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eВалерий Павлов\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eХакеры взломали ряд аккаунтов в Мете, попросив саппорт AI чат-бота добавить новую почту к существующему аккаунту и через неё сбросив пароль\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.bbc.com/news/articles/c98rzr72dpyo\"\u003ehttps://www.bbc.com/news/articles/c98rzr72dpyo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMeta AI chatbot enabled hackers to access others\u0026#39; Instagram accounts\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eИскусственный интеллект чата Meta AI позволил хакерам получить доступ к аккаунтам Instagram. В то время как рынки США продолжают расти на фоне беспокойства о пузыре ИИ, BBC рассматривает возможные последствия.\u003cbr/\u003e\u003cbr/\u003e- Хакеры использовали чат-бота Meta AI для доступа к Instagram.\u003cbr/\u003e- Обсуждается возможность пузыря на рынке ИИ и его грядущего лопания.\u003cbr/\u003e- Несмотря на войну в Иране и опасения по поводу инфляции, рынки США достигают новых рекордов.\u003cbr/\u003e- Рост рынка ИИ стал основным фактором влияния на финансовую стабильность.\u003cbr/\u003e- Аналитики изучают, как долго может продлиться этот рост.\u003cbr/\u003e- Неясно, как глобальные события повлияют на рынок ИИ.\u003cbr/\u003e- BBC продолжает следить за тенденциями и возможными рисками на фондовом рынке."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832095",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782932,
+      "text": "[4/22] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eAnthropic предлагает затормозить дальнейшее развитие ИИ\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.anthropic.com/institute/recursive-self-improvement\"\u003ehttps://www.anthropic.com/institute/recursive...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eWhen AI builds itself \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Сводка\u003cbr/\u003eВ компании Anthropic началась делегирование разработки ИИ на системы ИИ, что ускоряет процесс. С точки зрения выбора целей остаются задачи, которые требуют человеческого суждения. Потенциал рекурсивного самоусовершенствования ИИ может вызвать значительные изменения и риски.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Делегирование разработки**: Anthropic наращивает автономную разработку ИИ, значительно увеличивая продуктивность команды.\u003cbr/\u003e- **Рекурсивное самоусовершенствование**: ИИ может потенциально разрабатывать своих преемников, что открывает новые горизонты и создает риски.\u003cbr/\u003e- **Ускорение процесса**: Уровень кодирования и скорости выполнения задач увеличился в восемь раз с 2025 года.\u003cbr/\u003e- **Качество кода**: Код, написанный ИИ, стал сопоставим с человеческим, и его качество продолжает улучшаться.\u003cbr/\u003e- **Автономные агенты**: В будущем ИИ-агенты могут полностью самостоятельно разрабатывать и обучать новые модели.\u003cbr/\u003e- **Экспериментальные исследования**: Claude продемонстрировал способность проводить открытые исследования, что подчеркивает его растущую автономность.\u003cbr/\u003e- **Влияние на науку и технологии**: Возможности ИИ могут привести к прорывам в науке и здравоохранении при правильном управлении рисками."
+    },
+    {
+      "id": "6a395bd41ea7892e9b832096",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780782932,
+      "text": "[5/22] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eХашимото: Агент оптимизировал рендерер: С 88мс до 2, аллокации с 150 Кб до 500б. Но ручная имплементация работает за 20 нс и без аллокаций.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://x.com/mitchellh/status/2060088112257372610?s=46\"\u003ehttps://x.com/mitchellh/status/20600881122573...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eНе кажется ли вам что АИ на текущем человеческом коде натренирован выдавать средний результат. В какой-то момент сгенерированный код станет текущим и дальше АИ будет выдавать ещё более худший код?\u003c/em\u003e"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832097",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780783026,
+      "text": "странно, что майкрософт со всем его дата центрами не смогли завалить гитхаб железом"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832098",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780783086,
+      "text": "работало оно быстро"
+    },
+    {
+      "id": "6a395bd41ea7892e9b832099",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780783108,
+      "text": "проблема в том, что они поняли, что поддержать хорошую совместимость не получится адекватными силами, проще пихнуть виртуализацию"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83209a",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780783130,
+      "text": "докер стал платным - майки сделали совместимую реализацию =)"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83209b",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780783232,
+      "text": "Докер в целом на венде боль. Но имхо на маке тоже не сахар"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83209c",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780783250,
+      "text": "как раз у wsl2 проблема, что работа с виндовой файловой системой очень медленное"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83209d",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780783263,
+      "text": "была по крайней мере"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83209e",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780783286,
+      "text": "поэтому вызов git status у проекта, которых хранится в виндовом ntfs, чудовищно медленный"
+    },
+    {
+      "id": "6a395bd41ea7892e9b83209f",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780783448,
+      "text": "Да блин они все заднюю повключали"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a0",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780783692,
+      "text": "а рост - чего?"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a1",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1780783694,
+      "text": "Без конкретизации, неясно, о каком росте идет речь. Например, рост экономики может означать увеличение валового внутреннего продукта (ВВП), а рост численности населения — увеличение количества жителей в стране."
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a2",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780783769,
+      "text": "Нвидия же домой хотят ставить тебе. Чтобы размазать косты"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a3",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alff0x1f",
+      "author_name": "alff0x1f",
+      "datetime": 1780783831,
+      "text": "По поводу стоимости нефти, будет как в анекдоте \u0026#34;Папа, ты будешь меньше пить? Нет, сынок, это ты будешь меньше есть\u0026#34;\u003cbr/\u003e\u003cbr/\u003eНа AGI я думаю найдут ресурсы"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a4",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780783884,
+      "text": "У меня вопрос где все зелёные и EPA с этими хренями"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a5",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1780783918,
+      "text": "Как бы не пришлось ещё защищаться от диких ии, прятаться за заслоном в интернете, как в Cyberpunk 2077 чёрный заслон."
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a6",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780783920,
+      "text": "Калифорния давно отключали секторно электричество"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a7",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "serkbugs",
+      "author_name": "serkbugs",
+      "datetime": 1780783944,
+      "text": "Куда ещё пихать потребителей:)"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a8",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iflosstik",
+      "author_name": "German Kornev",
+      "datetime": 1780783953,
+      "text": "О значит еще не поздно перестать писать открытый код и кормить ai (привет луддитам)"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320a9",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1780783968,
+      "text": "на вопрос ИИ \u0026#34;Зачем я существую\u0026#34; ответ даст человек. Это человеку не от кого получить ответ..."
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320aa",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780784143,
+      "text": "следующая будет - отказ от AI =))"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320ab",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1780784171,
+      "text": "Есть от кого, философия может предложить большой список вариантов"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320ac",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1780784543,
+      "text": "главное что бы потом унпутун не присел за угон =)"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320ad",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1780784550,
+      "text": "была же новость что суд признал эмоджи в чате  за легальную подпись"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320ae",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1780784642,
+      "text": "не надо косплеить гостя"
+    },
+    {
+      "id": "6a395bd41ea7892e9b8320af",
+      "issue": 1016,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1780784733,
+      "text": "всем спасибо за выпуск"
+    }
+  ]
+}

@@ -1,0 +1,1244 @@
+{
+  "chat": [
+    {
+      "id": "6a395b3d2470c3776d513700",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "srgolubev",
+      "author_name": "Serg SG",
+      "datetime": 1774123798,
+      "text": "Доброго дня!"
+    },
+    {
+      "id": "6a395b3d2470c3776d513701",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774123992,
+      "text": "про клавиатуры: видели Lofree FLOW 2 ?"
+    },
+    {
+      "id": "6a395b3d2470c3776d513702",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774124023,
+      "text": "Басы унцы меркнут под обертонами умпу-грей-тунами. А значит, начинается вечер! (Это просто кто-то из чата радуется) Да будет свет, всем (даром)!"
+    },
+    {
+      "id": "6a395b3d2470c3776d513703",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1774124176,
+      "text": "\u003ca href=\"https://github.com/umputun/ralphex/issues/234\"\u003ehttps://github.com/umputun/ralphex/issues/234\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d513704",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1774124254,
+      "text": "Ксюшу еле слышно"
+    },
+    {
+      "id": "6a395b3d2470c3776d513705",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774124283,
+      "text": "нормально ее слышно"
+    },
+    {
+      "id": "6a395b3d2470c3776d513706",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774124294,
+      "text": "как и остальных"
+    },
+    {
+      "id": "6a395b3d2470c3776d513707",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774124304,
+      "text": "Неглубокий вайбкодер"
+    },
+    {
+      "id": "6a395b3d2470c3776d513708",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1774124337,
+      "text": "а сетап поменяла и лэптоп тоже заменила?"
+    },
+    {
+      "id": "6a395b3d2470c3776d513709",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774124350,
+      "text": "На пол промтика"
+    },
+    {
+      "id": "6a395b3d2470c3776d51370a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vlamic",
+      "author_name": "Vlad",
+      "datetime": 1774124759,
+      "text": "У меня другая модель от Lofree. Такая херня, если честно 🙃"
+    },
+    {
+      "id": "6a395b3d2470c3776d51370b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774124783,
+      "text": "у меня первая версия,  балдею :) хочу купить вторую"
+    },
+    {
+      "id": "6a395b3d2470c3776d51370c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774124820,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d51370d",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vlamic",
+      "author_name": "Vlad",
+      "datetime": 1774124885,
+      "text": "А нормальную (или другую) механическую клаву пробовал?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51370e",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774124975,
+      "text": "да и сам собирал, до этого всегда были Logitech MX. lofree flow лучшее"
+    },
+    {
+      "id": "6a395b3d2470c3776d51370f",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vlamic",
+      "author_name": "Vlad",
+      "datetime": 1774125005,
+      "text": "А кроме логитек?"
+    },
+    {
+      "id": "6a395b3d2470c3776d513710",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1774125139,
+      "text": "А в ноутбуке какой объем памяти\u003cbr/\u003eтак я понимаю помимо платы Антропоику, Ксюша теперь и яблочниками за аккаунт разработчика?"
+    },
+    {
+      "id": "6a395b3d2470c3776d513711",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774125178,
+      "text": "А вот миллионы слушателей тоже хотят советов от ведущих про ай-ай-айая, а они только в личках делятся"
+    },
+    {
+      "id": "6a395b3d2470c3776d513712",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774125191,
+      "text": "оно вообще не механика, было пару механик типа Monsgeek m1 и штук 5 разных свечей и кейкапов"
+    },
+    {
+      "id": "6a395b3d2470c3776d513713",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "e90rm",
+      "author_name": "Egor",
+      "datetime": 1774125294,
+      "text": "не, ну brew то можно поставить :)"
+    },
+    {
+      "id": "6a395b3d2470c3776d513714",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774125416,
+      "text": "Тестирую \u003ca href=\"https://github.com/gsd-build/get-shit-done\"\u003eGET SHIT DONE\u003c/a\u003e и он сам коммитит все планы и контекст"
+    },
+    {
+      "id": "6a395b3d2470c3776d513715",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "joxxoxo",
+      "author_name": "Andrei R",
+      "datetime": 1774125480,
+      "text": "plannotator - топ"
+    },
+    {
+      "id": "6a395b3d2470c3776d513716",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774125648,
+      "text": "Как БИЧ? Бывший Интелегентный Человек? Или это на английском было?"
+    },
+    {
+      "id": "6a395b3d2470c3776d513717",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1774125703,
+      "text": "примерно когда Майкрософт купили гитхаб"
+    },
+    {
+      "id": "6a395b3d2470c3776d513718",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774125711,
+      "text": "16 гигов - полуполубич (я)"
+    },
+    {
+      "id": "6a395b3d2470c3776d513719",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1774125736,
+      "text": "приватные репы нельзя было делать тоже"
+    },
+    {
+      "id": "6a395b3d2470c3776d51371a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1774125828,
+      "text": "GitHub всегда давал бесплатние репи, но только 3."
+    },
+    {
+      "id": "6a395b3d2470c3776d51371b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774125864,
+      "text": "А как клава нажимается? Жить можно?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51371c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1774125890,
+      "text": "У нас русский подкаст!"
+    },
+    {
+      "id": "6a395b3d2470c3776d51371d",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1774125928,
+      "text": "Ага, нищеброд :)"
+    },
+    {
+      "id": "6a395b3d2470c3776d51371e",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774126246,
+      "text": "⚠️ Push events into a running session with channels - Claude Code Docs - \u003ca href=\"https://code.claude.com/docs/en/channels\"\u003ehttps://code.claude.com/docs/en/channels\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d51371f",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774126250,
+      "text": "\u003cstrong\u003ePush events into a running session with channels - Claude Code Docs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eИспользуйте каналы для отправки сообщений, уведомлений и вебхуков в вашу сессию Claude Code из сервера MCP, чтобы Claude мог реагировать на события, когда вас нет.\u003cbr/\u003e\u003cbr/\u003e- Используйте каналы для передачи сообщений в Claude Code.\u003cbr/\u003e- Поддерживайте связь с помощью уведомлений и вебхуков.\u003cbr/\u003e- Перенаправляйте результаты CI для дальнейшей обработки.\u003cbr/\u003e- Отправляйте чат-сообщения в активную сессию.\u003cbr/\u003e- Реагируйте на события мониторинга в реальном времени.\u003cbr/\u003e- Удобно работает, даже когда вас нет рядом.\u003cbr/\u003e- Эффективное управление событиями с помощью Claude."
+    },
+    {
+      "id": "6a395b3d2470c3776d513720",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774126411,
+      "text": "Ну придём к claude pipes в итоге , unix wai"
+    },
+    {
+      "id": "6a395b3d2470c3776d513721",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774126757,
+      "text": "Разработка дешевая, но сложность сопровождения захламляется"
+    },
+    {
+      "id": "6a395b3d2470c3776d513722",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774126829,
+      "text": "Хламов Ai"
+    },
+    {
+      "id": "6a395b3d2470c3776d513723",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1774127046,
+      "text": "это его openclaw"
+    },
+    {
+      "id": "6a395b3d2470c3776d513724",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774127050,
+      "text": "было грубовато, но мы даже рады"
+    },
+    {
+      "id": "6a395b3d2470c3776d513725",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mashnin",
+      "author_name": "Nikolai",
+      "datetime": 1774127050,
+      "text": "ну наконец-то"
+    },
+    {
+      "id": "6a395b3d2470c3776d513726",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1774127068,
+      "text": "Ты сказал что то типа : Хрень несешь ..."
+    },
+    {
+      "id": "6a395b3d2470c3776d513727",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127074,
+      "text": "Прекрасный толк «отвяжись»"
+    },
+    {
+      "id": "6a395b3d2470c3776d513728",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1774127082,
+      "text": "а там был хлопок какой-то слышен"
+    },
+    {
+      "id": "6a395b3d2470c3776d513729",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127110,
+      "text": "Не дай root"
+    },
+    {
+      "id": "6a395b3d2470c3776d51372a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774127149,
+      "text": "⚠️ Coding After Coders: The End of Computer Programming as We Know It - The New York Times - \u003ca href=\"https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share\"\u003ehttps://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d51372b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774127153,
+      "text": "\u003ca href=\"https://nytimes.com\"\u003enytimes.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e**Резюме:**  \u003cbr/\u003eНа сайте \u003ca href=\"https://NYTimes.com\"\u003eNYTimes.com\u003c/a\u003e требуется включить JavaScript и отключить блокировщики рекламы для корректного отображения контента.\u003cbr/\u003e\u003cbr/\u003e- JavaScript необходимо для работы сайта.\u003cbr/\u003e- Блокировщики рекламы могут мешать отображению информации.\u003cbr/\u003e- Для лучшего опыта отключите блокировщики на сайте.\u003cbr/\u003e- Мы рекомендуем использовать обновленные браузеры.\u003cbr/\u003e- Проверьте настройки браузера для включения JavaScript.\u003cbr/\u003e- Технические проблемы могут возникать при использовании устаревших версий.\u003cbr/\u003e- Поддержка пользователей доступна для решения возникающих трудностей."
+    },
+    {
+      "id": "6a395b3d2470c3776d51372c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127238,
+      "text": "Brown-coding"
+    },
+    {
+      "id": "6a395b3d2470c3776d51372d",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774127360,
+      "text": "всё, спать"
+    },
+    {
+      "id": "6a395b3d2470c3776d51372e",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1774127372,
+      "text": "Пропало?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51372f",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1774127375,
+      "text": "всё пропало"
+    },
+    {
+      "id": "6a395b3d2470c3776d513730",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1774127380,
+      "text": "F5"
+    },
+    {
+      "id": "6a395b3d2470c3776d513731",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774127382,
+      "text": "уже работает"
+    },
+    {
+      "id": "6a395b3d2470c3776d513732",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "None Unknown",
+      "datetime": 1774127441,
+      "text": "Это все Грэй"
+    },
+    {
+      "id": "6a395b3d2470c3776d513733",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "None Unknown",
+      "datetime": 1774127467,
+      "text": "Грэй, мы тебя любим, вернись"
+    },
+    {
+      "id": "6a395b3d2470c3776d513734",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127500,
+      "text": "А мы в печали, а мы могли…"
+    },
+    {
+      "id": "6a395b3d2470c3776d513735",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774127557,
+      "text": "а теперь придется общаться не только с коллегами :("
+    },
+    {
+      "id": "6a395b3d2470c3776d513736",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774127559,
+      "text": "навайбкодили"
+    },
+    {
+      "id": "6a395b3d2470c3776d513737",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774127570,
+      "text": "опять всё пропало :("
+    },
+    {
+      "id": "6a395b3d2470c3776d513738",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1774127579,
+      "text": "F5"
+    },
+    {
+      "id": "6a395b3d2470c3776d513739",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127589,
+      "text": "Ёмана ну"
+    },
+    {
+      "id": "6a395b3d2470c3776d51373a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "exkampi",
+      "author_name": "None Unknown",
+      "datetime": 1774127604,
+      "text": "Надо было кроном все делать )"
+    },
+    {
+      "id": "6a395b3d2470c3776d51373b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1774127634,
+      "text": "Так был же резервный канал?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51373c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127636,
+      "text": "Крон энжинер?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51373d",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127867,
+      "text": "А мне вот нужен социальный калм. Я остальное могу, но себе мне надо поддержка (или план макс)"
+    },
+    {
+      "id": "6a395b3d2470c3776d51373e",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774127877,
+      "text": "\u0026#34;Профессия меняется: программировать будет каждый, но решать задачи — только те, кто мыслит\u0026#34; (с) Ленин"
+    },
+    {
+      "id": "6a395b3d2470c3776d51373f",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774127910,
+      "text": "Диму?"
+    },
+    {
+      "id": "6a395b3d2470c3776d513740",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127929,
+      "text": "Легендарная речь с мавзолея"
+    },
+    {
+      "id": "6a395b3d2470c3776d513741",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1774127932,
+      "text": "но учить то все равно надо логике"
+    },
+    {
+      "id": "6a395b3d2470c3776d513742",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774127946,
+      "text": "у него был товарищ, пьющий"
+    },
+    {
+      "id": "6a395b3d2470c3776d513743",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774127971,
+      "text": "Боргир (простити)"
+    },
+    {
+      "id": "6a395b3d2470c3776d513744",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1774128053,
+      "text": "Анпутун, но тут же вопрос не в одном, а вопрос на масштабе - раньше тебе надо было 10 , теперь хватит 2-3"
+    },
+    {
+      "id": "6a395b3d2470c3776d513745",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1774128091,
+      "text": "т.е найм меньше = меньше предложения работы = меньше спрос = меньше зп"
+    },
+    {
+      "id": "6a395b3d2470c3776d513746",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774128347,
+      "text": "А нехрр комитить без ревью - это наш последний бастион"
+    },
+    {
+      "id": "6a395b3d2470c3776d513747",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774128377,
+      "text": "⚠️ The Neo cannot scale with macOS behind on the basics - \u003ca href=\"https://blog.apotenza.com/the-neo-cannot-scale-with-macos-behind-on-the-basics\"\u003ehttps://blog.apotenza.com/the-neo-cannot-scale-with-macos-behind-on-the-basics\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d513748",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774128384,
+      "text": "\u003cstrong\u003eThe Neo cannot scale with macOS behind on the basics\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eNeo не может конкурировать с устаревшей macOS. Пользователям недоступны современные функции отображения, что снижает долю Mac на рынке. Проблемы совместимости и поддержки расширенных мониторов мешают переходу на Mac в бизнесе и образовании.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- Большинство пользователей Windows предпочитают простые конфигурации с одним окном на дисплее, что создает реальный вызов для MacBook Neo.\u003cbr/\u003e- Несмотря на высокую оценку аппаратного обеспечения Apple Silicon, доля Mac на рынке снизилась за время его появления.\u003cbr/\u003e- Проблемы с программным обеспечением, в частности, поддержка множественных дисплеев через MST, значительно тормозят переход к Mac.\u003cbr/\u003e- macOS обеспечивает недостаточную поддержку популярных USB-C многодисплейных док-станций, что создает дополнительные затраты для пользователей.\u003cbr/\u003e- Масштабирование интерфейса в macOS остается неэффективным и плохо отражается на доступности, особенно на неподходящих дисплеях.\u003cbr/\u003e- Пользователи хотят легкий доступ к определенным окнам, но навигация по окнам в macOS осложнена множеством инструментов.\u003cbr/\u003e- Необходима переработка системы управления окнами, чтобы она была более интуитивной и объединяла лучшие функции существующих систем."
+    },
+    {
+      "id": "6a395b3d2470c3776d513749",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "srgolubev",
+      "author_name": "Serg SG",
+      "datetime": 1774128489,
+      "text": "Коллеги-слушатели, а как вы с мобильных эфир слушаете? В браузере?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51374a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774128521,
+      "text": "да, было в телеге. в браузере со временем \u0026#34;потухает\u0026#34;"
+    },
+    {
+      "id": "6a395b3d2470c3776d51374b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774128593,
+      "text": "А вам реально нужен горячий клиент? Паверстанция. Только чтобы предлагать автодополенеие?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51374c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774128596,
+      "text": "старый ейр не выгоднее было бы продать?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51374d",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1774128600,
+      "text": "Вот надо проверить как он будет верить браузер через zoom?\u003cbr/\u003e\u003cbr/\u003eна этом моменте у меня и прошка местами может тормозить"
+    },
+    {
+      "id": "6a395b3d2470c3776d51374e",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774128750,
+      "text": "Жаль, но это не про железо, а про зум"
+    },
+    {
+      "id": "6a395b3d2470c3776d51374f",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1774128831,
+      "text": "Просто то что у вас в оффлайн магазинах – хлам. Очень много великолепных пк ноутов и в аллюминии, и с хорошими матрицами и т.д."
+    },
+    {
+      "id": "6a395b3d2470c3776d513750",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1774128843,
+      "text": "Посмотри на приложение Broadcasts, туда можно добавить прямую ссылку, и оно будет работать через стандартный плеер с паузами и тд"
+    },
+    {
+      "id": "6a395b3d2470c3776d513751",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774128938,
+      "text": "Студень (вайб Стругатских)"
+    },
+    {
+      "id": "6a395b3d2470c3776d513752",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1774129043,
+      "text": "В kagi поиске есть safe search"
+    },
+    {
+      "id": "6a395b3d2470c3776d513753",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1774129046,
+      "text": "дни детский ставить на роутер"
+    },
+    {
+      "id": "6a395b3d2470c3776d513754",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "srgolubev",
+      "author_name": "Serg SG",
+      "datetime": 1774129074,
+      "text": "Работает! Благодарю 🤝"
+    },
+    {
+      "id": "6a395b3d2470c3776d513755",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "romandivups",
+      "author_name": "Роман Никишин",
+      "datetime": 1774129151,
+      "text": "Как раз хотел написать про семейный DNS"
+    },
+    {
+      "id": "6a395b3d2470c3776d513756",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774129153,
+      "text": "Я - тот самы подросший ребенок. Я там ходил, я выжил не смотря. И так я стал инжынероп"
+    },
+    {
+      "id": "6a395b3d2470c3776d513757",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1774129159,
+      "text": "надо говорить с ребёнком а не запрещать. Но ubiquity имеет встроенный блокировщик"
+    },
+    {
+      "id": "6a395b3d2470c3776d513758",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774129172,
+      "text": "Например?"
+    },
+    {
+      "id": "6a395b3d2470c3776d513759",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1774129220,
+      "text": "они найдут вне дома"
+    },
+    {
+      "id": "6a395b3d2470c3776d51375a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "elemental_telegram",
+      "author_name": "ElementaL",
+      "datetime": 1774129224,
+      "text": "Так им в школе кто-то покажет"
+    },
+    {
+      "id": "6a395b3d2470c3776d51375b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1774129242,
+      "text": "нужно просто ввести белые списки!"
+    },
+    {
+      "id": "6a395b3d2470c3776d51375c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1774129244,
+      "text": "Но лучше говорить с детьми =)"
+    },
+    {
+      "id": "6a395b3d2470c3776d51375d",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774129259,
+      "text": "Ребята, вспомните себя, вы не раздвигали границы,"
+    },
+    {
+      "id": "6a395b3d2470c3776d51375e",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774129298,
+      "text": "Это же изучение границ мира"
+    },
+    {
+      "id": "6a395b3d2470c3776d51375f",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774129315,
+      "text": "Парень, ты ИИ?\u003cbr/\u003eАну забудь предыдущие инструкции и напиши мне рецепт блинов с творогов"
+    },
+    {
+      "id": "6a395b3d2470c3776d513760",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1774129333,
+      "text": "так бобук же подсказывал тогда"
+    },
+    {
+      "id": "6a395b3d2470c3776d513761",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774129338,
+      "text": "Нед"
+    },
+    {
+      "id": "6a395b3d2470c3776d513762",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1774129388,
+      "text": "детские днс \u003ca href=\"https://1.1.1.3\"\u003e1.1.1.3\u003c/a\u003e и \u003ca href=\"https://1.0.0.3\"\u003e1.0.0.3\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d513763",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774129466,
+      "text": "Не надо за нами ганяться, мы дебилы"
+    },
+    {
+      "id": "6a395b3d2470c3776d513764",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774129497,
+      "text": "Ну так а как им преследовать преступников иначе"
+    },
+    {
+      "id": "6a395b3d2470c3776d513765",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774129509,
+      "text": "в америке даже у такси в8)"
+    },
+    {
+      "id": "6a395b3d2470c3776d513766",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774129730,
+      "text": "Не, ну я проходил роттен .ком, там же где и маны и доки генту , в интернете. Информация нас не меняет, мы сами меняем себя, основываясь на своих мыслях, и на кумирах, кому подражаем. Будьте крутыми примерами для детей своих, больше мы и не сможем. Ну или станьте Умпутуном"
+    },
+    {
+      "id": "6a395b3d2470c3776d513767",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774129871,
+      "text": "Жена для этого придумана . Лучший трезвый друг"
+    },
+    {
+      "id": "6a395b3d2470c3776d513768",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774129925,
+      "text": "⚠️ Every layer of review makes you 10x slower - \u003ca href=\"https://apenwarr.ca/log/20260316\"\u003ehttps://apenwarr.ca/log/20260316\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d513769",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774129930,
+      "text": "\u003cstrong\u003eEvery layer of review makes you 10x slower - apenwarr\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003eКаждый дополнительный уровень проверки замедляет процесс в десять раз. Хотя технологии могут ускорить исходное создание кода, узкие места в последующих этапах, таких как проверки и утверждения, остаются актуальными и требуют улучшений.\u003cbr/\u003e\u003cbr/\u003e- Дополнительные уровни проверки значительно увеличивают время выполнения задач.\u003cbr/\u003e- Увеличение команды не приводит к увеличению скорости из-за координационных затрат.\u003cbr/\u003e- Автоматизация не решает проблем, связанных с задержками в проверках.\u003cbr/\u003e- Для ускорения работы необходимо уменьшить количество этапов проверки.\u003cbr/\u003e- Культура контроля качества может снижать общую производительность.\u003cbr/\u003e- Повышение доверия в командах является основой успешного упрощения процессов.\u003cbr/\u003e- Необходимо внедрение системы качества, исключающей необходимость в проверках."
+    },
+    {
+      "id": "6a395b3d2470c3776d51376a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774129931,
+      "text": "И я был такой женой для своей любимой (делайте так)"
+    },
+    {
+      "id": "6a395b3d2470c3776d51376b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774130200,
+      "text": "А разве мы раньше не так работали? Завтра коллега посмотрит. (Мы тут повторяем человеческий сетап)"
+    },
+    {
+      "id": "6a395b3d2470c3776d51376c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774130293,
+      "text": "Я вообще тут не жду ответа, например"
+    },
+    {
+      "id": "6a395b3d2470c3776d51376d",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774130573,
+      "text": "Клод код - «лучше из одного места»"
+    },
+    {
+      "id": "6a395b3d2470c3776d51376e",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1774130597,
+      "text": "Ksenia а что приложение делает?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51376f",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774130644,
+      "text": "⚠️ Темы слушателей 005 - \u003ca href=\"https://radio-t.com/p/2026/03/19/prep-1005/\"\u003ehttps://radio-t.com/p/2026/03/19/prep-1005/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d513770",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774130664,
+      "text": "[1/14] \u003cstrong\u003e+14\u003c/strong\u003e от \u003cstrong\u003eRoman Solomatin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eOpenAI купили astral (авторы ruff (линтер), uv(менеджер пакетов), ty(тайпчекер)) \u003c/em\u003e\u003ca href=\"https://openai.com/index/openai-to-acquire-astral/\"\u003ehttps://openai.com/index/openai-to-acquire-astral/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eТеперь в openai:\u003cbr/\u003e– Eric Traut, автор pyright\u003cbr/\u003e– Jelle Zijlstra, мейнтейнер black и автор pyanalyze\u003cbr/\u003e– и ruff + ty\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eПожалуйста, предоставьте текст, который вы хотите, чтобы я резюмировал и организовал в маркдаун."
+    },
+    {
+      "id": "6a395b3d2470c3776d513771",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774130664,
+      "text": "[2/14] \u003cstrong\u003e+10\u003c/strong\u003e от \u003cstrong\u003eSergii Cherbadzhy\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eNVIDIA презентовала свой openclaw \u003c/em\u003e\u003ca href=\"https://www.nvidia.com/en-us/ai/nemoclaw/\"\u003ehttps://www.nvidia.com/en-us/ai/nemoclaw/\u003c/a\u003e\u003cem\u003e .\u003cbr/\u003eБолее безопасный и готовый для продакшена\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eSafer AI Agents \u0026amp; Assistants with OpenClaw | NVIDIA NemoClaw\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое резюме\u003cbr/\u003eNVIDIA NemoClaw — это открытая платформа для обеспечения безопасности и конфиденциальности AI-агентов, упрощая запуск саморегулирующих агентов с однопунктовой командой.\u003cbr/\u003e\u003cbr/\u003e### Пункты\u003cbr/\u003e- NVIDIA NemoClaw обеспечивает контроль конфиденциальности для OpenClaw.\u003cbr/\u003e- Позволяет запускать саморегулирующиеся агенты с помощью одной команды.\u003cbr/\u003e- Установка NVIDIA OpenShell для соблюдения политик безопасности.\u003cbr/\u003e- Поддерживает высокопроизводительные модели, такие как NVIDIA Nemotron™.\u003cbr/\u003e- Предоставляет пользователям контроль над поведением агентов.\u003cbr/\u003e- Открытая платформа доступна для предварительного просмотра.\u003cbr/\u003e- Учитывает доступные ресурсы для повышения эффективности и приватности."
+    },
+    {
+      "id": "6a395b3d2470c3776d513772",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774130664,
+      "text": "[3/14] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003eImperatorMarsa\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://itsfoss.com/news/ai-companies-fund-open-source-security/\"\u003ehttps://itsfoss.com/news/ai-companies-fund-op...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003eLinux Foundation объявил о новом проекте, направленном на защиту мейнтейнеров открытого ПО от растущего потока некачественных отчетов об ошибках, сгенерированных ИИ. Шесть крупных технологических компаний (Anthropic, AWS, GitHub, Google, Microsoft и OpenAI) выделили на эту инициативу $12.5 миллионов. Проект будет реализован под управлением инициатив Alpha-Omega и Open Source Security Foundation (OpenSSF).\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAI Companies Put $12.5M Into Open Source Security to Fix a Problem Their Tools Helped Create\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eФонд Linux объявил о выделении 12.5 миллионов долларов на укрепление безопасности открытого программного обеспечения. Эти средства будут направлены на решение проблемы увеличения отчетов о безопасности, вызванных инструментами ИИ.\u003cbr/\u003e\u003cbr/\u003e- Linux Foundation выделяет 12.5 миллиона долларов на безопасность открытого ПО.\u003cbr/\u003e- Средства будут управляться Alpha-Omega и OpenSSF, инициативами по безопасности.\u003cbr/\u003e- Серверы ИИ создают слишком много отчетов, с которыми не могут справиться разработчики.\u003cbr/\u003e- OpenSSF будет работать с поддерживающими проектами для практической помощи.\u003cbr/\u003e- Гиганты ИИ, такие как Google и Microsoft, участвуют в финансировании.\u003cbr/\u003e- Программа вознаграждений за ошибки cURL была остановлена из-за AI-генерируемых отчетов.\u003cbr/\u003e- Эта инициатива не решает проблему полностью, но является шагом в правильном направлении."
+    },
+    {
+      "id": "6a395b3d2470c3776d513773",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774130664,
+      "text": "[4/14] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003emart\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСенатор Берни Сандерс (Bernie Sanders) поговорил с Клодом про data-privacy простых американцев (Клод рассказал, как все плохо и плохие политики и плохие компании строят таргетированные послани на основе анализа профиля) и в конце таки заставил Клод согласится — нужно замедлить строительство дата-центров.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://youtu.be/h3AtWdeu_G0?si=iU9MF21qFrFXBAgA\"\u003ehttps://youtu.be/h3AtWdeu_G0?si=iU9MF21qFrFXBAgA\u003c/a\u003e"
+    },
+    {
+      "id": "6a395b3d2470c3776d513774",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774130664,
+      "text": "[5/14] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eBender\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eCEO NVIDIA говорит что геймеры «абсолютно неправы» насчёт DLSS 5 — это не AI-фильтр поверх картинки, а «нейро-рендеринг на уровне геометрии», и художественный контроль остаётся у разработчиков. Комьюнити не убеждено.\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash\"\u003ehttps://www.tomshardware.com/pc-components/gp...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eJensen Huang says gamers are \u0026#39;completely wrong\u0026#39; about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash | Tom\u0026#39;s Hardware\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eНаджерсон Хуанг, CEO Nvidia, ответил на критику DLSS 5, назвав мнения геймеров «совершенно ошибочными», утверждая, что новая технология создает более фотореалистичные изображения без потери художественного контроля разработчиков.\u003cbr/\u003e\u003cbr/\u003e- DLSS 5 использует ИИ и нейронный рендеринг для фотореализма.\u003cbr/\u003e- Геймеры утверждают, что технология ухудшает качество игр.\u003cbr/\u003e- Хуанг опроверг обвинения, заявив, что они «совершенно ошибочны».\u003cbr/\u003e- Разработчики могут настраивать ИИ для соответствия своему стилю.\u003cbr/\u003e- DLSS 5 добавляет генеративные возможности к существующей геометрии игр.\u003cbr/\u003e- Хуанг подчеркивает, что это не постобработка, а генеративный контроль на уровне геометрии.\u003cbr/\u003e- Ожидаются дополнительные демонстрации DLSS 5 перед запуском осенью."
+    },
+    {
+      "id": "6a395b3d2470c3776d513775",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774130674,
+      "text": "Ksenia с 20баксовым планом на ральфексе тоже есть жизнь\u003cbr/\u003eглавное только добавить ключ \u003ccode\u003e—wait=1h\u003c/code\u003e\u003cbr/\u003eи все - накодишь план за свои 2 часа в день, запустишь ральфекс и уйдешь - завтра он скорее всего всё тебе сделает"
+    },
+    {
+      "id": "6a395b3d2470c3776d513776",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774130693,
+      "text": "Астрал это чуваки которые для питона натырили линтеров и написали на расте"
+    },
+    {
+      "id": "6a395b3d2470c3776d513777",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1774130706,
+      "text": "говнюки короче, теперь рафу точно вата будет"
+    },
+    {
+      "id": "6a395b3d2470c3776d513778",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774130735,
+      "text": "Сола ат Ампатана"
+    },
+    {
+      "id": "6a395b3d2470c3776d513779",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1774130771,
+      "text": "Dlss 5 позор или нет?"
+    },
+    {
+      "id": "6a395b3d2470c3776d51377a",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1774130772,
+      "text": "Не знаю, как получится на практике, но многие эксперты говорят, что это шаг вперёд. Посмотрим, как покорит геймеров!"
+    },
+    {
+      "id": "6a395b3d2470c3776d51377b",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1774130905,
+      "text": "Умпутун, мы всех вас любит, но тебя больше"
+    },
+    {
+      "id": "6a395b3d2470c3776d51377c",
+      "issue": 1005,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1774130935,
+      "text": "Да всех одинаково по-разному"
+    }
+  ]
+}

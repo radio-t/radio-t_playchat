@@ -1,0 +1,56 @@
+{
+  "issue": 1012,
+  "date": "2026-05-09",
+  "audio": "https://cdn.radio-t.com/rt_podcast1012.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1012.jpg",
+  "start_time": 1778358628,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Неожиданный союз Claude и SpaceX",
+      "links": [
+        "https://www.anthropic.com/news/higher-limits-spacex"
+      ],
+      "time": "00:39:41"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Просто используй Go",
+      "links": [
+        "https://blainsmith.com/articles/just-fucking-use-go/"
+      ],
+      "time": "01:01:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Программирование не было узким местом",
+      "links": [
+        "https://www.thetypicalset.com/blog/thoughts-on-coding-agents"
+      ],
+      "time": "01:19:55"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Вибрационная магия сливается с ИИ программированием",
+      "links": [
+        "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"
+      ],
+      "time": "01:30:58"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/05/06/prep-1012/"
+      ],
+      "time": "01:56:39"
+    }
+  ],
+  "tags": null
+}

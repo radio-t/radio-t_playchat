@@ -1,0 +1,705 @@
+{
+  "chat": [
+    {
+      "id": "6a395bb93f2d7cff7b7c859e",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1778961806,
+      "text": "конечно."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c859f",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1778961809,
+      "text": "слышно"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a0",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1778962174,
+      "text": "залить до полного, проехать, заехать залить еще раз до полного. пробег делим на пройденый путь с последней заправки"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a1",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1778962273,
+      "text": "самая точная схема замерить расход"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a2",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1778962353,
+      "text": "если в баке очень мало при наклоне может отливать и ехать на бедной смеси что ведет к детонации"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a3",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778962545,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a4",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1778962631,
+      "text": "гвидо сказал что кейноут на главной питон-конфе это просто отвратительный маркетинг-спич"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a5",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1778963046,
+      "text": "не отобьешь, там  30% яблоку"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a6",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "amavlyanov",
+      "author_name": "Andrey Mavlyanov",
+      "datetime": 1778963209,
+      "text": "и что? чуваки 3:20 и 4:20 перепутали?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a7",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778963609,
+      "text": "прикол в том что человеку нужна помощь в голову никому не приходит"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a8",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1778963694,
+      "text": "Переслушай с начала историю."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85a9",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778963704,
+      "text": "он был совершенно летний?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85aa",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1778963728,
+      "text": "У чела есть деньги, но он просит отвещти его."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85ab",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778963763,
+      "text": "убер разве доступен несовершеннолетним чтобы вызвать?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85ac",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1778963823,
+      "text": "+ он мог попросить ему визвати такси. 100% идея била в том, что дверь открили."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85ad",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778963985,
+      "text": "вывод ты в Украине не побоялся бы ничего уверен, а в пригороде Чикаго не помогли закрылись в помещении на просьбу о помощи хм..."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85ae",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1778964090,
+      "text": "так там не документация, просто в условном stackoverflow кто-то про это же написал, вот он и среагировал на похожую ситуацию"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85af",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778964219,
+      "text": "иногда омывайку наливают в лючок для масла 😀"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b0",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778964243,
+      "text": "⚠️ Use the Claude Agent SDK with your Claude plan | Claude Help Center - \u003ca href=\"https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan\"\u003ehttps://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b1",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778964250,
+      "text": "\u003cstrong\u003eUse the Claude Agent SDK with your Claude plan | Claude Help Center\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eClaude Help Center предоставляет информацию о изменениях в кредитах по плану, как работает кредит и что остается прежним для администраторов команд и предприятий.\u003cbr/\u003e\u003cbr/\u003e- Изменения в кредитах зависят от плана пользователя.\u003cbr/\u003e- Кредит покрывает различные функции и услуги.\u003cbr/\u003e- Система кредитов остается неизменной для некоторых пользователей.\u003cbr/\u003e- Тим и Энджайн администраторы могут найти полезные статьи.\u003cbr/\u003e- Как пользоваться Claude Code в различных планах.\u003cbr/\u003e- Информация о выставлении счетов для плана Энджайн.\u003cbr/\u003e- Цены и использование подписки Claude Design."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b2",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778964443,
+      "text": "Так тот же опенкло пытался на -p сидеть"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b3",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778964497,
+      "text": "Там же можно через ключи также системный промпт и инструменты подменять.\u003cbr/\u003eПо сути -p достаточно для любой автоматизации"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b4",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778964545,
+      "text": "Просто они не могут отличить абьюз для автоматизации vs запуск для себя"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b5",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778964637,
+      "text": "\u003ca href=\"https://github.com/Equality-Machine/claude-p\"\u003ehttps://github.com/Equality-Machine/claude-p\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b6",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778964709,
+      "text": "\u003cpre\u003eclaude-p does not call claude -p.\u003cbr/\u003e\u003cbr/\u003eIt:\u003cbr/\u003e\u003cbr/\u003estarts interactive claude in a pseudo-TTY;\u003cbr/\u003epasses a deterministic --session-id;\u003cbr/\u003ewaits for the TUI response to complete;\u003cbr/\u003ereads Claude Code\u0026#39;s canonical session JSONL from ~/.claude/projects/**/\u0026lt;session-id\u0026gt;.jsonl;\u003cbr/\u003eemits text/json/stream-json output compatible with claude -p.\u003cbr/\u003eThe session JSONL step matters. Terminal rendering is lossy: cursor redraws, spinners, and wide glyphs can drop characters in captured TTY output. The JSONL session record is the stable source of truth for final assistant and result text.\u003c/pre\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b7",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1778964743,
+      "text": "так теперь многие побегут на openai, кому нужен ralphex, например..."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b8",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1778965327,
+      "text": "я не уверен что точно можно, но в macos можно autotype для окон сделать. запустить в терминале cc и передвать текст в окно терминала, а не сс"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85b9",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778965641,
+      "text": "⚠️ What Anthropic\u0026#39;s New Claude Billing Means for Zed Users - Zed Blog - \u003ca href=\"https://zed.dev/blog/anthropic-subscription-changes\"\u003ehttps://zed.dev/blog/anthropic-subscription-changes\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85ba",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778965647,
+      "text": "\u003cstrong\u003eWhat Anthropic\u0026#39;s New Claude Billing Means for Zed Users — Zed\u0026#39;s Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:**  \u003cbr/\u003eAnthropic изменяет правила подписки на Claude, разделяя их на два пула. Это затрагивает пользователей Zed, так как использование агента теперь требует новой модели кредитов. Это может повысить стоимость для активных пользователей, но Zed предлагает гибкость использования различных провайдеров.\u003cbr/\u003e\u003cbr/\u003e- С 15 июня Anthropic разделяет биллинг на два пула: для официальных инструментов и сторонних агентств.\u003cbr/\u003e- Использование Claude через ACP будет списываться с нового \u0026#34;агентского кредита\u0026#34; в каждом плане.\u003cbr/\u003e- Кредиты: $20 для Pro, $100 для Max 5x, $200 для Max 20x.\u003cbr/\u003e- При исчерпании кредита, использование оплачивается по стандартным тарифам API.\u003cbr/\u003e- Zed поддерживает множество провайдеров и не ограничивает вас одной системой.\u003cbr/\u003e- Запустите официальную команду claude в терминале Zed, чтобы использовать свои лимиты подписки.\u003cbr/\u003e- Zed обеспечивает гибкость и возможность выбора агентов без привязки к одному провайдеру."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85bb",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Andrew",
+      "datetime": 1778965914,
+      "text": "догадка - я написал шедулер задач на claude -p после того как обнаружил лимиты на встроенный шедулер. мб они хотят свой шедулер манетизировать"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85bc",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778966137,
+      "text": "По определённым бенчмаркам заявляют что claude-code худший харнес для Клод моделей"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85bd",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778966480,
+      "text": "Qwen 3.6 на м4 довольно не плох"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85be",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1778966497,
+      "text": "И будет очень медленно будут работать"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85bf",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1778966529,
+      "text": "Это на какой конфигурации?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c0",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1778966557,
+      "text": "48 gb"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c1",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1778966583,
+      "text": "Понял. На базовом я максимум 3.5 смог погонять/гоняю"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c2",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1778966689,
+      "text": "В цену токена заложено много дорогого r\u0026amp;d"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c3",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1778966812,
+      "text": "У них же есть ещё и инвестиционные деньги, они же не на 100% окупаемости"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c4",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1778966846,
+      "text": "Если нет альтернатив?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c5",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1778967123,
+      "text": "С сотовыми тарифами можно сказать своему оператору что переходишь к другому оператору и вам понизят тариф для удержания вас"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c6",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778967229,
+      "text": "⚠️ Amazon workers pressured to up AI use are making up extraneous tasks - Fast Company - \u003ca href=\"https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks\"\u003ehttps://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c7",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778967233,
+      "text": "\u003ca href=\"https://fastcompany.com\"\u003efastcompany.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e### Резюме\u003cbr/\u003eСайт Fast Company требует включения JavaScript и отключения блокировщиков рекламы для корректной работы. \u003cbr/\u003e\u003cbr/\u003e- JavaScript необходим для отображения контента на сайте.\u003cbr/\u003e- Блокировщики рекламы могут препятствовать загрузке функций.\u003cbr/\u003e- Включите JavaScript в настройках браузера.\u003cbr/\u003e- Отключите любые расширения блокировки рекламы.\u003cbr/\u003e- Обновите страницу после внесения изменений.\u003cbr/\u003e- Попробуйте использовать другой браузер, если проблемы сохраняются.\u003cbr/\u003e- Поддержка сайта может помочь с возникшими проблемами."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c8",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1778967512,
+      "text": "Если был раньше план на выпуск продукта на год-два, и огромные команды, теперь тот же продукт делается за пару месяцев с помощью сжигания определённого объёма токенов - по стоимости разработки это может быть также или даже дешевле"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85c9",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778967534,
+      "text": "Не прошло и несколько недель, кажется, как Ксюша рассказывала про то что Лоеры будут не нужны, нашёл такое: \u003ca href=\"https://github.com/anthropics/claude-for-legal\"\u003ehttps://github.com/anthropics/claude-for-legal\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003eподскажите, кто разбирается в Anthropics, тут нужен Team аккаунт на 5 человек чтобы пользоваться этим, 1500-1800 в год, или можно одним обойтись?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85ca",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1778967804,
+      "text": "вопрос эффективности и прибыли компании"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85cb",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778967821,
+      "text": "ну ты представление имеешь на рассценки лоеров?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85cc",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778967878,
+      "text": "или ты про вещание"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85cd",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778968189,
+      "text": "у Лёхи NDA он ничего вам не расскажет"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85ce",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "souvlakee",
+      "author_name": "Maksim Muravev",
+      "datetime": 1778968468,
+      "text": "Подкаст не слушал, но секунд 10 думал зачем принесли эту тему"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85cf",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778968493,
+      "text": "Нужно смотреть не только на количество затраченных токенов, а ещё на запросы которые наёмник задаёт AI"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d0",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1778968563,
+      "text": "Надо просто самого Клода спросить как весь месяц работник работал, пусть он ему перфоманс ревью сделал"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d1",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778968764,
+      "text": "⚠️ Job Application for Forward Deployed Engineer at Anthropic - \u003ca href=\"https://job-boards.greenhouse.io/anthropic/jobs/5012991008\"\u003ehttps://job-boards.greenhouse.io/anthropic/jobs/5012991008\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d2",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778968768,
+      "text": "\u003cstrong\u003eJob Application for Forward Deployed Engineer at Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме**  \u003cbr/\u003eAnthropic ищет инженеров по внедрению ИИ для работы с ключевыми клиентами, продвигая безопасные и полезные ИИ системы. Роль включает разработку приложений, взаимодействие с командами клиентов и обеспечение поддержки внедрения.\u003cbr/\u003e\u003cbr/\u003e- **Миссия Anthropic**: создание надежного и интерпретируемого ИИ для пользы общества.\u003cbr/\u003e- **Роль FDE**: работа с ключевыми клиентами по внедрению приложений на основе моделей Claude.\u003cbr/\u003e- **Основные обязанности**: разработка приложений, предоставление технической поддержки и установка стандартов безопасности.\u003cbr/\u003e- **Требования**: 4+ года опыта, навыки программирования, работа с LLM и способность работать в неопределенности.\u003cbr/\u003e- **Командная работа**: высокая степень сотрудничества и взаимодействия с командой клиента.\u003cbr/\u003e- **Поездки**: 25-50% времени в поездках к клиентам для личного взаимодействия.\u003cbr/\u003e- **Инклюзивность**: приветствуется разнообразие кандидатов и стиль применения ИИ."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d3",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1778968999,
+      "text": "там кажется все сложится в количество вычислительной мощности и электричества"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d4",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1778969235,
+      "text": "А может это в контексте большого латания дыр найденных Mythos?"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d5",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778969353,
+      "text": "⚠️ Rewrite Bun in Rust - \u003ca href=\"https://github.com/oven-sh/bun/pull/30412\"\u003ehttps://github.com/oven-sh/bun/pull/30412\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d6",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1778969776,
+      "text": "Google Research в марте 2026 года представил TurboQuant, реальный алгоритм, который резко снижает расход памяти и ускоряет работу AI-моделей.\u003cbr/\u003e\u003cbr/\u003eПомимо TurboQuant, Google (совместно с Microsoft, Google DeepMind и MIT) исследовал расход токенов AI-агентами при кодинге — выяснилось, что агентные задачи потребляют в 1000 раз больше токенов, чем обычный чат. Также исследователи Google и Университета Вирджинии разработали метод Think@n, который отсеивает «неперспективные» варианты ответов на ранней стадии и снижает вычислительные затраты на 49% при более высокой точности."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d7",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1778969910,
+      "text": "Ну вот да, надо не дц строить, а повышать эффективность моделей, как с \u0026#34;силиконом от эпл\u0026#34; (с) Умпутун"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d8",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778969963,
+      "text": "⚠️ Темы слушателей 013 - \u003ca href=\"https://radio-t.com/p/2026/05/15/prep-1013/\"\u003ehttps://radio-t.com/p/2026/05/15/prep-1013/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85d9",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778969973,
+      "text": "[1/7] \u003cstrong\u003e+6\u003c/strong\u003e от \u003cstrong\u003eАлексей Трофимов\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eRaycast переписали на React и Rust \u003c/em\u003e\u003ca href=\"https://www.raycast.com/blog/a-technical-deep-dive-into-the-new-raycast\"\u003ehttps://www.raycast.com/blog/a-technical-deep...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eA Technical Deep Dive Into the New Raycast - Raycast Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e## Краткое содержание\u003cbr/\u003e\u003cbr/\u003eRaycast 2.0 — это крупнейшее обновление с момента его запуска в 2020 году. Мы переписали приложение с нуля, используя технологический стек, включающий TypeScript, Swift, C#, Rust, Node и React, обеспечивая производительность и нативное ощущение на macOS и Windows.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- ** Новый архитектурный подход**: Полная переработка приложения для обеспечения производительности на macOS и Windows.\u003cbr/\u003e- ** Обширное использование веб-технологий**: Использование React и TypeScript для фронтенда, что позволяет расширять функционал.\u003cbr/\u003e- ** Кросс-платформенность**: Поддержка Windows позволяет расширить базу пользователей и улучшить функциональность.\u003cbr/\u003e- ** Сложная интеграция**: Были разработаны уникальные решения для интерфейса и взаимодействия с нативными API.\u003cbr/\u003e- ** Эффективный индексатор файлов**: Создан в Rust для мгновенного поиска с минимальным использованием ресурсов.\u003cbr/\u003e- ** Чувство нативности**: Особое внимание к деталям, чтобы создать опыт работы, схожий с нативным приложением.\u003cbr/\u003e- ** Командная работа и управление**: Синергия между командами, работающими на различных уровнях, для создания единообразного опыта."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85da",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778969973,
+      "text": "[2/7] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eMaxim Gringo\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/?v=1\"\u003ehttps://www.microsoft.com/en-us/security/blog...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eMicrosoft анонсировала MDASH — multi-model agentic security system для поиска уязвимостей в коде. Это пайплайн из специализированных AI-агентов, которые сканируют код, спорят между собой, валидируют гипотезы, дедуплицируют и пытаются доказать эксплуатируемость багов. Cистема помогла найти 16 уязвимостей в Windows networking/authentication stack, включая 4 Critical RCE.\u003cbr/\u003eВыглядит так, что у MS упор не на то, чтобы найти много гипотетических уязвимостей, а найти, доказать, что это страшно-страшно, сделать патч.\u003cbr/\u003e\u003cbr/\u003eПредлагаю тему в надежде на то, что кто-то уже имел опыт с MDASH. Или получится дискуссия вокруг AI-кибербеза\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDefense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:**  \u003cbr/\u003eMicrosoft представила новую систему безопасности агентного типа, использующую ИИ для обнаружения уязвимостей в Windows. Система MDASH нашла 16 новых уязвимостей, включая критические ошибки, с использованием более 100 специализированных ИИ-агентов.\u003cbr/\u003e\u003cbr/\u003e- Microsoft представила агентную систему безопасности на основе ИИ MDASH.\u003cbr/\u003e- Система выявила 16 новых уязвимостей, включая критические ошибки в Windows.\u003cbr/\u003e- MDASH использует более 100 специализированных ИИ-агентов для поиска уязвимостей.\u003cbr/\u003e- Обнаруженными уязвимостями были 21 из 21 с нулевыми ложными срабатываниями.\u003cbr/\u003e- Проект обеспечивает высокую точность и эффективность в исследовании уязвимостей.\u003cbr/\u003e- MDASH была протестирована командами обеспечения безопасности Microsoft и ограниченной группой клиентов.\u003cbr/\u003e- Система позволяет исследовать и проверять подлинность уязвимостей на других уровнях."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85db",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1778969973,
+      "text": "Там же была тема про дц в космосе"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85dc",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778969974,
+      "text": "[3/7] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eSergionius\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСогласно расследованию Guardian, технологические компании Кремниевой долины массово вычищают мидл-менеджеров — а не джунов и кодеров, как ожидалось от ИИ-чистки. По данным платформы Revelio Labs, к концу 2025 года в США открытых вакансий мидл-менеджеров стало на 42% меньше, чем в пиковом 2022-м. Цифра огромная: в 2022 году менеджеры составляли 13% всей рабочей силы страны.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.theguardian.com/technology/2026/may/15/ai-manager-purge-tech\"\u003ehttps://www.theguardian.com/technology/2026/m...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e‘I didn’t want to be the guinea pig’: inside tech’s AI-fueled manager purge | AI (artificial intelligence) | The Guardian\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание \u003cbr/\u003e\u003cbr/\u003eВ компанииях технологий наблюдается тенденция сокращения управленческих уровней в связи с внедрением искусственного интеллекта, что делает работу менеджеров сложнее и менее предсказуемой. Это ведет к недостатку человеческой поддержки и потенциальным рискам для продуктивности.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e\u003cbr/\u003e- **Сокращение менеджеров**: Многие технологические компании, включая Meta и Amazon, сокращают менеджеров, полагаясь на ИИ для упрощения процессов.\u003cbr/\u003e  \u003cbr/\u003e- **Новые роли**: Менеджеры теперь должны выполнять больше задач, включая кодирование, что повышает нагрузку и усложняет их работу.\u003cbr/\u003e  \u003cbr/\u003e- **Сложности взаимодействия**: Уменьшение контактов с людьми может привести к снижению качества работы и недостатку мотивации.\u003cbr/\u003e  \u003cbr/\u003e- **Долгосрочные последствия**: Сокращение уровней управления может усложнить принятие решений и ухудшить условия труда.\u003cbr/\u003e  \u003cbr/\u003e- **Человеческий фактор**: ИИ не заменяет человеческие навыки, такие как забота и развитие сотрудников, которые могут пострадать из-за нововведений.\u003cbr/\u003e  \u003cbr/\u003e- **Эксперименты с управлением**: Некоторые эксперты сомневаются, что такие изменения окажутся устойчивыми, поскольку отсутствует необходимая для этого поддержка.\u003cbr/\u003e  \u003cbr/\u003e- **Личная перспектива**: Уволившиеся сотрудники отмечают, что временные трудности и отсутствие поддержки могут привести к более негативным последствиям для работоспособности."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85dd",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778969974,
+      "text": "[4/7] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eContentFan\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.opennet.me/opennews/art.shtml?num=65420\"\u003ehttps://www.opennet.me/opennews/art.shtml?num...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eНовая версия reCAPTCHA будет работать через сканирование QR-кода с помощью смарфтона. Будет работать на Android с установленными Google Play Services через Play Integrity API и Apple.\u003cbr/\u003e\u003cbr/\u003eНу то есть чтобы иметь интернет на ноутбуке нужно будет иметь смарфтон и учётку выше названных компаний. Ни тебе тупых телефонов для звоноков, китайских версий телефонов без Google Play, форков Android и конечно же анонимности.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eНовый reCAPTCHA не позволит пройти проверку на Android-устройствах без сервисов Google\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:** \u003cbr/\u003e\u003cbr/\u003eОбсуждения касаются различных технологий безопасности и аутентификации, такие как reCAPTCHA, 2FA и использование приложений Google. Участники обсуждают тенденции, проблемы и потенциальные решения в области безопасности.\u003cbr/\u003e\u003cbr/\u003e- Технология reCAPTCHA используется для защиты от ботов.\u003cbr/\u003e- Обсуждаются возможности двухфакторной аутентификации (2FA).\u003cbr/\u003e- Упоминаются Google\u0026#39;s приложения для улучшения безопасности.\u003cbr/\u003e- Участники делятся опытом использования Tor и IPFS.\u003cbr/\u003e- Критика и замечания к методам защиты данных.\u003cbr/\u003e- Сложности с DNS и системами аутентификации.\u003cbr/\u003e- Вопросы по улучшению пользовательского опыта и безопасности."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85de",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1778969974,
+      "text": "[5/7] \u003cstrong\u003e+1\u003c/strong\u003e от \u003cstrong\u003ebubuger\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html\"\u003ehttps://thehackernews.com/2026/05/mini-shai-h...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eКак вам «УПС» этой недели, червяк расползающийся посредствам Claude Code и благодаря уязвимости в GitHub\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI \u0026amp; More Packages\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e### Краткое содержание\u003cbr/\u003eГруппа TeamPCP совершила целенаправленный кибератак на цепочку поставок, компрометировав пакеты npm и PyPI, включая TanStack и Mistral AI, добавив вредоносный код для кражи учетных данных, запускающийся в CI/CD системах.\u003cbr/\u003e\u003cbr/\u003e### Основные моменты\u003cbr/\u003e- **Компрометация пакетов:** TeamPCP связана с атакой на npm и PyPI, включая TanStack и Mistral AI.\u003cbr/\u003e- **Обфусцированное JS:** Вредоносные npm-пакеты содержат скрытый JavaScript, собирающий данные и крадущий учетные данные.\u003cbr/\u003e- **Кража токенов:** Используются токены GitHub для доступа к репозиториям и выкладке вредоносных версий пакетов.\u003cbr/\u003e- **Стратегия атак:** Злоумышленники используют законные потоки публикации, что делает их действия трудными для обнаружения.\u003cbr/\u003e- **Серьезность угрозы:** Атака имеет оценку CVSS 9.6, затрагивает 42 пакета и 84 версии TanStack.\u003cbr/\u003e- **Новые методы:** Установлен механизм мертвой кнопки, который уничтожает систему при аннулировании токена.\u003cbr/\u003e- **Широкое влияние:** Кампания затронула более 170 пакетов с суммарными скачиваниями более 518 миллионов."
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85df",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1778969981,
+      "text": "Пока"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85e0",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1778970044,
+      "text": "думаю что таури, т.к. у них вебвью используется"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85e1",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1778970082,
+      "text": "там в статье есть новая архитектура рейкаста"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85e2",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1778970156,
+      "image_url": "https://chat.radio-t.com/logs/1013/AgACAgIAAx0CUPxcWQABCskiagjuLJIbwewOhtXyPF49o9ZZPqsAAsUiaxvmsUFIAdFKeHPce5UBAAMCAAN5AAM7BA",
+      "image_width": 1280,
+      "image_height": 1121,
+      "text": ""
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85e3",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1778970289,
+      "text": "\u003ca href=\"https://www.glaze.app\"\u003ehttps://www.glaze.app\u003c/a\u003e\u003cbr/\u003eЭто приложуха про вайбкодинг от Raycast"
+    },
+    {
+      "id": "6a395bb93f2d7cff7b7c85e4",
+      "issue": 1013,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1778971129,
+      "text": "Отличный выпуск. Спасибо 👍"
+    }
+  ]
+}

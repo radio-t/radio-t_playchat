@@ -1,0 +1,64 @@
+{
+  "issue": 1018,
+  "date": "2026-06-20",
+  "audio": "https://cdn.radio-t.com/rt_podcast1018.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1018.jpg",
+  "start_time": 1781987275,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Anthropic передумали забирать -p",
+      "links": [
+        "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
+      ],
+      "time": "00:43:09"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "UK свирепствует, и все для детей",
+      "links": [
+        "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063"
+      ],
+      "time": "00:53:56"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Valhalla - всего 10 лет работы",
+      "links": [
+        "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+      ],
+      "time": "01:36:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Новый способ измерения эффективности агентов",
+      "links": [
+        "https://arxiv.org/abs/2606.18733?utm_source=chatgpt.com"
+      ],
+      "time": "01:47:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "В HTTP добавят QUERY",
+      "links": [
+        "https://www.rfc-editor.org/info/rfc10008/"
+      ],
+      "time": "01:52:54"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/06/18/prep-1018/"
+      ],
+      "time": "01:59:23"
+    }
+  ],
+  "tags": null
+}

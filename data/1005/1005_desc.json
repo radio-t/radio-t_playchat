@@ -1,0 +1,56 @@
+{
+  "issue": 1005,
+  "date": "2026-03-21",
+  "audio": "https://cdn.radio-t.com/rt_podcast1005.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1005.jpg",
+  "start_time": 1774124820,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "В Claude Code завезли каналы",
+      "links": [
+        "https://code.claude.com/docs/en/channels"
+      ],
+      "time": "00:23:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Конец традиционного программирования",
+      "links": [
+        "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share"
+      ],
+      "time": "00:38:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Чем так плох Neo",
+      "links": [
+        "https://blog.apotenza.com/the-neo-cannot-scale-with-macos-behind-on-the-basics"
+      ],
+      "time": "00:59:16"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Каждый уровень ревью тормозит процесс в 10 раз",
+      "links": [
+        "https://apenwarr.ca/log/20260316"
+      ],
+      "time": "01:25:05"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/03/19/prep-1005/"
+      ],
+      "time": "01:37:04"
+    }
+  ],
+  "tags": null
+}

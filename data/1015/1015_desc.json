@@ -1,0 +1,72 @@
+{
+  "issue": 1015,
+  "date": "2026-05-30",
+  "audio": "https://cdn.radio-t.com/rt_podcast1015.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1015.jpg",
+  "start_time": 1780172251,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Opus 4.8",
+      "links": [
+        "https://www.anthropic.com/news/claude-opus-4-8"
+      ],
+      "time": "00:28:07"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Народовольцы против AI",
+      "links": [
+        "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html"
+      ],
+      "time": "00:58:43"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Ры6нок труда программистов в 2026",
+      "links": [
+        "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026"
+      ],
+      "time": "01:10:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Анархисты за Open Source",
+      "links": [
+        "https://ossresistance.com/"
+      ],
+      "time": "01:22:42"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Дженерики на методы уже почти в Go",
+      "links": [
+        "https://github.com/golang/go/issues/77273"
+      ],
+      "time": "01:35:57"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Agent Skills от Zed",
+      "links": [
+        "https://zed.dev/docs/ai/skills"
+      ],
+      "time": "01:45:22"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/05/26/prep-1015/"
+      ],
+      "time": "01:48:48"
+    }
+  ],
+  "tags": null
+}

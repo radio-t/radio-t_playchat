@@ -1,0 +1,1628 @@
+{
+  "chat": [
+    {
+      "id": "6a395beb58c2572346cfc6c1",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1781985667,
+      "text": "Оказывается сайт радио-т заблокирован в рф (\u003cbr/\u003e\u003cbr/\u003eОн в DO?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c2",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781985671,
+      "text": "Проверьте WHOIS или обратный DNS: если IP принадлежит AS14061 (DigitalOcean) — значит сайт хостится на DigitalOcean; Роскомнадзор блокирует по IP и по реестру, поэтому блокировка может касаться именно IP-диапазона провайдера."
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c3",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1781985693,
+      "text": "нет, он не в DO"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c4",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alexlenspb",
+      "author_name": "Alex Lenyashin",
+      "datetime": 1781985733,
+      "text": "Оказывается почти все сайты заблокированы в рф. Телеграм, кстати, тоже"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c5",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1781985780,
+      "text": "Спасибо"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c6",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1781985810,
+      "text": "А я то думал, что случилось…"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c7",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781985831,
+      "text": "голоса"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c8",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1781985874,
+      "text": "Всей правды мы не знаем"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6c9",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1781986044,
+      "text": "cheerleader"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ca",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1781986086,
+      "text": "Suki Waterhouse"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6cb",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781986183,
+      "text": "есть еще 24 часа нордшляйфе)"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6cc",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1781986323,
+      "text": "Goal в Claude code есть"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6cd",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1781986364,
+      "text": "\u003ccode\u003e/goal [condition]\u003c/code\u003e\u003cbr/\u003e\u003cem\u003eExample:\u003c/em\u003e \u003ccode\u003e/goal all tests in test/auth pass and the lint step is clean\u003c/code\u003e\u003cbr/\u003eSetting a goal starts a turn immediately, and you don\u0026#39;t need to send a separate prompt."
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ce",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1781986523,
+      "text": "Hermes обновился вчера"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6cf",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1781986782,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e мы требуем повтора банкета"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d0",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781986963,
+      "text": "у обычных брелков у машин чаще всего шифрование вообще никакое и mitm только так работает"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d1",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781987000,
+      "text": "заглохнет. выдаст предупреждение и вскоре всё"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d2",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "denysshnurenko",
+      "author_name": "🌻 DENYS SHNURENKO",
+      "datetime": 1781987031,
+      "text": "У моего друга так бьіло. Он отцу машину отдал. Тут уехал за 50км, а потом оказалось, что ключ с собой он не взял, а остался у друга в кармане"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d3",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "denysshnurenko",
+      "author_name": "🌻 DENYS SHNURENKO",
+      "datetime": 1781987055,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d4",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781987084,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d5",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "flaticols",
+      "author_name": "Denis P.",
+      "datetime": 1781987238,
+      "text": "Cmd+r вроде же в рипере"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d6",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781987275,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d7",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sis_t",
+      "author_name": "Ilya Suprun",
+      "datetime": 1781987422,
+      "text": "Так гермес десктоп же"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d8",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1781987480,
+      "text": "если поставить скилы, которые Ксюша рекомендовала, ему становится легче жить"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6d9",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kudmn",
+      "author_name": "Kudman",
+      "datetime": 1781987505,
+      "text": "Алексей, а как ты борешься с переполнением контекстного окна?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6da",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1781987513,
+      "text": "а ты пробовал, есть смысл? Я на винде пробовал поставить недавно, сходу не запустилось, забил"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6db",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1781987527,
+      "text": "от этого автора \u003ca href=\"https://github.com/AvdLee?tab=repositories\"\u003ehttps://github.com/AvdLee?tab=repositories\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6dc",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alxslvr",
+      "author_name": "Silver",
+      "datetime": 1781987721,
+      "text": "Алексей, а в чем смысл маттермост в твоем случае? не подойдет для этого \u003ca href=\"https://paperclip.ai\"\u003epaperclip.ai\u003c/a\u003e ?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6dd",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sis_t",
+      "author_name": "Ilya Suprun",
+      "datetime": 1781987970,
+      "text": "Не успел ещё, но собираюсь. Подключил свой матрикс домашний"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6de",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "steve_kite",
+      "author_name": "Steve Korshakov",
+      "datetime": 1781987975,
+      "text": "в терминале стриминг по строчкам, в ui то там по токенам"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6df",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1781988117,
+      "text": "Это не клиент, это по-сути GUI для агента который бежит на маке."
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e0",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1781988137,
+      "text": "Никак, он сам там знает когда компактить"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e1",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1781988236,
+      "text": "ТАк у меня нет Маттермоста, только Телеграм"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e2",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sis_t",
+      "author_name": "Ilya Suprun",
+      "datetime": 1781988244,
+      "text": "Можно OpenWebUi подключить"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e3",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kudmn",
+      "author_name": "Kudman",
+      "datetime": 1781988333,
+      "text": "хм, спасибо, буду крутить дальше, как то он часто забывает у меня все, хотя при каждой команде я его прошу освежить память."
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e4",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781988418,
+      "text": "Ксюша стала заметно ровнее по громкости с мужчинами. Раньше приходилось убавлять на ней. Что-то поменяли в сведении? Спасибо если да!"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e5",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781988757,
+      "text": "слышим"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e6",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781988772,
+      "text": "Вы нас всех слышала?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e7",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781988789,
+      "text": "Вы нас всех слышали?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e8",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781988790,
+      "text": "нет, онли Евгений"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6e9",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781988790,
+      "text": "Слышым только Умпутуна"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ea",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781988792,
+      "text": "Только umputun слышно"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6eb",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781988800,
+      "text": "все"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ec",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781988805,
+      "text": "А вот вернулись обратно"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ed",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sis_t",
+      "author_name": "Ilya Suprun",
+      "datetime": 1781988833,
+      "text": "Унца пропала"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ee",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781988834,
+      "text": "dropdown/quake mode планируется \u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ef",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1781988840,
+      "text": "унца пропала"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f0",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781988890,
+      "text": "У нас с Лехой был параллельный подкаст :))) мы друг друга слышали"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f1",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781988988,
+      "text": "пошла горячая"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f2",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781989040,
+      "text": "не само себе, ai услышал и вернул всё"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f3",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781989091,
+      "text": "такие как мы как раз из brew и пользуем"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f4",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781989151,
+      "text": "поговрите все"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f5",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781989179,
+      "text": "опа"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f6",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781989439,
+      "text": "Нас опять отключило :)"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f7",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781989460,
+      "text": "вернуться в скайп?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f8",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781989466,
+      "text": "Мы тут как раз историю про программиста рассказываем :)"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6f9",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1781989474,
+      "text": "Это уже вон из профессии?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6fa",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781989487,
+      "text": "что-то с драйвером звуковой карты"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6fb",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yakimka",
+      "author_name": "yakimka",
+      "datetime": 1781989489,
+      "text": "В каждом эфире чтото такое происходит)"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6fc",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781989499,
+      "text": "все ушли умца осталась"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6fd",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781989521,
+      "text": "туда уже не вернуться..."
+    },
+    {
+      "id": "6a395beb58c2572346cfc6fe",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781989542,
+      "text": "а пиратские скайпы не делали?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc6ff",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Amorphis Katatonievitch Lostov",
+      "datetime": 1781989573,
+      "text": "От вещания в Телеграм давно отказались?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc700",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781989632,
+      "text": "только umputun пока"
+    },
+    {
+      "id": "6a395beb58c2572346cfc701",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781989647,
+      "text": "Ксюша есть"
+    },
+    {
+      "id": "6a395beb58c2572346cfc702",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781989865,
+      "text": "⚠️ Anthropic \u0026#34;pauses\u0026#34; token-based billing for its Claude Agent SDK - Ars Technica - \u003ca href=\"https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/\"\u003ehttps://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc703",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781989872,
+      "text": "\u003cstrong\u003eAnthropic \u0026#34;pauses\u0026#34; token-based billing for its Claude Agent SDK - Ars Technica\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме:\u003cbr/\u003eAnthropic временно приостановил изменения тарификации для Claude Agent SDK, заявив, что «пока ничего не меняется», обещая пересмотреть план оплаты для разработчиков агентов; пользователи предупреждены о возможных будущих расходах.\u003cbr/\u003e\u003cbr/\u003e- Что случилось: Anthropic отложил введение тарификации на основе токенов для Claude Agent SDK и обновил страницу поддержки, сообщив о приостановке изменений.\u003cbr/\u003e- Причина возмущения: разработчики и пользователи агентов заметили резкий рост расходов при новой модели биллинга, превышающий экономическую целесообразность подписок.\u003cbr/\u003e- Реакция компании: Anthropic заявляет, что «для сейчас ничего не меняется» и работает над новым планом поддержки использования в составе подписок Claude.\u003cbr/\u003e- Контекст отрасли: шаг совпал с недавними изменениями биллинга GitHub Copilot, которые также вызвали удивление и критику пользователей.\u003cbr/\u003e- Финансовый фон: изменение цен происходило на фоне подготовки Anthropic к возможному первичному публичному размещению акций (IPO).\u003cbr/\u003e- Что ожидать: временная передышка благо для пользователей, но вероятно им придётся нести полные расходы при интенсивном использовании агентов в будущем."
+    },
+    {
+      "id": "6a395beb58c2572346cfc704",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781990121,
+      "image_url": "https://chat.radio-t.com/logs/1018/AgACAgEAAx0CUPxcWQABCuKqajcC6bFvl5_Q7HcBJ_3zhiHLk7EAAiwMaxsshrlFHEn0H0fwWbEBAAMCAAN5AAM8BA",
+      "image_width": 928,
+      "image_height": 1152,
+      "text": ""
+    },
+    {
+      "id": "6a395beb58c2572346cfc705",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781990213,
+      "text": "всё надо запускать только в докере\\вируталке"
+    },
+    {
+      "id": "6a395beb58c2572346cfc706",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781990223,
+      "text": "иначе не сегодня-завтра жди беды"
+    },
+    {
+      "id": "6a395beb58c2572346cfc707",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781990512,
+      "text": "⚠️ VPN ban update for UK households as government looks at \u0026#39;age-gate\u0026#39; - \u003ca href=\"https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063\"\u003ehttps://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc708",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781990519,
+      "text": "\u003cstrong\u003eVPN ban update for UK households as government looks at \u0026#39;age-gate\u0026#39; - Birmingham Live\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКороткое резюме: Правительство Великобритании рассматривает варианты «возрастного контроля» для использования VPN детьми в рамках запрета соцсетей для младше 16 лет; окончательные меры и подробности, включая регулирование VPN, ожидаются в июле.\u003cbr/\u003e\u003cbr/\u003e- Министры заявили, что детали мер, сопровождающих запрет соцсетей для детей до 16 лет, включая вопрос использования VPN, будут обнародованы в июле.\u003cbr/\u003e- Детский министр Джош Макаллистер отметил возможность введения возрастного ограничения (age-gate) для использования VPN, что, по его мнению, было бы желательным.\u003cbr/\u003e- Ofcom проводит оценку эффективности, доступности и конфиденциальности методов подтверждения возраста и идентичности для 16-летних и старше.\u003cbr/\u003e- Технологический секретарь Лиз Кендалл потребовала усиления полномочий регулятора по исполнению штрафов и готовит заявление по VPN в июле.\u003cbr/\u003e- Некоторые эксперты отмечают, что подростки оперативно ищут способы обхода запрета, а доказательств массового использования VPN детьми пока немного.\u003cbr/\u003e- Правительство открыло консультацию по широкому кругу рисков для детей онлайн, включая возможные ограничения для чат-ботов с ИИ и изменение возраста цифрового согласия."
+    },
+    {
+      "id": "6a395beb58c2572346cfc709",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781990551,
+      "text": "придётся обратиться к жителям России за перениманием практик обхода"
+    },
+    {
+      "id": "6a395beb58c2572346cfc70a",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781990581,
+      "text": "vless + xhttp, сплит туннелирования и прочие весёлости"
+    },
+    {
+      "id": "6a395beb58c2572346cfc70b",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1781990596,
+      "text": "На фоне побед Англии в футболе, никто не обратит внимания на возможные ограничения"
+    },
+    {
+      "id": "6a395beb58c2572346cfc70c",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781990626,
+      "text": "в израиле налог на тв отменили"
+    },
+    {
+      "id": "6a395beb58c2572346cfc70d",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781990861,
+      "text": "борьба с прогрессом всегда проиграет"
+    },
+    {
+      "id": "6a395beb58c2572346cfc70e",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781991065,
+      "text": "У меня дочери 16. У нее телефон разряжен 90% времени."
+    },
+    {
+      "id": "6a395beb58c2572346cfc70f",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781991086,
+      "text": "лоббисты фейсбука костьми лягут, чтобы такие запреты не случились в тех же США"
+    },
+    {
+      "id": "6a395beb58c2572346cfc710",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781991121,
+      "text": "дочка в 9 лет в школе занята по 6 часов, потом еще всякие занятия типа скрипки, шахмат. потом еще домашка. итого на комп час остаётся максимум."
+    },
+    {
+      "id": "6a395beb58c2572346cfc711",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781991133,
+      "text": "пенсионеров тоже надо забанить в интернете у них кще больше времени"
+    },
+    {
+      "id": "6a395beb58c2572346cfc712",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex911111",
+      "author_name": "Sasha",
+      "datetime": 1781991194,
+      "text": "Дети 30 лет назад сидели целыми днями перед телеком и играли в денди и сегу"
+    },
+    {
+      "id": "6a395beb58c2572346cfc713",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781991238,
+      "text": "и сидели и в квадрат играли"
+    },
+    {
+      "id": "6a395beb58c2572346cfc714",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iflosstik",
+      "author_name": "German Kornev",
+      "datetime": 1781991342,
+      "text": "Учить детей свободе слова с детства )"
+    },
+    {
+      "id": "6a395beb58c2572346cfc715",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781991423,
+      "text": "Новый essential skills - взлом системы"
+    },
+    {
+      "id": "6a395beb58c2572346cfc716",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781991448,
+      "text": "мне кажется что это травма людей из постСССР - почему-то считается что надо страдать и так и должно быть"
+    },
+    {
+      "id": "6a395beb58c2572346cfc717",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781991460,
+      "text": "нужно превозмагать, страдать и терпеть"
+    },
+    {
+      "id": "6a395beb58c2572346cfc718",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "antonk0",
+      "author_name": "Anton Kovalev",
+      "datetime": 1781991677,
+      "text": "Что за эйдженси которого у Лехи так много?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc719",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1781991690,
+      "text": "А мне кажется что соц сети это как курение, пока \u0026#34;взрослые\u0026#34; будут \u0026#34;курить социальные сети\u0026#34; дети будут хотеть пользоваться ими. Хотите отучить - подайте пример и сами перестаньте."
+    },
+    {
+      "id": "6a395beb58c2572346cfc71a",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1781991744,
+      "text": "сейчас агентностью называют осознанность, насколько я понимаю ) Способность выбирать и принимать решения"
+    },
+    {
+      "id": "6a395beb58c2572346cfc71b",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781991917,
+      "text": "Я чуть отвлёкся, тут всё ещё про ограничения соцсетей говорят?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc71c",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex911111",
+      "author_name": "Sasha",
+      "datetime": 1781992065,
+      "text": "Ну а какая  разница пиво они будут пить по подворотням или сидеть в соцсетях"
+    },
+    {
+      "id": "6a395beb58c2572346cfc71d",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781992067,
+      "text": "Интересно а майнкрафт восьми леитке можно?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc71e",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1781992074,
+      "text": "у меня была бесконечная библиотека. сначала детская, потом взрослая. но погулять это не мешало"
+    },
+    {
+      "id": "6a395beb58c2572346cfc71f",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "qqalexqq",
+      "author_name": "Aleksandr Mikheev",
+      "datetime": 1781992103,
+      "text": "Запретами контента прямая дорога в ад"
+    },
+    {
+      "id": "6a395beb58c2572346cfc720",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iflosstik",
+      "author_name": "German Kornev",
+      "datetime": 1781992121,
+      "text": "Яж мать"
+    },
+    {
+      "id": "6a395beb58c2572346cfc721",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781992122,
+      "text": "Кажется, сравнивать развитие детей и взрослых немножечко некорректно 🤔"
+    },
+    {
+      "id": "6a395beb58c2572346cfc722",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781992180,
+      "text": "я также как умпутун поступил с соцсетями и играми"
+    },
+    {
+      "id": "6a395beb58c2572346cfc723",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781992311,
+      "text": "Если следовать этим гайдлайнам, то и колобок там должен быть +18"
+    },
+    {
+      "id": "6a395beb58c2572346cfc724",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781992324,
+      "text": "Хочется или эксперта в области или обратно к техническим темам"
+    },
+    {
+      "id": "6a395beb58c2572346cfc725",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781992343,
+      "image_url": "https://chat.radio-t.com/logs/1018/AgACAgIAAx0CUPxcWQABCuLNajcLl4XlH1yebQfWZNFjZfipu_UAAl4WaxuBWblJcNIAAQOrJWUIAQADAgADeAADPAQ",
+      "image_width": 490,
+      "image_height": 294,
+      "text": ""
+    },
+    {
+      "id": "6a395beb58c2572346cfc726",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex911111",
+      "author_name": "Sasha",
+      "datetime": 1781992398,
+      "text": "Всмысле они не смогут поставить галочку мне 16 ?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc727",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781992649,
+      "text": "Интересно, а прививки -- тоже дело семьи по мнению Лёши?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc728",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781992706,
+      "text": "«Скажи, маленькая, что ты хочешь, чтобы тебе оторвали голову? Или ехать на дачу?»"
+    },
+    {
+      "id": "6a395beb58c2572346cfc729",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781992723,
+      "text": "и сейчас нарушают +20км"
+    },
+    {
+      "id": "6a395beb58c2572346cfc72a",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781992724,
+      "text": "Слабо можно представить себе школьника, который не пойдёт в соцсети из-за семейных договорённостей, когда там все сверстники"
+    },
+    {
+      "id": "6a395beb58c2572346cfc72b",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781992746,
+      "text": "люди соблюдают пдд только перед камерами"
+    },
+    {
+      "id": "6a395beb58c2572346cfc72c",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781992764,
+      "text": "и пользуются навигатором, который показывает их местоположение"
+    },
+    {
+      "id": "6a395beb58c2572346cfc72d",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781992826,
+      "text": "В Турции до сих пор не уступают пешеходам, ездят на красный. Именно потому что нет неоьрптимости наказания"
+    },
+    {
+      "id": "6a395beb58c2572346cfc72e",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781992864,
+      "text": "а ещё в России нет штрафных баллов, поэтому можно набрать тыщу штрафов, не оплачивать их, и ничего за это не будет"
+    },
+    {
+      "id": "6a395beb58c2572346cfc72f",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781992897,
+      "text": "Из иммледований я помню такое: чем менее безопасное движение, тем внимательнее учвстники движения. И наоборот"
+    },
+    {
+      "id": "6a395beb58c2572346cfc730",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781992923,
+      "text": "Там вопрос про окурающих и их безопасность"
+    },
+    {
+      "id": "6a395beb58c2572346cfc731",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Artur_Packhmutov",
+      "author_name": "Артур Пахмутов",
+      "datetime": 1781992925,
+      "text": "Основная проблема скорости - смертность при лобовом столкновении. И уже давно нашли этому решение - разделительные бетонные ограждения"
+    },
+    {
+      "id": "6a395beb58c2572346cfc732",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781993029,
+      "text": "если надо защищать 16-летним интернеты для их блага, ориентируясь на средних по палате, то и 50-летних надо огораживать - чтобы их мошенники не обманули"
+    },
+    {
+      "id": "6a395beb58c2572346cfc733",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781993079,
+      "text": "⚠️ Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180 - \u003ca href=\"https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\"\u003ehttps://www.jvm-weekly.com/p/project-valhalla-explained-how-a\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc734",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781993083,
+      "text": "и это то, под каким предлогом как раз вводятся ограничения в России в последние годы. помогло ли это с мошенничеством?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc735",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781993088,
+      "text": "\u003cstrong\u003eProject Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: JEP 401 (value classes) интегрирован в OpenJDK и целится в JDK 28 как превью; это позволяет объявлять классы без идентичности, сочетая удобство классов с эффективностью примитивов, пока без специфичных generics и опциональной поддержки null.\u003cbr/\u003e\u003cbr/\u003e- JEP 401 в JDK 28 добавляет value classes как превью (по умолчанию отключено); интеграция огромна — сотни тысяч строк кода и множество файлов.\u003cbr/\u003e- Цель Valhalla: \u0026#34;кодировать как класс, работать как int\u0026#34; — иметь читаемые пользовательские типы с плотным представлением в памяти для лучшей локальности и кеширования.\u003cbr/\u003e- Проблема: обычные объекты хранятся по ссылкам, имеют заголовки и разброс в куче, что убивает производительность при масштабах; Valhalla решает это плотным расположением данных.\u003cbr/\u003e- История: прототипы Q World (раздельные типы) были заменены L World (единый L-переносчик), что упростило JVM и язык; многие идеи отвергнуты за годы.\u003cbr/\u003e- Модель сейчас: value classes (modifier value) создают value objects — объекты без идентичности, но всё ещё ссылочного типа; null-ограничения выносятся в отдельный JEP.\u003cbr/\u003e- Ограничения value классов: поля по умолчанию final, классы final по умолчанию, нельзя синхронизировать, не наследуют классы с идентичностью, могут реализовывать интерфейсы.\u003cbr/\u003e- Следующие шаги: специализированные generics и дополнительные JEP (например, Null-Restricted Value Class Types, Enhanced Primitive Boxing) остаются отдельными задачами."
+    },
+    {
+      "id": "6a395beb58c2572346cfc736",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781993106,
+      "text": "тот же агрумент что и про 16-летних"
+    },
+    {
+      "id": "6a395beb58c2572346cfc737",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781993187,
+      "text": "эту фичу обсуждали ещё с джавы 7"
+    },
+    {
+      "id": "6a395beb58c2572346cfc738",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781993457,
+      "text": "жалкое подобие struct из c#"
+    },
+    {
+      "id": "6a395beb58c2572346cfc739",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781993462,
+      "text": "У грааля же внктри лилипут vm, или уже нет?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc73a",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781993565,
+      "text": "Змеевик"
+    },
+    {
+      "id": "6a395beb58c2572346cfc73b",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781993599,
+      "text": "Протекает"
+    },
+    {
+      "id": "6a395beb58c2572346cfc73c",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781993622,
+      "text": "Почему Valhalla?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc73d",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lenis2000",
+      "author_name": "Leonid P",
+      "datetime": 1781993644,
+      "text": "А 40,000 убитых людей на дороге в одних только сша тоже решили?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc73e",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781993668,
+      "text": "в другую сторону кстати вполне было у моего соседа когда корни в трубу проросли. Ты же знаешь где спускной клапан перед домом?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc73f",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781993673,
+      "text": "если сузилось то в теории всасыванием утягивается как шлангом когда отсасываешь  воду"
+    },
+    {
+      "id": "6a395beb58c2572346cfc740",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781993683,
+      "text": "но врядли до такой степени сузилось"
+    },
+    {
+      "id": "6a395beb58c2572346cfc741",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781993700,
+      "text": "⚠️ [2606.18733] SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents - \u003ca href=\"https://arxiv.org/abs/2606.18733?utm_source=chatgpt.com\"\u003ehttps://arxiv.org/abs/2606.18733?utm_source=chatgpt.com\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc742",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781993710,
+      "text": "\u003cstrong\u003e[2606.18733] SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: SWE-Future предлагает метод генерации данных, условный на прогнозах, чтобы обучать ориентированных на будущее агентов для разработки ПО; проект опубликован через arXivLabs — платформу для совместных экспериментальных проектов arXiv, поддерживающую открытую и приватную работу.\u003cbr/\u003e\u003cbr/\u003e- Цель работы: создать синтетические датасеты, учитывающие будущие изменения и тенденции, чтобы улучшить предсказательную и адаптивную функциональность агентов разработки ПО.\u003cbr/\u003e- Методология: «forecast-conditioned» генерация данных комбинирует прогнозные сигналы с моделями синтеза, чтобы создавать сценарии будущих событий и состояний кода.\u003cbr/\u003e- Применение: обученные агенты могут планировать изменения, прогнозировать баги и предлагать архитектурные решения, опираясь на сымитированные будущие условия.\u003cbr/\u003e- Преимущества: повышенная робастность и долгосрочная релевантность моделей, снижение зависимости от исторических данных и улучшение подготовки к редким или будущим событиям.\u003cbr/\u003e- arXivLabs: платформа, позволяющая внешним участникам разрабатывать и делиться новыми функциями arXiv, включая экспериментальные проекты и инструменты сотрудничества.\u003cbr/\u003e- Ценности arXivLabs: открытость, сообщество, качество и конфиденциальность пользовательских данных; партнеры обязуются соблюдать эти принципы.\u003cbr/\u003e- Призыв к участию: если у вас есть идея для проекта, добавляющего ценность сообществу arXiv, изучите возможности сотрудничества через arXivLabs."
+    },
+    {
+      "id": "6a395beb58c2572346cfc743",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781993718,
+      "text": "Вакум?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc744",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781993976,
+      "text": "есть такое"
+    },
+    {
+      "id": "6a395beb58c2572346cfc745",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781993988,
+      "text": "\u003ca href=\"https://ru.wikipedia.org/wiki/Робастность\"\u003ehttps://ru.wikipedia.org/wiki/Робастность\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc746",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781993989,
+      "text": "нету)"
+    },
+    {
+      "id": "6a395beb58c2572346cfc747",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nik_makrv",
+      "author_name": "Nikita",
+      "datetime": 1781994005,
+      "text": "у меня в универе препод говорил робастность, до сих пор помню"
+    },
+    {
+      "id": "6a395beb58c2572346cfc748",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994050,
+      "text": "⚠️ RFC 10008: The HTTP QUERY Method | RFC Editor - \u003ca href=\"https://www.rfc-editor.org/info/rfc10008/\"\u003ehttps://www.rfc-editor.org/info/rfc10008/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc749",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994059,
+      "text": "\u003cstrong\u003eRFC 10008: The HTTP QUERY Method | RFC Editor\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое резюме:** RFC 10008 описан вместе с HTTP-ответом и CSV-таблицей годов 2000–2024 плюс запись 9999; таблица содержит поля year, total, rejected, verified, hdu, reported; пиковый год — 2010; в данных есть аномалии и явная тенденция снижения после 2010.\u003cbr/\u003e\u003cbr/\u003e- RFC/HTTP: заголовки ответа включают Content-Type: text/csv, Accept-Query, и дату; документ относится к методу QUERY в HTTP/1.1.\u003cbr/\u003e- Структура CSV: поля year, total, rejected, verified, hdu, reported; данные для 2000–2024 и итоговой/аномальной строки 9999.\u003cbr/\u003e- Пик активности: максимальный total = 538 в 2010 году; значительный рост до 2010 и спад после.\u003cbr/\u003e- Отказы и верификации: заметные rejected и verified в период 2005–2013; 2006–2008 и 2010 показывают высокие rejected/verified значения.\u003cbr/\u003e- Специальные/аномальные записи: год 9999 имеет запись 1,0,0,1,0 — явно не стандартная временная метка.\u003cbr/\u003e- Тенденция последних лет: суммарные значения уменьшаются с 2010, с колебаниями, но без возврата к пику."
+    },
+    {
+      "id": "6a395beb58c2572346cfc74a",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781994098,
+      "text": "Кешировать всё равно будет сложно, как и с POST /search"
+    },
+    {
+      "id": "6a395beb58c2572346cfc74b",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781994110,
+      "text": "революция"
+    },
+    {
+      "id": "6a395beb58c2572346cfc74c",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781994161,
+      "text": "иногда вебсервра обрезают"
+    },
+    {
+      "id": "6a395beb58c2572346cfc74d",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781994279,
+      "text": "а кто-то вообще 404 возвращает в апишках, которые для фронтенда отдаются?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc74e",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781994292,
+      "text": "4хх - это ошибка клиента, а если нет айтема то какая же это ошибка?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc74f",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781994306,
+      "text": "вот у тебя 404 и 204"
+    },
+    {
+      "id": "6a395beb58c2572346cfc750",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781994312,
+      "text": "надо отдавать, 204 No Content, ошибки из группы 400-499 - если клиент неправильно сформировался запрос насколько я помню"
+    },
+    {
+      "id": "6a395beb58c2572346cfc751",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994439,
+      "text": "⚠️ Темы слушателей 018 - \u003ca href=\"https://radio-t.com/p/2026/06/18/prep-1018/\"\u003ehttps://radio-t.com/p/2026/06/18/prep-1018/\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc752",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994457,
+      "text": "[1/10] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eНовая альтернатива git:\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://lore.org/\"\u003ehttps://lore.org/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eLore | Next-Generation Open Source Version Control - Lore\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Кратко:** Lore — открытая система управления версиями от Epic Games, спроектированная для масштабируемых проектов с кодом и большими бинарными активами, поддерживающая команды разработчиков и художников.\u003cbr/\u003e\u003cbr/\u003e- Разработчик и поддержка: проект поддерживается Epic Games как открытое ПО с активной поддержкой и развитием.\u003cbr/\u003e- Масштабируемость: оптимизирован для огромных объёмов данных и больших команд, сохраняя производительность и стабильность.\u003cbr/\u003e- Поддержка бинарных активов: эффективно работает с большими файлами (модели, текстуры, медиа), не только с текстовым кодом.\u003cbr/\u003e- Совместная работа: ориентирован на совместную работу разработчиков и художников с учётом их рабочих процессов.\u003cbr/\u003e- Интеграция с пайплайнами: подходит для игровых и развлекательных пайплайнов, где нужны специфичные рабочие процессы и инструменты.\u003cbr/\u003e- Производительность: спроектирован для высокой пропускной способности и ускорения операций с большими репозиториями.\u003cbr/\u003e- Применение: идеален для разработки игр, фильмов и иных медиа-проектов, сочетающих код и большие цифровые активы."
+    },
+    {
+      "id": "6a395beb58c2572346cfc753",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994457,
+      "text": "[2/10] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eAlex Talyuk\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eMidjourney анонсировали медицинское подразделение \u003c/em\u003e\u003ca href=\"https://www.midjourney.com/medical/blogpost\"\u003ehttps://www.midjourney.com/medical/blogpost\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eJust a moment...\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Кратко:**  \u003cbr/\u003eФраза «Just a moment...» используется, чтобы попросить подождать немного; выражает вежливую просьбу о короткой паузе и подходит для разговорной и формальной речи в зависимости от интонации и контекста.\u003cbr/\u003e\u003cbr/\u003e- Значение: просить подождать короткое время, обычно секунды или минуты, без указания точной длительности.\u003cbr/\u003e- Контекст: часто применяется в живом разговоре, по телефону, в службах поддержки и при технических задержках.\u003cbr/\u003e- Интонация: спокойная делает просьбу вежливой; настойчивая — может звучать раздражающе.\u003cbr/\u003e- Формальность: уместна в разговорной речи; для формальных писем лучше «Please wait a moment» или «Пожалуйста, подождите минуту».\u003cbr/\u003e- Русские эквиваленты: «Минуточку», «Подождите немного», «Секунду, пожалуйста».\u003cbr/\u003e- В технике: часто выводится как сообщение при загрузке, ожидании ответа сервера или обработке запроса.\u003cbr/\u003e- Советы по использованию: давайте ориентир по времени, если задержка долгaя, и извиняйтесь за неудобства."
+    },
+    {
+      "id": "6a395beb58c2572346cfc754",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994458,
+      "text": "[3/10] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eMikhail Koniakhin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eСтандартизирован HTTP-метод QUERY, комбинирующий возможности GET и POST\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.opennet.me/opennews/art.shtml?num=65713\"\u003ehttps://www.opennet.me/opennews/art.shtml?num...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eСтандартизирован HTTP-метод QUERY, комбинирующий возможности GET и POST\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Предложение метода HTTP QUERY для безопасных запросов с телом, комбинирующее преимущества GET и POST — поддержка хранения запросов, кеширования, Content-Location, Accept-Query и форматов (JSONPath, SQL), с примерами и обсуждением совместимости в браузерах и REST-практиках.\u003cbr/\u003e\u003cbr/\u003e- Идея: добавить HTTP-метод QUERY для запросов с телом, позволяющий передавать параметры формы безопасно и избегать ограничений GET и злоупотреблений POST.\u003cbr/\u003e- Примеры: GET /feed?q=foo\u0026amp;limit=10 и QUERY /feed (Content-Type: application/x-www-form-urlencoded) с теми же параметрами в теле запроса.\u003cbr/\u003e- Метаданные: QUERY поддерживает заголовки Content-Location, Location, Last-Modified и условные запросы If-Modified-Since для кеширования и управления результатами.\u003cbr/\u003e- Хранение: сервер может возвращать Content-Location/Location на сохранённые результаты или сохранённые запросы (например, /contacts/stored-results/17).\u003cbr/\u003e- Форматы запросов: тело QUERY может использовать JSONPath, XSLT, SQL и др.; используется Accept-Query для объявления поддерживаемых форматов.\u003cbr/\u003e- OPTIONS/HEAD: сервер отвечает на OPTIONS с Allow включая QUERY; HEAD может возвращать Accept-Query и другие метаданные без тела.\u003cbr/\u003e- Обсуждение: в сообщениях — споры о совместимости с браузерами, методах fetch/form, REST-подходах, необходимости и альтернативы (PUT, PATCH, POST)."
+    },
+    {
+      "id": "6a395beb58c2572346cfc755",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994458,
+      "text": "[4/10] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eKirill Frolov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGLM5.2 вполне себе подбирается к возможностям топовых моделей в области кодирования.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.reddit.com/r/ClaudeAI/s/1NdXH0JoYN\"\u003ehttps://www.reddit.com/r/ClaudeAI/s/1NdXH0JoYN\u003c/a\u003e"
+    },
+    {
+      "id": "6a395beb58c2572346cfc756",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781994458,
+      "text": "[5/10] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eAndrey Shirobokov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eМета принудительно отправила 6.5 тысяч инженеров размечать данные для AI на фул-тайм.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/\"\u003ehttps://techcrunch.com/2026/06/12/metas-month...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eMeta\u0026#39;s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое изложение: Новая трёхмесячная команда Meta Applied AI (~6,500 сотрудников) вызывает массовое недовольство: работников «призывали» в отдел без выбора, они выполняют унизительную работу по маркировке и созданию задач для ИИ, что привело к взрыву гнева и внутренним протестам.\u003cbr/\u003e\u003cbr/\u003e- Команда Applied AI создана три месяца назад и насчитывает примерно 6 500 инженеров и менеджеров продуктов, переведённых внутрь компании для тренировки ИИ.\u003cbr/\u003e- Многие сотрудники называют себя «призванными»: им якобы предлагали либо перейти в группу, либо уволиться, выбор фактически отсутствовал.\u003cbr/\u003e- Драфтёры занимаются генерацией задач, головоломок и примеров кода, чтобы обучать модели ИИ понимать человеческие повседневные действия.\u003cbr/\u003e- Работники описывают условия как «гулaг» и «душераздирающую» работу; в отделе царит низкая мораль и раздражение.\u003cbr/\u003e- Более 1 600 сотрудников Meta подписали петицию против программы слежки за кликами и нажатиями клавиш, используемой для сбора данных обучения.\u003cbr/\u003e- Внутренние инциденты включают захват трансляции с нецензурной критикой; руководители признали «больную» атмосферу и обещали исправления.\u003cbr/\u003e- Марк Цукерберг в служебной записке признал ошибки и пообещал сделать Meta «лучшим местом для талантливых людей», а Applied AI подчиняется техническому директору компании."
+    },
+    {
+      "id": "6a395beb58c2572346cfc757",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781994571,
+      "text": "Ну они придумали ультразвуковой сканер"
+    },
+    {
+      "id": "6a395beb58c2572346cfc758",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781994586,
+      "text": "\u0026#34;доктор откуда у вас такие картинки?\u0026#34;"
+    },
+    {
+      "id": "6a395beb58c2572346cfc759",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781994623,
+      "text": "Нет и они там народ нанимают"
+    },
+    {
+      "id": "6a395beb58c2572346cfc75a",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781994655,
+      "text": "нейронкам для поиска частей мозга на МРТ (амигдалы, например) уже лет 10"
+    },
+    {
+      "id": "6a395beb58c2572346cfc75b",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MustangDSG",
+      "author_name": "Dmitry Galashin",
+      "datetime": 1781994716,
+      "text": "Может быть генерация более детализированного изображения по УЗИ, чем существующие алгоритмы визуализации УЗИ?"
+    },
+    {
+      "id": "6a395beb58c2572346cfc75c",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781994722,
+      "text": "композер на основе kimi прям меняет восприятие работы с ллм своей скоростью работы"
+    },
+    {
+      "id": "6a395beb58c2572346cfc75d",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781994743,
+      "text": "glm способный, но закапывается много. пользую чтобы экономит на gpt"
+    },
+    {
+      "id": "6a395beb58c2572346cfc75e",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781994768,
+      "text": "какое железо надо, что бы glm-5.2 захостить? =)"
+    },
+    {
+      "id": "6a395beb58c2572346cfc75f",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1781994775,
+      "text": "GLM-4 показывал лучшие метрики на needle in a haystack бенчмаркам. Пятые самые способные по вайбкодингу среди опенсорс."
+    },
+    {
+      "id": "6a395beb58c2572346cfc760",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781994798,
+      "text": "отбилась подписка на год взятая на черную пятницу"
+    },
+    {
+      "id": "6a395beb58c2572346cfc761",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hackmajoris",
+      "author_name": "Alex",
+      "datetime": 1781994948,
+      "text": "SpaceX - да"
+    },
+    {
+      "id": "6a395beb58c2572346cfc762",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781994950,
+      "text": "не слух, там Тим Кук интервью давал"
+    },
+    {
+      "id": "6a395beb58c2572346cfc763",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781995000,
+      "text": "Инфляция и они перестали выпусать младшие модели с меньшей памятью"
+    },
+    {
+      "id": "6a395beb58c2572346cfc764",
+      "issue": 1018,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hackmajoris",
+      "author_name": "Alex",
+      "datetime": 1781995068,
+      "text": "\u003ca href=\"https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6\"\u003ehttps://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6\u003c/a\u003e"
+    }
+  ]
+}
