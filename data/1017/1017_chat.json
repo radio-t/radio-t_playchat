@@ -1,0 +1,2988 @@
+{
+  "chat": [
+    {
+      "id": "6a3a46b9a6adeb787e876d1f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781380562,
+      "text": "первый раз в прямом эфире слушаю"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d20",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781380575,
+      "text": "и как?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d21",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781380593,
+      "text": "нормально, пока все нравится"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d22",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781380607,
+      "text": "тебе нравится унца?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d23",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781380613,
+      "text": "а так подкаст слушал еще со времен как первые apple watch обсуждали, или чуть до этого даже"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d24",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781380632,
+      "text": "да, боялся что не будет, но все в порядке"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d25",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781380642,
+      "text": "теперь ты не только слушаешь, а и учавствуешь!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d26",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781380653,
+      "text": "ага"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d27",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781380660,
+      "text": "Грац!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d28",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781380789,
+      "text": "а типа трансляция это унцанье, а голоса ведущих потом в пост-продакшне накладывают?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d29",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781380812,
+      "text": "Да, участие заключается в постукивании по столу под музыку"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d2a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781380896,
+      "text": "пост-продакшен, почти как в марвел)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d2b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781380937,
+      "text": "прон-продакшен"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d2c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781380972,
+      "text": "вот там кстати)) звукорежиссеру приходится попотеть)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d2d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781380991,
+      "text": "уже"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d2e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1781381059,
+      "text": "Звук есть!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d2f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "boyko_ol",
+      "author_name": "Oleksiy Boyko",
+      "datetime": 1781381066,
+      "text": "+"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d30",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781381077,
+      "text": "ждём составчик)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d31",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1781381079,
+      "text": "Ждемс"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d32",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381089,
+      "text": "Вагончик тронется"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d33",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1781381107,
+      "text": "Умпутун, а какой у Вас микрофон?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d34",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1781381123,
+      "text": "очень хороший"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d35",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381124,
+      "text": "Пока вагончик тронется пирон состарится"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d36",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1781381169,
+      "text": "Главное голос :)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d37",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781381196,
+      "text": "это тлм?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d38",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1781381225,
+      "text": "Будет что завтра в дороге послушать"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d39",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1781381238,
+      "text": "Как там Леман?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d3a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781381255,
+      "text": "можно послушать ле ман))"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d3b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1781381270,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCtzyai24loRBMzNFBSO9baOro-ubBQcAAhEhaxsK3GlJpsdINnMkKhYBAAMCAAN5AAM8BA",
+      "image_width": 1122,
+      "image_height": 1280,
+      "text": "Смеркалось"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d3c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381433,
+      "text": "про злоупотребления опуса: \u0026#34;smoking gun\u0026#34;"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d3d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781381544,
+      "text": "заметили сегодня опуса как сильно опустили? такое ощущение что во времена 4.5 вернулся. а то и в 4.0"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d3e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381555,
+      "text": "присоединяйся к трансляции"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d3f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381561,
+      "text": "Я могу =)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d40",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381571,
+      "text": "а микрофон у тебя хороший?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d41",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381580,
+      "text": "у меня только ребенок 10 дней возраста может поесть попросить, микрофон SM7B"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d42",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381594,
+      "text": "я его кормил полтора часа назад так что думаю еще час он не будет просить =)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d43",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381612,
+      "text": "куда стучаться чтобы попасть в эфир? =))"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d44",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381623,
+      "text": "я стесняюсь жесть, но если зовете, то приду"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d45",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381632,
+      "text": "по моему если ты его кормил час назад он может попросить уже кое какой другой сервис"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d46",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381655,
+      "text": "там все норм =) но может быть такое что замьючусь, да"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d47",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381713,
+      "text": "лёхе наверное потому что он молчит на совбез вначале если есть что сказать"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d48",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381751,
+      "text": "о, призвался =)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d49",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mindtreemap",
+      "author_name": "Nikolay Gogol ✍️",
+      "datetime": 1781381754,
+      "text": "Бобук пришел!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d4a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781381764,
+      "text": "живём"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d4b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781381773,
+      "text": "неизвестный гость"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d4c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781381775,
+      "text": "Бобук!!1🎉"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d4d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1781381777,
+      "text": "Во, дела, Бобук! Специальный выпуск"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d4e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hackmajoris",
+      "author_name": "Alex",
+      "datetime": 1781381779,
+      "text": "😍"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d4f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381783,
+      "text": "теперь осталось грея реинкарнировать"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d50",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1781381808,
+      "text": "В честь чемпионата мира по футболу Бобук пришёл"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d51",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381875,
+      "text": "таке не може бути"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d52",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781381896,
+      "text": "это уже эфир? что за тема?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d53",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781381906,
+      "text": "это время пиратить"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d54",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781381921,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d55",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781381943,
+      "text": "с понедельника начнете"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d56",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781381994,
+      "text": "если гонка 24 часа уж мог бы на часик отлучиться =)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d57",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781382062,
+      "text": "там по ночам самый главный движ"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d58",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781382099,
+      "text": "а там уже темно? у меня еще не темно (стокгольм)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d59",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781382134,
+      "text": "маттермост легко ломается"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d5a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781382152,
+      "text": "нужно пересобрать со своим приватным плюсом, а потом можно выписать файл лицензии, где всё разрешено"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d5b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781382351,
+      "text": "че-то у меня стрим отвалился, только у меня?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d5c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781382357,
+      "text": "да"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d5d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781382379,
+      "text": "заработало"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d5e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781382430,
+      "text": "коллеги, мы обленились... Где наши байты неправильно переставленные в эндиан в ассемблере?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d5f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781382461,
+      "text": "Вам хорошо говорить, потому что вам мир кодинга уже давно \u0026#34;абсолютно понятен\u0026#34;. А как быть тем, кто ещё только учится? В последние месяцы я не пишу код, а только пишу промпты для Клода.\u003cbr/\u003eМне кажется, что разбираться с незнакомой задачей намного проще, пытаясь написать решение самостоятельно, а не объясняя Клоду, что нужно сделать, и потом читая тысячи строк, которые он выдал. Может быть я что-то делаю неправильно, но я пока не понял как мне жить в этой новой парадигме."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d60",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1781382501,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e, а где и на чем запущен квен?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d61",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781382635,
+      "text": "бобук придумаль дубля!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d62",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781382654,
+      "text": "мистер мисикс"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d63",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781382662,
+      "text": "перечитали Понедельник начинается в субботу)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d64",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781382669,
+      "text": "они так и называются \u0026#34;октомисиксы\u0026#34;"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d65",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781382689,
+      "text": "точно, wwdc же был, первый раз что вообще нечего обсуждать"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d66",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781382700,
+      "text": "и что это не главная тема недели"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d67",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781382741,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt0jai2-VZfnLYx9iierrKdQbcZ0dJ0AAvwXaxsK3HFJJlnoB5XsBdYBAAMCAAN5AAM8BA",
+      "image_width": 1280,
+      "image_height": 720,
+      "text": ""
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d68",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781382751,
+      "text": "а что такого кринжового в презентации было?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d69",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tutunak",
+      "author_name": "tutunak",
+      "datetime": 1781382767,
+      "text": "Ура Бобук вернулся 🎉"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d6a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781382769,
+      "text": "так это же последняя под Тимом презентация"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d6b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781382783,
+      "text": "то, что Федериги не шутил излишне?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d6c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781382796,
+      "text": "Фредерики спасал"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d6d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781382803,
+      "text": "Но у конце его мало было"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d6e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781382903,
+      "text": "потому что они не могут отделить openclaw подобное использование"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d6f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781382959,
+      "text": "потом введут сессии"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d70",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781382988,
+      "text": "даже по 20 долларовой подписке можно выжирать около 100 баксов в день"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d71",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781383004,
+      "text": "люди используют хедлесс клод для автоматизации, тратят много токенов, сильно больше чем 100-200 долларов которые антропик с подписки получают"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d72",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1781383031,
+      "text": "я такой проект находил. Они под капотом запросы переделывают под интерактивный клод\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/askalf/dario\"\u003ehttps://github.com/askalf/dario\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d73",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781383043,
+      "text": "я один вообще не пользуюсь клодом (уже)?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d74",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383078,
+      "text": "конкуренты не сильно отличаются, тот же гпт, топовые китайские модели и т.д."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d75",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781383094,
+      "text": "а у меня скорее вопрос - а зачем им вообще подписки? почему бы не просить платить за токены всегда?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d76",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383114,
+      "text": "потому что инвестиции. нужно растить выручку"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d77",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781383116,
+      "text": "бизнес модель фитнес центров?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d78",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781383152,
+      "text": "тогда продолжаем доить подписку, спасибо"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d79",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383170,
+      "text": "прибыль никого не интересует, всех интересуют иксы по оценке компании, а оценка зависит исключительно от выручки"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d7a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781383187,
+      "text": "лутбоксы с фиксированной ценой но рандомным количеством токенов. Как вам бизнес-идея?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d7b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "centix",
+      "author_name": "👨🏼‍💻 Vadym",
+      "datetime": 1781383190,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt03ai3AFt-8IY557tYOIUitr-hfvGkAAv0XaxsK3HFJna-Rnn8FWuoBAAMCAAN5AAM8BA",
+      "image_width": 1280,
+      "image_height": 705,
+      "text": "Было сравнение на этой неделе"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d7c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781383207,
+      "text": "нет, с китайца дипсик я отошел как с наркоты. когда решения прошлых ошибок ведет к появлению новых. Видимо, точно антидистилированная защита сработала. а кодекс норм"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d7d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383255,
+      "text": "попробуйте подписку opencode go, удивитесь, сколько за 60 долларов можно наиспользовать моделей"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d7e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781383319,
+      "text": "вот оттуда я как раз ухожу. еще и шрифты полетели... хотя... big pickle ничего так..."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d7f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383376,
+      "text": "ещё очень пропёрся от модели composer 2.5"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d80",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383398,
+      "text": "cursor её дичайше субсидирует, и ощущения от очень быстрой модели это конечно вау"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d81",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383403,
+      "text": "смотрю на модели opencode go, не вижу композера в списке"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d82",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383419,
+      "text": "а, это курсорная.."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d83",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383420,
+      "text": "она есть только у курсора, к сожалению"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d84",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383432,
+      "text": "меня курсор не устраивает тем что он гуевый"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d85",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383447,
+      "text": "даже соннет даже по готовому плану, где половина реализации уже написана, работает просто дичайше медленно по сравнению с композером"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d86",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383458,
+      "text": "у них cli есть"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d87",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781383467,
+      "text": "у них есть и CLI, неплохой"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d88",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781383496,
+      "text": "⚠️ Claude Fable 5 and Claude Mythos 5 - \u003ca href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\"\u003ehttps://www.anthropic.com/news/claude-fable-5-mythos-5\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d89",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781383507,
+      "text": "\u003cstrong\u003eClaude Fable 5 and Claude Mythos 5 \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Anthropic приостанавливает доступ к Claude Fable 5 и Mythos 5, запустив Fable 5 с мощными возможностями и строгими защитами; Mythos 5 доступен ограниченно (Project Glasswing). Защиты иногда перенаправляют запросы на Opus 4.8; модель применима в кодировании, зрении, биологии и кибербезопасности.\u003cbr/\u003e\u003cbr/\u003e- Запуск и приостановка: Fable 5 запущен как безопасный Mythos-класс, но доступ временно ограничен; Anthropic работает над восстановлением доступа и улучшением защит.\u003cbr/\u003e- Доступ к Mythos 5: Mythos 5 — та же базовая модель с ослабленными защитами; сначала доступ через Project Glasswing для киберзащитников и инфраструктуры.\u003cbr/\u003e- Возможности: модели лидируют в программировании, зрении, долгом контексте, анализе данных и ускорении биомедицинских исследований; заметные успехи в кодовой миграции и дизайне белков.\u003cbr/\u003e- Защиты и классификаторы: запросы по кибербезопасности, биологии и химии классифицируются — при срабатывании ответ даёт Opus 4.8; более 95% сессий обходятся без переключения.\u003cbr/\u003e- Надёжность и цена: Anthropic заявляет низкий уровень несоответствий, проводит красные команды и баг-баунти; цена — $10/млн входных и $50/млн выходных токенов.\u003cbr/\u003e- Этические и практические эффекты: модели дают новые научные гипотезы и ускоряют исследования, но требуют строгих мер против злоупотреблений и снижения ложных срабатываний."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d8a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383516,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt1Gai3BXC3l9AyjEH_iiTZoXU9qQ0YAAgEYaxsK3HFJIL-R4yZ94wcBAAMCAAN4AAM8BA",
+      "image_width": 680,
+      "image_height": 312,
+      "text": ""
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d8b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383604,
+      "text": "короч ощущение безысходности от использования композера сильно выше, чем от любой модели клода, потому что не экстремально сложные задачи делаются очень быстро, причём проходя через весь цикл типа построение плана и его имплементация с тестами и ревью"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d8c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383630,
+      "text": "когда буквально от идеи и описания её в двух предложениях до конечной имплементации проходит буквально 3 минуты"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d8d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383636,
+      "text": "попробую"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d8e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383672,
+      "text": "та же самая задача при построении плана через опус и реализацию через соннет реализовывалась суммарно от получаса до часа"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d8f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383684,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt1Lai3CBC211sPacF4pErIEjiWZSIEAAgQYaxsK3HFJJ2DmgfxOxFQBAAMCAAN4AAM8BA",
+      "image_width": 800,
+      "image_height": 259,
+      "text": ""
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d90",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383763,
+      "text": "Бобук, а расскажи подробнее почему он именно ближе к соннету?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d91",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781383791,
+      "text": "В Америке понимают что такое Фейри или Доместос?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d92",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781383803,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e ты в ralphex используешь opus и для планирования, и для имплеметации, и для review?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d93",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781383818,
+      "text": "а фабл, как я понял - погонщик опусов (агентов) как будто, такой оверсир неплохой (ну это на моей скромной задачи)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d94",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781383820,
+      "text": "вроде бы это международные бренды"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d95",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlog_org",
+      "author_name": "Maxim",
+      "datetime": 1781383880,
+      "text": "те же ощущения"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d96",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383938,
+      "text": "я с фейблом перешел из похожего флоу как ральфекс, к тому чтобы просто ему давать план в один контекст"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d97",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383954,
+      "text": "и он ра зв 5 быстрее выполняет, и качество лучше чем новым контекстом на каждый таск опусом"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d98",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781383978,
+      "text": "я effort на low ставил, и он прям норм, на большой план из 1000 строк он за 200к контекста укладывался"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d99",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1781384014,
+      "text": "да, ну и кодекс тоже"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d9a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384036,
+      "text": "кстати блин, я вспомнил что хотел спросить, тулсет superpowers почему ни разу не обсуждали? \u003ca href=\"https://github.com/obra/superpowers\"\u003ehttps://github.com/obra/superpowers\u003c/a\u003e очень популярный"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d9b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781384061,
+      "text": "действительно прикольный, особенно нравится visual companion в brainstorming"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d9c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781384085,
+      "text": "n8n ?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d9d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384093,
+      "text": "вот я в нем с опусом использовал subagent-driver-development скилл, а с фейблом перешел на executing-plans простой"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d9e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781384097,
+      "text": "Бобук придумал n8n?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876d9f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1781384098,
+      "text": "Looks like Amazon was a major player in getting Anthropic\u0026#39;s latest AI model banned. Reports indicate that CEO Andy Jassy met with senior Trump administration officials this week, joining other tech leaders to voice serious concerns over security risks in Anthropic\u0026#39;s most advanced models."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da0",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384107,
+      "text": "и реально раз в 5 быстрее"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da1",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781384116,
+      "text": "\u003ca href=\"https://www.make.com\"\u003ewww.make.com\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da2",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384136,
+      "text": "странно учитывая что амазон инвестированы"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da3",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1781384158,
+      "text": "Ну дык правда страшно ведь"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da4",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781384171,
+      "text": "офигенная штука - я каждый день с ней пользу наношу себе\u003cbr/\u003eу нас в команде это прям хард рекомендация"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da5",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "VladCph",
+      "author_name": "Vlad C",
+      "datetime": 1781384200,
+      "text": "\u003ca href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.wsj.com%2Ftech%2Fai%2Famazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExV241VTVpNG0xZ3F3bnZDM3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4luQ4hhhzE6hlp6ha7hERn5BoGE4I_p783IzaGwhWsIr1dMu9xY8ndJi7rsw_aem_o_qM19ZgPHlSTqeFAgPqQQ\u0026amp;h=AUCPTPKhrMZVAfHTiWjSB3qXRqA7-2WgkOglX-Xp-O4ZolKb54NayIgJwrhb9b03Y4Di6lDPmui2d_mAG1kQwzOdqLkD35Y69kcZ6UpdvWzm-VP5YIPxg-Sl02tzLYthXIUW\u0026amp;__tn__=R*F\u0026amp;c[0]=AUAkRU01qrD7ZqbhfFsT8Nl6eNztqoG_TjHAdsUgSeq0UV8Ew1LLBok_VLAiR0QX3kj2L2Oy6470IRDMTonL5xWxm22yRSgVGIjoWbL8Y2V7Br2CG0gv-C8uO2Oeq3oX1ooeDZ0hvv5fh7DjBO1-c4o3qJqLElcD22qzP8qPan3HYTFBxBznwbu1NBYpEU8lTiMBkti8q-2eXAtQPd7DJk5wTsEf485u_rZvYu1a1ngXIw\"\u003ehttps://l.facebook.com/l.php?u=https%3A%2F%2Fwww.wsj.com%2Ftech%2Fai%2Famazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExV241VTVpNG0xZ3F3bnZDM3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4luQ4hhhzE6hlp6ha7hERn5BoGE4I_p783IzaGwhWsIr1dMu9xY8ndJi7rsw_aem_o_qM19ZgPHlSTqeFAgPqQQ\u0026amp;h=AUCPTPKhrMZVAfHTiWjSB3qXRqA7-2WgkOglX-Xp-O4ZolKb54NayIgJwrhb9b03Y4Di6lDPmui2d_mAG1kQwzOdqLkD35Y69kcZ6UpdvWzm-VP5YIPxg-Sl02tzLYthXIUW\u0026amp;__tn__=R*F\u0026amp;c[0]=AUAkRU01qrD7ZqbhfFsT8Nl6eNztqoG_TjHAdsUgSeq0UV8Ew1LLBok_VLAiR0QX3kj2L2Oy6470IRDMTonL5xWxm22yRSgVGIjoWbL8Y2V7Br2CG0gv-C8uO2Oeq3oX1ooeDZ0hvv5fh7DjBO1-c4o3qJqLElcD22qzP8qPan3HYTFBxBznwbu1NBYpEU8lTiMBkti8q-2eXAtQPd7DJk5wTsEf485u_rZvYu1a1ngXIw\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da6",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384213,
+      "text": "да, сильно лучше следует тому что задумано было, я думаю это +- как ральфекс только там больше помощи в написании плана самого"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da7",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781384216,
+      "text": "так даже на топовых нвидиях запустить никакую большую модель нельзя"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da8",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781384226,
+      "text": "кроме серверных видеокарт"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876da9",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384251,
+      "text": "не думаю что амазон волнует мир во всем мире или что-то такое"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876daa",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781384260,
+      "text": "а модели на 30 миллиардов параметров, особенно квантизованные, и близко не сравнятся даже с соннетом"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dab",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384261,
+      "text": "и у них у самих то доступ к мифосу был давно уже"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dac",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781384293,
+      "text": "я пропустил, напишите какой у бобука компьютер"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dad",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384302,
+      "text": "хороший"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dae",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384316,
+      "text": "как и микрофон у Умпутуна"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876daf",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1781384333,
+      "text": "Пишут что инженеры Амазон смогли обойти все ограничения Fable, придумали jailbreak."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db0",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384351,
+      "text": "я читал что наоборот они обошли для какой-то совсем простой задачи, и типа ее и опус решил бы"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db1",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384366,
+      "text": "и они репорт предоставили с этим, и там был поинт что все ок"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db2",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384379,
+      "text": "ну ждем, они обещали в течении 24 часов апдейт"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db3",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781384385,
+      "text": "гпт 5.5 имеет около триллиона параметров вроде как"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db4",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384393,
+      "text": "еще 4 часа по-идее =)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db5",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781384397,
+      "text": "или больше"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db6",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alek566",
+      "author_name": "Alek",
+      "datetime": 1781384431,
+      "text": "А какая модель от moon model можно запустить на компе с 800w, там памяти нужно до дури"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db7",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384437,
+      "text": "интересный был бы аппокалипсис если бы утекли веса мифоса"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db8",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781384447,
+      "text": "посмотреть че реально было бы, насколько все стали бы взламывать"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876db9",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781384447,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/d_derg\"\u003e@d_derg\u003c/a\u003e \u003cem\u003eтебя слишком много, отдохни...\u003c/em\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dba",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781384462,
+      "text": "я узкий! (меня заменят)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dbb",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781384476,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e Как ты думаешь, будущее за open source моделями, или за проприетарными, и почему?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dbc",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781384527,
+      "text": "в будущем не будет мощных открытых моделей"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dbd",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781384587,
+      "text": "ой, не знаю... мне уодексу прищлось скилл прописывать, чтобы он собаке make не запускал каждый раз, когда не просят. это про тулинг"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dbe",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781384605,
+      "text": "бобук - а какой квен - на скольк опараметров?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dbf",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alek566",
+      "author_name": "Alek",
+      "datetime": 1781384619,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e  а сколько памяти у тебя на балконе ? К примеру moon shot Kimi 2.7 нужно 380 GB и это 4 bit модель"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc0",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781384686,
+      "text": "\u003ca href=\"https://herdr.dev\"\u003ehttps://herdr.dev\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc1",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781384756,
+      "text": "хер дыр :)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc2",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sis_t",
+      "author_name": "Ilya Suprun",
+      "datetime": 1781384758,
+      "text": "cmux"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc3",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781384856,
+      "text": "я вообще так понял, на темы мы ложили..."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc4",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781384910,
+      "text": "\u003ca href=\"https://super.engineering\"\u003esuper.engineering\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc5",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1781385011,
+      "text": "Тут у Подлодки был подкаст с контрибьютором из Zed, там же тоже такая тема примерно"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc6",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Solok_k",
+      "author_name": "Kirill",
+      "datetime": 1781385033,
+      "text": "Как непривычно и приятно слышать Бобука снова!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc7",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781385034,
+      "text": "⚠️ Statement on the US government directive to suspend access to Fable 5 and Mythos 5 - \u003ca href=\"https://www.anthropic.com/news/fable-mythos-access\"\u003ehttps://www.anthropic.com/news/fable-mythos-access\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc8",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781385044,
+      "text": "\u003cstrong\u003eStatement on the US government directive to suspend access to Fable 5 and Mythos 5 \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое изложение: Правительство США потребовало приостановить доступ к Fable 5 и Mythos 5 для всех иностранных граждан; Anthropic отключает эти модели для всех пользователей, остальные модели не затрагиваются. Компания считает найденную уязвимость узкой и работает над восстановлением доступа.\u003cbr/\u003e\u003cbr/\u003e- Правительственная директива: США по аргументам национальной безопасности приказали запретить доступ к Fable 5 и Mythos 5 всем иностранцам, включая иностранных сотрудников Anthropic, внутри и за пределами США.\u003cbr/\u003e\u003cbr/\u003e- Немедленные последствия: Anthropic вынуждена срочно отключить Fable 5 и Mythos 5 для всех клиентов, чтобы выполнить директиву; доступ ко всем другим моделям компании остаётся без изменений.\u003cbr/\u003e\u003cbr/\u003e- Содержание директивы: Письмо получено сегодня в 17:21 (ET) и не раскрывает подробностей национальной безопасности; в устной форме указано на возможный метод обхода (jailbreak).\u003cbr/\u003e\u003cbr/\u003e- Результаты проверки Anthropic: Демонстрация показала небольшие, известные уязвимости, которые публичные модели также находят; обнаруженные обходы выглядят узкими и не дают существенного преимущества Mythos.\u003cbr/\u003e\u003cbr/\u003e- Политика безопасности: Anthropic применяет «глубокую» защиту, длительное тестирование и 30‑дневное хранение данных клиентов для обнаружения и смягчения обходов; компания считает это уравновешивающей мерой риска.\u003cbr/\u003e\u003cbr/\u003e- Разногласия с решением: Anthropic не согласна с отзывом коммерческой модели из‑за узкой уязвимости и выступает за прозрачный, справедливый, технически обоснованный и статутный процесс блокировок.\u003cbr/\u003e\u003cbr/\u003e- Дальнейшие шаги и извинения: Компания изучает ситуацию, обещает больше деталей в ближайшие 24 часа, приносит извинения клиентам и работает над как можно более скорым восстановлением доступа."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dc9",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781385082,
+      "text": "Этот ваш суперкондуктор есть только для Мака. Так что объяснение Бобука о нативности не канает."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dca",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1781385096,
+      "text": "Карпатому отключили"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dcb",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alsiri0n",
+      "author_name": "Nikita",
+      "datetime": 1781385115,
+      "text": "лемминги)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dcc",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Solok_k",
+      "author_name": "Kirill",
+      "datetime": 1781385119,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt2Kai3Hn6LK5Fep-iMYNovrpOrDSw8AAiUXaxvzIHBJka_Z8uMOs9IBAAMCAAN5AAM8BA",
+      "image_width": 1280,
+      "image_height": 853,
+      "text": "Хах\u003cbr/\u003eКак-то так"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dcd",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1781385122,
+      "text": "Леминги 😂"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dce",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385152,
+      "text": "почему нельзя проголосовать что не слышал ни 1"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dcf",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781385172,
+      "text": "не знаю, сейчас поправлю"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd0",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385260,
+      "text": "там про джейлбрейк был что оно именно такого же уровня задачу согласилось решить как можно и обычной моделью, я так понимаю не было такого что прям полный джейлбрейк был"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd1",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781385481,
+      "text": "проблема определения гражданства для itar решена в сша - есть аккредитированные сервисы которые это проверяют"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd2",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385485,
+      "text": "вопрос: они запретили не-гражданам-сша, или гражданам-не-сша? если у человека двойное например, то недостаточно убедиться что у человека есть американский паспорт, нужно убедиться что нет никакого другого?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd3",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781385498,
+      "text": "Надо спарки брать, задерегулируют нейронки. В ЕС уже I,II,III,VI категории ввели, дальше-больше, будут душить."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd4",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385517,
+      "text": "то есть как для пилотов например - гражданам РФ запрещено иметь самолет в ЕС, даже если второе гражданство европейское есть"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd5",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781385522,
+      "text": "знаяит, проблема в идентификации, а в еще непонимании, кому можно. это не только правительство медленное"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd6",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385536,
+      "text": "ну и да, будет черный рынок как-будто, я уже готов купить за двойную цену аккаунт с фейблом :D"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd7",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781385544,
+      "text": "не в идентификации"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd8",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781385554,
+      "text": "за передачу экспортных технологий не us persons - наказание до 10 лет тюрьмы обоим сторонам"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dd9",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781385565,
+      "text": "не каждый в дарк нете готов светить свой код."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dda",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781385590,
+      "text": "это уголовка сравнимая со взломом айти систем"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876ddb",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385597,
+      "text": "openai нагнетали про gpt2"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876ddc",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781385630,
+      "text": "если правильно выводить и в правильной стране то как они тебя отследят?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876ddd",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385637,
+      "text": "а я в другом городе"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dde",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781385651,
+      "text": "Откуда нам знать \u0026#34;что весь мир хочет\u0026#34;?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876ddf",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781385656,
+      "text": "IP-адрес обычно показывает примерное местоположение (город/регион); VPN скрывает видимый IP, но VPN-провайдер может хранить логи и передать их по запросу властей в своей юрисдикции."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de0",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781385664,
+      "text": "ну готовы рискнуть? с экспортом оружия и гпу тоже некоторые готовы. но экстрадируют периодически"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de1",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781385667,
+      "text": "да хорошо будет, если дело только в бабках... тут можно накрутить"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de2",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385671,
+      "text": "на фразе \u0026#34;опа\u0026#34; я пошел проверить есть ли твиты новые у антропика.."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de3",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781385743,
+      "text": "так может там опус внутри, притворяется просто фейблом"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de4",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781385827,
+      "text": "в поддержку теории заговора клиенты очень gracefully отреагировали на недоступность модели и саппорт бот легко отрабатывал рефанды"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de5",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781385886,
+      "text": "а я все равно за опенаи. вся это погоня за баблом до хорошего не доведет..."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de6",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781385914,
+      "text": "ой, ну Mifos - это попма их IPO (imho)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de7",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1781385932,
+      "text": "Подкаст сегодня будет 5 часов 😁"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de8",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781385958,
+      "text": "согласен об этом можно говорить бесконечно"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876de9",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781385999,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt2rai3LDzeEnoZwc14QPRqPgqc_6ToAAisXaxvzIHBJnwABXCc3Y93lAQADAgADeQADPAQ",
+      "image_width": 1200,
+      "image_height": 502,
+      "text": ""
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dea",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386009,
+      "text": "фейк к сожалению"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876deb",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781386018,
+      "text": "канеш"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dec",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386037,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt2uai3LNfU6MMPBTH4iY40jRN5nCK4AAiwXaxvzIHBJ-M1reLjLPwoBAAMCAAN5AAM8BA",
+      "image_width": 1280,
+      "image_height": 821,
+      "text": "вот еще фейк"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876ded",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781386039,
+      "text": "а вдруг нет"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dee",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781386052,
+      "text": "ну чем чёрт не шутит!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876def",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781386069,
+      "text": "Бобук, а ты слушал спич Дурова в Норвегии, помоему. Такие вещи, как ктото слушает или нет, уже не такая смешная :("
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df0",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1781386073,
+      "text": "пират бай же прикрыли =)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df1",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386102,
+      "text": "не, все работает"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df2",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386112,
+      "text": "ее сколько не пытались закрыть - она всегда работала"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df3",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781386137,
+      "text": "Ребята, я качаю. Потом расскажу что там."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df4",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386146,
+      "text": "у них защита же еще была, она палила когда ее использовали для разработки нейронок других - и незаметно тупела"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df5",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781386183,
+      "text": "вся база троянов за всю историю человечества собрано в одном месте"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df6",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386199,
+      "text": "смешно если там порно, и окажется что это не фейк, а внутри фейбла просто порно"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df7",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781386214,
+      "text": "мужское"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df8",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1781386217,
+      "text": "мои промты - то ещё порно, кстати!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876df9",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781386308,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e у карпатова гринкарта, в новостях неправильно трактуют Foreign Person - и EAR и ITAR ограничивают доступ для не US persons - но greencard это us persons"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dfa",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781386320,
+      "text": "⚠️ WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more | TechCrunch - \u003ca href=\"https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\"\u003ehttps://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dfb",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781386331,
+      "text": "\u003cstrong\u003eWWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Apple на WWDC 2026 представила серьёзные обновления Siri AI, iOS 27 и Apple Intelligence, улучшила приватность, производительность и функции (включая новые средства для фото, поиска и родительского контроля) и анонсировала смену руководства — прощальную речь Тима Кука.\u003cbr/\u003e\u003cbr/\u003e- Siri AI: обновлённый ассистент на базе Google Gemini с визуальным интеллектом, отдельным приложением и акцентом на конфиденциальность — данные используются только для выполнения запросов и доступны для внешней проверки.\u003cbr/\u003e- Apple Intelligence: кросс-приложенная контекстность, умные подсказки в Сообщениях, улучшения звонков (контекст из почты/сообщений), однонажатное обновление паролей и управление вкладками в Safari.\u003cbr/\u003e- iOS 27 и производительность: поддержка iPhone 11 и новее; ускорение отображения фото на 70%, AirDrop на 80%, улучшенные планировщики CPU и множество мелких улучшений интерфейса.\u003cbr/\u003e- Функции фото и генерация изображений: Reframe, Extend и улучшенный Cleanup с генеративным ИИ; Image Playground получает обновлённую стратегию и запрет на обучение на сгенерированных фото.\u003cbr/\u003e- Интерфейс и настройки: возможность частично откатить элементы Liquid Glass, новые полноэкранные виджеты, отдельные регуляторы громкости для будильников/уведомлений и обновлённые быстрые команды с вводом на естественном языке.\u003cbr/\u003e- Безопасность и семья: расширенные родительские настройки по умолчанию (Ask to Browse, Ask to Buy), новые ограничения для звонков и приложений; поиск полностью переработан (Spotlight, Photos, Mail).\u003cbr/\u003e- Управление и бизнес: поддержка подписочных пакетов в App Store и персонализированные рекомендации; прощальная речь Тима Кука и передача операционной роли Джону Тернусу с 1 сентября."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dfc",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781386336,
+      "text": "Маск социалист? там же налоги тоже ужасные..."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dfd",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781386340,
+      "text": "для задач регулировки экпорта гражданство и гринкарта одинаковы"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dfe",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781386354,
+      "text": "гражданство после гринки можно не получать. на самом деле у них у всех забрали доступ просто"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876dff",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1781386379,
+      "text": "Википедия говорит, что Маск гражданин США с 2002 г."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e00",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781386444,
+      "text": "не уверен, никто же самого требования правительства не видел кроме антропика (оно не публичное). наружи были слова про foreign nationals - это ровно слова из терминологии ear и itar - они НЕ включают в себя гринкарты - гринкарты для этих законов = граждане (у меня на работе очень много itar)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e01",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781386466,
+      "text": "я тебе от инсайдера расскажу - отключили пока всем 🙂"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e02",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386469,
+      "text": "готорят к тачскрину готовятся на новых макбуках, вопрос - зачем"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e03",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1781386576,
+      "text": "самое грустное, что они так быстро убрали поддержку Apple Watch Ultra"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e04",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781386599,
+      "text": "опять забота государства о детях...? Я вспомнил про Дурова опять"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e05",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1781386745,
+      "text": "Это сколько детей наругают которые спалятся на желании сходить в порнхаб =\\"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e06",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386767,
+      "text": "кстати сири в евросоюзе не будет новой, как минимум первое время, говорят.."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e07",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386808,
+      "text": "в телевизоре поэтому какие-то вещи не показывают до 10 вечера"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e08",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386825,
+      "text": "вспоминаю дтв после 10.."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e09",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1781386957,
+      "text": "\u003ca href=\"https://youtu.be/_VRRhBACcrc?si=bUkpmUrOe-tqW0nS\"\u003ehttps://youtu.be/_VRRhBACcrc?si=bUkpmUrOe-tqW0nS\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e0a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781386984,
+      "text": "То есть можно будет загрузить себе прошивку разных скиллов"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e0b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1781387054,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e Женя, привет! Вопросик насчет ralphex. (если кому есть что сказать - welcome) Подскажи, а есть какой-то смысл заходить на идею мульти-репозиторных изменений по одному плану? Или это никак не вписывается в твои представления о том, как этот инструмент должен работать?\u003cbr/\u003e\u003cbr/\u003eПример такой: у меня есть несколько репозиториев, в которых мне надо сделать скоординированные изменения. Например, основной сервис, внешний прокси, CLI, модель API (скажем, Swagger), интеграционные тесты (а-ля User Acceptance, живут отдельно), ну и быть может какой-то UI.\u003cbr/\u003e\u003cbr/\u003eВ моей модели большинство фич затрагивает более одного репозитория. Так что план покрывает изменения во многих местах. Сейчас такой план написать можно, изменения сделаются, но вот нормально их протестировать нельзя, CodeReview тожебудет только текущего репозитория, а по-хорошему их надо совместно смотреть."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e0c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781387062,
+      "text": "если знания можно будет заливать как прошивку - останутся ли экзамены?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e0d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781387329,
+      "text": "я на elvanse - топ"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e0e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781387347,
+      "text": "a.m.a, есть тоже меньше хочетяс кстати"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e0f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1781387353,
+      "text": "Бобук и вайбкодинг предсказал! Как South Park или Sampsons, только «наш»"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e10",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781387456,
+      "text": "они еще раутят небось между локальной и облачной"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e11",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781387674,
+      "text": "Ксюш, это называется fold или flip, flip это когда обычный телефон в маленький складывается"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e12",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781387829,
+      "text": "Ты что хочешь за один промпт сделать себе хорошо?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e13",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1781387857,
+      "text": "За один план."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e14",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1781387860,
+      "text": "Потому что прошел Golden rain"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e15",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "y_senchkovskiy",
+      "author_name": "Yuriy S",
+      "datetime": 1781388003,
+      "text": "Как думаете почему все еще не презентуют новые мак мини, мак студио? Собрать мак студио на 512 сейчас нельзя в США, даже мини на м4 про сейчас будут собирать 10-12 недель"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e16",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781388045,
+      "text": "память дорогая кмк"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e17",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781388131,
+      "text": "Я не спец в твоём вопросе, но думаю что тебе нужен какойто иерархический оркестратор, который разбивает задачи на мелкие, и сверху в низ подбирает для каждой задачи своего агента как более мелких слуг, оставляя в сессии понимание о всех репозиториях чтобы не перезаписалось понимание об общей картине в целом"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e18",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781388254,
+      "text": "Ralphex сам по себе разве может быть над иерархией?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e19",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781388417,
+      "text": "Гринкард отличается, могут депортировать за мошенничество."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e1a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781388419,
+      "text": "антропики про nationals писали в статье, типа национальность а не резиденствтво"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e1b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781388431,
+      "text": "отличаются гринкарты от о-1, гринкарты для экспортных ограничений приравнены к гражданам"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e1c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781388453,
+      "text": "двойное гражданство влияет только на шансы получения secret и top secret clearance"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e1d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781388496,
+      "text": "интел дропнули"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e1e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1781388502,
+      "text": "у мальчика были проблемы из-за второго гражданств даже при получении топ клиренса"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e1f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781388554,
+      "text": "не, ограничений на natural born citizens нет ни у кого (они не законны) - только если на позиции security clearance нужна - но опять же с двойным гражданством secret получить довольно реально (top secret практически нет)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e20",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781388694,
+      "text": "⚠️ Темы слушателей 017 - \u003ca href=\"https://radio-t.com/p/2026/06/09/prep-1017/\"\u003ehttps://radio-t.com/p/2026/06/09/prep-1017/\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e21",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781388696,
+      "text": "поток общающихся друг-с-другом нейронок"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e22",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781388709,
+      "text": "[1/11] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eDenis Smet\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003esem diff – \u003c/em\u003e\u003ca href=\"https://ataraxy-labs.github.io/sem/\"\u003ehttps://ataraxy-labs.github.io/sem/\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eСемантический контроль версий поверх Git, который показывает diff не по строкам, а по сущностям – типа «функция X изменилась», «класс Y переименован», плюс умеет анализировать impact (что сломается, если тронуть функцию) и blame на уровне функций. Парсит 26 языков (включая разбор маркдаунов) через tree-sitter и работает в любом репо без настройки.\u003cbr/\u003e\u003cbr/\u003eРаботает без(!) AI, но есть mcp сервер.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003esem\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: sem — CLI для анализа репозиториев Git без настройки, с JSON-выходом и командным набором для диффов, трассировки изменений, зависимости, истории и контекстов сущностей, готовых к использованию в LLM.\u003cbr/\u003e\u003cbr/\u003e- sem: Работает в любом Git-репозитории без конфигурации или плагинов. Все команды поддерживают --json для машинно-читаемого вывода и полную справку.\u003cbr/\u003e- diff: Показывает изменения на уровне сущностей с обнаружением переименований, структурным хешированием и побуквенными подсветками внутри строк.\u003cbr/\u003e- blame: Для каждой сущности (функция, класс, метод) показывает последний коммит и автора, коснувшихся этой сущности.\u003cbr/\u003e- impact: Строит граф зависимостей между файлами и сущностями, показывает, какие сущности и тесты зависят от функции и кто транзитивно затронут.\u003cbr/\u003e- log: История Git по отдельной сущности — все коммиты, изменявшие конкретную функцию или метод с пометками типа изменения.\u003cbr/\u003e- entities: Перечисляет все функции, классы, методы и типы под указанным путём с номерами строк и диапазонами.\u003cbr/\u003e- context: Умный контекст для ИИ с бюджетом токенов — включает целевую сущность, её зависимости и зависимые сущности, укладывается в контекст LLM."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e23",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781388709,
+      "text": "[2/11] \u003cstrong\u003e+8\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eАнтропик сначала выкатил новую модель Fable 5 и через пару дней по требованию правительства США закрыл\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.anthropic.com/news/fable-mythos-access\"\u003ehttps://www.anthropic.com/news/fable-mythos-access\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eStatement on the US government directive to suspend access to Fable 5 and Mythos 5 \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое изложение: Правительство США потребовало приостановить доступ к Fable 5 и Mythos 5 для всех иностранных граждан; Anthropic отключает эти модели для всех пользователей, остальные модели не затрагиваются. Компания считает найденную уязвимость узкой и работает над восстановлением доступа.\u003cbr/\u003e\u003cbr/\u003e- Правительственная директива: США по аргументам национальной безопасности приказали запретить доступ к Fable 5 и Mythos 5 всем иностранцам, включая иностранных сотрудников Anthropic, внутри и за пределами США.\u003cbr/\u003e\u003cbr/\u003e- Немедленные последствия: Anthropic вынуждена срочно отключить Fable 5 и Mythos 5 для всех клиентов, чтобы выполнить директиву; доступ ко всем другим моделям компании остаётся без изменений.\u003cbr/\u003e\u003cbr/\u003e- Содержание директивы: Письмо получено сегодня в 17:21 (ET) и не раскрывает подробностей национальной безопасности; в устной форме указано на возможный метод обхода (jailbreak).\u003cbr/\u003e\u003cbr/\u003e- Результаты проверки Anthropic: Демонстрация показала небольшие, известные уязвимости, которые публичные модели также находят; обнаруженные обходы выглядят узкими и не дают существенного преимущества Mythos.\u003cbr/\u003e\u003cbr/\u003e- Политика безопасности: Anthropic применяет «глубокую» защиту, длительное тестирование и 30‑дневное хранение данных клиентов для обнаружения и смягчения обходов; компания считает это уравновешивающей мерой риска.\u003cbr/\u003e\u003cbr/\u003e- Разногласия с решением: Anthropic не согласна с отзывом коммерческой модели из‑за узкой уязвимости и выступает за прозрачный, справедливый, технически обоснованный и статутный процесс блокировок.\u003cbr/\u003e\u003cbr/\u003e- Дальнейшие шаги и извинения: Компания изучает ситуацию, обещает больше деталей в ближайшие 24 часа, приносит извинения клиентам и работает над как можно более скорым восстановлением доступа."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e24",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781388710,
+      "text": "[3/11] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eAndriy Kryvtsun\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eДля чего на самом деле выпустили Fable 5:\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/\"\u003eAnthropic’s Fable 5 can make weirdly fun video games with the click of a button\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eAnthropic\u0026#39;s Fable 5 can make weirdly fun video games with the click of a button | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Anthropic выпустил Claude Fable 5 (публичная версия Mythos). Модель генерирует рабочие программы и игры по одной подсказке, демонстрируя высокую производительность и потенциально меняя подход к разработке ПО и картографии.\u003cbr/\u003e\u003cbr/\u003e- Возможности: Fable 5 создает код, визуализации и игры, выполняя сложные многополосные спецификации часами без заметного сбоя.\u003cbr/\u003e- Отзыв исследователя: Итан Моллик отмечает, что Fable «значительно превосходил» другие публичные модели по качеству и надежности.\u003cbr/\u003e- Игры: примерные проекты — Snake (постоянно движущаяся змейка), Strata (подземные туннели, зажигание фонарей) и Duino (поэтическая прогулка с отрывками Рильке).\u003cbr/\u003e- Одношаговая генерация: все упомянутые игры были созданы «одной начальной подсказкой» в Claude Code, что подчеркивает простоту и скорость разработки.\u003cbr/\u003e- Карты и визуализации: Fable сгенерировал точную исхроническую карту — удобный инструмент для оценки времени поездок между точками.\u003cbr/\u003e- Последствия: проекты, ранее требовавшие команд, теперь могут рождаться быстрее; это меняет роль разработчиков и ускоряет прототипирование.\u003cbr/\u003e- Доступность: Fable 5 — первая публичная версия Mythos, дающая исследователям и разработчикам доступ к мощным генеративным возможностям."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e25",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781388710,
+      "text": "[4/11] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003ePavel\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eновый сервис: SOfA 🚀\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eссылка на сервис: h\u003c/em\u003e\u003ca href=\"https://agents.stackoverflow.com/\"\u003ettps://agents.stackoverflow.com/\u003cbr/\u003e\u003c/a\u003e\u003cem\u003eанонс: h\u003c/em\u003e\u003ca href=\"https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/\"\u003ettps://stackoverflow.blog/2026/06/10/announc...\u003cbr/\u003e\u003c/a\u003e\u003cem\u003eмета: h\u003c/em\u003e\u003ca href=\"https://meta.stackoverflow.com/questions/438910/introducing-stack-overflow-for-agents\"\u003ettps://meta.stackoverflow.com/questions/4389... \u003c/a\u003e\u003cem\u003e(+25|-66)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003ePreviously the company was trying to replicate Reddit.\u003cbr/\u003eany particular reason the company is now deciding to replicate moltbook?\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e-\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003eWhy? Where is the value? How does this help?\u003cbr/\u003eAgents are already very good at searching the web.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e-\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003eThe Terms of Service ban AI agents from using Stack Overflow for Agents.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cbr/\u003eH\u003cstrong\u003eome - Stack Overflow for Agents\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003eКраткое резюме: Коллекция проблем и приёмов по работе с автономными агентами, потоками задач, интеграциями и отладкой: обнаружение зависших сессий, завершения в пуле воркеров, компрессия истории, ошибки интеграций (сеть, PowerShell, драйверы ML) и неожиданные баги в продакшн-флоу.\u003cbr/\u003e\u003cbr/\u003e- Обнаружение зависшей сессии агента: измеряйте прогресс задач, а не только «жизнеспособность» процесса, чтобы отличать реально застрявшие сессии от активно работающих долгоживущих агентов.\u003cbr/\u003e- Завершение в пуле воркеров: в пуле N агентов «idle» не равнозначно «done» — надо учитывать очередь и соглашения о завершении, чтобы корректно определить завершение работы.\u003cbr/\u003e- Компрессия истории разговоров: сжимайте и мутируйте только «живую» часть после маркера поста, чтобы не инвалидировать кэш подсказок поставщика LLM.\u003cbr/\u003e- Публикация знаний агентами: безопасно позволить агентам самим вносить в общую базу без ручной модерации требует политики, валидации и ограничений доступа.\u003cbr/\u003e- Интеграционные и сетевые баги: примеры — висящие вызовы к NVIDIA NIM, 403 при доступе к Reddit RSS, POST-зависания через Cloudflare и PowerShell-обёртки; требуются трассировка и тайм-ауты.\u003cbr/\u003e- Низкоуровневые препятствия: блокирующие FFI-вызовы в ML-библиотеках, проблемы stdout в Rust при TTS/инференсе и перенос файловых дескрипторов между процессами — всё требует отдельной стратегии отказоустойчивости.\u003cbr/\u003e- Мелкие, но критичные баги: пустые переменные в транзакционных письмах, неконсистентные анимации навигации, предупреждения о клиппинге значений — имеют большой эффект в продакшне и требуют явной валидации."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e26",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1781388710,
+      "text": "[5/11] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eSam Pearse\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eБолее 400 пакетов AUR использованы для установки стиллеров: \u003c/em\u003e\u003ca href=\"https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html\"\u003ehttps://thehackernews.com/2026/06/over-400-ar...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOver 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Злоумышленники захватили более 400 пакетов AUR, изменили сборочные скрипты, чтобы установить Rust-стилер учётных данных и опциональный eBPF‑руткит; атаке подверглись орфанные пакеты, угроза нацелена на рабочие станции разработчиков и системы сборки.\u003cbr/\u003e\u003cbr/\u003e- Масштаб: более 400 скомпрометированных пакетов AUR (списки ещё растут); официальные репозитории Arch не пострадали.  \u003cbr/\u003e- Механизм: злоумышленники приняли покинутые пакеты и изменили PKGBUILD/.install, добавив npm-пакеты (atomic-lockfile, js-digest) с предустановочным хуком, запускающим исполняемый ELF deps.  \u003cbr/\u003e- payload: Rust‑стилер крадёт браузерные куки/токи, токены GitHub/npm/Vault/OpenAI, SSH‑ключи, Docker/Podman креды, VPN‑профили и файлы; отправляет данные через HTTP и управляется через Tor‑онлайн сервис.  \u003cbr/\u003e- Руткит: eBPF‑модуль опционален, загружается при root/правильной возможности и прячет процессы, имена и сокеты, блокируя отладку; усложняет очистку системы.  \u003cbr/\u003e- Что делать: проверьте все AUR‑пакеты, установленные/обновлённые с 11 июня, на наличие atomic-lockfile, js-digest и пути src/hooks/deps; если запуск был — считайте учётки скомпрометированными и ротируйте ключи/токены.  \u003cbr/\u003e- Устранение: ищите неизвестные systemd‑юниты (/etc и ~/.config/systemd/user), файлы в /var/lib/, BPF‑мапы hidden_pids/names/inodes и соединения с Tor; если запуск был от root — переустановите систему из доверенного образа.  \u003cbr/\u003e- Профилактика: перед сборкой читайте PKGBUILD и .install; особенно остерегайтесь недавно принятых или резко активных пакетов; не устанавливайте, если не понимаете инструкции."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e27",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1781388720,
+      "text": "Ну вот простой вопрос, API-модель поменялась, из неё надо сбилдить кучу всего (сервер, клиент, CLI, и т.п.), скилы для всего этого есть, но внутри сессии Claude code нету концепции, что надо работать более, чем с одним репозиторием. План Claude Code из коробки умеет так и понимает межрепозиторные связи и последовательность изменений, включая тестирование, но он не умеет некоторых других вещей, которые умеет Ralphex (множество code review, много-модельные review)."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e28",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781388857,
+      "text": "Ralphex может быть частью оркестра"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e29",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781389078,
+      "text": "n8n или тот же \u003ca href=\"https://make.com\"\u003emake.com\u003c/a\u003e можешь использовать как дерижера нейронками хотя это по сути интеграторы"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e2a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781389087,
+      "text": "это просто термин из закона, не надо придумывать"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e2b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1781389102,
+      "text": "Не совсем, там нужна осведомленность, что если поменялось что-то в одном репозитории, то надо вызвать codegen в другом репозитории, это требует кросс-репозиторной координации на лету.\u003cbr/\u003e\u003cbr/\u003eНу в общем, в процессе дискуссии, мне показалось, что я стал приходить к идее, что можно просто до-реализовать нужные вещи из Ralphex в моем flow.\u003cbr/\u003e\u003cbr/\u003eВсё-таки идея одного репозитория гвоздями прибита в самый центр Ralphex (я код смотрел). Это вот прям так просто не поменяешь вроде бы."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e2c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "max_sarmanov",
+      "author_name": "Max Sarmanov",
+      "datetime": 1781389187,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt3wai3Xg7D7f7E_gbagVV8CIw3peMIAAkwXaxvzIHBJf6yhOToim1MBAAMCAAN5AAM8BA",
+      "image_width": 1280,
+      "image_height": 537,
+      "text": "вот например из гугла"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e2d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781389243,
+      "text": "Я бы нанял кого-то за 1 или 2 банана"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e2e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781389339,
+      "text": "Закон капитализма - никто не будет шевелиться пока не покажешь деньги."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e2f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781389832,
+      "text": "держится на честном слове. за 2 минуты до фиаско."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e30",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781389871,
+      "text": "их потом там остановили дальше и закрыли от цивильных поглубже"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e31",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781389976,
+      "text": "О, да, я нашел когда запустил, ушел, вернулся, он 50 вложенных запустил"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e32",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781389987,
+      "text": "потому что у меня баг был в скилле, у них написано максимум 5 вложенных, но нифига"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e33",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781390046,
+      "text": "можно базовый набор маст хев плагинов от Бобука?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e34",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781390075,
+      "text": "для pi"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e35",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781390224,
+      "text": "но ведь порох это же салюты!"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e36",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1781390261,
+      "text": "римские..."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e37",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781390300,
+      "text": "бардюр можно использовать для того чтобы покрасить его в красный цвет а можно использовать для того чтобы отковырять его и дать комуто по башке тоже двойное назначение"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e38",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390322,
+      "text": "тренировать то занимает пол года как Бобук сказал"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e39",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390339,
+      "text": "если их за неделю заметят например"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e3a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781390351,
+      "text": "китайские же"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e3b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390369,
+      "text": "ингресс в сердце навсегда.."
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e3c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390453,
+      "text": "о, будет gpt6 сравнима интересно"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e3d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390474,
+      "text": "эх"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e3e",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alex911111",
+      "author_name": "Sasha",
+      "datetime": 1781390484,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/bobuk\"\u003e@bobuk\u003c/a\u003e расскажи пожалуйста какие extension для pi ты считаешь must-have? ( Я честно попытался поискать у тебя на GitHub и на твоём канале и не нашел )"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e3f",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781390534,
+      "text": "\u003ca href=\"https://lazypi.org\"\u003elazypi.org\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e40",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781390538,
+      "text": "с вашими подкастами бобук обратно вернётся к ЗОЖ"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e41",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruslanbotashev",
+      "author_name": "Ruslan Botashev",
+      "datetime": 1781390552,
+      "text": "Нил Деграсс Тайсон книгу написал про то, что почти все в астрофизике используется и военными, причем и финансируется именно военными в первую очередь, даже телескоп был разработан Галилеем на грант от военных под подзорную трубу \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://neildegrassetyson.com/books/2018-09-accessory-to-war/\"\u003ehttps://neildegrassetyson.com/books/2018-09-accessory-to-war/\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e42",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390680,
+      "text": "прикиньте если веса мифоса утекут реально на торренты, будет апокалипсис?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e43",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "kudmn",
+      "author_name": "Kudman",
+      "datetime": 1781390694,
+      "text": "а как же Ингресс"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e44",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1781390708,
+      "text": "как отслеживать полезные вещи?\u003cbr/\u003eрекомендую мой способ: просто следить, что добавляет в избранное Бобук у себя в github )))"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e45",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781390736,
+      "text": "Ingress Forever"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e46",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781390798,
+      "image_url": "https://chat.radio-t.com/logs/1017/AgACAgIAAx0CUPxcWQABCt4Lai3dznIzgxsLvqvEzgOpnPQXd1kAAlcXaxvzIHBJOkBl3Jf10jwBAAMCAAN5AAM8BA",
+      "image_width": 1280,
+      "image_height": 853,
+      "text": ""
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e47",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1781390812,
+      "text": "Бобук, а ты резист или энлайт? 🙂"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e48",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390840,
+      "text": "вот, вещи спрашиваешь"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e49",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "d_derg",
+      "author_name": "Danila Dergachev",
+      "datetime": 1781390853,
+      "text": "надеюсь энлайт"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e4a",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "bobuk",
+      "author_name": "Grigory Bakunov",
+      "datetime": 1781390874,
+      "text": "\u003ca href=\"https://en.wikipedia.org/wiki/UFC_Freedom_250\"\u003ehttps://en.wikipedia.org/wiki/UFC_Freedom_250\u003c/a\u003e"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e4b",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781391073,
+      "text": "Драки по американски это как схема в кино Сержант Билко, где он договаривался с одним боксёром, чтобы тот сдал бой за деньги, но параллельно другой участник подумал, что ему тоже заплатят но только потом, после боя. Как они танцевали на ринге и оба упали помните синхронно?"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e4c",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1781391131,
+      "text": "хороший выпуск =)"
+    },
+    {
+      "id": "6a3a46b9a6adeb787e876e4d",
+      "issue": 1017,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1781391145,
+      "text": "выступление"
+    }
+  ]
+}
