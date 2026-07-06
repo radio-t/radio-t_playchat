@@ -1,0 +1,995 @@
+{
+  "chat": [
+    {
+      "id": "6a4b4d1946be1c9368fa8017",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1783195112,
+      "text": "сегодня ведь можно шутки про фейерверки:\u003cbr/\u003e\u0026#34;Chicago police assure residents those loud popping noises are just gunshots\u0026#34;"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8018",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783195320,
+      "text": "Расскажите что используете для CD ваших контейнеров для пет проектов? А тотклод мне говорит давай напишем скилл + кастомный скрипт. Со скрипом я ещё ок, а если что то не для энтерпрайз доставок готовое?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8019",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1783195719,
+      "text": "github readme"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa801a",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783195745,
+      "text": "mutagen"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa801b",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783195922,
+      "text": "это если ты свое в гх положил и экшинами залупил - понимаю"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa801c",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783195942,
+      "text": "пасиб, гляну"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa801d",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783196124,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa801e",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783196520,
+      "text": "У нас такая же фигня про флаги - если флаг висит то в 99% случаях это республиканцы. В оставшемся 1% случае это совсем свежий иммигрант который не определился ещё"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa801f",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1783196569,
+      "text": "Я думаю, я просто не в теме была) если бы я поверила, я была бы из второй группы"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8020",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yorungqash",
+      "author_name": "Artem",
+      "datetime": 1783196634,
+      "text": "Алексей еще про кухню напомнит, у кого чай крепче"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8021",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783196655,
+      "text": "есть страны, которым меньше 100 лет"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8022",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1783196751,
+      "text": "В смысле не менялись границы? А империя с Индией, Канадой, Австралией и Новой Зеландией?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8023",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1783196852,
+      "text": "Ну так это не меняло границы страны"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8024",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783196907,
+      "text": "Зато цвета не трупные как у клода"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8025",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "yorungqash",
+      "author_name": "Artem",
+      "datetime": 1783196937,
+      "text": "Имелась в виду разница между Британской империей и Англией, а вот то что Соединенное королевство это изначально союз Англии и Шотландии никто не сказал"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8026",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1783197058,
+      "text": "наверное, можно было бы еще сделать через shortcuts на ios"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8027",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783197132,
+      "text": "С языка снял"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8028",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1783197259,
+      "text": "Я в основном код gpt 5.5 high пищу, а когда что-то не получается говорю ему опуса спросить. Тоже отлично работает 👍"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8029",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783197319,
+      "text": "а кто-нибудь glm новый использовал чтобы писать что-то тяжелое? как оно?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa802a",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783197325,
+      "text": "GLM-130B для инференса в fp16 обычно требует около 80–100 ГБ видеопамяти, поэтому для «тяжёлых» задач часто применяют квантизацию до 4-bit или LoRA-адаптацию, чтобы снизить требования к памяти."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa802b",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783197521,
+      "text": "нормально работает в целом, но всё равно оно клодоподобное"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa802c",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783197540,
+      "text": "лучше бы было больше в плане дотошности похожим на гпт"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa802d",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783197580,
+      "text": "А как в сравнении с опусом? Насколько хуже"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa802e",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783197606,
+      "text": "я бы не сказал, что оно хуже, но я не особо в восторге от опуса"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa802f",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783197649,
+      "text": "опус на мой вкус слишком много галлюцинирует и теряет детали, поверхностно анализирует проект"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8030",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1783198039,
+      "text": "Можно будет терминал на электроне 😂"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8031",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1783198119,
+      "text": "ghostty же нет на windows?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8032",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783198347,
+      "text": "⚠️ Introducing Claude Sonnet 5 - \u003ca href=\"https://www.anthropic.com/news/claude-sonnet-5\"\u003ehttps://www.anthropic.com/news/claude-sonnet-5\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8033",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "takoynik",
+      "author_name": "Sergei",
+      "datetime": 1783198709,
+      "text": "Привет, я интернет эксплорер!"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8034",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1783198744,
+      "text": "Сонет 4.6 сильно быстрее по ощущениям"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8035",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783198800,
+      "text": "соннет такой тормоз просто жесть"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8036",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783198831,
+      "text": "как по мне соннет 5 не быстрее опуса"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8037",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783198849,
+      "text": "в последнее время я хорошо описанные планы скармливаю composer 2.5"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8038",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783198871,
+      "text": "соннет план реализует полчаса, композер минуты 3"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8039",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1783198887,
+      "text": "Раньше было лучше да ) понятнее"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa803a",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Romfos",
+      "author_name": "Romfos",
+      "datetime": 1783198892,
+      "text": "не одним написанием кода живем!"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa803b",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1783198920,
+      "text": "у меня соннет 4,6 использовался для explore субагента, который собирал информацию о коде для основного агента. Было быстро и недорого. У нас копайлот по токенам. Но потом я перешел на gpt-5.4 medium и стало еще быстрее и лучше."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa803c",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1783199072,
+      "image_url": "https://chat.radio-t.com/logs/1020/AgACAgIAAx0CUPxcWQABCu6fakl1YIeUFPpqYnQlVQ6XB_fTCFcAAnYXaxvvNVFKSaAPeJCAxXwBAAMCAAN5AAM8BA",
+      "image_width": 1200,
+      "image_height": 675,
+      "text": ""
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa803d",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783199121,
+      "text": "⚠️ Redeploying Claude Fable 5 \\ Anthropic - \u003ca href=\"https://www.anthropic.com/news/redeploying-fable-5\"\u003ehttps://www.anthropic.com/news/redeploying-fable-5\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa803e",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mschedrin",
+      "author_name": "Mikhail Shchedrin",
+      "datetime": 1783199276,
+      "text": "umputun, не пробовал fable попросить запускать агента с опусом чтобы посмотреть на потенциальные проблемы с секьюрити, который fable заметил?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa803f",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783199381,
+      "text": "5-е версии задают очень много уточняющих вопросов. Отучили от телепатии."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8040",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783199625,
+      "text": "⚠️ Stroustrup\u0026#39;s Rule - \u003ca href=\"https://buttondown.com/hillelwayne/archive/stroustrups-rule/\"\u003ehttps://buttondown.com/hillelwayne/archive/stroustrups-rule/\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8041",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783199632,
+      "text": "\u003cstrong\u003eStroustrup\u0026#39;s Rule • Buttondown\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Правило Страуструпа — новыми функциями требуют явного синтаксиса, с привыканием предпочитают краткость; это влияет на дизайн языков, обучение и споры об удобстве (пример: Rust, оператор «морж» в Python, обучение TLA+).\u003cbr/\u003e\u003cbr/\u003e- Суть правила: новые возможности требуют громкого явного синтаксиса, со временем сообщество стремится к лаконичности.\u003cbr/\u003e- Пример Rust: явный match для ошибок → try! → оператор ? для компактной обработки ошибок.\u003cbr/\u003e- Парадокс: одни и те же люди сначала требуют явности, затем предпочитают краткость как эксперты.\u003cbr/\u003e- Влияние на язык: по мере взросления языка растёт уклон в пользу «экспертных» функций, что усложняет обучение новичков.\u003cbr/\u003e- Спор в Python: оператор «морж» (walrus) поддержали эксперты, а учителя и новички критиковали за ухудшение читаемости и обучаемости.\u003cbr/\u003e- Преподавание: инструкторы часто нарочно используют более явный синтаксис, чтобы помочь новичкам понять концепции.\u003cbr/\u003e- Пример TLA+: терсая запись через множество функций предпочитается экспертами, но явная кванторная форма понятнее для учащихся."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8042",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iflosstik",
+      "author_name": "German Kornev",
+      "datetime": 1783199636,
+      "text": "Старый фейбл при миграции расширения для хрома случайно удалил все данные, но зато те решения которые он предложит были крутые. Понятно что проект игрушка но борзость удивила."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8043",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783199865,
+      "text": "Был у меня один магистр компьютерных наук, пренебрегающий документацией к фреймворку. Он писал свои кастомные null-coalescing и другие вещи, которые были элегантно встроены во фреймворк."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8044",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783199952,
+      "text": "try! = ? = макрос на if err! = null return err"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8045",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783200033,
+      "text": "вопросик это буквально макрос try!"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8046",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783200199,
+      "text": "\u0026#34;— забудьте всё, чему вас учили в универе\u0026#34;"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8047",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783200453,
+      "text": "дисторшн"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8048",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783200533,
+      "text": "настало время мемов про perl?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8049",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783200939,
+      "text": "Дублирование намного дешевле неправильной абстракции."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa804a",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783201090,
+      "text": "⚠️ SOLID and Clean Code never felt solid or clean to me - \u003ca href=\"https://devz.cl/posts/solid-never-felt-solid/\"\u003ehttps://devz.cl/posts/solid-never-felt-solid/\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa804b",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783201098,
+      "text": "\u003cstrong\u003eSOLID and Clean Code never felt solid or clean to me\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Я изучал программирование практикой и документацией; книги были полезны, но не ключевы. SOLID и Clean Code показались продажными, наполненными «наполнителем», маркетингом и догматизмом, вызывая скепсис к авторитетам и акронимам в инженерной культуре.\u003cbr/\u003e\u003cbr/\u003e- Я учился через документацию и проекты; книги помогли, но не определили карьеру, скорее дополняли практический опыт.  \u003cbr/\u003e- Некоторые книги (Designing Data‑Intensive Applications, The Mythical Man‑Month) полезны; другие (Design Patterns, Clean Code) оставили смешанные впечатления.  \u003cbr/\u003e- Интервью о SOLID показало разрыв между терминологией и реальным пониманием: многие используют термины формально, не глубоко.  \u003cbr/\u003e- Uncle Bob воспринимается как брендинг с «наполнителем» в prose и долгими отвлечениями, что создаёт ощущение манипуляции временем слушателя.  \u003cbr/\u003e- Акронимы (SOLID, DRY, KISS и др.) часто работают как маркетинг; слепое применение приводит к излишней сложности и затратам времени.  \u003cbr/\u003e- Названия вроде «Clean» или «Simple» — желаемые ярлыки; они навешивают субъективные оценки и могут ввести в заблуждение о качестве кода.  \u003cbr/\u003e- Основная мысль: софт‑культура склонна к догматизму и самопрезентации; полезно критически относиться к авторитетам и взвешивать принципы в контексте практики."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa804c",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1783201225,
+      "text": "А сейчас с AI 9 женщин же могут родить ребенка за 1 месяц"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa804d",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783201258,
+      "text": "а оркестратор слепит из кусков ребёнка?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa804e",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783201269,
+      "text": "Сначала 8 месяцев будут выбирать пол."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa804f",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1783201279,
+      "text": "Да 👏"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8050",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783201333,
+      "text": "Ну, скажем, go в эту тему не особо вписывается. На мой взгляд, применимо только к c-образным (анти-магическим по концепции) языкам. Всё-таки Rust, Python к этому рассуждению может и подходят, но не полностью."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8051",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783201387,
+      "text": "Из-за этих ваших куберов и микросервисов теперь разработчики вообще не решают за качество кода. Системные аналитики и дизайнеры сейчас решают как будут жить сущности."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8052",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1783201440,
+      "text": "open closed"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8053",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783201535,
+      "text": "Есть же GRASP, его достаточно для масштабируемости и поддерживаемости"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8054",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1783201596,
+      "text": "Субъективное сингл респонсибилити. У каждого свой"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8055",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783201628,
+      "text": "С AI вы можете все это применять относительно безболезненно, но стоит ли?\u003cbr/\u003e\u003cbr/\u003eМне кажется, вопрос, который надо задавать себе в сегодняшних реалиях, звучит примерно так: какая архитектура кода мне нужна, чтобы в тех местах прилодения, где меняется чаще, это было делать дешевле.\u003cbr/\u003eЭтот вопрос всегда надо было задавать себе, но было давление фреймворков и привычек (если я повторю как вон там, нам будет проще делать изменения), сейчас можно более спокойно смотреть на новые идеи, знаю, что даже самые сложные рефакторинги можно вытянуть при определенной осторожности."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8056",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783201707,
+      "text": "Liskov substitution это про другое. Вообще OLID это всё про одно - интерфейс можно расширять, но не изменять."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8057",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783201915,
+      "text": "На дворе 2026 год, мы, все ещё обсуждаем SOLID😂"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8058",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783201936,
+      "text": "Separation of concern реально решает"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8059",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783202046,
+      "text": "effective java блокха очень классная книжка, но это уже надо знать солиды и клин коды ДО неё"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa805a",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202106,
+      "text": "Я сейчас ставлю вопрос более экстремально: ортогональные компоненты. Это такие компоненты, при изменении одного из которых, вам не надо *автоматически* менять какой-то ещё."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa805b",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783202115,
+      "text": "Читал, читаю и перечитываю. Всё по ситуации. Надо занять 100 разработчиков - в микросервисы, сокращения - делаем монолитизацию. ООП как не понимал так и не понимаю."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa805c",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783202132,
+      "text": "Ортогональность это уже не система, это нагромождение."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa805d",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202181,
+      "text": "Почему? Вроде бы как раз предельный случай separation of concern"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa805e",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783202181,
+      "text": "ддд кстати пример хорошей идеи котороую ни одна книжка вменяемо не объясняет"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa805f",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783202232,
+      "text": "Так, вот теперь точно важный вопрос, когда создаём команду агентов мы наследуем или композируем?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8060",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202234,
+      "text": "Это мода такая была. Паттерны GoF тоже в книжках не объяснены как из правильно применять."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8061",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202235,
+      "text": "⚠️ Introducing the Safari MCP server for web developers - \u003ca href=\"https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/\"\u003ehttps://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8062",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202243,
+      "text": "\u003cstrong\u003e  Introducing the Safari MCP server for web developers | WebKit\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме:\u003cbr/\u003eSafari MCP-сервер подключает агентов к окну Safari, позволяя им инспектировать DOM, сеть, скриншоты и консоль для ускоренного отладки, тестирования совместимости, производительности и доступности прямо из терминала.\u003cbr/\u003e\u003cbr/\u003e- Что это: локальный Model Context Protocol (MCP) сервер для Safari, который даёт MCP-совместимым клиентам доступ к реальному браузерному окружению и страницам для автоматизированной отладки и анализа.\u003cbr/\u003e\u003cbr/\u003e- Преимущества отладки: агент может сам находить и диагностировать баги в браузере, сокращая переключения окон и повторные описания проблем в промптах.\u003cbr/\u003e\u003cbr/\u003e- Совместимость: помогает тестировать и сравнивать отображение и стили в Safari, снижая риск пропуска багов, специфичных для этого браузера.\u003cbr/\u003e\u003cbr/\u003e- Анализ производительности: агент может выполнять JS на странице и собирать метрики навигации и загрузки ресурсов для выявления узких мест.\u003cbr/\u003e\u003cbr/\u003e- Проверка доступности и состояния: автоматическая проверка меток, ARIA, контрастности, а также валидация состояний форм, селекторов и пользовательских сценариев.\u003cbr/\u003e\u003cbr/\u003e- Инструменты: набор команд для скриншотов, навигации, эмуляции медиа и viewport, работы с вкладками, сетевыми запросами, консолью и DOM-взаимодействиями.\u003cbr/\u003e\u003cbr/\u003e- Установка и конфиденциальность: работает локально через Safari Technology Preview; данные страниц передаются напрямую агенту (не Apple). Включите remote automation и external agents и добавьте safaridriver с флагом --mcp."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8063",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202287,
+      "text": "Зависит. Как укажешь, так и будет."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8064",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1783202288,
+      "text": "птицу кстати Стервятником звали"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8065",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202331,
+      "text": "В практическом аспекте наследовать смысла нет. Это засорение контекста."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8066",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783202364,
+      "text": "Так там вопрос, как избежать проблему ромба?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8067",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783202414,
+      "text": "Даже в Ableton Live есть какой-то  API, но он очень ограниченный."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8068",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202439,
+      "text": "С помощью саммаризацииииз каждого агента и потом саммаризации индивидуальных саммаризаций.\u003cbr/\u003eКод ревью много-агентсеий так работает"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8069",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783202460,
+      "text": "В ff данным давно уже все есть тоже"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa806a",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202470,
+      "text": "И во Fusion360 подвезли"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa806b",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202578,
+      "text": "⚠️ Content Independence Day, one year on- building the business model for the agentic Internet - \u003ca href=\"https://blog.cloudflare.com/agentic-internet-bot-report/\"\u003ehttps://blog.cloudflare.com/agentic-internet-bot-report/\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa806c",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202585,
+      "text": "\u003cstrong\u003eContent Independence Day, one year on: building the business model for the agentic Internet\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Год спустя после «Дня независимости контента» рынок лицензирования контента возник: прозрачность и контроль побуждают сделки между издателями и ИИ, пока Интернет быстро становится «агентным», с доминированием краулеров для обучения и смешанного использования.\u003cbr/\u003e\u003cbr/\u003e- Суть инициативы: Cloudflare по умолчанию блокировал краулеров для обучения ИИ на новых доменах, давая издателям контроль, прозрачность и возможность монетизации контента.\u003cbr/\u003e- Скорость изменений: генеративный ИИ достиг ~2,5 млрд пользователей за 3,5 года; трафик агентов превысил 50%, радикально меняя поведение поиска и потребления.\u003cbr/\u003e- Данные краулеров: к июню 2026 года 52% запросов краулеров — для обучения ИИ; смешанные краулеры составляют \u0026gt;36%, чистый поисковый краулинг сокращается.\u003cbr/\u003e- Экономика контента: реферальный трафик падает; издатели теряют аудиторию, но получают рычаги через видимость и контроль, что создало рынок лицензирования.\u003cbr/\u003e- Лицензирование и эффективность: подписано 50+ соглашений; модели лицензирования растут, но текущие сделки не полностью компенсируют утраченные рекламные и партнерские доходы.\u003cbr/\u003e- Проблема Google: смешанный краулер Google затрудняет различение целей доступа, снижая прозрачность и ограничивая возможности издателей управлять доступом отдельно.\u003cbr/\u003e- Роль Cloudflare: платформа предоставляет атрибуцию, контроль, сигналы свежести и инфраструктуру для масштабируемых механизмов обнаружения, лицензирования и монетизации контента."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa806d",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fkirill77",
+      "author_name": "Kirill Frolov",
+      "datetime": 1783202633,
+      "text": "Хотя уж сложно себе представить систему более конфигурируемую, чем музыкальные приложения, но там интерфейсы для MCP не подходят. :-))"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa806e",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202970,
+      "text": "⚠️ Темы слушателей 020 - \u003ca href=\"https://radio-t.com/p/2026/07/01/prep-1020/\"\u003ehttps://radio-t.com/p/2026/07/01/prep-1020/\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa806f",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202991,
+      "text": "[1/13] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003ecryptoeb\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eFable 5 после кастрации:\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://x.com/bridgemindai/status/2072662214704533888\"\u003ehttps://x.com/bridgemindai/status/20726622147...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eBridgeMind on X: \u0026#34;FABLE 5 CAME BACK NERFED.\u003cbr/\u003e\u003cbr/\u003eWe re-ran the July 1st version of Claude Fable 5 on BridgeBench. \u003cbr/\u003e\u003cbr/\u003eThe results are brutal:\u003cbr/\u003e\u003cbr/\u003eDebugging: 86.2 → 25.9\u003cbr/\u003eRefactoring: 73.6 → 38.4\u003cbr/\u003eHallucination: 75.9 → 61.7\u003cbr/\u003e\u003cbr/\u003eThe new guardrails are kicking in on way too many tasks and falling back to Opus \u003c/strong\u003e\u003ca href=\"https://t.co/tcUDDXpZMF\"\u003ehttps://t.co/tcUDDXpZMF\u003c/a\u003e\u003cstrong\u003e\u0026#34; / X\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: BridgeMind заявил, что обновлённый Claude Fable 5 (1 июля) заметно ухудшился по BridgeBench: резкое падение в отладке, рефакторинге и увеличенные галлюцинации из‑за новых механизмов защиты, с частым возвратом к Opus.\u003cbr/\u003e\u003cbr/\u003e- Источник: пост BridgeMind в X, где сравнили версию Claude Fable 5 от 1 июля с текущей.\u003cbr/\u003e- Метрики: отладка 86.2 → 25.9, рефакторинг 73.6 → 38.4, галлюцинации 75.9 → 61.7.\u003cbr/\u003e- Проблема: новые «guardrails» (механизмы защиты) якобы препятствуют выполнению многих задач.\u003cbr/\u003e- Последствие: модель часто «откатывается» к Opus (упоминание Opus 4.8).\u003cbr/\u003e- Утверждение: это не «забаненная» модель; BridgeMind требует объяснений от Anthropic.\u003cbr/\u003e- Тон: пост выражает резкое недовольство и называет результаты «брутальными».\u003cbr/\u003e- Что дальше: требуется подтверждение от Anthropic и независимая проверка для верификации изменений."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8070",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202991,
+      "text": "[2/13] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eОлег\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eИсследователи нашли 6 уязвимостей в Apple AirDrop и Google Quick Share.\u003cbr/\u003e\u003cbr/\u003eДве разные компании, а ошибки одинакового типа – проверки безопасности в обеих системах разбросаны по разным кускам кода, вместо того чтобы стоять на одном «входном шлагбауме». Из-за этого шарилка может обработать вредные данные раньше, чем сработает проверка.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://arxiv.org/html/2606.26967v1\"\u003ehttps://arxiv.org/html/2606.26967v1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eProtocol Prying: Systematic Vulnerability Research in the Apple AirDrop and Android Quick Share Proximity Transfer Protocols\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое изложение: AirFuzz выполняет систематическое тестирование уязвимостей протоколов AirDrop и Quick Share через девять уровней мутаций, моделирующих реалистичные и битовые и структурные повреждения данных для обнаружения ошибок обработки.\u003cbr/\u003e\u003cbr/\u003e- HTTP: 24 стратегии, включая повреждение путей, подделку заголовков, несоответствие Content-Length, злоупотребление chunked-encoding и фаззинг методов для нарушения логики разбора HTTP-запросов/ответов.  \u003cbr/\u003e- binary plist: 12 стратегий, например путаница типов, удаление ключей, чрезмерно длинные строки, инъекция вложенных контейнеров и подмена по типу, ломают структуру plist.  \u003cbr/\u003e- DVZip: мутации размера чанков, усечённые или чрезмерно большие чанки и путаница режимов адаптации, вызывая ошибки распаковки/парсинга.  \u003cbr/\u003e- CPIO: порча заголовков, обход путей, инъекция симлинков/узлов устройств и глубокая вложенность путей для нарушений файловой логики.  \u003cbr/\u003e- DER/ASN.1: переполнения длин полей ASN.1 и инъекция нулевых ключей, бьющие парсеры сертификатов и структур DER.  \u003cbr/\u003e- хаос/bitflip: случайные побитовые и байтовые инверсии, вставки и удаления для выявления устойчивости на случайные повреждения.  \u003cbr/\u003e- memcorrupt и field-level: 25 стратегий коррумпции памяти (граничные значения, арифметика, операции со словарями, перемешивание блоков) плюс мутации полей, целенаправленно меняющие ключи протокола при сохранении общей структуры."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8071",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202991,
+      "text": "[3/13] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eLeonid Korsakov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://developers.googleblog.com/why-we-built-adk-20/\"\u003ehttps://developers.googleblog.com/why-we-buil...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eGoogle выпустил ADK 2.0 — фреймворк для создания AI-агентов на Python и Go, который решает главные боли продакшена: бесконечный жор токенов, уязвимость к промпт-инъекциям и недетерминированный роутинг. Вместо хаотичных вызовов LLM они предлагают упаковать бизнес-логику в жесткий детерминированный граф (Workflow Engine) с изящным асинхронным Human-in-the-Loop и поддержкой протокола MCP из коробки.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e\u003cbr/\u003e            \u003cbr/\u003e            Why we built ADK 2.0\u003cbr/\u003e            \u003cbr/\u003e            \u003cbr/\u003e            - Google Developers Blog\u003cbr/\u003e            \u003cbr/\u003e        \u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: ADK 2.0 объединяет детерминированные рабочие потоки и узконаправленные LLM-агенты, снижая токены, задержки и уязвимости агентов, позволяя безопасно и динамично оркестрировать производственные AI-процессы.\u003cbr/\u003e\u003cbr/\u003e- Проблема: LLM-цикл для оркестрации дорог по токенам, медленен и вызывает «раздувание» контекста, ошибки маршрутизации и галлюцинации при длительных задачах.\u003cbr/\u003e- Подход ADK 2.0: моделирование процессов как детерминированного графа узлов — кодовые инструменты для быстрых действий и LLM-узлы только для когнитивных задач.\u003cbr/\u003e- Выгоды: LLM используются лишь в необходимых узлах, что уменьшает потребление токенов, задержки и стоимость; кодовые переходы выполняются программно и быстро.\u003cbr/\u003e- Безопасность: контроль исполнения вынесен из модели в граф рантайма, что снижает риск prompt-injection и запрещает несанкционированные операции.\u003cbr/\u003e- Динамичность: поддержка динамических рабочих потоков с native Python/asyncio, модульными под-процессами и гибкими ветвлениями для сложной бизнес-логики.\u003cbr/\u003e- Мульт-Агентность: структурированные, специализированные агентные узлы (анализ политики, составление письма) получают минимальный, релевантный контекст для надежности.\u003cbr/\u003e- Руководство: используйте Workflows для предопределенных, детерминированных процессов; Agents — для неструктурированных, субъективных задач; комбинируйте их для production-grade решений."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8072",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202992,
+      "text": "[4/13] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eOleksandr\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003ePalantir vs AI\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://youtu.be/0A3sGymV6kY?is=aV89R-cZVjX5lebE\"\u003ehttps://youtu.be/0A3sGymV6kY?is=aV89R-cZVjX5lebE\u003c/a\u003e"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8073",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783202992,
+      "text": "[5/13] \u003cstrong\u003e+3\u003c/strong\u003e от \u003cstrong\u003eNikita\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eVercel Labs показала Zero-Native — экспериментальную open-source альтернативу Electron: UI можно писать на React, Next, Vue или Svelte, а нативную часть — на Zig; вместо встроенного Chromium используется системный WebView, поэтому приложения обещают экономнее по памяти.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/\"\u003ehttps://www.infoq.com/news/2026/06/zero-nativ...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eVercel Labs Open-Sources Zero-Native: a Zig-Based Cross-Platform Native Application Framework - InfoQ\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Zero-native — это открытый кроссплатформенный фреймворк от Vercel Labs на Zig для нативных приложений, использующий системные WebView вместо Electron, обещая лёгкие бинарники, быструю инкрементальную компиляцию и строгие права доступа.\u003cbr/\u003e\u003cbr/\u003e- Основа и язык: zero-native написан на Zig, что даёт прямую интероперабельность с C ABI и избавляет от затрат на FFI или IDL-биндинги.\u003cbr/\u003e- Рендеринг: использует нативные WebView ОС вместо встраивания Chromium, уменьшая размер приложения и потребление памяти.\u003cbr/\u003e- Производительность сборки: Zig обеспечивает быстрые инкрементальные сборки, улучшая итеративную разработку по сравнению с медленными циклами Rust.\u003cbr/\u003e- Безопасность: модель на основе capability-пермишенов — фронтенд не может вызывать нативные API без явной регистрации команд в Zig и разрешений в app.zon.\u003cbr/\u003e- Опциональный Chromium: при необходимости можно упаковать Chromium через Chromium Embedded Framework (CEF) в app.zon.\u003cbr/\u003e- Экосистема и конкуренты: конкурирует с Tauri, WebUI, Lynx и другими альтернативами Electron, каждая с разными подходами к размерам и совместимости.\u003cbr/\u003e- Ограничения и статус: экспериментален, сейчас для macOS и Linux; возможны проблемы с отсутствием/версией нативного WebView и ограниченная поддержка Windows/мобильных платформ."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8074",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783203210,
+      "text": "Меня только Ableton Move обновлениями радует."
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8075",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783203414,
+      "text": "Там у Теслы все смешано, в плане ECU разных. Один зависит от другого или через него проходит связь с другим, казалось бы не связанным блоком. Можно посмотреть на ютубе у команды ап, как они восстанавали утопленницу"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8076",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783203581,
+      "text": "Что такое системные WebView? WebKit как в Tauri?"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8077",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783204021,
+      "text": "продают подписки по токенам"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8078",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783204044,
+      "text": "плюс обучаются на выхлопе, за это и доплачивают по сути"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa8079",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783204186,
+      "text": "herdr с мобильника можно"
+    },
+    {
+      "id": "6a4b4d1946be1c9368fa807a",
+      "issue": 1020,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783204264,
+      "text": "А это не абузивные акки просто продают? Только такое видел"
+    }
+  ]
+}

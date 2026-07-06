@@ -1,0 +1,72 @@
+{
+  "issue": 1020,
+  "date": "2026-07-04",
+  "audio": "https://cdn.radio-t.com/rt_podcast1020.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1020.jpg",
+  "start_time": 1783196124,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Непонятный Claude Sonnet 5 вышел",
+      "links": [
+        "https://www.anthropic.com/news/claude-sonnet-5"
+      ],
+      "time": "00:37:02"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Возвращение Fable",
+      "links": [
+        "https://www.anthropic.com/news/redeploying-fable-5"
+      ],
+      "time": "00:49:56"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Правила Страуструпа",
+      "links": [
+        "https://buttondown.com/hillelwayne/archive/stroustrups-rule/"
+      ],
+      "time": "00:58:20"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Опять про SOLID и Clean Code",
+      "links": [
+        "https://devz.cl/posts/solid-never-felt-solid/"
+      ],
+      "time": "01:22:45"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Safari MCP",
+      "links": [
+        "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/"
+      ],
+      "time": "01:41:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Cloudflare посчитали все",
+      "links": [
+        "https://blog.cloudflare.com/agentic-internet-bot-report/"
+      ],
+      "time": "01:47:34"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/07/01/prep-1020/"
+      ],
+      "time": "01:54:05"
+    }
+  ],
+  "tags": null
+}
