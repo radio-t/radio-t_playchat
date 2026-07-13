@@ -1,0 +1,64 @@
+{
+  "issue": 1021,
+  "date": "2026-07-11",
+  "audio": "https://cdn.radio-t.com/rt_podcast1021.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1021.jpg",
+  "start_time": 0,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "links": [
+        "https://openai.com/index/gpt-5-6/"
+      ],
+      "time": "00:35:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets - 9to5Mac",
+      "links": [
+        "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"
+      ],
+      "time": "00:55:38"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Introducing GPT-Live",
+      "links": [
+        "https://openai.com/index/introducing-gpt-live/"
+      ],
+      "time": "01:10:23"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "I Think I Have LLM Burnout",
+      "links": [
+        "https://www.alecscollon.com/blog/llm-burnout/"
+      ],
+      "time": "01:27:07"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "links": [
+        "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/"
+      ],
+      "time": "01:45:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей 021",
+      "links": [
+        "https://radio-t.com/p/2026/07/09/prep-1021/"
+      ],
+      "time": "01:58:27"
+    }
+  ],
+  "tags": null
+}
