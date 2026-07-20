@@ -1,0 +1,72 @@
+{
+  "issue": 1022,
+  "date": "2026-07-18",
+  "audio": "https://cdn.radio-t.com/rt_podcast1022.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1022.jpg",
+  "start_time": 1784405825,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "JetBrains гость про 2026.2 и не только",
+      "links": [
+        "https://blog.jetbrains.com/go/2026/07/16/goland-2026-2-is-now-available/"
+      ],
+      "time": "00:01:02"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI сделали плохую, но дорогую клавиатуру",
+      "links": [
+        "https://www.businessinsider.com/openai-codex-micro-shortcuts-agent-work-louder-2026-7?utm_source=chatgpt.com"
+      ],
+      "time": "01:04:03"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Цена согласия сильно увеличилась",
+      "links": [
+        "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/"
+      ],
+      "time": "01:16:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как Claude Code допустили очередную ошибку",
+      "links": [
+        "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/"
+      ],
+      "time": "01:32:08"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Конец проектов на Haskell",
+      "links": [
+        "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html"
+      ],
+      "time": "01:42:12"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Автор zig совсем сорвался с цепи",
+      "links": [
+        "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html"
+      ],
+      "time": "01:48:44"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/07/14/prep-1022/"
+      ],
+      "time": "02:00:20"
+    }
+  ],
+  "tags": null
+}
