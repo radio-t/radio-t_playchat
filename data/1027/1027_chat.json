@@ -1,0 +1,960 @@
+{
+  "chat": [
+    {
+      "id": "6a91795a10891246fe378547",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Petrovich",
+      "datetime": 1787428905,
+      "text": "У кого работает copilot в VSCode ?"
+    },
+    {
+      "id": "6a91795a10891246fe378548",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1787429117,
+      "text": "Если у механика есть индикатор, то это скорее всего хороший)"
+    },
+    {
+      "id": "6a91795a10891246fe378549",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1787429177,
+      "text": "А можно гостя потише сделать?"
+    },
+    {
+      "id": "6a91795a10891246fe37854a",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1787429231,
+      "text": "можно и к гермесу подключить проект с markdown файлами"
+    },
+    {
+      "id": "6a91795a10891246fe37854b",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1787429311,
+      "text": "Можно наверное гермеса и заставить периодически досье на каждого участника чата вести)"
+    },
+    {
+      "id": "6a91795a10891246fe37854c",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1787429313,
+      "text": "Сейчас уже все меньше разницы между гермесом и клодом, пока за гермесом важное преимущество - независимость от провайдера"
+    },
+    {
+      "id": "6a91795a10891246fe37854d",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787429353,
+      "text": "Не ведомый, а конституциональный"
+    },
+    {
+      "id": "6a91795a10891246fe37854e",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1787429496,
+      "text": "Мне кажется модели просто учат на таких примерах, чтобы быть уверенным, что оно заиспользовало некоторое знание из прошлого. И так оно проще получается, если будет проговаривать, чем просто абстракто учить следовать всем инструкциям через весь контекст."
+    },
+    {
+      "id": "6a91795a10891246fe37854f",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "glucocorticoid",
+      "author_name": "Alexey Naiden",
+      "datetime": 1787429509,
+      "text": "Но Claude code ведь тоже умеет с любой моделью работать"
+    },
+    {
+      "id": "6a91795a10891246fe378550",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1787429523,
+      "image_url": "https://chat.radio-t.com/logs/1027/AgACAgIAAx0CUPxcWQABCw6oaooCk-FlVvAusknML-0U6AW30dEAAr0gaxsTglBI3wrAxeS80YEBAAMCAAN5AAM9BA",
+      "image_width": 1280,
+      "image_height": 631,
+      "text": "а пробовали использовать новый output style, который они на этой неделе добавили?"
+    },
+    {
+      "id": "6a91795a10891246fe378551",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787429547,
+      "text": "Недавняя находка - модели пишут кучу кода, но не умеют код удалять, в итоге в проектах целые области мертвого кода."
+    },
+    {
+      "id": "6a91795a10891246fe378552",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1787429564,
+      "text": "расскажи в 2 словах? Он кратким становится?"
+    },
+    {
+      "id": "6a91795a10891246fe378553",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1787429595,
+      "text": "я у себя разницы не заметил"
+    },
+    {
+      "id": "6a91795a10891246fe378554",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1787429618,
+      "text": "Ну помимо этого ещё куча всего, провайдер памяти к примеру"
+    },
+    {
+      "id": "6a91795a10891246fe378555",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1787429706,
+      "text": "Но Умпутун очень круто про ведомость заметил, прям круто"
+    },
+    {
+      "id": "6a91795a10891246fe378556",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andmed",
+      "author_name": "Andrew",
+      "datetime": 1787429830,
+      "text": "Получай RYA Offshore Yachtmaster, это проще чем на мото сдать!\u0026#34;"
+    },
+    {
+      "id": "6a91795a10891246fe378557",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1787429899,
+      "text": "Слышно"
+    },
+    {
+      "id": "6a91795a10891246fe378558",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1787429957,
+      "text": "гость очень громко влетел"
+    },
+    {
+      "id": "6a91795a10891246fe378559",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787429959,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe37855a",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1787430268,
+      "text": "а в прошлом выпуске говорили, что релизы го меньше, чем 2.0, обсуждать не будете"
+    },
+    {
+      "id": "6a91795a10891246fe37855b",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787430494,
+      "text": "ai-психолога настроил"
+    },
+    {
+      "id": "6a91795a10891246fe37855c",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1787430563,
+      "text": "у простых людей несколько раз уже видел, что они пишут типа \u0026#34;Здравствуй, дорогой друг, сделай, пожалуйста...\u0026#34;"
+    },
+    {
+      "id": "6a91795a10891246fe37855d",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787430652,
+      "text": "человеку нужен человек"
+    },
+    {
+      "id": "6a91795a10891246fe37855e",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1787430737,
+      "text": "Ну, вдруг там сознание уже есть, или вдруг оно скоро появится\u003cbr/\u003eНесколько токенов за моральность это не дорого)"
+    },
+    {
+      "id": "6a91795a10891246fe37855f",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1787430785,
+      "text": "думаю от характера зависит, скорее всего, те же люди разговаривали с компами задолго до ии )"
+    },
+    {
+      "id": "6a91795a10891246fe378560",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1787430980,
+      "text": "Получается слова типа \u0026#34;пожалуйста\u0026#34; это кусок промпта сообщающий ему отвечать в таком же вежливом стиле"
+    },
+    {
+      "id": "6a91795a10891246fe378561",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "npanov2020",
+      "author_name": "Nikolay",
+      "datetime": 1787431217,
+      "text": "Да. Оно подстраивается под твой стиль."
+    },
+    {
+      "id": "6a91795a10891246fe378562",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1787431484,
+      "text": "defer fmt.Println(\u0026#34;first\u0026#34;) \u003cbr/\u003edefer fmt.Println(\u0026#34;second\u0026#34;)"
+    },
+    {
+      "id": "6a91795a10891246fe378563",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sis_t",
+      "author_name": "Ilya Suprun",
+      "datetime": 1787431659,
+      "text": "FILO"
+    },
+    {
+      "id": "6a91795a10891246fe378564",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1787431671,
+      "text": "result, err := fetch()\u003cbr/\u003e\u003cbr/\u003eif result.NeedsRefresh {\u003cbr/\u003e    result, err := refresh() // New variables in the inner scope\u003cbr/\u003e    fmt.Println(result)\u003cbr/\u003e}"
+    },
+    {
+      "id": "6a91795a10891246fe378565",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787431777,
+      "text": "Я тоже на го нафигачил проект. пока еще не разбирался, что там за хрень всередине"
+    },
+    {
+      "id": "6a91795a10891246fe378566",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1787431863,
+      "text": "\u003ca href=\"https://github.com/go-pkgz/pool\"\u003ehttps://github.com/go-pkgz/pool\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe378567",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "synflooder",
+      "author_name": "Дмитрий",
+      "datetime": 1787432015,
+      "text": "джава утомительна через 100500 примитивов многопоточности"
+    },
+    {
+      "id": "6a91795a10891246fe378568",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1787432044,
+      "text": "func fetchBoth() {\u003cbr/\u003e    results := make(chan string)\u003cbr/\u003e\u003cbr/\u003e    go func() {\u003cbr/\u003e        results \u0026lt;- fetchProfile()\u003cbr/\u003e    }()\u003cbr/\u003e\u003cbr/\u003e    go func() {\u003cbr/\u003e        results \u0026lt;- fetchPosts()\u003cbr/\u003e    }()\u003cbr/\u003e\u003cbr/\u003e    first := \u0026lt;-results\u003cbr/\u003e    second := \u0026lt;-results\u003cbr/\u003e\u003cbr/\u003e    fmt.Println(first, second)\u003cbr/\u003e}"
+    },
+    {
+      "id": "6a91795a10891246fe378569",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787432138,
+      "text": "Только в прошлый раз говорили, какие люди будут код читать, а сегодня заморочились..."
+    },
+    {
+      "id": "6a91795a10891246fe37856a",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1787432381,
+      "text": "не говорить о гремлинах"
+    },
+    {
+      "id": "6a91795a10891246fe37856b",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787432529,
+      "text": "⚠️ AI Coding Agents: Adoption Trends - The JetBrains Blog - \u003ca href=\"https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/\"\u003ehttps://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe37856c",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787432538,
+      "text": "\u003cstrong\u003eAI Coding Agents: Adoption Trends - The JetBrains Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме — AI-кодинг‑агенты становятся общепринятыми: по опросу 2026 года более 15 000 разработчиков, 90% используют агенты еженедельно, 68% — ежедневно; лидирует Claude Code, заметны быстрые сдвиги в узнаваемости и интеграциях в IDE.\u003cbr/\u003e\u003cbr/\u003e- Масштаб исследования: Developer Ecosystem Survey 2026 — более 15 000 профессиональных разработчиков, глобально репрезентативная выборка, статистическая перевага.  \u003cbr/\u003e- Общая частота использования: 90% разработчиков применяют AI‑агентов на работе еженедельно, 68% — ежедневно.  \u003cbr/\u003e- Claude Code: 39% использования в мае–июле 2026 (впервые 18% в январе); в США — 47%; основной инструмент для 31% разработчиков.  \u003cbr/\u003e- Codex: рост с 3% до 16% использования; узнаваемость выросла с 27% до 65%.  \u003cbr/\u003e- GitHub Copilot: падение с 29% до 21% использования, но высокая осведомлённость (79% глобально, 86–90% в Европе/Великобритании/США).  \u003cbr/\u003e- Другие агенты: Cursor — падение до 12% использования; OpenCode — 7% использования, 42% узнаваемость; Google Antigravity — 6% использования, узнаваемость 47%, в Индии 15% пользователей.  \u003cbr/\u003e- JetBrains AI и экосистема: ~9% разработчиков используют JetBrains AI; интеграции Claude/Codex/Copilot/OpenCode, инструмент Air (preview) и JetBrains Central для управления агентами."
+    },
+    {
+      "id": "6a91795a10891246fe37856d",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andmed",
+      "author_name": "Andrew",
+      "datetime": 1787432553,
+      "text": "А к вопросу к кастомным хукам бьющим по рукам - а ведущие пользуются штатными сэндбоксами?"
+    },
+    {
+      "id": "6a91795a10891246fe37856e",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787432684,
+      "text": "Нет, еще потому, что копилот халявный в какомто виде"
+    },
+    {
+      "id": "6a91795a10891246fe37856f",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787432750,
+      "text": "Все правильно, аытокомплит уже не нужен никому"
+    },
+    {
+      "id": "6a91795a10891246fe378570",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787432833,
+      "text": "Халявный на пару токенов. Поэтому именно пробуют. Тут же не про серьезное программирование идется?"
+    },
+    {
+      "id": "6a91795a10891246fe378571",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787432945,
+      "image_url": "https://chat.radio-t.com/logs/1027/AgACAgIAAx0CUPxcWQABCw7OaooP8UXVsUcz-1fzjf4RITdlYhQAAtogaxsTglBIxtQXkiBz8_QBAAMCAANtAAM9BA",
+      "image_width": 188,
+      "image_height": 68,
+      "text": "Gemini"
+    },
+    {
+      "id": "6a91795a10891246fe378572",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1787433088,
+      "text": "\u003ca href=\"https://x.com/thsottiaux/status/2089082893804896524\"\u003ehttps://x.com/thsottiaux/status/2089082893804896524\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe378573",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1787433448,
+      "text": "я боюсь переключать подписку со 100 на 200 долларов, потому что сейчас у меня к субботе лимиты почти заканчиваются и можно не гонять агентов"
+    },
+    {
+      "id": "6a91795a10891246fe378574",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787433726,
+      "text": "⚠️ The August 17 outage, and the work ahead - \u003ca href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\"\u003ehttps://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe378575",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787433733,
+      "text": "\u003cstrong\u003eThe August 17 outage, and the work ahead - The GitHub Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое изложение: 17 августа GitHub пережил 7 часов 47 минут простоя, затронув аутентификацию, Actions, API, PR, issues и Copilot; причина — перегрузка инфраструктуры/недостаток ёмкости; уже добавлены ресурсы и приняты меры по исправлению и предотвращению повторений.\u003cbr/\u003e\u003cbr/\u003e- Что произошло: при пиковом трафике критический компонент в центральном дата-центре не масштабировался, вызвав каскадные отказы и сбои аутентификации, повлиявшие на многие сервисы GitHub.\u003cbr/\u003e- Длительность и влияние: простой длился 7 ч 47 мин, затронул разработчиков и организации по всему миру; некоторые Copilot-сервисы восстанавливали дольше из‑за клиентских повторных попыток.\u003cbr/\u003e- Корень причины: инциденты были не из‑за кода или конфигурации, а из‑за нехватки ёмкости и архитектурных узких мест при резком росте нагрузки.\u003cbr/\u003e- Немедленные меры: переброс трафика, изоляция проблемной инфраструктуры, поэтапное восстановление сервисов и блокировка повторяющих запросов, вызывавших штормы повторных попыток.\u003cbr/\u003e- Долгосрочные шаги: добавлено \u0026gt;3M CPU ядер, 120 ПБ высокоскоростного хранилища, расширена сеть и миграция в Azure (≈58% нагрузки), работа над масштабируемой архитектурой чтения.\u003cbr/\u003e- Операционные изменения: усиленное тестирование, более безопасные выкаты, лучшая наблюдаемость и алертинг, лимиты и бюджеты на повторные попытки, пересмотр низкоприоритетных алертов CPU/памяти.\u003cbr/\u003e- Обещание и ответственность: GitHub признаёт провал перед сообществом, обязуется продолжать масштабирование и повышение надёжности, чтобы вернуть доверие разработчиков."
+    },
+    {
+      "id": "6a91795a10891246fe378576",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1787434106,
+      "text": "Да падает у них интерфейс и рисуют они там радужного единорога"
+    },
+    {
+      "id": "6a91795a10891246fe378577",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1787434112,
+      "text": "я видел 404/502 ошибки на страницах в вебе в тот день"
+    },
+    {
+      "id": "6a91795a10891246fe378578",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1787434154,
+      "image_url": "https://chat.radio-t.com/logs/1027/AgACAgIAAx0CUPxcWQABCw7VaooUquxAkIcHja6WeGLUM7IqbPcAAu0gaxsTglBIkErKeLyWPCABAAMCAAN5AAM9BA",
+      "image_width": 1280,
+      "image_height": 844,
+      "text": "вот такого"
+    },
+    {
+      "id": "6a91795a10891246fe378579",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787434161,
+      "text": "За этой темой тогда тут же след тему про альтернативу гитхабу от курсора..."
+    },
+    {
+      "id": "6a91795a10891246fe37857a",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AlexDobrushskiy",
+      "author_name": "Alex Dobrushskiy",
+      "datetime": 1787434176,
+      "text": "ну прямо реедко (сильно реже чем actions субъективно)"
+    },
+    {
+      "id": "6a91795a10891246fe37857b",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787434314,
+      "text": "Есть же gitlab foss, можно дорабатывать как тебе надо"
+    },
+    {
+      "id": "6a91795a10891246fe37857c",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1787434341,
+      "text": "полагаю речь про это - \u003ca href=\"https://github.com/sameersbn/docker-gitlab\"\u003ehttps://github.com/sameersbn/docker-gitlab\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe37857d",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787434357,
+      "text": "⚠️ Git at any scale · Cursor - \u003ca href=\"https://cursor.com/blog/git-at-any-scale\"\u003ehttps://cursor.com/blog/git-at-any-scale\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe37857e",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787434364,
+      "text": "\u003cstrong\u003eGit at any scale · Cursor\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Git создан для распределённой разработки ядра Linux; его архитектура с packfile и графом объектов делает масштабируемый хостинг репозиториев очень сложным, порождая проблемы производительности, доступности и сложности распределённого хранения.\u003cbr/\u003e\u003cbr/\u003e- История: Линус Торвальдс создал Git как распределённую систему для разработки ядра Linux; распространение Git привело к его массовому использованию в компаниях с централизованными хостами.\u003cbr/\u003e- Проблема хостинга: Репозитории Git идентичны на всех узлах; хранение packfile на обычной файловой системе не масштабируется по доступности и параллельности.\u003cbr/\u003e- Packfile как ограничение: Packfiles — большие бинарные архивы, оптимизированные по размеру, но неудобные для распределённого и параллельного доступа на сервере.\u003cbr/\u003e- Альтернативы: три подхода — распределить файловую систему, распределить сами packfile, или переработать серверную сторону Git; каждый подход имеет сложности эксплуатации и масштабирования.\u003cbr/\u003e- Распределение по объектам: хранение объектов в распределённом KV/DHT кажется естественным (ключ — SHA), но обход DAG требует последовательных запросов, что делает операции дорогостоящими.\u003cbr/\u003e- Опыт Google/JGit: эксперименты с DHT и JGit показали работоспособность, но производительность git clone и ограничение протокола (передача packfile) сделали подход неприменимым в масштабе.\u003cbr/\u003e- Опыт GitHub: попытки сетевых и блочных файловых систем (NFS, GFS, DRBD) провалились из‑за проблем семантики файлов, производительности и сложности эксплуатации; внутренняя структура packfile с дельтами усугубляет случайный доступ."
+    },
+    {
+      "id": "6a91795a10891246fe37857f",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787434367,
+      "text": "⚠️ Origin Code Hosting · Cursor - \u003ca href=\"https://cursor.com/changelog/origin-code-hosting\"\u003ehttps://cursor.com/changelog/origin-code-hosting\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe378580",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787434376,
+      "text": "\u003cstrong\u003eOrigin Code Hosting · Cursor\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКороткое резюме: Origin предоставляет хостинг кода в Cursor — репозитории, pull request, просмотр кода и синхронизацию с GitHub; ранний бета‑запуск для платных планов, агент‑функции и интеграции появятся скоро.\u003cbr/\u003e\u003cbr/\u003e- Запуск Origin: ранняя бета доступна на всех платных планах; стартовые возможности ориентированы на масштаб агентов — репозитории, PR, обзор кода и синхронизция с GitHub.\u003cbr/\u003e\u003cbr/\u003e- Создание репозиториев: в вкладке Codebase нажмите +New, назовите кодовую базу; имя входит в URL репозиториев (например \u003ca href=\"https://cursor.com/codebase/acme-corp\"\u003ecursor.com/codebase/acme-corp\u003c/a\u003e). CLI‑инструкции для клонирования и пуша отображаются на странице.\u003cbr/\u003e\u003cbr/\u003e- Синхронизация с GitHub: подключите GitHub, выберите организацию и репозитории для синхрона; синхронизированные репы обновляются в реальном времени, GitHub остается источником истины для исходных репозиториев.\u003cbr/\u003e\u003cbr/\u003e- Pull requests: в каждом репозитории есть PR с таймлайном, коммитами, проверками и изменёнными файлами; комментарии и слияния синхронизируются в обе стороны между Cursor и GitHub.\u003cbr/\u003e\u003cbr/\u003e- Агенты в репозиториях: код, PR и агенты находятся вместе — можно задавать вопросы об коде, вносить изменения, обновлять PR и пушить ветки через Cursor.\u003cbr/\u003e\u003cbr/\u003e- Интеграции приложений: доступны Vercel, Depot и Buildkite; подключение Vercel даёт preview‑деплой на каждый PR, Depot/Buildkite поддерживают CI и существующие GitHub Actions или собственные пайплайны.\u003cbr/\u003e\u003cbr/\u003e- Настройки и доступность: у каждого репозитория есть настройки синхронизации, управления доступом и подключённых приложений; запуск идёт сегодня для платных планов, админы enterprise могут отказаться; смотрите документацию."
+    },
+    {
+      "id": "6a91795a10891246fe378581",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787434493,
+      "text": "Если эта штука сумеет проекты по папкам поразбирать - свалю с гитхаба нафиг"
+    },
+    {
+      "id": "6a91795a10891246fe378582",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787434614,
+      "text": "\u003ca href=\"https://github.com/orgs/community/discussions/17662#discussioncomment-17090289\"\u003ehttps://github.com/orgs/community/discussions/17662#discussioncomment-17090289\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe378583",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1787434648,
+      "text": "не сильно навязывают (просто лимиты на все остальные модели порезали)"
+    },
+    {
+      "id": "6a91795a10891246fe378584",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ngoroth",
+      "author_name": "Ngoroth",
+      "datetime": 1787434746,
+      "text": "О, тема с койном звучит как то что с get shit done случилось"
+    },
+    {
+      "id": "6a91795a10891246fe378585",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787435053,
+      "text": "А в ресторан позвонили???"
+    },
+    {
+      "id": "6a91795a10891246fe378586",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787435172,
+      "text": "Нет, Ксения, это же не стороны пострадавшего считается. А там ни разу 500 не выходит"
+    },
+    {
+      "id": "6a91795a10891246fe378587",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787435210,
+      "text": "⚠️ Go 1.27 Release Notes - The Go Programming Language - \u003ca href=\"https://go.dev/doc/go1.27\"\u003ehttps://go.dev/doc/go1.27\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe378588",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787435217,
+      "text": "\u003cstrong\u003eGo 1.27 Release Notes - The Go Programming Language\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Go 1.27 (август 2026) приносит изменения в компилятор, рантайм и стандартную библиотеку, включая поддержку методов-дженериков, новый encoding/json/v2, улучшения аллокаций и инструменты сборки; совместимость Go 1 сохраняется.\u003cbr/\u003e\u003cbr/\u003e- Язык: добавлены методы с собственными параметрами типов (дженерики); ключ в литерале struct может быть любым корректным селектором; обобщённый вывод типов теперь работает при присвоении и приведении к типовым функциям.\u003cbr/\u003e- Инструменты: поддержка response-файлов (\u003ca class=\"mention\" href=\"https://t.me/file\"\u003e@file\u003c/a\u003e) для compile/link/asm/cgo/cover/pack; удалена прямая поддержка bzr в go; GODEBUG теперь принимает только удалённые настройки, если они равны своим финальным значениям.\u003cbr/\u003e- go test / go doc / go fix / go mod: go test запускает stdversion vet; go test -json добавляет OutputType; go doc поддерживает package@version и -ex; go fix получил новые модернизаторы; go mod tidy для go 1.27+ объединяет дублирующие require-блоки.\u003cbr/\u003e- Рантайм и отладка: трассировки включают pprof метки горутин для модулей go 1.27+ (опционально отключаемо); удалён GODEBUG asynctimerchan — каналы time теперь всегда небуферизованы; добавлен профиль goroutineleak для утечек горутин.\u003cbr/\u003e- Производительность: компилятор генерирует вызовы size-specialized malloc для ускорения мелких аллокаций (~до 30%, ~1% в целом); опция GOEXPERIMENT=nosizespecializedmalloc доступна временно.\u003cbr/\u003e- Стандартная библиотека: новые encoding/json/v2 (строже, быстрее десериализация), crypto/mldsa (ML-DSA, TLS 1.3 поддержка), uuid пакет; экспериментальные simd и simd/archsimd (включаются GOEXPERIMENT=simd).\u003cbr/\u003e- Компилятор и линкер: //line относительные пути разрешаются относительно файла-держащего директиву; имена лямбд упрощены и могут объединяться; линкер для macOS принимает -macos и -macsdk для LC_BUILD_VERSION."
+    },
+    {
+      "id": "6a91795a10891246fe378589",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787435252,
+      "text": ":) пгентам расскажите про обновления и скилы им прокачайте"
+    },
+    {
+      "id": "6a91795a10891246fe37858a",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787436107,
+      "text": "⚠️ Claude Code Concise Output Style: How to Enable It | \u003ca href=\"https://explainx.ai\"\u003eexplainx.ai\u003c/a\u003e Blog | \u003ca href=\"https://explainx.ai\"\u003eexplainx.ai\u003c/a\u003e - \u003ca href=\"https://explainx.ai/blog/claude-code-concise-output-style-config-august-2026\"\u003ehttps://explainx.ai/blog/claude-code-concise-output-style-config-august-2026\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe37858b",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787436113,
+      "text": "\u003cstrong\u003eClaude Code Concise Output Style: How to Enable It | \u003c/strong\u003e\u003ca href=\"https://explainx.ai\"\u003eexplainx.ai\u003c/a\u003e\u003cstrong\u003e Blog | \u003c/strong\u003e\u003ca href=\"https://explainx.ai\"\u003eexplainx.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: В Claude Code (v2.1.237) появился стиль вывода \u0026#34;Concise\u0026#34; — лидирует с результата, сокращает нарратив; включается в /config → Output style или в global settings.json. Это удобное временное решение; учтите, что /config меняет только текущий проект.\u003cbr/\u003e\u003cbr/\u003e- Что пришло: встроенный стиль вывода \u0026#34;Concise\u0026#34;, который ставит ответ наперёд и сокращает лишние пояснения по умолчанию.\u003cbr/\u003e- Версия: реализовано в Claude Code v2.1.237 (анонс \u003ca class=\"mention\" href=\"https://t.me/ClaudeDevs\"\u003e@ClaudeDevs\u003c/a\u003e, 20 августа 2026).\u003cbr/\u003e- Как включить: в приложении выполните /config → Output style → Concise, или добавьте \u0026#34;outputStyle\u0026#34;: \u0026#34;Concise\u0026#34; в глобальный settings.json.\u003cbr/\u003e- Чем меняет поведение: уменьшает пренарративы (\u0026#34;I\u0026#39;ll now…\u0026#34;), даёт короткие ответы по умолчанию, но полные подробности доступны по запросу.\u003cbr/\u003e- Подвох: /config редактирует конфиг только для текущего проекта; чтобы применить везде — правьте глобальный settings.json.\u003cbr/\u003e- Что делали раньше: разработчики прописывали правила краткости в \u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e (постоянная память проекта) — по-прежнему полезно для запрещённых фраз и стилистики.\u003cbr/\u003e- Это не финальное решение: команда называет это \u0026#34;пластырём\u0026#34;; ожидаются дальнейшие итерации и сбор фидбека от сообщества."
+    },
+    {
+      "id": "6a91795a10891246fe37858c",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "wrkit",
+      "author_name": "Алексей А",
+      "datetime": 1787436446,
+      "text": "Так может это начальный этап внедрения воткрмарков и оно просто обкатывается"
+    },
+    {
+      "id": "6a91795a10891246fe37858d",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "unwnu",
+      "author_name": "Ruslan Solominsky",
+      "datetime": 1787436485,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e подались стилем 😉"
+    },
+    {
+      "id": "6a91795a10891246fe37858e",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787436649,
+      "text": "⚠️ Bun 1.4 | Bun Blog - \u003ca href=\"https://bun.com/blog/bun-v1.4\"\u003ehttps://bun.com/blog/bun-v1.4\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe37858f",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787436659,
+      "text": "\u003cstrong\u003eBun 1.4 | Bun Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Bun 1.4 — крупное обновление: переработан на Rust, сильно улучшена совместимость с Node.js, добавлены новые API и инструменты, исправлены тысячи багов и значительно снижено использование CPU и памяти, ускорён запуск.\u003cbr/\u003e\u003cbr/\u003e- Совместимость с Node.js: добавлено +1,517 тестов из тест-сьюта Node; многие node: модули проходят 97–100% тестов; Playwright, Next.js, vitest и другие экосистемные инструменты теперь работают в Bun.\u003cbr/\u003e\u003cbr/\u003e- Производительность и память: в простое CPU до 5× меньше, p99 для крупного приложения снизился с 24% до 10%; память уменьшена до 13–48% в серверных нагрузках, пиковое снижение до 35% в типичных сценариях.\u003cbr/\u003e\u003cbr/\u003e- Быстрый старт и размер бинарника: запуск на Linux в 2× быстрее, на Windows до 2.5× быстрее; бинарники до 17% меньше на Linux/Windows; пиковая память процесса значительно уменьшена.\u003cbr/\u003e\u003cbr/\u003e- Новые возможности: Bun.Image, Bun.WebView, Bun.markdown, Bun.cron(), Bun.Terminal, bun run/test --parallel, bun audit fix, bun dedupe, bun prune и другие улучшения для продакшена и разработки.\u003cbr/\u003e\u003cbr/\u003e- Архитектура: проект переписан с Zig на Rust; JavaScriptCore теперь использует mimalloc с улучшениями (partial page clearing, scavenger thread, lazy zeroing) для лучшей утилизации памяти.\u003cbr/\u003e\u003cbr/\u003e- Наблюдаемость и отладка: bun --cpu-prof / --heap-prof и их Markdown-форматы, node:inspector, OpenTelemetry, Datadog интеграция и асинхронные стектрейсы для упрощённого профилирования и отладки."
+    },
+    {
+      "id": "6a91795a10891246fe378590",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787436889,
+      "text": "почему не deno?"
+    },
+    {
+      "id": "6a91795a10891246fe378591",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787436892,
+      "text": "Deno имеет значительно меньшую экосистему npm-пакетов и готовых модулей по сравнению с Node.js, что усложняет перенос и быструю реализацию крупных проектов."
+    },
+    {
+      "id": "6a91795a10891246fe378592",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787437128,
+      "text": "это прям УТП: нужно освоить бюджет? сделаю так чтобы было нужно 400 ИИ-инженеров"
+    },
+    {
+      "id": "6a91795a10891246fe378593",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787437175,
+      "text": "Rust makes developers happy"
+    },
+    {
+      "id": "6a91795a10891246fe378594",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787437317,
+      "text": "Да не надо им головастых. Они уже проверку автоматизировали"
+    },
+    {
+      "id": "6a91795a10891246fe378595",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1787437335,
+      "text": "Для этого нужна конструктивная математика 🙂"
+    },
+    {
+      "id": "6a91795a10891246fe378596",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787437368,
+      "text": "хз. Про язык компилятор в прессе писали"
+    },
+    {
+      "id": "6a91795a10891246fe378597",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1787437372,
+      "text": "Через лет 20 все на зависимых типах будем формально верифицированный код писать 🙂"
+    },
+    {
+      "id": "6a91795a10891246fe378598",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787437398,
+      "text": "⚠️ Don\u0026#39;t paste the AI. - \u003ca href=\"https://dontpastetheai.com/\"\u003ehttps://dontpastetheai.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe378599",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1787437403,
+      "text": "\u003cstrong\u003eDon\u0026#39;t paste the AI, please.\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКоротко: Не пересылайте ответ ИИ как ваш — используйте его для черновика, затем переформулируйте своими словами. Если нечего добавить — скажите об этом или молчите.\u003cbr/\u003e\u003cbr/\u003e- Не будьте посредником: не копируйте и не вставляйте стену текста от ИИ как свой ответ.\u003cbr/\u003e- Используйте ИИ как инструмент: возьмите заготовку, переделайте её под свой стиль и контекст.\u003cbr/\u003e- Три предложения достаточно: выделите суть, добавьте своё мнение или контекст.\u003cbr/\u003e- Если что-то полезно — процитируйте и объясните, почему это важно.\u003cbr/\u003e- Нет мнения? Просто скажите: «Нет сильного мнения» или помолчите.\u003cbr/\u003e- Для коллег или студентов: отправьте ссылку/напоминание о правилах вместо повторной пересылки готового ИИ-текста."
+    },
+    {
+      "id": "6a91795a10891246fe37859a",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787437419,
+      "text": "Меня больше интересует как оно с теоремами, что гельзя ни доказать ни опровернуть."
+    },
+    {
+      "id": "6a91795a10891246fe37859b",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shibuya_party",
+      "author_name": "Alex",
+      "datetime": 1787437446,
+      "text": "да, там есть на их стороне lean - язык для математических proof\u0026#39;ов"
+    },
+    {
+      "id": "6a91795a10891246fe37859c",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787437468,
+      "text": "В научных журналах AI-бумаги уже AI ревьюят"
+    },
+    {
+      "id": "6a91795a10891246fe37859d",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "sice1980",
+      "author_name": "Sergey Ivanov",
+      "datetime": 1787437542,
+      "text": "Да, я про него. А он так выглядит бинарный. Типа да/ нет. И както неправильно, или всетаки он не всегда применим ?"
+    },
+    {
+      "id": "6a91795a10891246fe37859e",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1787437548,
+      "text": "Обидно, когда говорят что если используешь тире — то ты эйай. А «ёлочки» вообще за гранью \u0026gt;_\u0026lt;"
+    },
+    {
+      "id": "6a91795a10891246fe37859f",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787437570,
+      "text": "\u003ca href=\"https://notbyai.fyi\"\u003ehttps://notbyai.fyi\u003c/a\u003e"
+    },
+    {
+      "id": "6a91795a10891246fe3785a0",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1787437601,
+      "text": "Я даж помню, что на винде чтобы тире на винде вставить, то Alt+0151 на нампаде. Ёлки забыл уже как)"
+    },
+    {
+      "id": "6a91795a10891246fe3785a1",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787437670,
+      "text": "мне стыдно, что я знаю чем дефис, тире, среднее тире и минус отличаются и как их правильно использовать"
+    },
+    {
+      "id": "6a91795a10891246fe3785a2",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787437733,
+      "text": "AI-ки до сих пор не научились неразрывный пробел перед тире ставить чтобы не переносилось"
+    },
+    {
+      "id": "6a91795a10891246fe3785a3",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1787438140,
+      "image_url": "https://chat.radio-t.com/logs/1027/AgACAgIAAx0CUPxcWQABCw8BaookPKBbOyHvL8CMiLWTd-P5RxEAAyFrGxOCUEj2fK0wkJ5EawEAAwIAA3gAAz0E",
+      "image_width": 611,
+      "image_height": 104,
+      "text": "прошло всего 5 лет от школьных задач до задач мирового уровня"
+    },
+    {
+      "id": "6a91795a10891246fe3785a4",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1787438242,
+      "text": "так проверить на качество написаного немогут"
+    },
+    {
+      "id": "6a91795a10891246fe3785a5",
+      "issue": 1027,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shibuya_party",
+      "author_name": "Alex",
+      "datetime": 1787438372,
+      "text": "я видел, как Terrance Tao на нём программировал, интересный experience, вроде программирование, но другое xD . Насчёт универсальной правильности. если правильно форматилизровать проблему, то lean по идее должен проверить: подходит ли proof под то финальное решение, которое ты ожидаешь, такой математический unit test xD\u003cbr/\u003e\u003cbr/\u003eкстати, proof тоже надо уметь правильно построить, иначе это как unit тест, который проверяет не то, что нужно"
+    }
+  ]
+}

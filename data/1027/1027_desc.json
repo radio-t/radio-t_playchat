@@ -1,0 +1,72 @@
+{
+  "issue": 1027,
+  "date": "2026-08-22",
+  "audio": "https://cdn.radio-t.com/rt_podcast1027.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1027.jpg",
+  "start_time": 1787429959,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Что происходит с использованием AI агентов",
+      "links": [
+        "https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/"
+      ],
+      "time": "00:42:49"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "GitHub упал сильно, опять",
+      "links": [
+        "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+      ],
+      "time": "01:02:46"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Убийца GitHub от Cursor",
+      "links": [
+        "https://cursor.com/changelog/origin-code-hosting"
+      ],
+      "time": "01:13:27"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Выход Go 1.27",
+      "links": [
+        "https://go.dev/doc/go1.27"
+      ],
+      "time": "01:27:30"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Code и борьба за стиль разговора",
+      "links": [
+        "https://explainx.ai/blog/claude-code-concise-output-style-config-august-2026"
+      ],
+      "time": "01:42:27"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Bun 1.4 как триумф переписывания",
+      "links": [
+        "https://bun.com/blog/bun-v1.4"
+      ],
+      "time": "01:51:29"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Не отдавайте людям ответы железяки",
+      "links": [
+        "https://dontpastetheai.com/"
+      ],
+      "time": "02:03:58"
+    }
+  ],
+  "tags": null
+}

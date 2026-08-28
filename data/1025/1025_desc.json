@@ -1,0 +1,88 @@
+{
+  "issue": 1025,
+  "date": "2026-08-08",
+  "audio": "https://cdn.radio-t.com/rt_podcast1025.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1025.jpg",
+  "start_time": 1786219960,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "IntelliJ IDEA LSP для Java и Kotlin",
+      "links": [
+        "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/"
+      ],
+      "time": "00:29:51"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Oracle против AI кода в OpenJDK",
+      "links": [
+        "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
+      ],
+      "time": "00:42:54"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Как Claude Code но от Meta",
+      "links": [
+        "https://developer.meta.com/ai/lp/muse-code/?gad_campaignid=24111147749"
+      ],
+      "time": "00:52:17"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "LLM и хобби программисты",
+      "links": [
+        "https://blog.fogus.me/llm/born-against.html"
+      ],
+      "time": "00:59:03"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Зачем писать код в 2026",
+      "links": [
+        "https://softwaredoug.com/blog/2026/07/09/write-code.html"
+      ],
+      "time": "01:09:11"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Stateless MCP",
+      "links": [
+        "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
+      ],
+      "time": "01:23:04"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Хакеры взломали железные кошельки",
+      "links": [
+        "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/?utm_source=chatgpt.com"
+      ],
+      "time": "01:36:10"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Исследование о пользе агентов в программировании",
+      "links": [
+        "https://arxiv.org/abs/2607.01418?utm_source=chatgpt.com"
+      ],
+      "time": "01:52:52"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Темы слушателей",
+      "links": [
+        "https://radio-t.com/p/2026/08/05/prep-1025/"
+      ],
+      "time": "02:04:52"
+    }
+  ],
+  "tags": null
+}
