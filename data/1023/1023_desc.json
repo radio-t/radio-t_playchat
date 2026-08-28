@@ -1,0 +1,56 @@
+{
+  "issue": 1023,
+  "date": "2026-07-25",
+  "audio": "https://cdn.radio-t.com/rt_podcast1023.mp3",
+  "cover": "https://radio-t.com/images/radio-t/rt1023.jpg",
+  "start_time": 1785010840,
+  "topics": [
+    {
+      "id": "000000000000000000000000",
+      "title": "Вступление",
+      "links": [],
+      "time": "00:00:00"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Claude Opus 5",
+      "links": [
+        "https://www.anthropic.com/news/claude-opus-5"
+      ],
+      "time": "00:14:15"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "И меры были приняты",
+      "links": [
+        "https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434"
+      ],
+      "time": "00:32:09"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "OpenAI успешно атаковал Hugging Face",
+      "links": [
+        "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
+      ],
+      "time": "00:58:06"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "JEP 541: закат macOS/x64",
+      "links": [
+        "https://openjdk.org/jeps/541"
+      ],
+      "time": "01:26:36"
+    },
+    {
+      "id": "000000000000000000000000",
+      "title": "Почему это не работает",
+      "links": [
+        "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"
+      ],
+      "time": "01:33:21"
+    }
+  ],
+  "tags": null
+}
