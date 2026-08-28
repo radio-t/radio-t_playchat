@@ -15,8 +15,6 @@ import (
 	"strings"
 	"time"
 
-	"go.mongodb.org/mongo-driver/bson/primitive"
-
 	"golang.org/x/exp/slices"
 
 	"github.com/araddon/dateparse"
@@ -73,7 +71,7 @@ type HugoIssue struct {
 }
 
 type DescTopic struct {
-	Id    primitive.ObjectID `json:"id,omitempty"`
+	Id    ObjectID `json:"id,omitempty"`
 	Issue int                `json:"issue,omitempty"`
 	Title string             `json:"title"`
 	Links []string           `json:"links"`
@@ -92,7 +90,7 @@ type DescIssue struct {
 }
 
 type ChatLine struct {
-	Id             primitive.ObjectID `json:"id"`
+	Id             ObjectID `json:"id"`
 	Issue          int                `json:"issue"`
 	Type           string             `json:"type"`
 	AuthorType     string             `json:"author_type"`
@@ -112,7 +110,7 @@ type Chat struct {
 
 // CCLine aaa
 type CCLine struct {
-	Id     primitive.ObjectID `json:"id"`
+	Id     ObjectID `json:"id"`
 	Issue  int                `json:"issue"`
 	Type   string             `json:"type"`
 	Author string             `json:"author"`
@@ -274,7 +272,7 @@ func createDescFile(issue int) {
 		if len(topic.Title) > 0 {
 			issueDesc.Topics = append(issueDesc.Topics, topic)
 
-			topic.Id = primitive.NewObjectID()
+			topic.Id = NewObjectID()
 			topic.Issue = issue
 
 			searchTopics = append(searchTopics, topic)
@@ -386,7 +384,7 @@ func createChatFile(issue int) {
 
 		table.ForEach("tr", func(_ int, tr *colly.HTMLElement) {
 			chatLine := ChatLine{
-				Id:             primitive.NewObjectID(),
+				Id:             NewObjectID(),
 				Issue:          issue,
 				Type:           "chat",
 				AuthorType:     "listener",
@@ -556,7 +554,7 @@ func createCcFile(issue int) {
 			author = item.Lines[0].VoiceName
 		}
 		ccLine := &CCLine{
-			Id:     primitive.NewObjectID(),
+			Id:     NewObjectID(),
 			Issue:  issue,
 			Type:   "cc",
 			Author: author,
