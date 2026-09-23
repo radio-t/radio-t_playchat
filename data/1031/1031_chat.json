@@ -1,0 +1,958 @@
+{
+  "chat": [
+    {
+      "id": "6ab3d3644d368a534319d8b2",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "SergiuszMalcew",
+      "author_name": "serhii maltsev",
+      "datetime": 1789848030,
+      "text": "когда?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8b3",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789848030,
+      "text": "\u003ca href=\"https://radio-t.com/online/\"\u003eкаждую субботу, 20:00 UTC\u003c/a\u003e\u003cbr/\u003eНачался 30сек назад. \u003cbr/\u003eСкорее всего еще идет. \u003cbr/\u003eСледующий через 6дн 23ч 59мин 29сек"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8b4",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dr_M0rt",
+      "author_name": "Dr. Mort",
+      "datetime": 1789848165,
+      "text": "кто там хотел что бы в подкасте про АИ не говорил - самое время слушать"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8b5",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "volume12",
+      "author_name": "Vitaly",
+      "datetime": 1789848442,
+      "text": "что там? надеюсь не про эппл?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8b6",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1789848570,
+      "text": "как погода?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8b7",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1789848586,
+      "text": "Если Ксюша придёт спросите как на счет клавиатуры на внешнем экране, там получатеся что клавиаатура большую чать экрана занимает это удобно или нет?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8b8",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1789848731,
+      "text": "Агентс api это для продукта ж больше"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8b9",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "cusnirati",
+      "author_name": "atimati",
+      "datetime": 1789848910,
+      "text": "ssh ногами"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ba",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789849108,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8bb",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1789849696,
+      "text": "superpowers проверяет после каждой задачи"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8bc",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789849717,
+      "text": "superpowers очень странно пишет планы"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8bd",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789849727,
+      "text": "в плане у него обычно 90% реализации уже написано"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8be",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "iosif380",
+      "author_name": "Joseph",
+      "datetime": 1789849732,
+      "text": "Какая разница 1м контекста не 1м usable context 150~k"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8bf",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789849791,
+      "text": "⚠️ Introducing System One Models \u0026amp; Jev - TypeSafe AI Blog - \u003ca href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\"\u003ehttps://typesafe.ai/blog/introducing-system-one-models-and-jev\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c0",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789849797,
+      "text": "\u003cstrong\u003eIntroducing System One Models \u0026amp; Jev - TypeSafe AI Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: TypeSafe AI выпустила Jev — «System One» модель для быстрых типизированных решений, оптимизированная под автоматизацию: параллельный сэмплинг, RLCD, прогнозы с калиброванными вероятностями, значительно быстрее и дешевле, чем традиционные LLM, но без генерации свободного текста.\u003cbr/\u003e\u003cbr/\u003e- Что это: Jev — новая модель, отдающая типизированные структурированные решения и вероятности, вместо произвольных строк; предназначена для прямого использования в коде и системах.  \u003cbr/\u003e- Архитектура и обучение: собственная модель, параллельный сэмплер и метод RLCD (Reinforcement Learning for Calibrated Decisions) для честных вероятностей.  \u003cbr/\u003e- Скорость и стоимость: ответы за 70–500 мс, до 40–200× быстрее; гораздо дешевле ввода/вывода по сравнению с автогенеративными LLM.  \u003cbr/\u003e- Надёжность: исключает типовые ошибки, не галлюцинирует, всегда возвращает калиброванные оценки уверенности.  \u003cbr/\u003e- Применения: автоматизация решений в коде, реальное время в UX, масштабная обработка данных, проверяемые workflow, верификация и защита от джейлбрейков.  \u003cbr/\u003e- Доказательства: опубликованы workflow-эвалюации и демонстрации; обещают прозрачное ценообразование и воспроизводимые тесты (ранний доступ).  \u003cbr/\u003e- Ограничения и нюансы: Jev отказывается от генерации свободного текста; результаты зависят от выбранных workflow и сравнений; пока ранний доступ и возможен системный уклон в оценках."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c1",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789850264,
+      "text": "а насколько большая модель?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c2",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789850266,
+      "text": "Модель содержит порядка сотен миллиардов параметров, что повышает качество ответов, но значительно увеличивает требования к вычислениям и памяти."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c3",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789850277,
+      "text": "если небольшая, то и знаний о мире у неё мало"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c4",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1789850388,
+      "text": "пример со спамом понятный, а например классификация сделок по акциям как это будет выглядеть?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c5",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1789850512,
+      "text": "\u0026#34;покупаес\u0026#34;, \u0026#34;докупаемся\u0026#34;, \u0026#34;фиксируем прибыль\u0026#34;"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c6",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mois_ilya",
+      "author_name": "Ilya Mois",
+      "datetime": 1789850521,
+      "text": "Эта модель это очень похоже на предобученный BERT, который mlщики много лет обучают ровно на такие кейсы. Правда фаундейшн задний у них никогда не было"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c7",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789850672,
+      "text": "ещё оно может служить классификатором, безопасно ли выполнять tool call агента"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c8",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1789850672,
+      "text": "А мне нравится, что появляются новые виды моделек. А то чаты да чаты. А тут вон принималка решений. Дальше ещё что-нибудь придумают."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8c9",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789850686,
+      "text": "уже для pi написали плагин"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ca",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1789850729,
+      "text": "Кажется что если мы завязываем безопасность на вероятность, то нет никакой безопасности("
+    },
+    {
+      "id": "6ab3d3644d368a534319d8cb",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789850751,
+      "text": "ну так щас оно работает на основе llm"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8cc",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789851134,
+      "text": "пусть китайцы выпустят модельку с открытыми весами"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8cd",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789851503,
+      "text": "Ksenia пора менять подгузники или нет)"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ce",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789851561,
+      "text": "Или про здоровье, когда че нить пить или не пить"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8cf",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1789851649,
+      "text": "Про линтер интересно. По идее можно написать чот типа LSP который смотрит на меняющиеся куски кода агентом, кормит их туда, чтобы разметило на уровень странности/сложности/опечаток/прочего, что сложно просто линтерами и тупыми подсчётами вычислить. И скажет агенту, мол, хрень написал, выглядит как фекалии, переделывай/разбивай на функции/etc."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d0",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1789851665,
+      "text": "пора ли спать ) Теперь интересно, какой контекст для неё надо подготовить. И опять же, она же без истории, а в моменте, для \u0026#34;выключать ли свет\u0026#34; может не подойти"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d1",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1789851741,
+      "text": "крестики нолики на бесконечном поле в 3D. или лучше в 4D чтоб у кожаных вообще шансов не было"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d2",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789851753,
+      "text": "Ваще я бы ее на отбор кандидатов на работе натравил"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d3",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789851781,
+      "text": "Самое не любимое"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d4",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1789851803,
+      "text": "Роутинг не сработает на конкретные запросы из-за кешей("
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d5",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789851884,
+      "text": "⚠️ Java 27 / JDK 27: General Availability - announce - \u003ca href=\"https://openjdk.org\"\u003eopenjdk.org\u003c/a\u003e - \u003ca href=\"https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\"\u003ehttps://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d6",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789851891,
+      "text": "\u003cstrong\u003e\u003cbr/\u003eJava 27 / JDK 27: General Availability - announce - \u003c/strong\u003e\u003ca href=\"https://openjdk.org\"\u003eopenjdk.org\u003c/a\u003e\u003cstrong\u003e\u003cbr/\u003e\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: JDK 27 стал общедоступным (GA) с билдом 35, готовым для продакшна. Включает 9 JEP, множество улучшений и исправлений; GPL‑сборки Oracle доступны, сборки других вендоров появятся скоро.\u003cbr/\u003e\u003cbr/\u003e- Статус релиза: JDK 27 объявлен Generally Available (билд 35 — GA), без P1‑багов, готов к промышленному использованию.\u003cbr/\u003e- Доступность: GPL‑сборки Oracle доступны на \u003ca href=\"https://jdk.java.net/27\"\u003ehttps://jdk.java.net/27\u003c/a\u003e; сборки от других вендоров ожидаются.\u003cbr/\u003e- Ключевые JEP: G1 сделан сборщиком по умолчанию во всех средах (JEP 523).\u003cbr/\u003e- Безопасность: Постквантовый гибридный обмен ключами для TLS 1.3 (JEP 527) и PEM‑кодировки криптообъектов (JEP 538).\u003cbr/\u003e- Язык и API: Ленивые константы (третья превью, JEP 531), примитивные типы в pattern matching и switch (пятая превью, JEP 532).\u003cbr/\u003e- Параллелизм и память: Структурная конкуренция (седьмая превью, JEP 533) и компактные заголовки объектов по умолчанию (JEP 534).\u003cbr/\u003e- Инструменты и отладка: JFR — редактирование данных в процессе (JEP 536) и Vector API в инкубаторе (двенадцатая, JEP 537); плюс сотни улучшений и тысячи исправленных багов."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d7",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789851973,
+      "text": "Jfr для отладки имба"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d8",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789852002,
+      "text": "Хз че там редактировать, но сам инструмент хороший"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8d9",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789852347,
+      "text": "⚠️ Claude Code changelog - Claude Code Docs - \u003ca href=\"https://code.claude.com/docs/en/changelog\"\u003ehttps://code.claude.com/docs/en/changelog\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8da",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789852354,
+      "text": "\u003cstrong\u003eClaude Code changelog - Claude Code Docs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Краткое содержание:** Краткие заметки о релизах Claude Code: перечисление новых функций, улучшений, исправлений ошибок и обновлений документации по версиям для быстрого ознакомления и отслеживания изменений.\u003cbr/\u003e\u003cbr/\u003e- Новые функции: добавлены инструменты разработки, расширенные API и интеграции, которые повышают гибкость и автоматизацию рабочих процессов.\u003cbr/\u003e- Улучшения производительности: оптимизировано время отклика, снижение использования памяти и ускорение сборок в реальных сценариях.\u003cbr/\u003e- Исправления ошибок: устранены ошибки, приводившие к падениям, неправильной обработке данных и регрессиям в ключевых функциональностях.\u003cbr/\u003e- Обновления безопасности: закрыты уязвимости, обновлены зависимости и добавлены проверки целостности и аутентификации.\u003cbr/\u003e- Документация: расширены руководства, примеры кода и раздел «Часто задаваемые вопросы» для быстрого внедрения изменений.\u003cbr/\u003e- Совместимость: улучшена обратная совместимость, добавлены миграционные заметки и инструменты для облегчения перехода между версиями.\u003cbr/\u003e- Тестирование и CI: расширено покрытие тестами, обновлены пайплайны непрерывной интеграции и автоматические проверки качества кода."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8db",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789852407,
+      "text": "а сделали, что скиллы могут читаться из .agents/skills вместо .claude/skills?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8dc",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789852416,
+      "text": "Как семплирующий профайлер он не очень."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8dd",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789852455,
+      "text": "Но в openjdk люди сильно не хотят сделать async-profiler стандартом или хотя бы апишку нормальную дать."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8de",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "osidorkin85",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1789852496,
+      "text": "Это должно обучаться по behavioral cloning, не RL я с автопилотом для тестирования игры своей это вымучил."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8df",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mois_ilya",
+      "author_name": "Ilya Mois",
+      "datetime": 1789852521,
+      "text": "Так Codex поддерживает ведь .agents"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e0",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789852545,
+      "text": "Кстати, гошному pprof есть чему поучиться у async-profiler, так как отсутствие wall-clock профиля того же сильно печалит."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e1",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789852620,
+      "text": "Они по-моему ui’ку в приложении смержили для ui/code и т.д."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e2",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789852635,
+      "text": "Кто использует десктопное приложение claude - не понятно."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e3",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789852642,
+      "text": "Там смысл в том, что клод сам определяет куда сувать"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e4",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789852684,
+      "text": "Раньше вроде руками только ты сессии добавлял, теперь он сам умеет"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e5",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789852736,
+      "text": "⚠️  - \u003ca href=\"https://www.youtube.com/supportedbrowsers?nexturl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOhOmLqR5nN4\"\u003ehttps://www.youtube.com/supportedbrowsers?nexturl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOhOmLqR5nN4\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e6",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "osidorkin85",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1789852943,
+      "text": "Self-improvement по бенчмаркам написанном людьми - ну, спорно, а когда бенчмарки ИИ пишут - обучение уходит в астрал"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e7",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1789852945,
+      "text": "Cлучился 9.11."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e8",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789853077,
+      "text": "У ЛеКуна аргументы сильнее, на мой взгляд, так как он говорит по делу, что capacity текущей архитектуры трансформеров не дает возможности получить ASI, а других технологий у нас пока нет."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8e9",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "maxlilt",
+      "author_name": "Максим Зырянов",
+      "datetime": 1789853090,
+      "text": "AGI будет делать все, чтобы цена его отключения была максимально высока."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ea",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1789853306,
+      "text": "дарио очень выгодно запрещать опенсорсные можели потому что умпутун распробует свою макстудию и оставит себе одну подписку вместо пяти"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8eb",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789853377,
+      "text": "О каком диком западе речь? Сам Дарио же хочет все зарегулировать. Пчелы против меда?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ec",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789853419,
+      "text": "очевидно, что хочет зарегулировать всех вокруг, кроме себя"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ed",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789853482,
+      "text": "Да я думаю, что они себя непротив зарегулировать. Они выйдут на ipo - получат бабки, а дальше хоть трава не расти, разберутся потом."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ee",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1789853509,
+      "text": "Может они просто хотят начать зарабатывать, а не участвовать в вечной гонке?\u003cbr/\u003e\u003cbr/\u003eAnthropic Says It Is Now Profitable on a PIZDA* Basis\u003cbr/\u003e*PIZDA — Profit If Zero Distribution \u0026amp; AI-training costs\u003cbr/\u003e\u003cbr/\u003eУбрать затраты на вечное огромное обучение и наконец можно денюжки делать)"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ef",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1789853517,
+      "text": "ну он расчитывает что они как большая корпорация пройдут все дурацкие регуляции которые маленькие разработчики не способны пройти"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f0",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789853536,
+      "text": "Давайте не регулировать, а децентрализовать. Открытые веса, каждому по агенту, в случае глобальной «войны» - у всех будет винтовка."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f1",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789853557,
+      "text": "выйдут на ipo, их продуктами нельзя выпользоваться, акции падают, все несчастны. что-то не так в этом схеме, не?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f2",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789853611,
+      "text": "Текущими можно же? А они уже от этого получают прибыль, с присказкой «мы тут alignment и gate’ы делаем», корпоративный мир будет доволен."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f3",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1789853625,
+      "image_url": "https://chat.radio-t.com/logs/1031/AgACAgIAAx0CUPxcWQABCyZkaq7_udcKBxPKIjXO8hSe0XGM4rIAAjMeaxta1nhJ04WS2UhrBNIBAAMCAAN4AAM9BA",
+      "image_width": 601,
+      "image_height": 288,
+      "text": ""
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f4",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1789853628,
+      "text": "выселить все датаценты на Луну, пусть там развиваются"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f5",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1789853667,
+      "text": "Но один человек знает что делать."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f6",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789853732,
+      "text": "А есть ли у нас 100 лет гарантии, что на нас метеор не упадет? Отлично, если будет средство против этого метеора, но не впадать же в панику от этого."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f7",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789853739,
+      "text": "чтоб с Луны запускали ядерку?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f8",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789853759,
+      "text": "кажется, что может быть сценарий Альтрона"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8f9",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789853789,
+      "text": "ллм уже имеет все знания из интернета, достаточно прийти к выводу, что человечество порочно и должно быть уничтожено"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8fa",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789853847,
+      "text": "Для этого должны быть интенции у модели и «восприятие мира». ЛеКун, кстати, описывает это как одну из ключевых проблем текущих моделей."
+    },
+    {
+      "id": "6ab3d3644d368a534319d8fb",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1789853902,
+      "text": "на Луне нет промышлености чтобы произвести что-то, пусть там только датацентры размещают"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8fc",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789853954,
+      "text": "с Луны можно запустить земную ядерку и не пострадать от последствий"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8fd",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1789854124,
+      "text": "идея в том что они удалённо и могут птолько информацию предавать, а условно произвести Терминаторов не сможет потому что там нет фабрик и прочего, Информационный канал на Земле отключить легче"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8fe",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789854245,
+      "text": "показ прав при покупке ножа? О_О"
+    },
+    {
+      "id": "6ab3d3644d368a534319d8ff",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789854266,
+      "text": "Джон Уик убивал карандашом, тоже права надо?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d900",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789854274,
+      "text": "⚠️ I don\u0026#39;t like LLMs - \u003ca href=\"https://martinfowler.com/articles/2026-dont-like-llms.html\"\u003ehttps://martinfowler.com/articles/2026-dont-like-llms.html\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d901",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789854280,
+      "text": "\u003cstrong\u003eI don\u0026#39;t like LLMs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: У меня смешанные чувства к LLM: удивление и надежда на пользу, страх опасностей и отвращение к «голосу» моделей — особенно из‑за их уверенного бреда и культурных ценностей создателей.\u003cbr/\u003e\u003cbr/\u003e- Двойственные эмоции: восхищение потенциалом продуктивности и опасения по поводу вреда (агентные атаки, биоугрозы), одновременно понимание неизбежности развития ИИ.\u003cbr/\u003e- Практическая польза: модели ускоряют работу и дают полезные решения, что делает их использование, по мнению некоторых, даже обязанностью.\u003cbr/\u003e- Уверенный бред: раздражает, что LLMs часто «уверенно врут», смешивая полезное и вымышленное с одинаковой интонацией.\u003cbr/\u003e- Эффект неестественности: «LLM‑голос» создает эффект зловещей долины — неприятное ощущение общения с псевдочеловеком.\u003cbr/\u003e- Культурный укор: модели отражают ценности и мировоззрение их создателей; это вызывает недоверие к продуктам, сформированным определённой субкультурой.\u003cbr/\u003e- Надежда на созревание: возможно, по мере развития и лучшего воспитания моделей отношение изменится и они станут более надежными.\u003cbr/\u003e- Личный выбор: я избегаю общения с теми, кому не доверяю; такая стратегия переносится и на LLM — отвращение мешает принимать их как участников сотрудничества."
+    },
+    {
+      "id": "6ab3d3644d368a534319d902",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nik_makrv",
+      "author_name": "Nikita",
+      "datetime": 1789854309,
+      "text": "В UK только возраст проверяют при покупке кухонных ножей, если он неочевиден (недавно покупал)"
+    },
+    {
+      "id": "6ab3d3644d368a534319d903",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1789854366,
+      "text": "Фаулер 20 лет отстаивает мертвые концепции, какое любопытство? :)"
+    },
+    {
+      "id": "6ab3d3644d368a534319d904",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789854442,
+      "text": "фаулер инфоцыган"
+    },
+    {
+      "id": "6ab3d3644d368a534319d905",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1789854543,
+      "text": "лучше всего всегда общался gemini"
+    },
+    {
+      "id": "6ab3d3644d368a534319d906",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1789854556,
+      "text": "А сейчас запромптить нельзя?"
+    },
+    {
+      "id": "6ab3d3644d368a534319d907",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789854738,
+      "text": "⚠️ The most important product decision is what you don’t build - \u003ca href=\"https://liamnugent.me/posts/what-you-dont-build/\"\u003ehttps://liamnugent.me/posts/what-you-dont-build/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d908",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789854745,
+      "text": "\u003cstrong\u003eThe most important product decision is what you don’t build - Liam Nugent\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКороткое резюме: Главное продуктовое решение — что не строить. Универсальные платформы (хранилище документов, центр уведомлений) кажутся удобными, но дорого поддерживаются. Анализируйте кейсы, выбирайте простые существующие решения и безжалостно удаляйте лишнее, чтобы фокусироваться на ценности для пользователя.\u003cbr/\u003e\u003cbr/\u003e- Не стройте «док-хаб» по инерции: собираются требования от всех, превращая продукт в драгоценный Google Drive с вечной поддержкой и сложной безопасностью.\u003cbr/\u003e- Центр уведомлений — соблазн простоты; со временем он перерастает в плохую копию почтового клиента и не решает реальные коммуникационные задачи.\u003cbr/\u003e- Аргумент в пользу отказа — не только стоимость разработки, а постоянные эксплуатационные расходы годами, обновления платформ и поддержка.\u003cbr/\u003e- Подход: разбирайте каждую коммуникационную задачу отдельно, требуйте строгой необходимости и используйте простые или уже существующие каналы.\u003cbr/\u003e- Будьте агрессивны в удалении: поддержка, ревью и удаление важнее производства новых фич; это повышает конверсию и снижает нагрузку на поддержку.\u003cbr/\u003e- Люди склонны к добавлению, а не вычитанию; это требует сознательных усилий и правил успеха, ориентированных на реального клиента.\u003cbr/\u003e- Пример Джобса: фокус на ограниченном наборе продуктов концентрирует ресурсы и приносит больше ценности, чем распылённые инициативы."
+    },
+    {
+      "id": "6ab3d3644d368a534319d909",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1789855723,
+      "text": "Даже ненастоящую базу надо уметь написать)"
+    },
+    {
+      "id": "6ab3d3644d368a534319d90a",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789855807,
+      "text": "⚠️ Темы слушателей 031 - \u003ca href=\"https://radio-t.com/p/2026/09/15/prep-1031/\"\u003ehttps://radio-t.com/p/2026/09/15/prep-1031/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d3644d368a534319d90b",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789855823,
+      "text": "[1/12] \u003cstrong\u003e+9\u003c/strong\u003e от \u003cstrong\u003eGeorge Ananchenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/completeskeptic/status/2099925682726002904?s=46\"\u003ehttps://x.com/completeskeptic/status/20999256...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eJev is a new System One architecture (parallel sampler for typed decisions, not sequential text tokens like LLMs) plus a new training method called RLCD\u003cbr/\u003e\u003cbr/\u003eJev (from a ChatGPT co-inventor) skips text. It just spits structured decisions with confidence scores. 20-200x faster, 40-400x cheaper (outputs free). Software can now embed real AI judgment everywhere without lag or cost.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eDiogo Almeida on X: \u0026#34;After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI?\u003cbr/\u003e\u003cbr/\u003eI’ve spent the last 2 years in stealth building a new way to train models (RLCD), and a new type of frontier AI model that we are releasing today: Jev\u003cbr/\u003e\u003cbr/\u003e• 20-200x faster\u003cbr/\u003e• 40-400x … / X\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Диогу Алмейда создал новый метод обучения (RLCD) и модель Jev, утверждая, что она значительно быстрее, дешевле и ориентирована на принятие решений — возможный кратчайший путь к экономической революции, вызванной ИИ.\u003cbr/\u003e\u003cbr/\u003e- Соавтор ChatGPT, который задавался вопросом: почему суперужественные чат‑модели не привели к ОИИ.\u003cbr/\u003e- За два года в секрете разработал новый способ обучения моделей под названием RLCD.\u003cbr/\u003e- Запустил новую frontier‑модель Jev, позиционируемую как новый тип передового ИИ.\u003cbr/\u003e- Jev работает в 20–200× быстрее по сравнению с существующими моделями.\u003cbr/\u003e- Стоимость в 40–400× ниже, при этом выходные токены предоставляются бесплатно.\u003cbr/\u003e- Модель оптимизирована для композиционного интеллекта и принятия решений —, по его мнению, кратчайший путь к экономической революции на базе ИИ."
+    },
+    {
+      "id": "6ab3d3644d368a534319d90c",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789855824,
+      "text": "[2/12] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eWladimir Harwardt\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eМелочь, а приятно – \u003c/em\u003e\u003ca href=\"https://x.com/trq212/status/2101009392611278961\"\u003ehttps://x.com/trq212/status/2101009392611278961\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eWe’re adding support for \u003c/em\u003e\u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e\u003cem\u003e to Claude Code.\u003cbr/\u003e\u003cbr/\u003eStarting today in version 2.1.277, if there is no \u003c/em\u003e\u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e\u003cem\u003e in a folder, Claude will check for and use \u003c/em\u003e\u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e\u003cem\u003e.\u003cbr/\u003e\u003cbr/\u003eYou can toggle this behavior in \u003c/em\u003e\u003cem\u003e/config\u003c/em\u003e\u003cem\u003e.\u003cbr/\u003e\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eThariq on X: \u0026#34;We\u0026#39;re adding support for \u003c/strong\u003e\u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e\u003cstrong\u003e to Claude Code. \u003cbr/\u003e\u003cbr/\u003eStarting today in version 2.1.277, if there is no \u003c/strong\u003e\u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e\u003cstrong\u003e in a folder, Claude will check for and use \u003c/strong\u003e\u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e\u003cstrong\u003e.\u003cbr/\u003e\u003cbr/\u003eYou can toggle this behavior in \u003c/strong\u003e\u003cstrong\u003e/config\u003c/strong\u003e\u003cstrong\u003e.\u0026#34; / X\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Claude Code теперь поддерживает \u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e — при отсутствии \u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e в папке система будет искать и использовать \u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e (начиная с версии 2.1.277). Поведение можно включать и отключать через /config.\u003cbr/\u003e\u003cbr/\u003e- Что изменилось: добавлена поддержка \u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e как резервного файла конфигурации для Claude Code при отсутствии \u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e.\u003cbr/\u003e- Номер версии: изменение доступно, начиная с версии 2.1.277.\u003cbr/\u003e- Поведение по умолчанию: если в папке нет \u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e, Claude автоматически проверит наличие и применит \u003ca href=\"https://AGENTS.md\"\u003eAGENTS.md\u003c/a\u003e.\u003cbr/\u003e- Настройка: переключатель для включения/отключения этой функции находится в /config.\u003cbr/\u003e- Совместимость: это влияет только на папки без \u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e; существующие \u003ca href=\"https://CLAUDE.md\"\u003eCLAUDE.md\u003c/a\u003e остаются приоритетными.\u003cbr/\u003e- Практическое значение: упрощает использование агентов и резервных настроек при отсутствии основного файла."
+    },
+    {
+      "id": "6ab3d3644d368a534319d90d",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789855824,
+      "text": "[3/12] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eAndrei Razhkouski\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eGoogle открыла умный дом для AI-агентов через Home MCP.\u003cbr/\u003eClaude, Hermes, OpenClaw и другие MCP-клиенты смогут управлять устройствами, разбирать записи с камер и историю событий, а также сообщать о выполненных задачах через домашние колонки.\u003cbr/\u003e\u003cbr/\u003eПример из статьи:\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003eCross-Camera Analysis: спросите своего агента, что делали дети, когда вернулись из школы, и он предоставит сводку по всем вашим камерам о том, что они делали, и покажет вам клипы.\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://9to5google.com/2026/09/16/google-home-mcp/\"\u003ehttps://9to5google.com/2026/09/16/google-home-mcp/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eGoogle Home MCP lets Antigravity, Claude control your smart home\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Google запускает Home MCP — протокол, который позволяет персональным ИИ‑агентам (Antigravity, Claude и др.) управлять устройствами и историей Google Home для анализа, автоматизации и кастомных панелей управления.\u003cbr/\u003e\u003cbr/\u003e- Что это: Home MCP (Model Context Protocol) даёт агентам доступ к устройствам и событиям в экосистеме Google Home для взаимодействия и анализа.\u003cbr/\u003e- Поддерживаемые устройства: Nest‑камеры и дверные звонки, Nest‑термостаты, лампы Matter и другие совместимые гаджеты.\u003cbr/\u003e- Примеры: кросс‑анализ камер — суммирование действий детей и показ клипов со всех камер.\u003cbr/\u003e- Примеры: анализ истории устройств — подсчёт стирок за неделю или времени работы света.\u003cbr/\u003e- Примеры: голосовые уведомления и создание персональных дашбордов на основе естественного языка.\u003cbr/\u003e- Безопасность: вводятся лимиты и запреты на чувствительные действия (например, взлом дверей); возможны неожиданные поведения агентов.\u003cbr/\u003e- Доступ и настройка: сейчас развёртывается для Google Home Premium Advanced (англ., США); требуется проект в Google Cloud и предоставление конфигурации агенту."
+    },
+    {
+      "id": "6ab3d3644d368a534319d90e",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789855824,
+      "text": "[4/12] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eDmitrii K\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eOpenAI с 10 сентября временно убрали возможность подписаться на тариф x20 из-за проблем с вычислительными мощностями после запуска Астры\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/?utm_source=chatgpt.com\"\u003ehttps://techcrunch.com/2026/09/10/openai-puts...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOpenAI puts Pro subscriptions on hold due to Astra demand | TechCrunch\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое содержание: OpenAI временно приостановила подписки на план Pro ($200/мес.) из‑за беспрецедентного спроса на новую модель Astra, чтобы снизить нагрузку на инфраструктуру; другие тарифы остаются доступны.  \u003cbr/\u003e\u003cbr/\u003e- OpenAI приостановила новые регистрации на Pro‑подписку из‑за перегрузки инфраструктуры, вызванной спросом на Astra.  \u003cbr/\u003e- Решение объявил руководитель продуктовой команды Тибо Соттьо (Thibault Sottiaux), отвечающий за Codex и ChatGPT.  \u003cbr/\u003e- Компания отметила, что Pro создаёт наибольшую нагрузку на системы, поэтому именно этот уровень отключён для новых пользователей.  \u003cbr/\u003e- Тарифы API, а также более дешёвые планы Go и Plus продолжают работать и доступны для новых подписчиков.  \u003cbr/\u003e- OpenAI предупреждала, что при продолжении высокого спроса может временно приостановить Pro‑регистрации, но сроки неизвестны.  \u003cbr/\u003e- Astra запущена 3 сентября и заявлена как существенный шаг в «эре ОИИ/AGI», усилив интерес и конкуренцию в областях рассуждений и кода."
+    },
+    {
+      "id": "6ab3d3644d368a534319d90f",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1789855824,
+      "text": "[5/12] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eAdrian Makridenko\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eDelta вышла в публичную бету\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://x.com/zeddotdev/status/2100223348563194123?s=46\u0026amp;t=JvLhDT9WMVBQUOGgDI9DPw\"\u003ehttps://x.com/zeddotdev/status/21002233485631...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eZed on X: \u0026#34;Delta is now in public beta. It’s a multiplayer environment for coding with agents and reviewing what they build, with every code change linked to the conversation that produced it.\u003cbr/\u003e\u003cbr/\u003eAnyone can download it today on macOS, Linux, and Windows: \u003c/strong\u003e\u003ca href=\"https://t.co/R2N6CS23CO\"\u003ehttps://t.co/R2N6CS23CO\u003c/a\u003e\u003cstrong\u003e\u0026#34; / X\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eDelta: публичная бета-многоигроковая среда для кодирования с агентами; все изменения кода связаны с разговорами, которые их породили. Доступна для загрузки на macOS, Linux и Windows.\u003cbr/\u003e\u003cbr/\u003e- Мультиплеер: реальное совместное кодирование с несколькими участниками и агентами в одной сессии.\u003cbr/\u003e- Агенты: автоматизированные помощники, которые могут писать, рефакторить и предлагать решения.\u003cbr/\u003e- Связь кода и разговора: каждое изменение кода привязано к соответствующему диалогу для прозрачности и истории.\u003cbr/\u003e- Ревью: встроенные инструменты для просмотра и оценки того, что построили агенты и люди.\u003cbr/\u003e- Платформы: доступна для macOS, Linux и Windows — скачивание с \u003ca href=\"https://delta.dev/download\"\u003edelta.dev/download\u003c/a\u003e.\u003cbr/\u003e- Быстрый старт: установить, пригласить участников и начать сессии с агентами и людьми.\u003cbr/\u003e- Кейсы использования: совместная разработка, обучение, прототипирование и аудит изменений кода."
+    },
+    {
+      "id": "6ab3d3644d368a534319d910",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1789856099,
+      "text": "\u003ca href=\"https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/\"\u003eТам\u003c/a\u003e гитхаб че то для своего копилота с typescript на rust переписали"
+    },
+    {
+      "id": "6ab3d3644d368a534319d911",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1789856504,
+      "text": "А бенд прикольный язык чисто что бы агентам безопасно писать"
+    },
+    {
+      "id": "6ab3d3644d368a534319d912",
+      "issue": 1031,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "timopheym",
+      "author_name": "Timophey Molchanov",
+      "datetime": 1789856834,
+      "text": "Спасибо!))"
+    }
+  ]
+}
