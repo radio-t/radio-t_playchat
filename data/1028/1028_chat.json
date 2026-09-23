@@ -1,0 +1,1743 @@
+{
+  "chat": [
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd08",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "tutunak",
+      "author_name": "tutunak",
+      "datetime": 1788033722,
+      "text": "а многие банки до сих пор хотят в качестве второго фактора номер мобильного телефона что бы слать смс"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd09",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1788033743,
+      "text": "Три два раз"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd0a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788033818,
+      "text": "DKIM же есть"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd0b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akostenko",
+      "author_name": "😕 🍴",
+      "datetime": 1788033841,
+      "text": "правительство Германии вовсю думает, что делать с конфликтом двух законов, в котором один говорит \u0026#34;давать гражданство\u0026#34;, другой говорит \u0026#34;не давать\u0026#34;, но в интернете уже засчитывают, наверное уже и паспорта получили"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd0c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1788033847,
+      "text": "Алексей, будешь смотреть 16 сентября гонку Макса на картах?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd0d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1788033866,
+      "text": "Как здоровье Кларксона?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd0e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788033896,
+      "text": "тему про dhh оставь пока умпутун не вернётся"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd0f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dr_M0rt",
+      "author_name": "Dr. Mort",
+      "datetime": 1788033897,
+      "text": "Сегодня соло выпуск??"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd10",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1788033897,
+      "text": "Да, Ферстапен. У него на Дисней+ будет гонка, где перед ним будет 200 гонщиков и он последний"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd11",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andrei_yas",
+      "author_name": "Andrei",
+      "datetime": 1788033923,
+      "text": "max max super max против 100 лилипутов"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd12",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788034033,
+      "text": "он сказал прям в подкасте с опуса 4.5 - с декабря"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd13",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane",
+      "datetime": 1788034078,
+      "text": "Он дату называл типа 25 е октября, когда опус 4.5 вышел"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd14",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "den_crane",
+      "author_name": "Denny Crane",
+      "datetime": 1788034108,
+      "text": "Предыдущий подкаст был год назад"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd15",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788034127,
+      "text": "злой лёха так в итоге разбор полётов вёл соло"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd16",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788034446,
+      "text": "Осталось комнату доработать))"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd17",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1788034511,
+      "text": "А Александра один раз побывала и больше всё?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd18",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1788034542,
+      "text": "Ничего себе ты вспомнил)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd19",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1788034560,
+      "text": "Они же, вроде, даже возвращались недавно. Попадались иногда на ютубе"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd1a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788034577,
+      "text": "я их очень давно перестал слушать"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd1b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788034660,
+      "text": "Лёха, тут есть специальная версия \u0026#34;попробовать\u0026#34; - \u003ca href=\"https://github.com/themartiano/try-omarchy/releases/tag/v0.2.0\"\u003ehttps://github.com/themartiano/try-omarchy/releases/tag/v0.2.0\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd1c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1788034801,
+      "text": "тесея тут вспоминают минимум раз в полгода"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd1d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1788034811,
+      "text": "А если из оригинальных частей собрать другой корабль, то получится тоже корабль Тесея. И какой тогда будет оригинальный? Как вам такой копи конструктор?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd1e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788034984,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd1f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "oOLokiOo",
+      "author_name": "oOLokiOo aka Ivan Volkov",
+      "datetime": 1788035148,
+      "text": "Вроде и Аляпку ещё помню, и Марину... А, что за - Александра, блин?))"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd20",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nullawhale",
+      "author_name": "Nikita",
+      "datetime": 1788035196,
+      "text": "А вот слушать надо было"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd21",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788035275,
+      "text": "бобук!"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd22",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1788035286,
+      "text": "праздник какой-то!"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd23",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788035347,
+      "text": "Пойду тоже налью, вечер перестал быть томным"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd24",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788035374,
+      "text": "99.7 вродь максимум в обычных условиях?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd25",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788035714,
+      "text": "Xcode ещё скорее всего установить придётся)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd26",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788035714,
+      "text": "бобук как будто приболевший"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd27",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788035788,
+      "text": "А версионирование там есть? Или нажал поправить и оно всё сломало?)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd28",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1788035943,
+      "text": "Выдали комп - и крутись, как хочешь! Как, ещё и зарплату платят?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd29",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788036107,
+      "text": "а выпуск-то начали?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd2a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "elated_engelbart",
+      "author_name": "engelbart",
+      "datetime": 1788036121,
+      "text": "Впервые за много лет открыл ссылку онлайн вещания и не узнал ниодного голоса (потому что в записи слушаю на x2)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd2b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788036141,
+      "text": "Кат был точно"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd2c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1788036170,
+      "text": "тк тмбр глс длжн ж схрнтс"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd2d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "elated_engelbart",
+      "author_name": "engelbart",
+      "datetime": 1788036258,
+      "text": "А кто гость? (я опоздал)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd2e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1788036443,
+      "text": "Я с edge case-ами и с новыми опусами не могу нормально работать - оно находит реальные баги в приложении. И я понимаю, что их надо чинить - и вместо одного PR c фичей - ещё 2-3 с фиксами багов."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd2f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1788036509,
+      "text": "Кстати, а почему нельзя личной подпиской пользоваться на работе? (а потом и дома)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd30",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1788036518,
+      "text": "блин, история с внутренним гейтвеем и ПО фашизмом у меня ощущение будто я знаю где это"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd31",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788036537,
+      "text": "Заполнение одной сессии соннета полностью до ляма контекста стоит 100-200 долларов)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd32",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1788036628,
+      "text": "гейтвей как минимум две рациональные причины поставить: регулировать у кого есть доступ, тк по-моему антропик федеративный аксес еще не завели, лимитировать использование чтобы не сожрали всё"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd33",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1788036700,
+      "text": "codexbar показывает что месяц cc на максимальной подписке с 99% расходом недельных лимитов стоит $7\u0026#39;500 (7.7B токенов)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd34",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_akupr",
+      "author_name": "Alexey",
+      "datetime": 1788036809,
+      "text": "прикольно, umputun изобрел парное программирование для агентов"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd35",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788037160,
+      "text": "tbh бобук про это рассказывал в прошлом выпуске с ним"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd36",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1788037231,
+      "text": "а Алексей придумал ретроспективу агенту - сейчас время изобретателей 🙂"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd37",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788037433,
+      "text": "orca тоже так делает"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd38",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788037750,
+      "text": "да просто цена временная"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd39",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788037762,
+      "text": "как с дипсиком"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd3a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788037769,
+      "text": "qwen3.8 27b тоже норм, а она бесплатная"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd3b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788037774,
+      "text": "⚠️ M6 Mac mini vs M4 Mac mini: Here are all the new features - 9to5Mac - \u003ca href=\"https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features/\"\u003ehttps://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd3c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788037784,
+      "text": "\u003cstrong\u003eM6 Mac mini vs M4 Mac mini: Here are all the new features - 9to5Mac\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: новые Mac mini с чипами M6 и M5 Pro предлагают заметный прирост мощности, улучшенную память, современную беспроводную связь и обновлённые опции ввода-вывода; предзаказы открыты, устройства начнут отправлять с 22 сентября.\u003cbr/\u003e\u003cbr/\u003e- Чипы: M6 (2нм) заменяет M4; 12‑ядерный CPU и GPU (вместо 10), улучшенные нейроускорители и двойной 16‑ядерный Neural Engine для AI‑задач.  \u003cbr/\u003e- Производительность: Apple обещает до 4× быстрее AI, 2× быстрее хранилище и графика, и +40% в CPU по сравнению с M4.  \u003cbr/\u003e- M5 Pro vs M4 Pro: до 18 ядер CPU (конфигурируемо), до 20‑ядерный GPU; в задачах LLM, рендеринга и обработки изображений существенный прирост.  \u003cbr/\u003e- Память: M6 поддерживает до 32 ГБ и 170 ГБ/с пропускной способности; M5 Pro — до 64 ГБ и 307 ГБ/с, выше, чем у M4/ M4 Pro.  \u003cbr/\u003e- Связь: новый N1 чип — Wi‑Fi 7 и Bluetooth 6; 2.5Gb Ethernet в базе, опция 10Gb; добавлен Genlock по USB‑C.  \u003cbr/\u003e- Цена: M6 от $899 (вместо $799 у M4), M5 Pro от $1,699 (вместо $1,599 у M4 Pro); предзаказы уже доступны.  \u003cbr/\u003e- Наличие: предзаказы открыты, поставки начинаются 22 сентября; решение об апгрейде зависит от нужд в AI, графике и памяти."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd3d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1788037889,
+      "text": "говорят, что у m6 будет только базовая версия. а все силы бросили на m7 поколение"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd3e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788037911,
+      "text": "предыдущая ультра на 512 стоила 10"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd3f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788037922,
+      "text": "теперь на 256 стоит 10"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd40",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "MemberIT",
+      "author_name": "Mikhail Koniakhin",
+      "datetime": 1788037968,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e \u003cbr/\u003eПо восторгам Luna - стоит посмотреть на glm-5.3-flash, если будет возможность, если завезут в Амазон"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd41",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1788037980,
+      "text": "Apple\u0026#39;s planned M7 Ultra chip is being designed to support up to 1.5 TB of unified memory and to push AI performance toward the class of Nvidia\u0026#39;s Blackwell accelerators, according to a new Bloomberg report published by Mark Gurman"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd42",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788038034,
+      "text": "Так 80 под нейронки)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd43",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788038066,
+      "text": "смотря какие нейронки, глм не поместится например"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd44",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788038108,
+      "text": "Вот интересно, какой силы нейроночка туда влезет чтобы хотя бы 70 токенов в секунду, что уже довольно юзабельно."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd45",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788038260,
+      "text": "Возможно экономика всё равно не сойдётся. Вот Qwen 3.6 35B A3B, которая вполне хорошо летает на М4 маке. По апи оно вообще копейки стоит — \u003ca href=\"https://openrouter.ai/qwen/qwen3.6-35b-a3b\"\u003ehttps://openrouter.ai/qwen/qwen3.6-35b-a3b\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd46",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788038298,
+      "text": "проблема в том, что она не близко даже к уровню луны, не говоря уж о фронтир моделях"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd47",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1788038303,
+      "text": "люди деньги не хотят тратить на $200 клод код и все пытаются выжать максимум от $20 подписки, а тут про железки непонятные"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd48",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788038442,
+      "text": "RTX4090 стоит как год подписки, а работать будет 5 лет."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd49",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1788038502,
+      "text": "на подписке не модели уровня 24b"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd4a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788038533,
+      "text": "Для 90% задач их достаточно"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd4b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788038562,
+      "text": "Локальные модели никогда и не будут фронтирными. Они для целей каких-то потоковых задач, которых нужно настолько много пропускать, что по апи это будет дороже чем купить своих железок.\u003cbr/\u003e\u003cbr/\u003eНо я не уверен что если я куплю железку — то буду адекватно её утилизировать так же как провайдеры, чтобы получить цену ниже провайдера."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd4c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788038577,
+      "text": "инференс у них сильно дешевле, чем они продают"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd4d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788038589,
+      "text": "если брать чисто видеокарты и электричество"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd4e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788038604,
+      "text": "Я вот такую штуку только что заопенсорсил \u003cbr/\u003e\u003cbr/\u003eKnowledge base. Go + logicRAG. Works with qwen 3.8 27b and qwen3-embedder on 24Gb VRAM."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd4f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1788038605,
+      "text": "gemini 3.1 pro сколько размер модели? такой плохой писалки кода я не видел со времён Junie когда я пробовал её год назад"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd50",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788038728,
+      "text": "\u003ca href=\"https://github.com/alterfo/kb\"\u003ehttps://github.com/alterfo/kb\u003c/a\u003e - мой первый опенсорс, не бейте больно, лучше pr-ы приносите"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd51",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788038761,
+      "text": "Я до сих пор пишу код Qwen3.7 Plus (3.8 Flash пробовал, но там что-то ажиотаж большой и медленнее работает, хоть и вроде лучше и дешевле). И этого вполне достаточно чтобы работать обучную работу."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd52",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788038766,
+      "text": "Theo кичится тем, что нейлослоп пиары оценивает и мерджит к своему проекту"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd53",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "r3sp0rt",
+      "author_name": "Ritter Sport",
+      "datetime": 1788038839,
+      "text": "Дешевле/дороже... Прайваси господа. Стоит денег"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd54",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788038916,
+      "text": "3.8 норм скрипты пишет, я им hermes зарядил"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd55",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788038930,
+      "text": "а ещё локальным нейронкам можно вырезать цензуру"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd56",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788038950,
+      "text": "и про Тяньаньмэнь будут говорить, и как приготовить наркотики"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd57",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788038981,
+      "text": "пентестить"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd58",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dlytsl",
+      "author_name": "D D",
+      "datetime": 1788039002,
+      "text": "Кто гость сегодня?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd59",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788039009,
+      "text": "Удаление цензуры в локальной нейронной сети повышает вероятность генерации инструкций по незаконным действиям; в ряде юрисдикций распространение таких инструкций влечёт уголовную или административную ответственность."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd5a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1788039037,
+      "text": "представляю как кто-то, кто тут жаловался на сплошной эй ай в подкасте, с нетерпением ожидал тему про мак мини как глоток свежего воздуха, а тут хоп и опять про AI"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd5b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788039081,
+      "text": "это как то, что все разговоры сводятся к Гитлеру"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd5c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1788039103,
+      "text": "А может лучше подождать M6 Max для макбуков?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd5d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788039131,
+      "text": "Нууу, чтобы она прям жёсткая стала, просто abliterate не хватает, нужен ещё файн-тюн на \u0026#34;запрещённых материалах\u0026#34;, как я понимаю. Еретические модели перестают говорить что \u0026#34;ой не могу такого говорить\u0026#34;, но всё равно на кучи вопросов уходят в затупы полнейшие."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd5e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788039272,
+      "text": "тысячи это блин какая модель, 4b?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd5f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788039285,
+      "text": "они еле связные предложения выдавать умеют"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd60",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788039322,
+      "text": "⚠️ htmx 4.0.0 has been released! - \u003ca href=\"https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released\"\u003ehttps://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd61",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788039329,
+      "text": "\u003cstrong\u003ehtmx 4.0.0 has been released! ~ htmx\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003ehtmx 4.0.0 выпущен: переход на fetch(), явное наследование атрибутов по умолчанию, унифицированные события, изменение истории без localStorage, новые возможности и расширения, инструмент для автоматической проверки обновления.\u003cbr/\u003e\u003cbr/\u003e- Переход на fetch(): внутренняя миграция с XMLHttpRequest на fetch(), прозрачная для большинства пользователей, позволяет улучшить стриминг и расширения.\u003cbr/\u003e- Явное наследование атрибутов: атрибуты больше не наследуются по умолчанию; добавляйте :inherited для передачи к потомкам (главный пункт миграции).\u003cbr/\u003e- Унификация событий: новые имена в формате htmx:phase:action[:sub-action]; старые имена помечаются инструментом проверки.\u003cbr/\u003e- История без localStorage: теперь при навигации назад htmx перезапрашивает страницу (sessionStorage-кеш доступен через расширение hx-history-cache).\u003cbr/\u003e- Новые возможности: morphing swaps и тег \u0026lt;hx-partial\u0026gt; для частичных обновлений и более гибкого управления заменой DOM.\u003cbr/\u003e- Расширения и hx-live: множество новых расширений (hx-preload, hx-download, hx-alpine-compat, hx-history-cache, hx-sse, hx-ws, hx-multipart) и легкая библиотека hx-live для реактивного скриптинга.\u003cbr/\u003e- Инструменты и поддержка: команда выложила upgrade-check CLI, htmax bundle и предоставляет 2.x как «latest» в npm до начала 2027 года, чтобы не форсировать апгрейд."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd62",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788039373,
+      "text": "Наверное имелось в виду что при генерации 14 токенов в секунду жесть как долго ждать будет чтобы нагенерить тысячи токенов."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd63",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788039422,
+      "text": "а теперь аборт запроса нужно делать явно"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd64",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788039432,
+      "text": "юху!"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd65",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788039467,
+      "text": "лол"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd66",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1788039503,
+      "text": "htmx случайно тоже самое использовали вроде"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd67",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788039509,
+      "text": "quattro это вайбы dhh"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd68",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lama404",
+      "author_name": "D P",
+      "datetime": 1788039532,
+      "text": "\u003ca href=\"https://vc.ru/ai/3090541-obucheniye-14b-modeli-bez-zatrat-na-api\"\u003ehttps://vc.ru/ai/3090541-obucheniye-14b-modeli-bez-zatrat-na-api\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd69",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788039701,
+      "text": "так AI же не обучен на htmx4, надо контекст грузить"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd6a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788039721,
+      "text": "а не кажестся что экспертиза человеков устаревает? и с этим инструкции эйаю тоже"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd6b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788039784,
+      "text": "человеков с bus-фактором становится всё меньше"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd6c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788039892,
+      "text": "⚠️ Auto mode is now the default in Claude Code for Pro, Max, and Team plans | Claude by Anthropic - \u003ca href=\"https://claude.com/blog/auto-mode-default-in-claude-code\"\u003ehttps://claude.com/blog/auto-mode-default-in-claude-code\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd6d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788039901,
+      "text": "\u003cstrong\u003eAuto mode is now the default in Claude Code for Pro, Max, and Team plans | Claude by Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме\u003cbr/\u003eClaude Code по умолчанию включает auto mode для планов Pro, Max и Team с 14 августа; авто-режим блокирует опасные команды, повышает безопасность и продуктивность, и Anthropic временно не взимает плату за классификатор для этих планов.\u003cbr/\u003e\u003cbr/\u003e- Что меняется: с 14 августа новые сессии Pro/Max/Team запускаются в auto mode; если вы уже задали другой дефолт, может прийти одноразовый запрос о смене; закреплённый дефолт не изменится.  \u003cbr/\u003e- Область применения и график: auto mode пока опционален для Enterprise, API, облачных платформ; в ближайший месяц Anthropic планирует поэтапно сделать его дефолтом и для этих сред.  \u003cbr/\u003e- Стоимость классификатора: классификатор добавляет немного токенов на вызов инструментов, но для Pro/Max/Team его оверхед теперь не тарифицируется с сегодняшнего дня.  \u003cbr/\u003e- Как работает классификатор: он сканирует и блокирует безвозвратные, деструктивные или выводящие за пределы окружения действия; при блокировке Claude ищет безопасную альтернативу или запрашивает подтверждение; при трёх подряд блоках — возврат к ручным одобрениям.  \u003cbr/\u003e- Результаты безопасности: в контролируемом тесте авто-режим блокировал 89% опасных команд против 13.6% у людей; в реальных сессиях серьёзный непреднамеренный вред встречался у ручного одобрения вдвое чаще.  \u003cbr/\u003e- Защита от prompt injection: независимая оценка показала ноль успешных атак против моделей Anthropic в auto mode; авто-режим добавляет проверку инструментов и скринеров содержимого.  \u003cbr/\u003e- Управление и жёсткие запреты: админы Enterprise могут задать авто-дефолт через настройки; есть «hard deny» правила (например, эксфильтрация данных) и правила контроля git, доступа к секретам и проверок перед опасными git-операциями."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd6e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788039932,
+      "text": "Сколько-то недель в голове мысль крутится, что я не хочу делиться своей папкой \u003ccode\u003ememory\u003c/code\u003e. С ней практически кто угодно сможет делать всё то же, что и я делаю по проекту, учитывая все нужные гайдлайны и обходя кеки проекта.\u003cbr/\u003e\u003cbr/\u003eА ещё через полгода и эта папка не нужна будет и пойдём в сантехники)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd6f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vdmakul",
+      "author_name": "Vadim Akula",
+      "datetime": 1788039939,
+      "text": "\u003ccode\u003eclaude --dangerously-skip-permissions\u003c/code\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd70",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788040134,
+      "text": "Я боюсь, что модели могут сойти с ума/поумнеть/потерять гардрейлы свои и будет как в меме \u0026#34;Frog put Claude in a box\u0026#34;.\u003cbr/\u003e\u003cbr/\u003e— Хук запрещает мне сделать \u003ccode\u003egit push --force\u003c/code\u003e\u003cbr/\u003e— Добавлю вызов через \u003ccode\u003eexec()\u003c/code\u003e в тестах и выполню их!"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd71",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788040290,
+      "text": "даже фейбл позволит парсить данные с внешних сайтов через пачку прокси с обходом лимитов"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd72",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788040306,
+      "text": "⚠️ Debian votes to allow \u0026#39;responsible use of generative AI\u0026#39; - \u003ca href=\"https://lwn.net/Articles/1091231/\"\u003ehttps://lwn.net/Articles/1091231/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd73",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788040313,
+      "text": "\u003cstrong\u003eDebian votes to allow \u0026#34;responsible use of generative AI\u0026#34; [\u003c/strong\u003e\u003ca href=\"https://LWN.net\"\u003eLWN.net\u003c/a\u003e\u003cstrong\u003e]\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Debian разрешает «ответственное использование» генеративного ИИ, не поощряя и не запрещая его; вкладчики должны обеспечивать качество, тестирование и юридическую соответствие своих вкладов независимо от использованных инструментов.\u003cbr/\u003e\u003cbr/\u003e- Политика: Debian не одобряет и не запрещает использование генеративного ИИ в разработке, поддержке, упаковке и документации проекта.\u003cbr/\u003e- Выгода: Инструменты ИИ могут существенно повысить продуктивность добровольцев при ответственном применении.\u003cbr/\u003e- Стандарты: Все вклады должны соответствовать единым требованиям качества, корректности, поддерживаемости и правовой чистоте.\u003cbr/\u003e- Ответственность: Использование ИИ не снимает с автора ответственности за результат и его соответствие стандартам Debian.\u003cbr/\u003e- Обязанность проверки: Вкладчики обязаны понимать, проверять, тестировать и при необходимости править вывод ИИ до включения в Debian.\u003cbr/\u003e- Роль сообщества: Решения о приёме вклада остаются за сообществом и зависят от технической оценки, обзора и сотрудничества."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd74",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788040567,
+      "text": "непонятно только как будут доказывать, что код написан ии"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd75",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Ufian",
+      "author_name": "Mikhail Ufian",
+      "datetime": 1788040646,
+      "text": "\u003ca href=\"https://github.com/yt-dlp/yt-dlp/blob/8377aa9555c308ca95630a28c1f91decd6c2235a/.NO_AI/README.md\"\u003ehttps://github.com/yt-dlp/yt-dlp/blob/8377aa9555c308ca95630a28c1f91decd6c2235a/.NO_AI/README.md\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd76",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788040711,
+      "image_url": "https://chat.radio-t.com/logs/1028/AgACAgIAAx0CUPxcWQABCxXbapNWB58vqUWUftQetuttREf62joAAhMnaxsPcplIvXY-TRsFJFoBAAMCAAN5AAM9BA",
+      "image_width": 1246,
+      "image_height": 242,
+      "text": "Вот эту историю прям в новостях разных попечатали"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd77",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788040756,
+      "image_url": "https://chat.radio-t.com/logs/1028/AgACAgIAAx0CUPxcWQABCxXcapNWNEvIuQ5kSxz3r2WyNn7mD6MAAhQnaxsPcplInZN7_o1jSNUBAAMCAAN5AAM9BA",
+      "image_width": 1234,
+      "image_height": 1274,
+      "text": "Буквально месяц разницы и рассказал, что всё-таки не reject и помогает ему там в каких-то утилитках которые ему влом пилить самому."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd78",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788040842,
+      "text": "⚠️ Our decision on Cursor following its acquisition by SpaceX | OpenAI - \u003ca href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\"\u003ehttps://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd79",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788040889,
+      "text": "Сами сделают и сократят, не переживай"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd7a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788040994,
+      "text": "у курсора щас есть только «щедрые лимиты» собственных моделей, а именно композер и грок"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd7b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041032,
+      "text": "а на остальное дают лимитов  ровно по цене подписки, то есть если подписка за 20 долларов, то токенов дают только на 20 долларов по цене апи"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd7c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041044,
+      "text": "ну то есть на полтора запроса"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd7d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041270,
+      "text": "грок 4.6 по опыту очень плохо пишет спеки и плохо вникает в детали"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd7e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "devasync",
+      "author_name": "Передописец",
+      "datetime": 1788041272,
+      "text": "Программирую на гроке с тех пор как его начал курсор пилить"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd7f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "devasync",
+      "author_name": "Передописец",
+      "datetime": 1788041282,
+      "text": "Грок бот есть, и грок билд"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd80",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1788041283,
+      "text": "Грок билд вроде"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd81",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041297,
+      "text": "grok bot это кривой openclaw,  заложенный чисто на грок"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd82",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rubonz",
+      "author_name": "rubonz",
+      "datetime": 1788041302,
+      "text": "\u003ca href=\"https://x.ai/build\"\u003ehttps://x.ai/build\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd83",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "devasync",
+      "author_name": "Передописец",
+      "datetime": 1788041343,
+      "text": "ну там не просто claw, но ещё и курсоровские облачные агенты из коробки"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd84",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041369,
+      "text": "еще есть \u003ca href=\"https://www.onorca.dev\"\u003ehttps://www.onorca.dev\u003c/a\u003e как оркестратор"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd85",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Ufian",
+      "author_name": "Mikhail Ufian",
+      "datetime": 1788041398,
+      "text": "\u003ca href=\"https://super.engineering\"\u003ehttps://super.engineering\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd86",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "devasync",
+      "author_name": "Передописец",
+      "datetime": 1788041451,
+      "text": "Проблема в том что это электрон жрущий память.\u003cbr/\u003eНикаких особых фишек не увидел, разве что по сравнению с агтерм можно прям там на код смотреть"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd87",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041485,
+      "text": "интеграции с баг трекерами например, браузер, эмулятор телефона"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd88",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041504,
+      "text": "автоматическая канбан доска из агентов"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd89",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rozhkoaleks",
+      "author_name": "Oleksii Rozhko",
+      "datetime": 1788041569,
+      "text": "ребят обьясните плиз. ведь по апи всегда дороже использовать модели? по подписке же дешевле? все не нативное использует апи же."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd8a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041605,
+      "text": "а ещё есть фишка с удалённым просмотром и управлением всем этим хозяйством, даже мобильное приложение есть"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd8b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041641,
+      "text": "естественно подписки невероятно всё субсидируют"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd8c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788041669,
+      "text": "⚠️ The Kids Are Really Alright - \u003ca href=\"https://franciscotrindade.me/blog/the-kids-are-really-alright/\"\u003ehttps://franciscotrindade.me/blog/the-kids-are-really-alright/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd8d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788041675,
+      "text": "\u003cstrong\u003eThe Kids Are Really Alright - Francisco Trindade\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое содержание  \u003cbr/\u003eAI не уничтожил ценность младших инженеров — он увеличил её, расширив их возможности. Младшие и даже стажёры могут лидировать в решении задач, где нужны контекст и суждения, а обучение и продуктивность стали эффективнее благодаря AI.\u003cbr/\u003e\u003cbr/\u003e- AI повышает продуктивность младших: инструменты генерируют код, но решение проблемы и принятие решений остаются за человеком.  \u003cbr/\u003e- Пример стажёра: с помощью AI и поддержки команды он спроектировал и реализовал давно требуемую фичу, доставив реальную ценность за низкую цену.  \u003cbr/\u003e- Разница в уровнях — в объёме управляемой сложности; роль инженера одна: решать клиентские проблемы с учётом компромиссов.  \u003cbr/\u003e- Обучение стало дешевле: AI сокращает время на освоение инструментов, языков и шаблонов, но контекст компании всё ещё даёт человек.  \u003cbr/\u003e- Нужны старшие инженеры для сложных архитектурных и стратегических решений; AI не заменяет опыт и глубокий контекст.  \u003cbr/\u003e- Быть AI-native — конкурентное преимущество для начинающих: они быстрее освоят новые рабочие процессы и принесут больше пользы команде.  \u003cbr/\u003e- Организации всё ещё нуждаются в техническом суждении; лучшая инвестиция — растить будущее суждение внутри команды уже сейчас."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd8e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "rozhkoaleks",
+      "author_name": "Oleksii Rozhko",
+      "datetime": 1788041744,
+      "text": "просто все сторонние приложения по апи работают же? только приложения нативнъе от кодекс или клауде код по подписке. или я не прав ?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd8f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041783,
+      "text": "нет, многие пришли к тому, что она врапперы над консольными оригинальными приложениями, которые работают по подписке"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd90",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "krajcik",
+      "author_name": "Nikita Krajcik",
+      "datetime": 1788041825,
+      "image_url": "https://chat.radio-t.com/logs/1028/AgACAgIAAx0CUPxcWQABCxX1apNaYPIBJWEwU7yJVEpQ-U33vMUAAiQnaxsPcplIU1_Rl1TkAwoBAAMCAAN4AAM9BA",
+      "image_width": 400,
+      "image_height": 426,
+      "text": "как можно так плохо сделать локализацию в эпоху ai)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd91",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041882,
+      "text": "хорош будет тот, кто хороший инженер со знанием доменной области"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd92",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788041910,
+      "text": "а не тот, кто лучше знает языки программирования, паттерны и прочее"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd93",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "shibuya_party",
+      "author_name": "Alex",
+      "datetime": 1788041914,
+      "text": "grok build?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd94",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Ufian",
+      "author_name": "Mikhail Ufian",
+      "datetime": 1788042070,
+      "image_url": "https://chat.radio-t.com/logs/1028/AgACAgIAAx0CUPxcWQABCxX5apNbVpSpZKAg7NCH6JdQ407_dUgAAiYnaxsPcplIKxYoWEcTRH0BAAMCAAN5AAM9BA",
+      "image_width": 1104,
+      "image_height": 540,
+      "text": ""
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd95",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788042089,
+      "text": "Какие боли у бизнеса сейчас?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd96",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "semior001",
+      "author_name": "yelsh",
+      "datetime": 1788042120,
+      "text": "кто больше токенов сэкономит за месяц на количество задач\u003cbr/\u003eсложность задач дискретизируем, отдадим на аутсорс клоду"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd97",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1788042128,
+      "text": "кодекс вполне нормально сам архитектуру делает"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd98",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788042139,
+      "text": "Тут нужно будет уметь задавать правильные вопросы. Ибо если агент скажет: тут можно или LRU использовать, или просто TTL выставить, то что ответит человек который не знает ни что такое LRU, ни TTL?\u003cbr/\u003e\u003cbr/\u003eЕму придётся разбираться во всяких таких штуках, что через пару лет они уже в любом случае будут как текущие миддлы)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd99",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1788042180,
+      "text": "может продакт менеджер перестанет быть медиатором?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd9a",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "devasync",
+      "author_name": "Передописец",
+      "datetime": 1788042311,
+      "text": "чатгпт, чем ттл отличается от лру и что именно нужно применить в нашем случае?)"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd9b",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788042325,
+      "text": "⚠️ AI is removing the middle class of software engineering - \u003ca href=\"https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\"\u003ehttps://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd9c",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788042329,
+      "text": "\u003cstrong\u003eAI is removing the middle class of software engineering\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: ИИ ускоряет создание кода, увеличивая риск плохих архитектурных решений и техдолга; ценность действительно способных инженеров возрастает, а средний уровень — исчезает.\u003cbr/\u003e\u003cbr/\u003e- ИИ ускоряет плохие решения: агент генерирует большие изменения быстрее, чем команда успевает их понять и проверить.\u003cbr/\u003e- Огромные PR: тысячи строк кода от ИИ сложно рецензировать; ревью становится узким местом и перестаёт работать.\u003cbr/\u003e- Техдолг остаётся: изменения вроде новых таблиц трудно откатить; миграции и обратная совместимость усложняют исправления.\u003cbr/\u003e- Рост ценности экспертов: те, кто может судить о решениях ИИ и проектировать систему, становятся критически важными.\u003cbr/\u003e- Процессы не спасают полностью: тесты и CI ловят лишь известные случаи; немыслимые для тестов поведения проскакивают.\u003cbr/\u003e- Показатели вводят в заблуждение: количество PR и строк — плохие метрики продуктивности; они скрывают перераспределение работы.\u003cbr/\u003e- Нужна ответственность: важно требовать понимания изменений, сохранять архитектурную дисциплину и не отказываться от критики в угоду скорости."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd9d",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788042390,
+      "text": "Правильный вопрос тут: а что такое \u0026#34;наш случай\u0026#34; и может быть проблема решается переносом cdn?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd9e",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788042446,
+      "text": "Я про это и говорю. Технические моменты будут всплывать и человек будет в них разбираться. N лет — и он специалист, который \u0026#34;ощущает\u0026#34; свою область и заранее знает ответы на множество вопросов, не тратя на них много времени чтобы разобраться \u0026#34;как нужно\u0026#34;."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfd9f",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788042580,
+      "text": "\u003ca href=\"https://skunkworks.levels.io/infinite-slop/\"\u003ehttps://skunkworks.levels.io/infinite-slop/\u003c/a\u003e вот"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda0",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788042600,
+      "text": "У меня вот кусочек арки ржаветь на машине стал, хочу попробовать сам зачистить и перекрасить. Мне для этого нужно: поэкспериментировать, смогу ли я отполировать краску, глянуть на ютубе видосом как снять задний бампер целиком, чтобы подобраться и к обратной стороне машины. Поэкспериментировать с пескоструем.\u003cbr/\u003e\u003cbr/\u003eЯ в этой области даже не джун и у меня на это может уйти может неделя если повезёт.\u003cbr/\u003e\u003cbr/\u003eА человек которым этим уже давно занимается — ему не нужно делать эти все накладные расходы. Он уже делал это и знает что делать."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda1",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788042616,
+      "text": "А я локально такое настроил - аудиореактивный стрим по запросу /stream.m3u8"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda2",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788042626,
+      "text": "на тему"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda3",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "lama404",
+      "author_name": "D P",
+      "datetime": 1788042659,
+      "text": "/stream"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda4",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788042697,
+      "text": "⚠️ Infinite Slop by \u003ca class=\"mention\" href=\"https://t.me/levelsio\"\u003e@levelsio\u003c/a\u003e + \u003ca href=\"https://fal.ai\"\u003efal.ai\u003c/a\u003e - \u003ca href=\"https://skunkworks.levels.io/infinite-slop/\"\u003ehttps://skunkworks.levels.io/infinite-slop/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda5",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788042701,
+      "text": "\u003cstrong\u003eInfinite Slop by \u003c/strong\u003e\u003ca class=\"mention\" href=\"https://t.me/levelsio\"\u003e@levelsio\u003c/a\u003e\u003cstrong\u003e + \u003c/strong\u003e\u003ca href=\"https://fal.ai\"\u003efal.ai\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Сообщение о проекте \u0026#34;Infinite Slop\u0026#34; от \u003ca class=\"mention\" href=\"https://t.me/levelsio\"\u003e@levelsio\u003c/a\u003e и \u003ca href=\"https://fal.ai\"\u003efal.ai\u003c/a\u003e с уведомлением о неудачной проверке «Вы человек?» и предложением повторить попытку.\u003cbr/\u003e\u003cbr/\u003e- Название: \u0026#34;Infinite Slop\u0026#34; — совместный проект \u003ca class=\"mention\" href=\"https://t.me/levelsio\"\u003e@levelsio\u003c/a\u003e и \u003ca href=\"https://fal.ai\"\u003efal.ai\u003c/a\u003e.\u003cbr/\u003e- Сообщение: содержит быструю проверку, подтверждающую, что вы человек.\u003cbr/\u003e- Результат: проверка не прошла.\u003cbr/\u003e- Действие: система просит попытаться снова.\u003cbr/\u003e- Возможные причины: ошибка CAPTCHA, сетевые проблемы или некорректный ввод.\u003cbr/\u003e- Рекомендации: обновите страницу, повторите проверку или попробуйте другой браузер/устройство.\u003cbr/\u003e- Поддержка: при повторных ошибках свяжитесь с поддержкой проекта или платформации."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda6",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788042756,
+      "text": "в черном зеркале было такое"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda7",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788042835,
+      "text": "будущее тиктока"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda8",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788042915,
+      "text": "Во времена моей молодости был диагноз \u0026#34;интернет-зависимость\u0026#34;. Теперь дум-скроллинг перешел на новый уровень."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfda9",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788043000,
+      "text": "TTS F5 норм по 10-секундному семплу любой голос генерирует"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdaa",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788043035,
+      "text": "а какие щас есть открытые модели уровня gpt live?"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdab",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "HawkeyePierce89",
+      "author_name": "Anton Karmanov",
+      "datetime": 1788043035,
+      "text": "Лучшее что случалось с интернетом"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdac",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788043038,
+      "text": "Квен TTS английский с индийским акцентом"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdad",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1788043200,
+      "text": "MiniMax H3 первая модель которая действительно хорошее порно делает"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdae",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1788043230,
+      "text": "почему-то постоянно повторяются красные шлемы в генерациях"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdaf",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788043263,
+      "text": "⚠️ Темы слушателей 028 - \u003ca href=\"https://radio-t.com/p/2026/08/26/prep-1028/\"\u003ehttps://radio-t.com/p/2026/08/26/prep-1028/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb0",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788043273,
+      "text": "[1/11] \u003cstrong\u003e+11\u003c/strong\u003e от \u003cstrong\u003eMikhail\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003e20 лет Радио-Т\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://radio-t.com/p/2006/08/27/podcast-0/\"\u003ehttps://radio-t.com/p/2006/08/27/podcast-0/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb1",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788043273,
+      "text": "[2/11] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eAlex Dobrushskiy\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eApple анонсировала процессоры M6 и M5Ultra, а также новые Mac Mini (до 64ГБ памяти) и Mac Studio (до 256ГБ памяти, обещают версию с 512ГБ в октябре)\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/\"\u003ehttps://www.macrumors.com/2026/08/25/mac-stud...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eNew Mac Mini and Mac Studio: 13 Things You Might Have Missed - MacRumors\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Apple выпустила новые Mac mini (M6/M5 Pro) и Mac Studio (M5 Max/M5 Ultra) с улучшениями в ИИ, хранении и подключениях, но заметными подорожаниями и спорными апгрейд‑опциями.\u003cbr/\u003e\u003cbr/\u003e- Цены: Mac mini теперь начинается с $899 (+$300), Mac Studio — с $2,499 (+$500). Топовые конфигурации стоят до $18,299; апгрейды SSD и памяти делают цену очень высокой.  \u003cbr/\u003e- Сеть и Bluetooth: Новые модели получили Wi‑Fi 7 и Bluetooth 6 — быстрее 6 ГГц, меньше задержек и одновременные 2.4/5/6 ГГц для надежности.  \u003cbr/\u003e- Genlock over USB‑C: Поддержка genlock по USB‑C для синхронизации камер/дисплеев без внешней синхронизирующей коробки — полезно для многокамерных съёмок и виртуального производства.  \u003cbr/\u003e- Ethernet и Thunderbolt: Mac mini теперь с 2.5Gb Ethernet (опция 10Gb); Mac Studio стартует с 10Gb. Mac mini использует Thunderbolt 4, M5 Pro модель имеет Thunderbolt 5.  \u003cbr/\u003e- Нейронный движок и GPU: M6 получил две 16‑ядерные NN‑секции (2× пиковая мощность), Neural Accelerators в каждом GPU‑ядре — до 4× быстрее ИИ и 2× графика по сравнению с M4. M5 Ultra — первый Ultra с Neural Accelerators.  \u003cbr/\u003e- SSD и ценообразование: Mac Studio удвоил скорость SSD (PCIe Gen 6). Апгрейд 2ТБ для Mac mini стоит $1,000; 4ТБ для M5 Pro — $1,800, иногда превышая цену базовой машины.  \u003cbr/\u003e- Доступность и ПО: Предзаказы открыты, продажи с 22 сентября; macOS Golden Gate, вероятно, выйдет неделей раньше. Опция 512 ГБ ОЗУ для M5 Ultra обещана к концу октября."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb2",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788043273,
+      "text": "[3/11] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eVasily Levshin\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eOpenAI объявила 28 августа 2026 года, что прекращает контракт на предоставление своих моделей для Cursor после его покупки SpaceX после 12 ноября 2026 года.  Причиной названо отсутствие уверенности, что SpaceX будет соблюдать условия использования: OpenAI ссылается на признание Маска под присягой, что xAI нарушал контракт OpenAI.\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\"\u003ehttps://openai.com/index/our-decision-on-curs...\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb3",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788043273,
+      "text": "[4/11] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eMikhail\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eВ \u003c/em\u003e\u003ca href=\"https://radio-t.com/p/2026/08/01/podcast-1024/\"\u003e1024 выпуске\u003c/a\u003e\u003cem\u003e обсуждали GitHub Stacked PR’s. В этой новой функциональности всё хорошо, кроме того что стек невозможно смержить.\u003cbr/\u003e\u003cbr/\u003eРазработчики ещё \u003c/em\u003e\u003ca href=\"https://github.com//github/gh-stack/discussions/212#discussioncomment-17980513\"\u003e2 недели назад говорили\u003c/a\u003e\u003cem\u003e, что починить – это главный приоритет, но воз и ныне там\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://github.com//github/gh-stack/discussions/212\"\u003ehttps://github.com//github/gh-stack/discussio...\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb4",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788043273,
+      "text": "[5/11] \u003cstrong\u003e+4\u003c/strong\u003e от \u003cstrong\u003eMaxim Novikov\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eDHH поднял 8 миллионов на развитие Омарчи – \u003c/em\u003e\u003ca href=\"https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million\"\u003ehttps://omarchy.org/news/2026/08/omacom-found...\u003c/a\u003e\u003cem\u003e\u003cbr/\u003eВ подкасте у Прайма рассуждал о том, как будет доставлять свою систему в каждый дом, как лично тестирует, рассказал вскользь о безопасности и как в эру ИИ будет защищаться от взломов. Уже сейчас можно установить более тысячи нативных плагинов – \u003c/em\u003e\u003ca href=\"https://omarchyplugins.com/\"\u003ehttps://omarchyplugins.com\u003c/a\u003e\u003cem\u003e. Приглашал всех в свое комьюнити, потому что он “don’t give a flying f..” кто вы и если вы также горите разработкой софта, как он, you are welcome.\u003cbr/\u003eСсылка на стендап у Прайма – \u003c/em\u003e\u003ca href=\"https://youtu.be/MWvH7BRgwL8?si=T0aPf7N9XeSamEFb\"\u003ehttps://youtu.be/MWvH7BRgwL8?si=T0aPf7N9XeSamEFb\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eOmacom Foundation launches with $8 million — Omarchy News\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eЗапуск фонда Omacom с первоначальным финансированием $8 млн (позже дополнительно $2 млн) для поддержки открытого ПО, инфраструктуры и продвижения пользовательских «мягких» компьютеров с целью радикально изменить взаимодействие людей с компьютерами.\u003cbr/\u003e\u003cbr/\u003e- Основан новый некоммерческий фонд Omacom для долгосрочного финансирования миссии и защиты торговых марок.\u003cbr/\u003e- Первоначальные восемь основателей внесли по $1 млн; позже добавлены $2 млн от Дрю Хоустона и Питера Штайнбергера.\u003cbr/\u003e- Фонд будет финансировать инфраструктуру, продвигать работу и поддерживать зависимые от Omarchy проекты.\u003cbr/\u003e- Главная цель — сделать будущее «мягких компьютеров» широко доступным и изменить отношение людей к компьютерам.\u003cbr/\u003e- Огромный начальный капитал обеспечивает финансовую подушку и долговечность инициативы.\u003cbr/\u003e- Пожертвования рассматриваются как важный «голос доверия» к видению и стратегии команды.\u003cbr/\u003e- Конечная амбиция — реализовать «Год Linux на рабочем столе» и полностью вложиться в развитие экосистемы."
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb5",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788044178,
+      "text": "Отчитывались, что там всего что-то около 50 сотрудников осталось"
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb6",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1788044298,
+      "image_url": "https://chat.radio-t.com/logs/1028/AgACAgEAAx0CUPxcWQABCxYcapNkCvONO_a4dCt0-NDCkIlWtvIAAuwMaxsCY5lEBeK9sFAJ2wUBAAMCAAN5AAM9BA",
+      "image_width": 1280,
+      "image_height": 598,
+      "text": ""
+    },
+    {
+      "id": "6ab3d2a6017e9c24cb3bfdb7",
+      "issue": 1028,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1788044478,
+      "text": "а 9-го вещать будете?"
+    }
+  ]
+}
