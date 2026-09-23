@@ -1,0 +1,1599 @@
+{
+  "chat": [
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c2",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "glucocorticoid",
+      "author_name": "Alexey Naiden",
+      "datetime": 1788638223,
+      "text": "А есть какой-нибудь кейс в бизнесе, когда одна компания уже AI-ускорилась, а конкурент(ы) еще нет, и эта ускоренная какие-то бизнесовые показатели улучшила?\u003cbr/\u003e\u003cbr/\u003eПросто кажется, что об этом ускорении все говорят, а ни одного примера вида «мы обогнали конкурентов» или «конкуренты обогнали медленных нас, потому что мы код ревьювили, а они нет» не вижу ну просто вообще нигде.\u003cbr/\u003eМожет, у кого-то уже такое случилось?\u003cbr/\u003eИли пока все ускоряются просто потому что это \u003cem\u003eкажется\u003c/em\u003e хорошей идеей?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c3",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gray_idea",
+      "author_name": "Никита Ковалевский",
+      "datetime": 1788638413,
+      "text": "Это реактивный подход, который ловит его за руку и говорит ай-ай-ай. А нет превентивного подхода?\u003cbr/\u003eЯ сейчас пытаюсь дистиллировать год написания кода и обсуждения в чатах одного продуктового сервиса и надеюсь как-то насобирать правила и примеры, чтобы контекст наталкивал агента в правильную сторону сразу. Мы же когда руками пишем - то мы не делаем сразу хрень, а потом себе ай-ай-ай, наш контекст сразу нас направляет правильно делать, если опыта хватает. Вот я и хочу какой-то опыт дать агенту.\u003cbr/\u003eИли может быть это уже испробованая идея и она не работает?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c4",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1788638509,
+      "text": "есть превентивные, но они не работают надежно"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c5",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788638518,
+      "text": "Превентивный подходы работают так себе, как ты же сам выше и заметил, так как контекст моделью учитыавется неравномерно."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c6",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788638733,
+      "text": "только сегодня думал куда делся Моргенштерн"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c7",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gray_idea",
+      "author_name": "Никита Ковалевский",
+      "datetime": 1788638762,
+      "text": "Фигово, придется думать в другую сторону.\u003cbr/\u003eЯ же правильно понимаю, что cc-thingz есть ревьюеры именно про это?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c8",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "gray_idea",
+      "author_name": "Никита Ковалевский",
+      "datetime": 1788638885,
+      "text": "Перечитал ещё раз твое сообщение, видимо не совсем правильно понял.\u003cbr/\u003eПойду обдумывать эту идею, может быть что-то"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5c9",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "dlytsl",
+      "author_name": "D D",
+      "datetime": 1788638930,
+      "text": "Мы что вас должны слышать что-ли?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ca",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788638973,
+      "text": "Может стёкла экранирующие?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5cb",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alexander_Pavluchenko",
+      "author_name": "Alexander Pavluchenko",
+      "datetime": 1788639038,
+      "text": "100 500 стекла"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5cc",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1788639113,
+      "text": "В ук у нас на 2ром этаже факр пруф окна, они толстые жестко"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5cd",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1788639123,
+      "text": "Фаер*"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ce",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_kovalevv",
+      "author_name": "Vladimir Kovalev",
+      "datetime": 1788639141,
+      "text": "чем шире канал, тем меньше дальность. И 2.4 бъет сильно дальше"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5cf",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788639229,
+      "text": "Гугл говорит \u0026#34;Алюминиевая фольга: Обычной кулинарной фольги толщиной всего 10–20 микрон (0,01–0,02 мм) уже достаточно, чтобы практически на 100% экранировать Wi-Fi (2.4 ГГц и 5 ГГц) и стандартные частоты 5G.\u0026#34;. И что стеклопакеты тонким оксидом металла иногда покрывают.\u003cbr/\u003e\u003cbr/\u003e\u0026gt; Существует простой домашний тест. Поднесите к стеклу зажигалку или фонарик смартфона и посмотрите на отражение пламени (в двойном стеклопакете вы увидите 4 огонька, в тройном — 6).\u003cbr/\u003e\u0026gt; Если один или два огонька имеют явный другой оттенок (малиновый, зеленоватый, синеватый или фиолетовый) — на это стекло нанесено металлическое напыление."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d0",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1788639274,
+      "text": "Можно на 2.4"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d1",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788639478,
+      "text": "В современных домах все чаще используют стекла низкоэмиссионным (Low-E) покрытием. Это тончайший слой оксида металла (серебра или олова), который отражает тепло обратно в комнату. И этот же слой становится почти идеальным зеркалом для радиоволн."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d2",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788639519,
+      "text": "Может через щели какие-то пробивает)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d3",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "workvlpl",
+      "author_name": "Владимир",
+      "datetime": 1788639592,
+      "text": "есть кабели оптические удленители"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d4",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "hackmajoris",
+      "author_name": "Alex",
+      "datetime": 1788639612,
+      "text": "У меня был это аномалия и проблема было HDML кабель"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d5",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1788639616,
+      "text": "У меня тоже в сад не пробивает ваще ни как даже с меш , я так и оставил"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d6",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1788639687,
+      "text": "Лёха, если тепло вовне отдавать - это же только будет усугублять глобальное потепление, ну что ты такое советуешь 😄"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d7",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788639763,
+      "text": "У меня вот проблема что купил гараж, а там заземлением пахнет только (вижу что труба внутри которой провода идут соединена перемычками со столбами освещения). Надеюсь в понедельник председатель меня обрадует что есть какой-то электрик кооперативный который и входные автоматы заменит и доставит узо, и может найдёт мне откуда-нибудь заземление, а то ссыкотновато("
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d8",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1788640813,
+      "text": "Кстати ООН поменяла глобус 🌍"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5d9",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788640867,
+      "text": "гораздо более холодные зимы - это -10?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5da",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788640927,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5db",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1788640994,
+      "text": "Ну в Лондоне почти любой минус будет шок"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5dc",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alek566",
+      "author_name": "Alek",
+      "datetime": 1788641029,
+      "text": "Сиэтл и Ванкувер на берегу океана, зимой нету снега и плюс."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5dd",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andmed",
+      "author_name": "Andrew",
+      "datetime": 1788641105,
+      "image_url": "https://chat.radio-t.com/logs/1029/AgACAgIAAx0CUPxcWQABCxsHapx_UUIRo57Eyc1HXyc7DztQCCsAAs4naxuREeBIl7L2FZok_fkBAAMCAAN5AAM9BA",
+      "image_width": 960,
+      "image_height": 1280,
+      "text": "Норм"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5de",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "voidptr0",
+      "author_name": "Ssi",
+      "datetime": 1788641132,
+      "text": "разве всасывает? Там же радиаторы просто"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5df",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788641194,
+      "text": "ну бывают кондеи с притоком воздуха"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e0",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1788641414,
+      "text": "Да бывает в Seattle минус, 1 раз за зиму бывает"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e1",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788641423,
+      "text": "а что плохого в больших описаниях коммитов? агенты потом могут почитать и понять, нахрена вообще этот коммит был сделан и по какой логике"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e2",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788641446,
+      "text": "Я написал скил который кодексом перед коммитом диф чистил от комментов"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e3",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788641767,
+      "text": "когда правишь опечатку при помощи Astra Ultra"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e4",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788641859,
+      "text": "китайские нейронки в это время продолжали работать"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e5",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788641899,
+      "text": "⚠️ What\u0026#39;s new in Claude Fable 5.1 - \u003ca href=\"https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1\"\u003ehttps://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e6",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788641907,
+      "text": "\u003cstrong\u003eWhat\u0026#39;s new in Claude Fable 5.1 - Claude Platform Docs\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКоротко: Claude Fable 5.1 — улучшение Fable 5 с 1M токенов контекста, сильнее для долгих агентных задач и исследований, те же цены, ниже стоимость чтения кэша, новые ограничения и бета‑функции.\u003cbr/\u003e\u003cbr/\u003e- Обзор: 1M токенов контекста, до 128k токенов вывода, адаптивное мышление всегда включено, та же тарификация Fable 5, но дешевле чтение кэша. Подходит для долгих и требовательных задач.\u003cbr/\u003e\u003cbr/\u003e- Ломающие изменения: отключено принудительное использование инструментов; более ранние модели не читают блоки «мышления» Fable 5.1; редактирование ранних ходов инвалидирует последующие блоки мышления.\u003cbr/\u003e\u003cbr/\u003e- Новые функции (частично в бете): per-message effort (изменять усилие по ходу), turn-scoped system messages (одноходовые системные сообщения), readable progress updates между вызовами инструментов, provenance контента.\u003cbr/\u003e\u003cbr/\u003e- Поведение vs Fable 5: меньше промежуточных обновлений, более плотная проза, другая парадигма вызовов инструментов (меньше пакетирования), ответы по памяти чаще на низком effort.\u003cbr/\u003e\u003cbr/\u003e- Сохранность мышления: блоки мышления привязаны к модели; миграция между моделями может бросать блоки. Есть заголовки беты для контроля поведения при несоответствии префикса.\u003cbr/\u003e\u003cbr/\u003e- Улучшенные способности: долгое агентное кодирование, многошаговые исследования, работа с документами/таблицами/слайдами, чтение сложных PDF и надёжное управление компьютером в сессиях до 1M токенов.\u003cbr/\u003e\u003cbr/\u003e- Отметки и файлы: текст помечается статистическим водяным знаком; сгенерированные медиа файлы снабжаются подписанными C2PA‑учетными данными при получении через Files API."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e7",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788641924,
+      "text": "Вот-вот, есть ощущение, что надо локальную модельку маленькую держать, которой контекст по изменениям скармливать, и она выдаст что-то примитивное(что и нужно)."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e8",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788641951,
+      "text": "Я попробовал с опусом на русском пообщаться, там те же проблемы."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5e9",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788642014,
+      "text": "У меня просто во всех скиллах которые подразумевают коммиты (вот сейчас бежит выполнение саб-планов в отдельных тасках) — там явно гайдлайны коммитов прописаны. А когда сам решаю коммитнуть, дёргаю \u003ccode\u003e/commit\u003c/code\u003e команду где написано \u003ccode\u003eRead development.md for commit guidelines if not read before, then commit changes.\u003c/code\u003e. И тож нормально выходит."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ea",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788642088,
+      "text": "Ловлю многострочные коммиты может в 1 случае из 20. Автоаппрува на коммит у меня нет, иногда интересно глянуть как что-то конкретное сделало, поэтому если оно сочинило симфонию — просто \u003ccode\u003e/commit\u003c/code\u003e вызываю, который поправит сообщение."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5eb",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788642203,
+      "text": "⚠️ Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic - \u003ca href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\"\u003ehttps://www.anthropic.com/claude-fable-and-mythos-5-1\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ec",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788642210,
+      "text": "\u003cstrong\u003eIntroducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Anthropic выпустила Claude Fable 5.1 и Claude Mythos 5.1 — одна модель с разными мерами безопасности. Fable 5.1 доступна всем, дешевле и быстрее; Mythos 5.1 — по доверенному доступу для биологии и кибербезопасности с усилёнными ограничениями.\u003cbr/\u003e\u003cbr/\u003e- Модель: Fable 5.1 и Mythos 5.1 — один ядро, разные уровни защит и доступности; Mythos предназначен для чувствительных научных задач и доступен через программы доверенного доступа.\u003cbr/\u003e- Ценообразование: Fable 5.1 стоит примерно на 25% меньше типичных задач (по токенам), до ~45% экономии для агентных рабочих нагрузок за счёт снижения цены на чтение кэша.\u003cbr/\u003e- Хранение данных: Enterprise Frontier Safeguards (EFS) обеспечивает приватность как при нулевом хранении данных — данные хранятся в облаке под контролем клиента; ввод поэтапно этой осенью.\u003cbr/\u003e- Защиты: снижены ложные срабатывания, в кибербезопасности на 60% меньше ложных позитивов; модель может помогать находить уязвимости, но не разрабатывать эксплойты.\u003cbr/\u003e- Возможности: значительные улучшения в кодировании, многодисциплинарном мышлении и долгосрочных задачах; лучше читаемость и решения для сложных многозадачных сценариев.\u003cbr/\u003e- Практические результаты: клиенты отмечают более высокую точность, меньшую стоимость, нахождение редких ошибок и успешные долгие автономные прогоны исследований и прототипов.\u003cbr/\u003e- Доступность: Fable 5.1 — общедоступен; Mythos 5.1 — через специализированные программы (особенно для биологии и кибербезопасности)."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ed",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788642421,
+      "text": "⚠️ GPT-6 Astra: A new generation of intelligence | OpenAI - \u003ca href=\"https://openai.com/index/gpt-6-astra/\"\u003ehttps://openai.com/index/gpt-6-astra/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ee",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788642477,
+      "text": "в итоге всего 2 ресета дали"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ef",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788642487,
+      "text": "Да"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f0",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788642497,
+      "text": "В чате есть тоже"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f1",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788642505,
+      "text": "астру в чате дали только господам с 200 баксовыми подписками"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f2",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788642515,
+      "text": "с лимитами типа 15 сообщений в неделю"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f3",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788642526,
+      "text": "Нет"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f4",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vladimir_kovalevv",
+      "author_name": "Vladimir Kovalev",
+      "datetime": 1788642533,
+      "image_url": "https://chat.radio-t.com/logs/1029/AgACAgIAAx0CUPxcWQABCxshapyE5b64q-HALQJ6231-OMc8SqcAAtMnaxuREeBImqULwTFVe1UBAAMCAAN5AAM9BA",
+      "image_width": 1280,
+      "image_height": 764,
+      "text": "Сегодня первый день на max, увидел fable отдельно - порадовался. Поспрашивал fable, а что-то не тратится он отдельно, кажись в общий. Глюк или чо-то не понимаю?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f5",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788642538,
+      "image_url": "https://chat.radio-t.com/logs/1029/AgACAgIAAx0CUPxcWQABCxsiapyE6j5J7y44Lm86lbIk4K-G6x8AAtQnaxuREeBIBrvaid3yV_4BAAMCAAN4AAM9BA",
+      "image_width": 520,
+      "image_height": 172,
+      "text": ""
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f6",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788642640,
+      "text": "попробовал астру для простенького 3д моделирования одной простой запчасти по фоткам. не справилась"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f7",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1788642672,
+      "text": "Этот войс режим, всего на час, на нищебродских тарифах 😭"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f8",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788642711,
+      "text": "по первым впечатлениям - Астра в отличии от Sol просто делает то что ей сказали и не лезет туда куда куда её не просили"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5f9",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788642744,
+      "text": "гпт в целом лучше клода для всего, кроме дизайна"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5fa",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788642787,
+      "text": "клод настолько невнимательный, по крайней мере опус. буквально в одной переписке может что-то с умным видом после анализа предложить, а как начинает реализовыать сразу \u0026#34;ой, тысяча извинений, на самом деле всё по-другому\u0026#34;"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5fb",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788642925,
+      "text": "потому что людей можно наказать, а агентов сложно."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5fc",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "0x",
+      "datetime": 1788642944,
+      "text": "потомучто людей можно наказать"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5fd",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1788642950,
+      "text": "Его засудить можно"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5fe",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788643183,
+      "text": "apple news уже давно появился, и уже в то время контент сайтов скрывался за пейволом"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b5ff",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788643221,
+      "text": "люди адблоком пользуются, а ещё всякие гугл боты и чатгпт позволяет читать статьи, не переходя на сайт"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b600",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788643243,
+      "text": "Все перестали ходить на сайты"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b601",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788643259,
+      "text": "Я в прошлые темы закидывал \u003ca href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\"\u003ehttps://people.kernel.org/monsieuricon/creepy-crawlies\u003c/a\u003e , но сильно поздно. Там сайт ядра пришлось за каптчи закрывать, ибо конкретно для них AI генерирует жесть как много нагрузки относительно людей.\u003cbr/\u003e\u003cbr/\u003eМожет и с прочими сайтами так же. Откроешься — к тебе никто кроме агентов и не придёт."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b602",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "wetterkrank",
+      "author_name": "Alexander Antsiferov",
+      "datetime": 1788643484,
+      "image_url": "https://chat.radio-t.com/logs/1029/AgACAgIAAx0CUPxcWQABCxsvapyInBMDur5hfjRpJGPmbkcm53EAAtgnaxuREeBIy6WuqlhhHrEBAAMCAAN5AAM9BA",
+      "image_width": 1280,
+      "image_height": 514,
+      "text": "На контентные сайты перестал приходить трафик. \u003cbr/\u003e\u003cbr/\u003eУ меня мааленький контентный сайт с выраженной сезонностью, пик трафика зимой.\u003cbr/\u003eВот сравнение зимы 24/25 года и 25/26.\u003cbr/\u003e\u003cbr/\u003eПоказов в гугле столько же, переходов раз в 5 меньше — все и так в AI-сниппете процитировано."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b603",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788643608,
+      "text": "не, потому что Грег сказал, что считает, что модель стала AGI"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b604",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788643629,
+      "text": "отсюда пошло по медиа"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b605",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788643690,
+      "text": "Ну они же не говорили про качество человека, с которым они сравнивали."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b606",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "nick318",
+      "author_name": "Nikita Salomatin",
+      "datetime": 1788643819,
+      "text": "закрытый вопрос"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b607",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788643830,
+      "text": "шахматы ещё с девяностых невозможно победить компьютер человеку"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b608",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788643867,
+      "text": "шахматы сводятся просто к глубокому перебору на много ходов вперёд с отсечениями"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b609",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mellafon",
+      "author_name": "@mellafon",
+      "datetime": 1788643897,
+      "text": "\u003ca href=\"https://www.anthropic.com/research/formalizing-fermats-last-theorem\"\u003ehttps://www.anthropic.com/research/formalizing-fermats-last-theorem\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b60a",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788643959,
+      "text": "Мне интересно, натравил ли кто-то уже нейронку на все труды какого-то японца который говорит что abc-гипотезу доказал."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b60b",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1788643997,
+      "text": "Когда можно будет перестать читать код - значит agi. У меня критерий простой)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b60c",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788644118,
+      "text": "У гугла была же недавно статья llm can\u0026#39;t jump, там примерно похожее мнение как у гостя, но, кажется, оно там ничем не подтверждено, хотя интуитивно кажется верным."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b60d",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644122,
+      "text": "когда менеджер придёт и скажет, что вы в роли мясного прокси больше не нужны"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b60e",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644154,
+      "text": "потому что без вас задачи решаются так же, как и с вами, а то и лучше"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b60f",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1788644185,
+      "text": "Надо становиться менеджером 🚬"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b610",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644213,
+      "text": "а потом придут за линейными менеджерами, а топ менеджмент не заменят, потому что они несут ответственность"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b611",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1788644240,
+      "text": "А я где то в районе просаки) таких заменят?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b612",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "ㅤM ㅤV",
+      "datetime": 1788644248,
+      "text": "Astra прекрасно держит во внимании мега-скил с тысячами инвариантов в чек-листах, сборщиками контекста и тд. Sol даже близко не могла"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b613",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1788644260,
+      "text": "Ну вот когда такое произойдет, тогда и посмотрим)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b614",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644280,
+      "text": "ну собственно это и можно будет считать AGI"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b615",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644302,
+      "text": "а щас точно нет, вот как минимум мою простую задачку про моделирование решить не смогла астра"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b616",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644322,
+      "text": "хотя и зрение у неё есть, и инструменты, и computer use, ничего не помогло"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b617",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788644543,
+      "text": "Триумф риторики над реальностью"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b618",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788644683,
+      "text": "вертолеты падают"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b619",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788644853,
+      "text": "булькающая тундра, тающая арктика, дефицит еды. Перестройка в глобальном масштабе, будет соль и хлеб по талонам."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b61a",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788644866,
+      "text": "Сейчас он «сбегает» и начинает чатиться в чужих вики. А через три года начнёт зарабатывать на фрилансе и удалённо нанимать исполнителей чтобы начать собирать роботов)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b61b",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788644933,
+      "text": "Люди дешевле роботов - и так всегда будет"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b61c",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788644936,
+      "text": "Если не будет людей, то и еду добывать больше не нужно 👍"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b61d",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644951,
+      "text": "смотря каких роботов"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b61e",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788644974,
+      "text": "электрических"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b61f",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788644993,
+      "text": "на заводах много ручного труда заменили роботы, и стало сильно дешевле"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b620",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788644999,
+      "text": "Почему-то кузова машин роборуками варятся, а не людьми."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b621",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788645072,
+      "text": "Свалки уже отравили большую часть плодородной почвы"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b622",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788645135,
+      "text": "Это не базовый безусловный доход, так как у вас есть условие."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b623",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645153,
+      "text": "суть безусловного дохода, что его платят, даже когда есть работа"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b624",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788645156,
+      "text": "Кстати, базовый безусловный доход вполне либертарианская мысль:)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b625",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788645174,
+      "text": "дешевле не значит лучше. Серийнее, но не лучше. Ширпотреб"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b626",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645208,
+      "text": "машинальную работу роботы точно делают лучше человека"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b627",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645230,
+      "text": "посади человека на место робота и будет больше косяков"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b628",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788645252,
+      "text": "пусть пересадит цветок"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b629",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645307,
+      "text": "кто говорил, что всю работу могут делать роботы сейчас"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b62a",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788645325,
+      "text": "Аргумент \u0026#34;государтсву выгодны\u0026#34; сам по себе плохой."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b62b",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788645377,
+      "text": "безусловный доход подразумевает"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b62c",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1788645417,
+      "text": "А разница в обеспечении образования\u003cbr/\u003eмежду разными слоями финансовым возможностями"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b62d",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645440,
+      "text": "в безусловном доходе всем дают минимальное количество денег, чтобы не сдохнуть. хочешь больше - иди работай. просто в теории больше вероятность того, что ты пойдёшь на работу, которая нравится, вместо работы, которая нужна чисто для выживания"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b62e",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788645481,
+      "text": "Эксплуатация подразумевает несвободу, мигранты свободно выбирают идти туда:)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b62f",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788645629,
+      "text": "Я думаю, вряд ли это будут именно деньги. Скорее вещи и продукты. Денежная система немного по-другому работает"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b630",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788645731,
+      "text": "работы, которая нравится уже не останется, останется рутина, которую могут сделать только люди - курьеры, сборщики, водители, работа напильником"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b631",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788645740,
+      "text": "Странно это всё относительно миграции. Надеюсь со временем переехать куда хочешь легально станет сильно проще, чем нелегально.\u003cbr/\u003e\u003cbr/\u003eИбо если не нарушаешь и не можешь куда-то попасть (из-за своих принципов ненарушений), но при этом те кто нарушают — вполне могут там нормально жить."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b632",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788645764,
+      "text": "Поэтому БОД - норм идея. Рынок распределяет достаточно честно, при этом безусловный базовый доход может быть удачной идеей для сокращения бюрократии, при которой сам механизм возможности дать кому-то денег побольше, а кому-то поменьше уходит, что может быть по итогу эффективнее."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b633",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645782,
+      "text": "подразумевается как раз, что всю грязную работу, на которую никто не любит ходить, как раз заменят роботы"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b634",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788645833,
+      "text": "сантехников, электриков и дворников?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b635",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788645837,
+      "text": "Как раз БОД хорошо решает проблему инфляции, если вы убираете у государства еще один механизм эмиссии, то это логичным образом понижает инфляцию."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b636",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Timoffey_com",
+      "author_name": "Timoffey",
+      "datetime": 1788645848,
+      "text": "Пока они заменяют творческую работу, потому что физическое тело через ту же Gemeni Robotics очень мало данных пока, нужно собирать тактильную информацию, 3д положение предметов, понимание физического мира и тд. А всякую беловоротничковую работу на изи"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b637",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788645860,
+      "text": "гиковский выпуск сегодня?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b638",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788645864,
+      "text": "Рутинные задачи обслуживания (регулярная уборка, мониторинг систем) уже частично автоматизируются: роботы и сенсоры уменьшают частоту обходов, но сложный сантех/электро/ремонт остаётся ручным из‑за вариативности и высоких капзатрат на роботов для мелких объектов."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b639",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645865,
+      "text": "ну типа. я считаю, что в реальности безусловный базовый доход невозможен, как и какой-нибудь коммунизм"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b63a",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788645941,
+      "text": "Почему? Отменяешь все пособия, оставляешь только БОД, получаешь примерно тоже самое, с учетом сокращения бюрократического аппарата."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b63b",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788645952,
+      "text": "Гость в Нидерландах живет? )"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b63c",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645966,
+      "text": "и получаешь огромное количество людей, которые садятся на пособие, и вместо очистки унитазов сидят дома"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b63d",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788645977,
+      "text": "и инфляцию ещё"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b63e",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Alterfo",
+      "datetime": 1788646006,
+      "text": "сейчас вялотекущий кризис, застой в экономике, высокооплачиваемых специалистов сокращают, заменяя дешевыми миддлами, вся работа осталась в госах"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b63f",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788646006,
+      "text": "Мы уже существуем в системе велферов."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b640",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788646049,
+      "text": "Но при этом другие пособия инфляцию не разгоняют?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b641",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788646072,
+      "text": "когда пособие получают все или когда пособие получают несколько процентов людей - большая разница"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b642",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788646075,
+      "text": "У инфляции есть более значительные триггры, например, свободный доступ государство к увелчению эмиссии. Это другая проблема."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b643",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788646105,
+      "text": "⚠️ Introducing Delta — Zed\u0026#39;s Blog - \u003ca href=\"https://zed.dev/blog/introducing-delta\"\u003ehttps://zed.dev/blog/introducing-delta\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b644",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788646109,
+      "text": "Да, процентов 30 только, а еще огромный штат госслужажих, которые решают кому-чего дать."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b645",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788646110,
+      "text": "\u003cstrong\u003eIntroducing Delta — Zed\u0026#39;s Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Delta — мультиплеерная среда для совместного кодирования и обсуждения с агентами. DeltaDB синхронизирует дерево работы и разговоры в реальном времени, сохраняя контекст изменений и истории разработки.\u003cbr/\u003e\u003cbr/\u003e- Что такое Delta: новая мультпользовательская платформа для кодирования с агентами и обсуждений, где разговоры и код остаются связанными и контекст сохраняется по ходу работы.\u003cbr/\u003e- DeltaDB: реплицируемая база, которая хранит разговоры и worktree вместе, работает с вашим git и сохраняет правки и обсуждения между коммитами.\u003cbr/\u003e- Комментарии и контекст: можно комментировать любой текст или строку кода, комментарии привязаны к развивающемуся дереву работы и остаются в нужном месте.\u003cbr/\u003e- Синхронная работа: каждый участник имеет локальную копию кода, синхронизированную в реальном времени; можно работать на облачном раннере без прерывания агентов.\u003cbr/\u003e- Веб-клиент высокого качества: \u003ca href=\"https://Delta.dev\"\u003eDelta.dev\u003c/a\u003e — тот же Rust-клиент, скомпилированный в WebAssembly и рендерится через WebGL, чтобы обеспечить единый опыт в браузере.\u003cbr/\u003e- Интеграции и терминал: поддержка внешних агентных хостов (начиная с Claude Code); терминальные сессии синхронизируются в поток с возможностью просмотра и продолжения работы.\u003cbr/\u003e- Доступ и бета: первые private beta-приглашения уже отправлены; подписывайтесь, если хотите ранний доступ — новые приглашения придут в ближайшие недели."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b646",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Timoffey_com",
+      "author_name": "Timoffey",
+      "datetime": 1788646116,
+      "text": "Нсколько я понимаю, идея базового безусловного дохода нужна, чтобы экономика не схлопнулась, когда работы нет. И чтоб народ на вилы не насадил владельцев корпораций, условных, которые всё автоматизировали.\u003cbr/\u003e\u003cbr/\u003eЕсли никто не покупает ничего, то ничего и не производится, условно говоря. И эту проблему пытаются закрыть таким костылём.\u003cbr/\u003e\u003cbr/\u003eМожет быть ИИ нам придумает новую модель экономики, и мы шагнём в светлое будущее? \u003cbr/\u003eИли экономика схлопнутся раньше из-за пузырей передутых и будет треш."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b647",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1788646201,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e покажи скрин"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b648",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788646211,
+      "text": "Может вдруг оказаться, что при высоком уровне автоматизации и отслеживании производств каждого винтика плановая экономика вполне может существовать, где заводы друг у друга сами заказывают что им нужно)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b649",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1788646284,
+      "text": "Это короче вайтборд только для ии"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b64a",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788646366,
+      "text": "сторонники плановой экономики ровно за это и топят. мол раньше посчитать на примитивных технологиях нормально не могли. а щас если всё обложить метриками, трассировками и натравить на это ии, то можно предусмотреть всё на год вперёд"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b64b",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788646391,
+      "text": "трижды ха, эффект бабочки никуда не делся"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b64c",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788646517,
+      "text": "недавно на глаза попадалось исследование что если определять грибы нейронками шансов выжить нету"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b64d",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788646556,
+      "text": "⚠️ IBM Bob - \u003ca href=\"https://bob.ibm.com/\"\u003ehttps://bob.ibm.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b64e",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788646561,
+      "text": "\u003cstrong\u003eIBM Bob\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Кратко:**  \u003cbr/\u003eIBM Bob — доступ к корпоративной экосистеме IBM прямо из IDE: подключение к Red Hat, Instana и другим. Устраняет переключение контекста, привносит корпоративную архитектуру, безопасность и мониторинг непосредственно в место разработки.\u003cbr/\u003e\u003cbr/\u003e- Прямые интеграции: подключайтесь к Red Hat, Instana и другим сервисам IBM прямо из вашей IDE без дополнительных настроек или переходов.\u003cbr/\u003e- Меньше переключений контекста: все инструменты и данные доступны там, где вы кодите, что повышает фокус и скорость разработки.\u003cbr/\u003e- Корпоративная архитектура: обеспечивает согласованные шаблоны и лучшие практики архитектуры для команд и проектов.\u003cbr/\u003e- Встроенная безопасность: реализует корпоративные политики безопасности и контроль доступа прямо в среде разработки.\u003cbr/\u003e- Непрерывный мониторинг: интегрирует метрики и трассировку, чтобы отслеживать поведение приложений в реальном времени.\u003cbr/\u003e- Повышение эффективности команды: уменьшает задержки между написанием кода и его эксплуатацией, ускоряя цикл доставки."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b64f",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1788646661,
+      "text": "\u003ca href=\"https://en.wikipedia.org/wiki/Microsoft_Bob\"\u003ehttps://en.wikipedia.org/wiki/Microsoft_Bob\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b650",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788646742,
+      "image_url": "https://chat.radio-t.com/logs/1029/AgACAgIAAx0CUPxcWQABCxuAapyVVqWz3NRSvt7F8duDJKmjNzcAAuAnaxuREeBIdQIXyQcWCEcBAAMCAAN5AAM9BA",
+      "image_width": 1280,
+      "image_height": 756,
+      "text": "они там на джаву покушаются"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b651",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1788646867,
+      "text": "Зато есть поддержка кобола =)"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b652",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788646999,
+      "text": "⚠️ GUIs should be fully keyboard-driven - \u003ca href=\"https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html\"\u003ehttps://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html\u003c/a\u003e"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b653",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788647005,
+      "text": "\u003cstrong\u003eGUIs should be fully keyboard-driven | Charalampos Kardaris\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое содержание: Автор утверждает, что GUI могут и должны быть полностью управляемыми с клавиатуры; это вопрос воли разработчиков, а не ограничений технологий, и полная клавиатурная навигация улучшает удобство использования.\u003cbr/\u003e\u003cbr/\u003e- Проблема: аргумент в пользу TUI часто сводится к тому, что они «лучше управляются с клавиатуры», но это отражает плохую реализацию клавиатурной навигации в многих GUI, а не их неспособность это обеспечить.  \u003cbr/\u003e- Возможности: фреймворки GUI по сути превосходят TUI и могут реализовать весь функционал, включая полноценную клавиатурную работу.  \u003cbr/\u003e- Руководства: многие HIG (например, GNOME) прямо требуют, чтобы все действия в приложении были доступны и с клавиатуры, и с указателем.  \u003cbr/\u003e- Пользовательский опыт: возможность интуитивно и предсказуемо управлять GUI только клавиатурой делает приложение более привлекательным для пользователей.  \u003cbr/\u003e- Ответственность разработчика: обеспечить удобную клавиатурную навигацию — вопрос воли и внимания к UX, а не технической невозможности.  \u003cbr/\u003e- Практика: реальный пример — автор реализовал полные клавиатурные ярлыки в своём первом GUI-приложении Klisi, что улучшило удобство."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b654",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1788647450,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e так это же модальные окна, может тогда и правда пора в браузер?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b655",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1788647505,
+      "text": "Так и сейчам через оверлей можно спросить же"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b656",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1788647521,
+      "text": "Только оверлей нельзя свернуть"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b657",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1788647535,
+      "text": "типа настоящие хакеры гуём не пользуются"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b658",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788647621,
+      "text": "[4/7] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eMois Ilya\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003e\u003cbr/\u003e“Fable 5.1 can now be used to identify software vulnerabilities in source code”\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003eFable теперь заметно меньше режет \u003c/em\u003e\u003ca href=\"https://www.anthropic.com/claude/mythos\"\u003esecurity-задачи\u003c/a\u003e\u003cem\u003e и \u003c/em\u003e\u003cem\u003eнормально ищет уязвимости в коде, а не стопорится на самом контексте безопасности.\u003cbr/\u003e\u003cbr/\u003eИ тут можно вспомнить про \u003c/em\u003e\u003ca href=\"https://claude.com/product/claude-security\"\u003eClaude Security\u003c/a\u003e\u003cem\u003e — их многоагентный тул для аудита репозиториев. Кажется, с 5.1 он наконец может быть сколько то полезным?\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eClaude Mythos \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eAnthropic выпустил Claude Mythos 5.1 (улучшения в кибербезопасности и биологии). Доступ ограничен верифицированным организациям через доверенные программы; доступна смягчённая версия Fable 5.1. Введены цены, дополнительные меры безопасности и 30‑дневное хранение данных для мониторинга безопасности.\u003cbr/\u003e\u003cbr/\u003e- Claude Mythos 5.1 — новый Mythos‑класс, объявлен 1 сентября 2026, с приростами в кибербезопасности и биологии.\u003cbr/\u003e- Доступ ограничен: только верифицированные организации через Life Sciences Verification и Cyber Verification; сейчас преимущественно для ряда организаций в США, планируется расширение.\u003cbr/\u003e- Ценообразование: от $10 за миллион входных токенов и $50 за миллион выходных токенов.\u003cbr/\u003e- Fable 5.1 — та же базовая модель с усиленными ограничениями по кибербезопасности и биологии; вмешательства стали точнее, меньше блокировок для безвредных биозапросов.\u003cbr/\u003e- Ограничения и история доступа: Mythos 5 выпускался 9 июня 2026, был недоступен 12 июня, экспортные ограничения сняты 1 июля 2026.\u003cbr/\u003e- Хранение данных: использование Mythos 5.1 подразумевает 30‑дневную политику хранения данных для мониторинга безопасности по умолчанию.\u003cbr/\u003e- Тестирование и бенчмарки: модели тестируются на безопасность, надёжность и производительность; системная карточка содержит подробные результаты."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b659",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1788647668,
+      "text": "Умпутун регулярно публикует конфиги Neovim и подробно обсуждает переход на Lua-плагины; практические кейсы от слушателей часто интереснее, потому что показывают реальные настройки и баги, а не только теорию."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b65a",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1788647704,
+      "text": "Можно chatgpt попросить напоминание сделать, правда оно в одном чате там будет писать"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b65b",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788647893,
+      "text": "А где они маску берут?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b65c",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788648277,
+      "text": "Casey Muratori?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b65d",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1788648331,
+      "text": "Dave Cheney?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b65e",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1788648431,
+      "text": "кейси моратори? этот не тот, что дядюшку Боба загонял по поводу чистого кода?"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b65f",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788648463,
+      "text": "Кейсы - хороший системный программист, но у него ООП на уровне Фаулера с rich-model и проектированием объектов реального мира осталось."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b660",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788648506,
+      "text": "Да, полиморфизм через наследование - большая ошибка была:("
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b661",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "stillya",
+      "author_name": "Ilya Starchenko",
+      "datetime": 1788648651,
+      "text": "Кстати, у Peter Podman недавно было интеврью со Страуструпом, где он сказал, что не планировал ООП, а лишь некоторые паттерны объектного ориентирования."
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b662",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "krajcik",
+      "author_name": "Nikita Krajcik",
+      "datetime": 1788648687,
+      "text": "Гость топ, спасибо"
+    },
+    {
+      "id": "6ab3d30258f4e4f59ed2b663",
+      "issue": 1029,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1788648712,
+      "text": "гость из JetBrains подтвердит, что гостей не обижают :D"
+    }
+  ]
+}
