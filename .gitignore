@@ -1,3 +1,5 @@
 .DS*
 .idea
 tmp
+samples
+.env

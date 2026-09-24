@@ -10,15 +10,14 @@ import (
 	"net/http"
 	"os"
 	"regexp"
+	"slices"
 	"sort"
 	"strconv"
 	"strings"
 	"time"
 
-	"golang.org/x/exp/slices"
-
 	"github.com/araddon/dateparse"
-	"github.com/gocolly/colly"
+	"github.com/gocolly/colly/v2"
 
 	"github.com/BurntSushi/toml"
 
@@ -45,6 +44,9 @@ var (
 	ccSearchFile = "../../data/" + issueStr + "/tmp/meili_cc.json"
 
 	listFile = "../../data/list.json"
+
+	// Общий .env проекта (корень репозитория); путь — относительно CWD utils/publish
+	envFile = "../../.env"
 
 	timezone  = "Europe/Moscow"
 	issueDate string
@@ -776,6 +778,45 @@ func updateSearchData(issueNumber int) {
 	}
 }
 
+// loadEnvFile подгружает переменные из .env в корне репозитория.
+// Формат: строки KEY=VALUE; пустые строки и строки, начинающиеся с '#', игнорируются.
+// Значения в кавычках раздеваются; уже заданные в окружении переменные не перезаписываются.
+func loadEnvFile(path string) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return // .env нет — работаем только с переменными окружения
+	}
+
+	for _, line := range strings.Split(string(data), "\n") {
+		line = strings.TrimSpace(line)
+		if line == "" || strings.HasPrefix(line, "#") {
+			continue
+		}
+
+		line = strings.TrimPrefix(line, "export ")
+
+		key, value, found := strings.Cut(line, "=")
+		if !found {
+			continue
+		}
+		key = strings.TrimSpace(key)
+		value = strings.TrimSpace(value)
+
+		if len(value) >= 2 {
+			if (value[0] == '"' && value[len(value)-1] == '"') || (value[0] == '\'' && value[len(value)-1] == '\'') {
+				value = value[1 : len(value)-1]
+			}
+		}
+
+		if key == "" {
+			continue
+		}
+		if _, exists := os.LookupEnv(key); !exists {
+			_ = os.Setenv(key, value)
+		}
+	}
+}
+
 func main() {
 	if len(os.Args) < 2 {
 		fmt.Println("Использование: go run main.go <номер_выпуска>")
@@ -787,6 +828,9 @@ func main() {
 		fmt.Printf("Неверный формат номера выпуска: %v\n", err)
 		os.Exit(1)
 	}
+
+	// Загрузка общего .env проекта (корень репозитория)
+	loadEnvFile(envFile)
 
 	// Инициализация логгеров
 	initLogger(issueNumber)
