@@ -38,8 +38,12 @@ var (
 	chatJsonFile   = "../../data/" + issueStr + "/" + issueStr + "_chat.json"
 	chatSearchFile = "../../data/" + issueStr + "/tmp/meili_chat.json"
 
-	ccSrcFile = "../../data/" + issueStr + "/tmp/06_manual.ssa"
-	ccSsaFile = "../../data/" + issueStr + "/" + issueStr + "_cc.ssa"
+	// ccSrcFile — рабочий SSA выпуска (черновик после диаризации/присвоения голосов).
+	// ccCleanSrcFile — SSA после волонтёрской выверки (генерируется внешним
+	// radio-t_playchat_clean). При наличии он приоритетнее — см. ccSourceFile.
+	ccSrcFile      = "../../data/" + issueStr + "/tmp/06_manual.ssa"
+	ccCleanSrcFile = "../../data/" + issueStr + "/tmp/07_clean.ssa"
+	ccSsaFile      = "../../data/" + issueStr + "/" + issueStr + "_cc.ssa"
 	// jsonFile = "../../data/" + issueStr + "/src/rt_podcast" + issueStr + ".json"
 	ccJsonFile   = "../../data/" + issueStr + "/" + issueStr + "_cc.json"
 	ccSearchFile = "../../data/" + issueStr + "/tmp/meili_cc.json"
@@ -216,6 +220,16 @@ func createIssueDir(issue int) {
 			infoLog.Printf("(%s) Создана директория %s", loc, tmpPath)
 		}
 	}
+}
+
+// ccSourceFile возвращает путь к исходному SSA-файлу выпуска для чтения и правок.
+// Приоритет: tmp/07_clean.ssa (результат волонтёрской выверки), если он есть;
+// иначе — рабочий tmp/06_manual.ssa.
+func ccSourceFile() string {
+	if _, err := os.Stat(ccCleanSrcFile); err == nil {
+		return ccCleanSrcFile
+	}
+	return ccSrcFile
 }
 
 func createDescFile(issue int) {
@@ -436,31 +450,33 @@ func writeTopicsSearchJSON(topics []DescTopic, loc string) {
 	}
 }
 
-// appendTopicsToSSA вставляет темы как Comment-строки в начало [Events] файла
-// tmp/06_manual.ssa (сразу после Format). replace=false — только если комментариев
+// appendTopicsToSSA вставляет темы как Comment-строки в начало [Events] исходного
+// SSA-файла выпуска (tmp/07_clean.ssa при наличии, иначе tmp/06_manual.ssa; см.
+// ccSourceFile) сразу после Format. replace=false — только если комментариев
 // там ещё нет; replace=true — перезаписывает существующие комментарии тем.
 // Текст комментария: "<время> - <заголовок>".
 func appendTopicsToSSA(topics []DescTopic, replace bool, loc string) {
-	if _, err := os.Stat(ccSrcFile); err != nil {
-		warnLog.Printf("(%s) Файл %s отсутствует, список тем в SSA не добавлен", loc, ccSrcFile)
+	srcFile := ccSourceFile()
+	if _, err := os.Stat(srcFile); err != nil {
+		warnLog.Printf("(%s) Файл %s отсутствует, список тем в SSA не добавлен", loc, srcFile)
 		return
 	}
-	rawData, err := os.ReadFile(ccSrcFile)
+	rawData, err := os.ReadFile(srcFile)
 	if err != nil {
-		errLog.Printf("(%s) Ошибка чтения %s: %v", loc, ccSrcFile, err)
+		errLog.Printf("(%s) Ошибка чтения %s: %v", loc, srcFile, err)
 		return
 	}
 
 	updated, changed := insertTopicComments(string(rawData), topics, replace)
 	if !changed {
-		infoLog.Printf("(%s) Вставка тем в %s не требуется (темы уже есть, нет тем или нет нужных колонок)", loc, ccSrcFile)
+		infoLog.Printf("(%s) Вставка тем в %s не требуется (темы уже есть, нет тем или нет нужных колонок)", loc, srcFile)
 		return
 	}
-	if err := os.WriteFile(ccSrcFile, []byte(updated), 0644); err != nil {
-		errLog.Printf("(%s) Ошибка записи %s: %v", loc, ccSrcFile, err)
+	if err := os.WriteFile(srcFile, []byte(updated), 0644); err != nil {
+		errLog.Printf("(%s) Ошибка записи %s: %v", loc, srcFile, err)
 		return
 	}
-	infoLog.Printf("(%s) Список тем добавлен комментариями в %s", loc, ccSrcFile)
+	infoLog.Printf("(%s) Список тем добавлен комментариями в %s", loc, srcFile)
 }
 
 // insertTopicComments возвращает текст SSA с добавленными Comment-строками тем и
@@ -956,7 +972,7 @@ func loadDescTopics(path string) []DescTopic {
 // полей SSA-события (Format: Marked, Start, End, Style, Name, MarginL, MarginR,
 // MarginV, Effect, Text): содержательно заполнены только Start/End/Style (id
 // реплики)/Name/Text, остальные — нулевые/пустые (Aegisub требует непустые числа).
-// В начало [Events] добавляются комментарии со списком тем (как в 06_manual.ssa).
+// В начало [Events] добавляются комментарии со списком тем (как в исходном SSA).
 func buildMinimalSSA(doc ssaDoc, ids []string, topics []DescTopic) string {
 	startIdx, okStart := doc.cols["start"]
 	endIdx, okEnd := doc.cols["end"]
@@ -1083,31 +1099,33 @@ func createCcFile(issue int) {
 		}
 	}()
 
-	if _, err := os.Stat(ccSrcFile); err != nil {
-		warnLog.Printf("(%s) Файл субтитров %s отсутствует. Создаем файлы с пустым массивом", loc, ccSrcFile)
+	srcFile := ccSourceFile()
+	infoLog.Printf("(%s) Исходный SSA-файл: %s", loc, srcFile)
+	if _, err := os.Stat(srcFile); err != nil {
+		warnLog.Printf("(%s) Файл субтитров %s отсутствует. Создаем файлы с пустым массивом", loc, srcFile)
 		hasError = true
 		return
 	}
 
-	rawData, err := os.ReadFile(ccSrcFile)
+	rawData, err := os.ReadFile(srcFile)
 	if err != nil {
-		errLog.Printf("(%s) Ошибка чтения файла субтитров %s: %v", loc, ccSrcFile, err)
+		errLog.Printf("(%s) Ошибка чтения файла субтитров %s: %v", loc, srcFile, err)
 		hasError = true
 		return
 	}
 
-	// id реплик хранятся в поле Style файла tmp/06_manual.ssa (hex ObjectID).
+	// id реплик хранятся в поле Style исходного SSA (hex ObjectID).
 	// Стабильные id нужны, чтобы при перегенерации N_cc.json не менялись ключи (git-friendly).
 	doc := parseSSADoc(string(rawData))
 	styleIdx, hasStyle := doc.cols["style"]
 	effectIdx, hasEffect := doc.cols["effect"]
 	if !hasStyle {
-		warnLog.Printf("(%s) В %s нет колонки Style — id реплик не будут персистентными", loc, ccSrcFile)
+		warnLog.Printf("(%s) В %s нет колонки Style — id реплик не будут персистентными", loc, srcFile)
 	}
 
 	parsed, err := as.ReadFromSSA(strings.NewReader(string(rawData)))
 	if err != nil {
-		errLog.Printf("(%s) Ошибка парсинга ssa-файла %s: %v", loc, ccSrcFile, err)
+		errLog.Printf("(%s) Ошибка парсинга ssa-файла %s: %v", loc, srcFile, err)
 		hasError = true
 		return
 	}
@@ -1161,7 +1179,7 @@ func createCcFile(issue int) {
 		}
 		usedIDs[id] = true
 
-		// Синхронизируем поле Style рабочего 06_manual.ssa с выбранным id; старое
+		// Синхронизируем поле Style исходного SSA с выбранным id; старое
 		// значение Style (если это не id) уносим в начало Effect.
 		if hasStyle && idx < len(doc.dialogues) && styleVal != id.Hex() {
 			li := doc.dialogues[idx]
@@ -1193,12 +1211,12 @@ func createCcFile(issue int) {
 		})
 	}
 
-	// Сохраняем id (и перенос старых Style в Effect) обратно в рабочий 06_manual.ssa
+	// Сохраняем id (и перенос старых Style в Effect) обратно в исходный SSA-файл
 	if persist {
-		if err := os.WriteFile(ccSrcFile, []byte(doc.render(updated)), 0644); err != nil {
-			warnLog.Printf("(%s) Не удалось сохранить id в %s: %v", loc, ccSrcFile, err)
+		if err := os.WriteFile(srcFile, []byte(doc.render(updated)), 0644); err != nil {
+			warnLog.Printf("(%s) Не удалось сохранить id в %s: %v", loc, srcFile, err)
 		} else {
-			infoLog.Printf("(%s) id реплик сохранены в поле Style файла %s", loc, ccSrcFile)
+			infoLog.Printf("(%s) id реплик сохранены в поле Style файла %s", loc, srcFile)
 		}
 	}
 
