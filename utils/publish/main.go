@@ -60,10 +60,18 @@ var (
 	// (id реплик при этом сохраняются). Задаётся как --force-chat или -fc.
 	forceChat bool
 
+	// forceDesc — пересоздать N_desc.json из Hugo, даже если он уже существует.
+	// Задаётся как --force-desc или -fd.
+	forceDesc bool
+
 	// chatStepExecuted — true, если шаг чата реально выполнялся в этом запуске
 	// (пересобраны N_chat.json и tmp/meili_chat.json). Определяет, нужно ли
 	// трогать индекс chat_msgs в Meilisearch (см. updateSearchData).
 	chatStepExecuted bool
+
+	// descStepExecuted — true, если описание реально (пере)собиралось из Hugo или
+	// правились нулевые id тем. Определяет, нужно ли трогать индекс topics в Meilisearch.
+	descStepExecuted bool
 
 	// Штатные логеры
 	infoLog *log.Logger
@@ -216,6 +224,32 @@ func createDescFile(issue int) {
 
 	issueStr = fmt.Sprintf("%d", issue)
 
+	// Если N_desc.json уже существует — генерацию из Hugo пропускаем (идемпотентность).
+	// Но id тем проверяем/чиним: у старых выпусков они нулевые.
+	// Флаг --force-desc/-fd принудительно пересобирает описание из Hugo.
+	if !forceDesc {
+		if raw, err := os.ReadFile(descFile); err == nil {
+			var issueDesc DescIssue
+			if json.Unmarshal(raw, &issueDesc) == nil {
+				infoLog.Printf("(%s) Файл описания %s уже существует, генерация из Hugo пропущена (для пересоздания: --force-desc или -fd)", loc, descFile)
+
+				// Нулевые id тем — единственное, что правим при пропуске генерации.
+				// Данные изменились — только тогда обновляем поисковый файл и Meilisearch.
+				if fixed := ensureTopicIDs(&issueDesc, issue); fixed {
+					writeDescJSON(issueDesc, loc)
+					writeTopicsSearchJSON(issueDesc.Topics, loc)
+					descStepExecuted = true
+				}
+
+				// Список тем — комментариями в рабочий 06_manual.ssa (если их там ещё нет).
+				appendTopicsToSSA(issueDesc.Topics, false, loc)
+				return
+			}
+			warnLog.Printf("(%s) Не удалось декодировать существующий %s, выполняется повторная генерация", loc, descFile)
+		}
+	}
+
+	// Генерация из Hugo-поста (соседний репозиторий radio-t_site).
 	descRawData, err := os.ReadFile(hugoFile)
 	if err != nil {
 		errLog.Printf("(%s) Ошибка чтения hugo файла %s: %v", loc, hugoFile, err)
@@ -242,9 +276,8 @@ func createDescFile(issue int) {
 		date = time.Now()
 	}
 
-	// Переносим start_time из уже существующего N_desc.json: шаг чата может быть
-	// пропущен (N_chat.json уже есть), а createDescFile каждый раз пересобирает
-	// описание с нуля — без этого start_time обнулился бы.
+	// start_time приходит не из Hugo, а из скрейпа чата; при перегенерации
+	// описания (--force-desc, нет файла) сохраняем его из старого N_desc.json.
 	var prevStartTime int64
 	if prevRaw, err := os.ReadFile(descFile); err == nil {
 		var prev DescIssue
@@ -253,7 +286,7 @@ func createDescFile(issue int) {
 		}
 	}
 
-	var issueDesc = DescIssue{
+	issueDesc := DescIssue{
 		Issue:     issue,
 		Date:      date.Format("2006-01-02"),
 		Audio:     "https://cdn.radio-t.com/" + data.Filename + ".mp3",
@@ -262,7 +295,11 @@ func createDescFile(issue int) {
 		Topics:    []DescTopic{},
 	}
 
-	var searchTopics = []DescTopic{}
+	// id тем при перегенерации сохраняем: сопоставляем по заголовку с уже
+	// опубликованным N_desc.json (стабильные ключи, git-friendly).
+	existingTopicIDs := loadExistingTopicIDsIndex(descFile)
+	topicIndexPos := make(map[string]int, len(existingTopicIDs))
+	usedTopicIDs := make(map[ObjectID]bool)
 
 	lines := strings.Split(descBlocks[2], "\n")
 	rawTitleRegexp := regexp.MustCompile(`^-\s+(.+)\s+-`)
@@ -293,29 +330,258 @@ func createDescFile(issue int) {
 		}
 
 		if len(topic.Title) > 0 {
-			issueDesc.Topics = append(issueDesc.Topics, topic)
-
-			topic.Id = NewObjectID()
+			// id назначаем ДО append (append копирует значение — иначе id теряется)
+			// и стараемся сохранить ранее выданный id по заголовку.
+			topic.Id = preservedID(strings.TrimSpace(topic.Title), existingTopicIDs, topicIndexPos, usedTopicIDs)
 			topic.Issue = issue
-
-			searchTopics = append(searchTopics, topic)
+			issueDesc.Topics = append(issueDesc.Topics, topic)
 		}
 	}
 
+	writeDescJSON(issueDesc, loc)
+	writeTopicsSearchJSON(issueDesc.Topics, loc)
+	descStepExecuted = true
+
+	// Список тем — комментариями в рабочий 06_manual.ssa. При --force-desc
+	// перезаписываем имеющиеся комментарии тем, иначе — только если их нет.
+	appendTopicsToSSA(issueDesc.Topics, forceDesc, loc)
+
+	infoLog.Printf("(%s) Файлы описания успешно созданы", loc)
+}
+
+// loadExistingTopicIDsIndex строит индекс id тем по заголовку из уже сгенерированного
+// N_desc.json. Значения — списки: корректно обрабатывает темы с одинаковыми заголовками.
+func loadExistingTopicIDsIndex(path string) map[string][]ObjectID {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil
+	}
+	var desc DescIssue
+	if json.Unmarshal(data, &desc) != nil {
+		return nil
+	}
+	index := make(map[string][]ObjectID, len(desc.Topics))
+	for _, t := range desc.Topics {
+		if t.Id.IsZero() {
+			continue
+		}
+		key := strings.TrimSpace(t.Title)
+		if key == "" {
+			continue
+		}
+		index[key] = append(index[key], t.Id)
+	}
+	return index
+}
+
+// preservedID возвращает id сущности (реплики/темы): сначала пытается взять ранее
+// выданный по ключу (сопоставление по содержимому, не по позиции), иначе генерирует
+// новый. Следит за уникальностью выданных в этом запуске id (важно для doc-id в Meilisearch).
+func preservedID[K comparable](key K, index map[K][]ObjectID, pos map[K]int, used map[ObjectID]bool) ObjectID {
+	var id ObjectID
+	if list, ok := index[key]; ok && pos[key] < len(list) {
+		id = list[pos[key]]
+		pos[key]++
+	} else {
+		id = NewObjectID()
+	}
+	for used[id] {
+		id = NewObjectID()
+	}
+	used[id] = true
+	return id
+}
+
+// ensureTopicIDs проставляет корректные id (и issue) темам с нулевыми значениями.
+// Возвращает true, если что-то было изменено (тогда N_desc.json нужно перезаписать).
+func ensureTopicIDs(issueDesc *DescIssue, issue int) bool {
+	changed := false
+	for i := range issueDesc.Topics {
+		if issueDesc.Topics[i].Id.IsZero() {
+			issueDesc.Topics[i].Id = NewObjectID()
+			changed = true
+		}
+		if issueDesc.Topics[i].Issue == 0 {
+			issueDesc.Topics[i].Issue = issue
+			changed = true
+		}
+	}
+	return changed
+}
+
+// writeDescJSON сохраняет описание выпуска в N_desc.json.
+func writeDescJSON(issueDesc DescIssue, loc string) {
 	jsonData, err := json.MarshalIndent(issueDesc, "", "  ")
 	if err != nil {
 		errLog.Printf("(%s) Ошибка маршалинга json для описания: %v", loc, err)
 		return
 	}
-	_ = os.WriteFile(descFile, jsonData, 0644)
+	if err := os.WriteFile(descFile, jsonData, 0644); err != nil {
+		errLog.Printf("(%s) Ошибка записи %s: %v", loc, descFile, err)
+	}
+}
 
-	jsonData, err = json.MarshalIndent(searchTopics, "", "  ")
+// writeTopicsSearchJSON сохраняет темы в tmp/meili_topics.json (индекс topics).
+func writeTopicsSearchJSON(topics []DescTopic, loc string) {
+	if topics == nil {
+		topics = []DescTopic{}
+	}
+	jsonData, err := json.MarshalIndent(topics, "", "  ")
 	if err != nil {
 		errLog.Printf("(%s) Ошибка маршалинга json для тем поиска: %v", loc, err)
 		return
 	}
-	_ = os.WriteFile(topicsSearchFile, jsonData, 0644)
-	infoLog.Printf("(%s) Файлы описания успешно созданы", loc)
+	if err := os.WriteFile(topicsSearchFile, jsonData, 0644); err != nil {
+		errLog.Printf("(%s) Ошибка записи %s: %v", loc, topicsSearchFile, err)
+	}
+}
+
+// appendTopicsToSSA вставляет темы как Comment-строки в начало [Events] файла
+// tmp/06_manual.ssa (сразу после Format). replace=false — только если комментариев
+// там ещё нет; replace=true — перезаписывает существующие комментарии тем.
+// Текст комментария: "<время> - <заголовок>".
+func appendTopicsToSSA(topics []DescTopic, replace bool, loc string) {
+	if _, err := os.Stat(ccSrcFile); err != nil {
+		warnLog.Printf("(%s) Файл %s отсутствует, список тем в SSA не добавлен", loc, ccSrcFile)
+		return
+	}
+	rawData, err := os.ReadFile(ccSrcFile)
+	if err != nil {
+		errLog.Printf("(%s) Ошибка чтения %s: %v", loc, ccSrcFile, err)
+		return
+	}
+
+	updated, changed := insertTopicComments(string(rawData), topics, replace)
+	if !changed {
+		infoLog.Printf("(%s) Вставка тем в %s не требуется (темы уже есть, нет тем или нет нужных колонок)", loc, ccSrcFile)
+		return
+	}
+	if err := os.WriteFile(ccSrcFile, []byte(updated), 0644); err != nil {
+		errLog.Printf("(%s) Ошибка записи %s: %v", loc, ccSrcFile, err)
+		return
+	}
+	infoLog.Printf("(%s) Список тем добавлен комментариями в %s", loc, ccSrcFile)
+}
+
+// insertTopicComments возвращает текст SSA с добавленными Comment-строками тем и
+// признак изменений. Вставка идёт сразу после Format в [Events] (в начало списка).
+// replace=false: если комментарии уже есть — без изменений; replace=true: существующие
+// комментарии в [Events] удаляются и вставляются заново. changed=false, если вставлять
+// нечего (нет тем с заголовком или нет нужных колонок).
+func insertTopicComments(text string, topics []DescTopic, replace bool) (string, bool) {
+	doc := parseSSADoc(text)
+	_, okStart := doc.cols["start"]
+	_, okEnd := doc.cols["end"]
+	_, okText := doc.cols["text"]
+	if !okStart || !okEnd || !okText {
+		return text, false
+	}
+
+	comments := make([]string, 0, len(topics))
+	for _, t := range topics {
+		title := strings.TrimSpace(t.Title)
+		if title == "" {
+			continue
+		}
+		// Темы без таймкода не пропускаем: пишем их в том же порядке с временем 0:00:00.
+		tm := strings.TrimSpace(t.Time)
+		if tm == "" {
+			tm = "0:00:00"
+		}
+		comments = append(comments, topicCommentLine(doc, tm+" - "+title))
+	}
+	if len(comments) == 0 {
+		return text, false
+	}
+
+	eventsIdx, formatIdx := -1, -1
+	inEvents := false
+	hasComment := false
+	for i, raw := range doc.lines {
+		line := strings.TrimSpace(raw)
+		if strings.HasPrefix(line, "[") && strings.HasSuffix(line, "]") {
+			inEvents = strings.EqualFold(line, "[Events]")
+			if inEvents {
+				eventsIdx = i
+			}
+			continue
+		}
+		if !inEvents {
+			continue
+		}
+		if strings.HasPrefix(line, "Format:") {
+			if formatIdx == -1 {
+				formatIdx = i
+			}
+			continue
+		}
+		if header, _, ok := strings.Cut(line, ":"); ok && strings.EqualFold(strings.TrimSpace(header), "Comment") {
+			hasComment = true
+		}
+	}
+
+	// Комментарии уже есть — перезаписываем только по запросу (replace).
+	if hasComment && !replace {
+		return text, false
+	}
+
+	insertAt := formatIdx
+	if insertAt == -1 {
+		insertAt = eventsIdx
+	}
+	if insertAt == -1 {
+		return text, false
+	}
+
+	newLines := make([]string, 0, len(doc.lines)+len(comments))
+	inEvents = false
+	for i, raw := range doc.lines {
+		line := strings.TrimSpace(raw)
+		if strings.HasPrefix(line, "[") && strings.HasSuffix(line, "]") {
+			inEvents = strings.EqualFold(line, "[Events]")
+		} else if inEvents && replace {
+			if header, _, ok := strings.Cut(line, ":"); ok && strings.EqualFold(strings.TrimSpace(header), "Comment") {
+				continue // выкидываем старые комментарии тем при перезаписи
+			}
+		}
+		newLines = append(newLines, raw)
+		if i == insertAt {
+			newLines = append(newLines, comments...)
+		}
+	}
+	return doc.render(newLines), true
+}
+
+// topicCommentLine собирает SSA-строку Comment с числом полей, равным Format [Events]
+// (иначе go-astisub не сможет разобрать файл). Текст темы — в колонке Text.
+func topicCommentLine(doc ssaDoc, text string) string {
+	n := doc.fieldCount
+	if n <= 0 {
+		n = 10
+	}
+	parts := make([]string, n)
+	for i := range parts {
+		parts[i] = "0"
+	}
+	if idx, ok := doc.cols["start"]; ok && idx < n {
+		parts[idx] = "0:00:00.00"
+	}
+	if idx, ok := doc.cols["end"]; ok && idx < n {
+		parts[idx] = "0:00:00.00"
+	}
+	if idx, ok := doc.cols["style"]; ok && idx < n {
+		parts[idx] = "Default"
+	}
+	if idx, ok := doc.cols["name"]; ok && idx < n {
+		parts[idx] = ""
+	}
+	if idx, ok := doc.cols["effect"]; ok && idx < n {
+		parts[idx] = ""
+	}
+	if idx, ok := doc.cols["text"]; ok && idx < n {
+		parts[idx] = text
+	}
+	return "Comment: " + strings.Join(parts, ",")
 }
 
 func writeEmptyChatFiles() {
@@ -537,20 +803,7 @@ func createChatFile(issue int) {
 
 			// Стабильный id: сопоставляем реплику с уже опубликованным N_chat.json
 			// по содержимому (время/ник/имя/текст). Списки — для одинаковых реплик.
-			key := chatKeyFromLine(chatLine)
-			var id ObjectID
-			if list, found := existingIndex[key]; found && indexPos[key] < len(list) {
-				id = list[indexPos[key]]
-				indexPos[key]++
-			} else {
-				id = NewObjectID()
-			}
-			// Уникальность id (важно для doc-id в Meilisearch).
-			for usedIDs[id] {
-				id = NewObjectID()
-			}
-			usedIDs[id] = true
-			chatLine.Id = id
+			chatLine.Id = preservedID(chatKeyFromLine(chatLine), existingIndex, indexPos, usedIDs)
 
 			chat.Chat = append(chat.Chat, chatLine)
 
@@ -686,9 +939,25 @@ func (d ssaDoc) render(lines []string) string {
 	return strings.Join(lines, d.eol)
 }
 
-// buildMinimalSSA формирует публикуемый N_cc.ssa с единственными полями
-// Start, End, Style (id реплики), Name, Text; остальные поля отбрасываются.
-func buildMinimalSSA(doc ssaDoc, ids []string) string {
+// loadDescTopics читает список тем из N_desc.json (пусто при отсутствии/ошибке).
+func loadDescTopics(path string) []DescTopic {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil
+	}
+	var desc DescIssue
+	if json.Unmarshal(data, &desc) != nil {
+		return nil
+	}
+	return desc.Topics
+}
+
+// buildMinimalSSA формирует публикуемый N_cc.ssa. Используется **стандартный** набор
+// полей SSA-события (Format: Marked, Start, End, Style, Name, MarginL, MarginR,
+// MarginV, Effect, Text): содержательно заполнены только Start/End/Style (id
+// реплики)/Name/Text, остальные — нулевые/пустые (Aegisub требует непустые числа).
+// В начало [Events] добавляются комментарии со списком тем (как в 06_manual.ssa).
+func buildMinimalSSA(doc ssaDoc, ids []string, topics []DescTopic) string {
 	startIdx, okStart := doc.cols["start"]
 	endIdx, okEnd := doc.cols["end"]
 	nameIdx, okName := doc.cols["name"]
@@ -705,8 +974,22 @@ func buildMinimalSSA(doc ssaDoc, ids []string) string {
 	b.WriteString(doc.eol)
 	b.WriteString("[Events]")
 	b.WriteString(doc.eol)
-	b.WriteString("Format: Start, End, Style, Name, Text")
+	b.WriteString("Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text")
 	b.WriteString(doc.eol)
+
+	// Список тем — комментариями в начале списка (текст: «время - заголовок»).
+	for _, t := range topics {
+		title := strings.TrimSpace(t.Title)
+		if title == "" {
+			continue
+		}
+		tm := strings.TrimSpace(t.Time)
+		if tm == "" {
+			tm = "0:00:00"
+		}
+		b.WriteString(ssaEventLine("Comment", "0:00:00.00", "0:00:00.00", "Default", "", tm+" - "+title))
+		b.WriteString(doc.eol)
+	}
 
 	for i, li := range doc.dialogues {
 		if i >= len(ids) {
@@ -716,19 +999,19 @@ func buildMinimalSSA(doc ssaDoc, ids []string) string {
 		if !ok || startIdx >= len(parts) || endIdx >= len(parts) || nameIdx >= len(parts) || textIdx >= len(parts) {
 			continue
 		}
-		b.WriteString("Dialogue: ")
-		b.WriteString(parts[startIdx])
-		b.WriteString(",")
-		b.WriteString(parts[endIdx])
-		b.WriteString(",")
-		b.WriteString(ids[i])
-		b.WriteString(",")
-		b.WriteString(parts[nameIdx])
-		b.WriteString(",")
-		b.WriteString(parts[textIdx])
+		b.WriteString(ssaEventLine("Dialogue", parts[startIdx], parts[endIdx], ids[i], parts[nameIdx], parts[textIdx]))
 		b.WriteString(doc.eol)
 	}
 	return b.String()
+}
+
+// ssaEventLine собирает строку SSA-события (Comment/Dialogue) со стандартным набором
+// полей: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text.
+// Числовые поля (MarginL/R/V) нельзя оставлять пустыми — Aegisub падает с
+// «bad lexical cast: source type value could not be interpreted as target»,
+// поэтому они равны 0; Marked=0; пустым остаётся только Effect (строка).
+func ssaEventLine(kind, start, end, style, name, text string) string {
+	return kind + ": " + strings.Join([]string{"Marked=0", start, end, style, name, "0", "0", "0", "", text}, ",")
 }
 
 // cueKey — ключ сопоставления реплик по таймингам (сотые доли секунды).
@@ -919,8 +1202,8 @@ func createCcFile(issue int) {
 		}
 	}
 
-	// Публикуемый N_cc.ssa: только Start, End, Style (id), Name, Text
-	if minimal := buildMinimalSSA(doc, ids); minimal != "" {
+	// Публикуемый N_cc.ssa: только Start, End, Style (id), Name, Text + темы комментариями
+	if minimal := buildMinimalSSA(doc, ids, loadDescTopics(descFile)); minimal != "" {
 		_ = os.WriteFile(ccSsaFile, []byte(minimal), 0644)
 	} else {
 		warnLog.Printf("(%s) Не удалось сформировать минимальный N_cc.ssa (нет нужных колонок)", loc)
@@ -1030,7 +1313,7 @@ func updateSearchData(issueNumber int) {
 		{
 			filePath:  topicsSearchFile,
 			indexName: "topics",
-			enabled:   true,
+			enabled:   descStepExecuted,
 		},
 		{
 			filePath:  chatSearchFile,
@@ -1186,7 +1469,7 @@ func loadEnvFile(path string) {
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Использование: go run main.go <номер_выпуска> [--force-chat|-fc]")
+		fmt.Println("Использование: go run main.go <номер_выпуска> [--force-desc|-fd] [--force-chat|-fc]")
 		os.Exit(1)
 	}
 
@@ -1196,10 +1479,12 @@ func main() {
 		os.Exit(1)
 	}
 
-	// Флаги: --force-chat / -fc — пересоздать N_chat.json, даже если он уже есть
-	// (id реплик сохраняются).
+	// Флаги: --force-desc/-fd — пересоздать N_desc.json из Hugo;
+	// --force-chat/-fc — пересоздать N_chat.json (id реплик сохраняются).
 	for _, arg := range os.Args[2:] {
 		switch arg {
+		case "--force-desc", "-fd":
+			forceDesc = true
 		case "--force-chat", "-fc":
 			forceChat = true
 		default:
