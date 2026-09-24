@@ -56,6 +56,15 @@ var (
 	botIds    = []string{"radiot_superbot"}
 	botNames  = []string{}
 
+	// Флаги CLI: forceChat — пересоздать N_chat.json, даже если он уже существует
+	// (id реплик при этом сохраняются). Задаётся как --force-chat или -fc.
+	forceChat bool
+
+	// chatStepExecuted — true, если шаг чата реально выполнялся в этом запуске
+	// (пересобраны N_chat.json и tmp/meili_chat.json). Определяет, нужно ли
+	// трогать индекс chat_msgs в Meilisearch (см. updateSearchData).
+	chatStepExecuted bool
+
 	// Штатные логеры
 	infoLog *log.Logger
 	warnLog *log.Logger
@@ -233,12 +242,23 @@ func createDescFile(issue int) {
 		date = time.Now()
 	}
 
+	// Переносим start_time из уже существующего N_desc.json: шаг чата может быть
+	// пропущен (N_chat.json уже есть), а createDescFile каждый раз пересобирает
+	// описание с нуля — без этого start_time обнулился бы.
+	var prevStartTime int64
+	if prevRaw, err := os.ReadFile(descFile); err == nil {
+		var prev DescIssue
+		if json.Unmarshal(prevRaw, &prev) == nil {
+			prevStartTime = prev.StartTime
+		}
+	}
+
 	var issueDesc = DescIssue{
 		Issue:     issue,
 		Date:      date.Format("2006-01-02"),
 		Audio:     "https://cdn.radio-t.com/" + data.Filename + ".mp3",
 		Cover:     data.Image,
-		StartTime: 0,
+		StartTime: prevStartTime,
 		Topics:    []DescTopic{},
 	}
 
@@ -310,11 +330,66 @@ func writeEmptyChatFiles() {
 	}
 }
 
+// chatKey — ключ сопоставления реплик чата по содержимому.
+// Используется, чтобы при пересоздании N_chat.json (--force-chat) id реплик
+// оставались стабильными (git-friendly).
+type chatKey struct {
+	datetime int64
+	nickname string
+	name     string
+	text     string
+}
+
+// chatKeyFromLine строит ключ сопоставления по полям реплики чата.
+func chatKeyFromLine(c ChatLine) chatKey {
+	return chatKey{datetime: c.DateTime, nickname: c.AuthorNickname, name: c.AuthorName, text: c.Text}
+}
+
+// loadExistingChatIDsIndex строит индекс id по содержимому из уже сгенерированного N_chat.json.
+// Значения хранятся списками: корректно обрабатывает одинаковые реплики (в порядке появления).
+func loadExistingChatIDsIndex(path string) map[chatKey][]ObjectID {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil
+	}
+	var chat Chat
+	if err := json.Unmarshal(data, &chat); err != nil {
+		return nil
+	}
+	index := make(map[chatKey][]ObjectID, len(chat.Chat))
+	for _, c := range chat.Chat {
+		if c.Id.IsZero() {
+			continue
+		}
+		k := chatKeyFromLine(c)
+		index[k] = append(index[k], c.Id)
+	}
+	return index
+}
+
 func createChatFile(issue int) {
 	const loc = "createChatFile"
 	infoLog.Printf("(%s) Сбор данных чата для выпуска %d", loc, issue)
 
 	issueStr = fmt.Sprintf("%d", issue)
+
+	// Шаг идемпотентен: если N_chat.json уже есть и содержит реплики, повторно его
+	// не собираем. Пересоздание — только с флагом --force-chat/-fc (id реплик при
+	// этом сохраняются). Пустой/битый файл (артефакт неудачного скрейпа) собираем заново.
+	if !forceChat {
+		if data, err := os.ReadFile(chatJsonFile); err == nil {
+			var existing Chat
+			if json.Unmarshal(data, &existing) == nil && len(existing.Chat) > 0 {
+				infoLog.Printf("(%s) Файл чата %s уже существует (%d реплик), шаг пропущен (для пересоздания: --force-chat или -fc)", loc, chatJsonFile, len(existing.Chat))
+				return
+			}
+			warnLog.Printf("(%s) Файл чата %s существует, но пуст или повреждён — выполняется повторный сбор", loc, chatJsonFile)
+		}
+	}
+
+	// Шаг выполняется: N_chat.json и tmp/meili_chat.json будут пересобраны,
+	// поэтому индекс chat_msgs нужно перезалить (см. updateSearchData).
+	chatStepExecuted = true
 
 	var hasError bool
 	defer func() {
@@ -379,6 +454,12 @@ func createChatFile(issue int) {
 	imgRegexp := regexp.MustCompile(`<img([\w\W]+?)/>`)
 	startTimeRegexp := regexp.MustCompile(`.*Вещание подкаста началось.*`)
 
+	// Индекс id из уже существующего N_chat.json — для стабильных id при пересоздании
+	// (--force-chat). Сопоставление по содержимому реплики, а не по позиции.
+	existingIndex := loadExistingChatIDsIndex(chatJsonFile)
+	indexPos := make(map[chatKey]int, len(existingIndex))
+	usedIDs := make(map[ObjectID]bool)
+
 	chatParsed := false
 
 	c.OnHTML("table.table", func(table *colly.HTMLElement) {
@@ -387,7 +468,6 @@ func createChatFile(issue int) {
 
 		table.ForEach("tr", func(_ int, tr *colly.HTMLElement) {
 			chatLine := ChatLine{
-				Id:             NewObjectID(),
 				Issue:          issue,
 				Type:           "chat",
 				AuthorType:     "listener",
@@ -454,6 +534,23 @@ func createChatFile(issue int) {
 
 				chatLine.AuthorType = "bot"
 			}
+
+			// Стабильный id: сопоставляем реплику с уже опубликованным N_chat.json
+			// по содержимому (время/ник/имя/текст). Списки — для одинаковых реплик.
+			key := chatKeyFromLine(chatLine)
+			var id ObjectID
+			if list, found := existingIndex[key]; found && indexPos[key] < len(list) {
+				id = list[indexPos[key]]
+				indexPos[key]++
+			} else {
+				id = NewObjectID()
+			}
+			// Уникальность id (важно для doc-id в Meilisearch).
+			for usedIDs[id] {
+				id = NewObjectID()
+			}
+			usedIDs[id] = true
+			chatLine.Id = id
 
 			chat.Chat = append(chat.Chat, chatLine)
 
@@ -928,18 +1025,22 @@ func updateSearchData(issueNumber int) {
 	filesMap := []struct {
 		filePath  string
 		indexName string
+		enabled   bool
 	}{
 		{
 			filePath:  topicsSearchFile,
 			indexName: "topics",
+			enabled:   true,
 		},
 		{
 			filePath:  chatSearchFile,
 			indexName: "chat_msgs",
+			enabled:   chatStepExecuted,
 		},
 		{
 			filePath:  ccSearchFile,
 			indexName: "cc_msgs",
+			enabled:   true,
 		},
 	}
 
@@ -954,6 +1055,11 @@ func updateSearchData(issueNumber int) {
 	}
 
 	for _, item := range filesMap {
+		if !item.enabled {
+			infoLog.Printf("(%s) Индекс %s: соответствующий шаг публикации пропущен, обновление отменено (ни удаление, ни загрузка не выполняются)", loc, item.indexName)
+			continue
+		}
+
 		data, err := os.ReadFile(item.filePath)
 		var docs []interface{}
 
@@ -1080,7 +1186,7 @@ func loadEnvFile(path string) {
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Использование: go run main.go <номер_выпуска>")
+		fmt.Println("Использование: go run main.go <номер_выпуска> [--force-chat|-fc]")
 		os.Exit(1)
 	}
 
@@ -1088,6 +1194,17 @@ func main() {
 	if err != nil {
 		fmt.Printf("Неверный формат номера выпуска: %v\n", err)
 		os.Exit(1)
+	}
+
+	// Флаги: --force-chat / -fc — пересоздать N_chat.json, даже если он уже есть
+	// (id реплик сохраняются).
+	for _, arg := range os.Args[2:] {
+		switch arg {
+		case "--force-chat", "-fc":
+			forceChat = true
+		default:
+			fmt.Printf("Неизвестный аргумент: %s\n", arg)
+		}
 	}
 
 	// Загрузка общего .env проекта (корень репозитория)
