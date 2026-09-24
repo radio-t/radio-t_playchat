@@ -26,28 +26,32 @@ import (
 )
 
 var (
-	issue, _ = strconv.Atoi(os.Args[1])
-	issueStr = fmt.Sprintf("%d", issue)
+	// Текущий обрабатываемый выпуск и его номер строкой (используется в путях файлов).
+	// Обновляются setIssue() перед обработкой каждого выпуска.
+	issue    int
+	issueStr string
 
-	hugoFile         = "../../../radio-t_site/hugo/content/posts/podcast-" + issueStr + ".md"
-	descFile         = "../../data/" + issueStr + "/" + issueStr + "_desc.json"
-	topicsSearchFile = "../../data/" + issueStr + "/tmp/meili_topics.json"
+	// Пути, зависящие от номера выпуска, — пересчитываются в setIssue().
+	hugoFile         string
+	descFile         string
+	topicsSearchFile string
 
-	chatFileURL = "https://chat.radio-t.com/logs/radio-t-" + issueStr + ".html"
+	chatFileURL string
 	//	chatSrcFile = "../../data/" + issueStr + "/radio-t-" + issueStr + ".html"
-	chatJsonFile   = "../../data/" + issueStr + "/" + issueStr + "_chat.json"
-	chatSearchFile = "../../data/" + issueStr + "/tmp/meili_chat.json"
+	chatJsonFile   string
+	chatSearchFile string
 
 	// ccSrcFile — рабочий SSA выпуска (черновик после диаризации/присвоения голосов).
 	// ccCleanSrcFile — SSA после волонтёрской выверки (генерируется внешним
 	// radio-t_playchat_clean). При наличии он приоритетнее — см. ccSourceFile.
-	ccSrcFile      = "../../data/" + issueStr + "/tmp/06_manual.ssa"
-	ccCleanSrcFile = "../../data/" + issueStr + "/tmp/07_clean.ssa"
-	ccSsaFile      = "../../data/" + issueStr + "/" + issueStr + "_cc.ssa"
+	ccSrcFile      string
+	ccCleanSrcFile string
+	ccSsaFile      string
 	// jsonFile = "../../data/" + issueStr + "/src/rt_podcast" + issueStr + ".json"
-	ccJsonFile   = "../../data/" + issueStr + "/" + issueStr + "_cc.json"
-	ccSearchFile = "../../data/" + issueStr + "/tmp/meili_cc.json"
+	ccJsonFile   string
+	ccSearchFile string
 
+	// Пути, не зависящие от номера выпуска
 	listFile = "../../data/list.json"
 
 	// Общий .env проекта (корень репозитория); путь — относительно CWD utils/publish
@@ -86,6 +90,28 @@ var (
 	ansiRegexp = regexp.MustCompile(`\x1b\[[0-9;]*[a-zA-Z]`)
 )
 
+// setIssue переключает утилиту на обработку выпуска n: обновляет номер и все
+// зависящие от него пути к файлам. Вызывается перед шагами для каждого выпуска
+// из списка (см. parseIssueSpec/main).
+func setIssue(n int) {
+	issue = n
+	issueStr = fmt.Sprintf("%d", n)
+
+	hugoFile = "../../../radio-t_site/hugo/content/posts/podcast-" + issueStr + ".md"
+	descFile = "../../data/" + issueStr + "/" + issueStr + "_desc.json"
+	topicsSearchFile = "../../data/" + issueStr + "/tmp/meili_topics.json"
+
+	chatFileURL = "https://chat.radio-t.com/logs/radio-t-" + issueStr + ".html"
+	chatJsonFile = "../../data/" + issueStr + "/" + issueStr + "_chat.json"
+	chatSearchFile = "../../data/" + issueStr + "/tmp/meili_chat.json"
+
+	ccSrcFile = "../../data/" + issueStr + "/tmp/06_manual.ssa"
+	ccCleanSrcFile = "../../data/" + issueStr + "/tmp/07_clean.ssa"
+	ccSsaFile = "../../data/" + issueStr + "/" + issueStr + "_cc.ssa"
+	ccJsonFile = "../../data/" + issueStr + "/" + issueStr + "_cc.json"
+	ccSearchFile = "../../data/" + issueStr + "/tmp/meili_cc.json"
+}
+
 type HugoIssue struct {
 	Title      string   `toml:"title"`
 	Date       string   `toml:"date"`
@@ -94,12 +120,23 @@ type HugoIssue struct {
 	Filename   string   `toml:"filename"`
 }
 
+// DescTopic — тема выпуска в N_desc.json. Поля issue здесь НЕТ: оно нужно только
+// в документах индекса Meilisearch (см. TopicDoc), а не в публикуемом описании.
 type DescTopic struct {
 	Id    ObjectID `json:"id,omitempty"`
-	Issue int                `json:"issue,omitempty"`
-	Title string             `json:"title"`
-	Links []string           `json:"links"`
-	Time  string             `json:"time"`
+	Title string   `json:"title"`
+	Links []string `json:"links"`
+	Time  string   `json:"time"`
+}
+
+// TopicDoc — документ темы для индекса Meilisearch (topics). Отличается от DescTopic
+// наличием issue (нужно для фильтра issue = N при обновлении индекса).
+type TopicDoc struct {
+	Id    ObjectID `json:"id,omitempty"`
+	Issue int      `json:"issue,omitempty"`
+	Title string   `json:"title"`
+	Links []string `json:"links"`
+	Time  string   `json:"time"`
 }
 
 type DescIssue struct {
@@ -200,7 +237,6 @@ func createIssueDir(issue int) {
 	const loc = "createIssueDir"
 	infoLog.Printf("(%s) Создание директорий для выпуска %d", loc, issue)
 
-	issueStr = fmt.Sprintf("%d", issue)
 	path := "../../data/" + issueStr
 	if _, err := os.Stat(path); errors.Is(err, os.ErrNotExist) {
 		err := os.Mkdir(path, os.ModePerm)
@@ -236,8 +272,6 @@ func createDescFile(issue int) {
 	const loc = "createDescFile"
 	infoLog.Printf("(%s) Обработка описания для выпуска %d", loc, issue)
 
-	issueStr = fmt.Sprintf("%d", issue)
-
 	// Если N_desc.json уже существует — генерацию из Hugo пропускаем (идемпотентность).
 	// Но id тем проверяем/чиним: у старых выпусков они нулевые.
 	// Флаг --force-desc/-fd принудительно пересобирает описание из Hugo.
@@ -247,11 +281,12 @@ func createDescFile(issue int) {
 			if json.Unmarshal(raw, &issueDesc) == nil {
 				infoLog.Printf("(%s) Файл описания %s уже существует, генерация из Hugo пропущена (для пересоздания: --force-desc или -fd)", loc, descFile)
 
-				// Нулевые id тем — единственное, что правим при пропуске генерации.
-				// Данные изменились — только тогда обновляем поисковый файл и Meilisearch.
-				if fixed := ensureTopicIDs(&issueDesc, issue); fixed {
+				// При пропуске генерации правим только нулевые id тем и вычищаем
+				// историческое поле issue из N_desc.json (см. descTopicsContainIssue).
+				// Если что-то изменилось — перезаписываем описание, поисковый файл и Meilisearch.
+				if fixed := ensureTopicIDs(&issueDesc); fixed || descTopicsContainIssue(raw) {
 					writeDescJSON(issueDesc, loc)
-					writeTopicsSearchJSON(issueDesc.Topics, loc)
+					writeTopicsSearchJSON(issueDesc.Topics, issue, loc)
 					descStepExecuted = true
 				}
 
@@ -347,13 +382,12 @@ func createDescFile(issue int) {
 			// id назначаем ДО append (append копирует значение — иначе id теряется)
 			// и стараемся сохранить ранее выданный id по заголовку.
 			topic.Id = preservedID(strings.TrimSpace(topic.Title), existingTopicIDs, topicIndexPos, usedTopicIDs)
-			topic.Issue = issue
 			issueDesc.Topics = append(issueDesc.Topics, topic)
 		}
 	}
 
 	writeDescJSON(issueDesc, loc)
-	writeTopicsSearchJSON(issueDesc.Topics, loc)
+	writeTopicsSearchJSON(issueDesc.Topics, issue, loc)
 	descStepExecuted = true
 
 	// Список тем — комментариями в рабочий 06_manual.ssa. При --force-desc
@@ -406,21 +440,35 @@ func preservedID[K comparable](key K, index map[K][]ObjectID, pos map[K]int, use
 	return id
 }
 
-// ensureTopicIDs проставляет корректные id (и issue) темам с нулевыми значениями.
+// ensureTopicIDs проставляет id темам с нулевыми значениями.
 // Возвращает true, если что-то было изменено (тогда N_desc.json нужно перезаписать).
-func ensureTopicIDs(issueDesc *DescIssue, issue int) bool {
+func ensureTopicIDs(issueDesc *DescIssue) bool {
 	changed := false
 	for i := range issueDesc.Topics {
 		if issueDesc.Topics[i].Id.IsZero() {
 			issueDesc.Topics[i].Id = NewObjectID()
 			changed = true
 		}
-		if issueDesc.Topics[i].Issue == 0 {
-			issueDesc.Topics[i].Issue = issue
-			changed = true
-		}
 	}
 	return changed
+}
+
+// descTopicsContainIssue сообщает, есть ли в темах N_desc.json поле issue
+// (исторический артефакт прежних версий: в N_desc.json его быть не должно — только
+// в meili_topics.json). Нужен для самовосстановления уже испорченных файлов.
+func descTopicsContainIssue(raw []byte) bool {
+	var probe struct {
+		Topics []map[string]json.RawMessage `json:"topics"`
+	}
+	if json.Unmarshal(raw, &probe) != nil {
+		return false
+	}
+	for _, t := range probe.Topics {
+		if _, ok := t["issue"]; ok {
+			return true
+		}
+	}
+	return false
 }
 
 // writeDescJSON сохраняет описание выпуска в N_desc.json.
@@ -435,12 +483,25 @@ func writeDescJSON(issueDesc DescIssue, loc string) {
 	}
 }
 
-// writeTopicsSearchJSON сохраняет темы в tmp/meili_topics.json (индекс topics).
-func writeTopicsSearchJSON(topics []DescTopic, loc string) {
-	if topics == nil {
-		topics = []DescTopic{}
+// topicDocs превращает темы описания в документы индекса Meilisearch, добавляя
+// issue (в N_desc.json его нет, а для фильтра issue = N в индексе оно нужно).
+func topicDocs(topics []DescTopic, issue int) []TopicDoc {
+	docs := make([]TopicDoc, 0, len(topics))
+	for _, t := range topics {
+		docs = append(docs, TopicDoc{
+			Id:    t.Id,
+			Issue: issue,
+			Title: t.Title,
+			Links: t.Links,
+			Time:  t.Time,
+		})
 	}
-	jsonData, err := json.MarshalIndent(topics, "", "  ")
+	return docs
+}
+
+// writeTopicsSearchJSON сохраняет темы в tmp/meili_topics.json (индекс topics).
+func writeTopicsSearchJSON(topics []DescTopic, issue int, loc string) {
+	jsonData, err := json.MarshalIndent(topicDocs(topics, issue), "", "  ")
 	if err != nil {
 		errLog.Printf("(%s) Ошибка маршалинга json для тем поиска: %v", loc, err)
 		return
@@ -652,8 +713,6 @@ func loadExistingChatIDsIndex(path string) map[chatKey][]ObjectID {
 func createChatFile(issue int) {
 	const loc = "createChatFile"
 	infoLog.Printf("(%s) Сбор данных чата для выпуска %d", loc, issue)
-
-	issueStr = fmt.Sprintf("%d", issue)
 
 	// Шаг идемпотентен: если N_chat.json уже есть и содержит реплики, повторно его
 	// не собираем. Пересоздание — только с флагом --force-chat/-fc (id реплик при
@@ -1086,8 +1145,6 @@ func createCcFile(issue int) {
 	const loc = "createCcFile"
 	infoLog.Printf("(%s) Обработка субтитров для выпуска %d", loc, issue)
 
-	issueStr = fmt.Sprintf("%d", issue)
-
 	var hasError bool
 	defer func() {
 		if r := recover(); r != nil {
@@ -1248,8 +1305,6 @@ func createCcFile(issue int) {
 func updateListFile(issue int) {
 	const loc = "updateListFile"
 	infoLog.Printf("(%s) Обновление общего списка выпусков %d", loc, issue)
-
-	issueStr = fmt.Sprintf("%d", issue)
 
 	listRawData, err := os.ReadFile(listFile)
 	if err != nil {
@@ -1485,15 +1540,70 @@ func loadEnvFile(path string) {
 	}
 }
 
+// parseIssueSpec разбирает спецификацию выпусков: отдельные номера и/или диапазоны
+// через запятую. Диапазон "A-B" разворачивается в A..B включительно; если A > B,
+// такой диапазон игнорируется. Возвращает отсортированный по возрастанию список
+// без дубликатов (пересекающиеся диапазоны и повторы номеров схлопываются).
+// Примеры: "2,4", "5,1,8", "3-7", "9-121,3-1,4-7", "4-9,2,7-11".
+func parseIssueSpec(spec string) ([]int, error) {
+	seen := make(map[int]bool)
+	for _, raw := range strings.Split(spec, ",") {
+		token := strings.TrimSpace(raw)
+		if token == "" {
+			continue
+		}
+
+		if lo, hi, isRange := strings.Cut(token, "-"); isRange {
+			start, err := strconv.Atoi(strings.TrimSpace(lo))
+			if err != nil {
+				return nil, fmt.Errorf("неверный диапазон: %q", token)
+			}
+			end, err := strconv.Atoi(strings.TrimSpace(hi))
+			if err != nil {
+				return nil, fmt.Errorf("неверный диапазон: %q", token)
+			}
+			if start > end {
+				continue // вывернутый диапазон игнорируется
+			}
+			for n := start; n <= end; n++ {
+				seen[n] = true
+			}
+			continue
+		}
+
+		n, err := strconv.Atoi(token)
+		if err != nil {
+			return nil, fmt.Errorf("неверный номер выпуска: %q", token)
+		}
+		seen[n] = true
+	}
+
+	issues := make([]int, 0, len(seen))
+	for n := range seen {
+		issues = append(issues, n)
+	}
+	sort.Ints(issues)
+	return issues, nil
+}
+
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Использование: go run main.go <номер_выпуска> [--force-desc|-fd] [--force-chat|-fc]")
+		fmt.Println("Использование: go run . <выпуски> [--force-desc|-fd] [--force-chat|-fc]")
+		fmt.Println("  <выпуски> — номера и/или диапазоны через запятую:")
+		fmt.Println("    2,4           — несколько номеров (порядок не важен)")
+		fmt.Println("    3-7           — диапазон (A-B)")
+		fmt.Println("    9-121,3-1,4-7 — диапазоны; вывернутый (3-1) игнорируется")
+		fmt.Println("    4-9,2,7-11    — смесь номеров и диапазонов")
 		os.Exit(1)
 	}
 
-	issueNumber, err := strconv.Atoi(os.Args[1])
+	issues, err := parseIssueSpec(os.Args[1])
 	if err != nil {
-		fmt.Printf("Неверный формат номера выпуска: %v\n", err)
+		fmt.Printf("Неверный формат списка выпусков: %v\n", err)
+		os.Exit(1)
+	}
+	if len(issues) == 0 {
+		fmt.Println("Список выпусков пуст (нет номеров и валидных диапазонов)")
 		os.Exit(1)
 	}
 
@@ -1513,8 +1623,6 @@ func main() {
 	// Загрузка общего .env проекта (корень репозитория)
 	loadEnvFile(envFile)
 
-	// Инициализация логгеров
-	initLogger(issueNumber)
 	defer func() {
 		if logFile != nil {
 			_ = logFile.Close()
@@ -1522,14 +1630,29 @@ func main() {
 	}()
 
 	const loc = "main"
-	infoLog.Printf("(%s) Начало процесса публикации выпуска %d", loc, issueNumber)
+	for i, n := range issues {
+		setIssue(n)
 
-	createIssueDir(issueNumber)
-	createDescFile(issueNumber)
-	createChatFile(issueNumber)
-	createCcFile(issueNumber)
-	updateListFile(issueNumber)
-	updateSearchData(issueNumber)
+		// Состояние идемпотентных шагов — своё для каждого выпуска.
+		chatStepExecuted = false
+		descStepExecuted = false
 
-	infoLog.Printf("(%s) Процесс публикации выпуска %d завершен", loc, issueNumber)
+		// Лог каждого выпуска — в свой data/N/tmp/publish.log.
+		if logFile != nil {
+			_ = logFile.Close()
+			logFile = nil
+		}
+		initLogger(n)
+
+		infoLog.Printf("(%s) Начало процесса публикации выпуска %d (%d из %d)", loc, n, i+1, len(issues))
+
+		createIssueDir(n)
+		createDescFile(n)
+		createChatFile(n)
+		createCcFile(n)
+		updateListFile(n)
+		updateSearchData(n)
+
+		infoLog.Printf("(%s) Процесс публикации выпуска %d завершен", loc, n)
+	}
 }
