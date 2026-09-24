@@ -112,7 +112,7 @@
       "id": "65c9a540d7a0bb03487d0a6a",
       "issue": 428,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 24.37,
       "etime": 25.71,
       "text": "Меня никто не ждал."
@@ -391,7 +391,7 @@
       "id": "65c9a540d7a0bb03487d0a89",
       "issue": 428,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 134.36,
       "etime": 137.28,
       "text": "В общем, разъясним народу, как правильно."
@@ -1228,7 +1228,7 @@
       "id": "65c9a540d7a0bb03487d0ae6",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 447.56,
       "etime": 449.14,
       "text": "Причем только на год."
@@ -1237,7 +1237,7 @@
       "id": "65c9a540d7a0bb03487d0ae7",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 449.18,
       "etime": 449.7,
       "text": "В течение года."
@@ -1678,7 +1678,7 @@
       "id": "65c9a540d7a0bb03487d0b18",
       "issue": 428,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 604.34,
       "etime": 605.85,
       "text": "Ну, посмотрим, поживем, увидим."
@@ -4306,7 +4306,7 @@
       "id": "65c9a540d7a0bb03487d0c3c",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "Ksenks",
       "stime": 1899.44,
       "etime": 1900,
       "text": "Я не слышала."
@@ -5989,7 +5989,7 @@
       "id": "65c9a540d7a0bb03487d0cf7",
       "issue": 428,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 2770.77,
       "etime": 2772.45,
       "text": "Я дошел до второй, дальше читать не хочу."
@@ -8149,7 +8149,7 @@
       "id": "65c9a540d7a0bb03487d0de7",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3751.84,
       "etime": 3751.82,
       "text": "Grails by Pivotal."
@@ -10507,7 +10507,7 @@
       "id": "65c9a540d7a0bb03487d0eed",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 4784.52,
       "etime": 4785.9,
       "text": "Ну, есть и женщины."
@@ -10696,7 +10696,7 @@
       "id": "65c9a540d7a0bb03487d0f02",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 4864.79,
       "etime": 4866.25,
       "text": "А откуда у тебя 40% девочек?"
@@ -11056,7 +11056,7 @@
       "id": "65c9a540d7a0bb03487d0f2a",
       "issue": 428,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 5022.19,
       "etime": 5026.73,
       "text": "Ты правда считаешь, что абсолютно одинаковые девочки и мальчики сейчас в отрасли?"
@@ -11965,7 +11965,7 @@
       "id": "65c9a540d7a0bb03487d0f8f",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 5404.15,
       "etime": 5405.59,
       "text": "Еще Питон."
@@ -15133,7 +15133,7 @@
       "id": "65c9a540d7a0bb03487d10ef",
       "issue": 428,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 7084.86,
       "etime": 7086.15,
       "text": "Опять-таки, не очень понятно."
@@ -15718,7 +15718,7 @@
       "id": "65c9a540d7a0bb03487d1130",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "Ksenks",
       "stime": 7348.7,
       "etime": 7352.82,
       "text": "Да."
@@ -15781,7 +15781,7 @@
       "id": "65c9a540d7a0bb03487d1137",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "Ksenks",
       "stime": 7368.42,
       "etime": 7368.56,
       "text": "Угу."
@@ -16276,7 +16276,7 @@
       "id": "65c9a540d7a0bb03487d116e",
       "issue": 428,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 7507.94,
       "etime": 7505.84,
       "text": "Digital Ocean."

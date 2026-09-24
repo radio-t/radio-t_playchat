@@ -6,13 +6,13 @@
   "start_time": 1789849108,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a392",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a393",
       "title": "Jev как System One",
       "links": [
         "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
@@ -20,7 +20,7 @@
       "time": "00:11:22"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a394",
       "title": "Выход Java 27 / JDK 27",
       "links": [
         "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/"
@@ -28,7 +28,7 @@
       "time": "00:46:15"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a395",
       "title": "Claude Code теперь поддерживает AGENTS.md",
       "links": [
         "https://code.claude.com/docs/en/changelog"
@@ -36,7 +36,7 @@
       "time": "00:53:59"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a396",
       "title": "Что нам делать против AGI",
       "links": [
         "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOhOmLqR5nN4"
@@ -44,7 +44,7 @@
       "time": "01:00:27"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a397",
       "title": "Почему Фаулер не любит LLMs",
       "links": [
         "https://martinfowler.com/articles/2026-dont-like-llms.html"
@@ -52,7 +52,7 @@
       "time": "01:26:05"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a398",
       "title": "Сказать нет или сказать да новым фичам",
       "links": [
         "https://liamnugent.me/posts/what-you-dont-build/"
@@ -60,7 +60,7 @@
       "time": "01:33:49"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e47063d2e08c42a399",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/09/15/prep-1031/"

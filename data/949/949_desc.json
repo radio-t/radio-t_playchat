@@ -6,13 +6,13 @@
   "start_time": 1740255799,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a06b",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a06c",
       "title": "Apple iPhone 16e",
       "links": [
         "https://9to5mac.com/2025/02/19/apple-unveils-new-iphone-16e-heres-everything-you-need-to-know/"
@@ -20,7 +20,7 @@
       "time": "00:06:08"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a06d",
       "title": "Docker Hub стал совсем никаким",
       "links": [
         "https://docs.docker.com/docker-hub/usage/"
@@ -28,7 +28,7 @@
       "time": "00:27:22"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a06e",
       "title": "Программистский подход не всегда работает",
       "links": [
         "https://www.wired.com/story/elon-musk-doge-social-security-150-year-old-benefits/"
@@ -36,7 +36,7 @@
       "time": "00:34:15"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a06f",
       "title": "Выход Go 1.24",
       "links": [
         "https://go.dev/blog/go1.24"
@@ -44,7 +44,7 @@
       "time": "00:48:42"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a070",
       "title": "Еще один опыт использвоание LLM для задач с кодом",
       "links": [
         "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/"
@@ -52,7 +52,7 @@
       "time": "01:12:28"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a071",
       "title": "Интервью в пост-AI эпоху",
       "links": [
         "https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/"
@@ -60,7 +60,7 @@
       "time": "01:40:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a072",
       "title": "Вышел и хлопнул дверью",
       "links": [
         "https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/"
@@ -68,7 +68,7 @@
       "time": "01:56:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521837063d2e08c42a073",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/02/18/prep-949/"

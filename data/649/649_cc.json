@@ -31,7 +31,7 @@
       "id": "65c9ccba134c29d0d2cd678b",
       "issue": 649,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 15.74,
       "etime": 15.72,
       "text": "640, 640, 640."
@@ -2569,7 +2569,7 @@
       "id": "65c9ccba134c29d0d2cd68a5",
       "issue": 649,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1167.25,
       "etime": 1168.37,
       "text": "Да."
@@ -3001,7 +3001,7 @@
       "id": "65c9ccba134c29d0d2cd68d5",
       "issue": 649,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "_artifact",
       "stime": 1341.37,
       "etime": 1342.39,
       "text": "И ты строишь из него разные."
@@ -4630,7 +4630,7 @@
       "id": "65c9ccba134c29d0d2cd698a",
       "issue": 649,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 2095.13,
       "etime": 2097.61,
       "text": "А это хорошая мысль."
@@ -5431,7 +5431,7 @@
       "id": "65c9ccba134c29d0d2cd69e3",
       "issue": 649,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2389.85,
       "etime": 2389.65,
       "text": "Microsoft."
@@ -9868,7 +9868,7 @@
       "id": "65c9ccba134c29d0d2cd6bd0",
       "issue": 649,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4412.7,
       "etime": 4412.68,
       "text": "Magic Mouse."
@@ -10687,7 +10687,7 @@
       "id": "65c9ccba134c29d0d2cd6c2b",
       "issue": 649,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4741.74,
       "etime": 4741.72,
       "text": "Vertex Race 3."
@@ -15745,7 +15745,7 @@
       "id": "65c9ccba134c29d0d2cd6e5d",
       "issue": 649,
       "type": "cc",
-      "author": "Umputun",
+      "author": "_ad",
       "stime": 7220.87,
       "etime": 7222.19,
       "text": "Пока."
@@ -15772,7 +15772,7 @@
       "id": "65c9ccba134c29d0d2cd6e60",
       "issue": 649,
       "type": "cc",
-      "author": "Ksenks",
+      "author": "_ad",
       "stime": 7223.65,
       "etime": 7223.87,
       "text": "Пока."

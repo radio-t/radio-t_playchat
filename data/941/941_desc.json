@@ -6,13 +6,13 @@
   "start_time": 1735416944,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521797063d2e08c42a03a",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521797063d2e08c42a03b",
       "title": "Итоги 2024",
       "links": [
         "https://gist.github.com/umputun/91dea8b2852cfb13fe8cc4d5f41d724b"
@@ -20,7 +20,7 @@
       "time": "00:04:28"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521797063d2e08c42a03c",
       "title": "Ghostty вышел",
       "links": [
         "https://mitchellh.com/writing/ghostty-1-0-reflection"
@@ -28,7 +28,7 @@
       "time": "01:07:10"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521797063d2e08c42a03d",
       "title": "Что нового готовит Zed",
       "links": [
         "https://zed.dev/roadmap"
@@ -36,7 +36,7 @@
       "time": "01:51:18"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521797063d2e08c42a03e",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/12/24/prep-941/"

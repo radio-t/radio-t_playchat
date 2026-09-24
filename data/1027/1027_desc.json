@@ -6,13 +6,13 @@
   "start_time": 1787429959,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a373",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a374",
       "title": "Что происходит с использованием AI агентов",
       "links": [
         "https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/"
@@ -20,7 +20,7 @@
       "time": "00:42:49"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a375",
       "title": "GitHub упал сильно, опять",
       "links": [
         "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
@@ -28,7 +28,7 @@
       "time": "01:02:46"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a376",
       "title": "Убийца GitHub от Cursor",
       "links": [
         "https://cursor.com/changelog/origin-code-hosting"
@@ -36,7 +36,7 @@
       "time": "01:13:27"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a377",
       "title": "Выход Go 1.27",
       "links": [
         "https://go.dev/doc/go1.27"
@@ -44,7 +44,7 @@
       "time": "01:27:30"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a378",
       "title": "Claude Code и борьба за стиль разговора",
       "links": [
         "https://explainx.ai/blog/claude-code-concise-output-style-config-august-2026"
@@ -52,7 +52,7 @@
       "time": "01:42:27"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a379",
       "title": "Bun 1.4 как триумф переписывания",
       "links": [
         "https://bun.com/blog/bun-v1.4"
@@ -60,7 +60,7 @@
       "time": "01:51:29"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e07063d2e08c42a37a",
       "title": "Не отдавайте людям ответы железяки",
       "links": [
         "https://dontpastetheai.com/"

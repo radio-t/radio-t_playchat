@@ -6,7 +6,7 @@
   "start_time": 1542485678,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d2b",
       "title": "Время поддержки Ubuntu 18.04 увеличено до 10 лет",
       "links": [
         "http://www.opennet.ru/opennews/art.shtml?num=49615"
@@ -14,7 +14,7 @@
       "time": "00:04:02"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d2c",
       "title": "HTTP поверх протокола QUIC будет HTTP/3",
       "links": [
         "http://www.opennet.ru/opennews/art.shtml?num=49594"
@@ -22,7 +22,7 @@
       "time": "00:13:11"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d2d",
       "title": "Larry сказал лишнего",
       "links": [
         "https://outline.com/UzUdUE"
@@ -30,7 +30,7 @@
       "time": "00:27:33"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d2e",
       "title": "Amazon, Oracle и драма вокруг БД",
       "links": [
         "https://www.itnews.com.au/news/amazon-and-oracle-in-database-drama-515447"
@@ -38,7 +38,7 @@
       "time": "00:34:38"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d2f",
       "title": "Corretto для LTS OpenJDK",
       "links": [
         "https://aws.amazon.com/corretto/"
@@ -46,7 +46,7 @@
       "time": "00:34:48"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d30",
       "title": "Ужас кодовой базы",
       "links": [
         "https://news.ycombinator.com/item?id=18442941"
@@ -54,7 +54,7 @@
       "time": "00:43:46"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d31",
       "title": "Фулстеки — это вечные мидлы",
       "links": [
         "https://habr.com/post/429612/"
@@ -62,7 +62,7 @@
       "time": "00:55:05"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d32",
       "title": "Всех посадить на андроид телефоны",
       "links": [
         "https://www.theverge.com/2018/11/14/18095729/mark-zuckerberg-order-facebook-executive-android-phones"
@@ -70,7 +70,7 @@
       "time": "01:09:55"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d33",
       "title": "Facebook введет еще больше цензуры",
       "links": [
         "https://techcrunch.com/2018/11/15/facebook-borderline-content/"
@@ -78,7 +78,7 @@
       "time": "01:15:03"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d34",
       "title": "Cloudflare с 1.1.1.1 DNS на телефонах",
       "links": [
         "https://www.bleepingcomputer.com/news/security/cloudflare-brings-its-1111-dns-service-to-android-and-ios-mobile-devices/"
@@ -86,7 +86,7 @@
       "time": "01:23:25"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d35",
       "title": "Мифический взлом Protonmail",
       "links": [
         "https://pastebin.com/bwvqHhbA?fbclid=IwAR3Nk2wKnv4MjRycU0oQQas5eXQ3v5x9Or_KAsefmgmykH0PviLS74fIR1c"
@@ -94,7 +94,7 @@
       "time": "01:32:22"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5202c7063d2e08c420d36",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

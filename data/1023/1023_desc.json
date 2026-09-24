@@ -6,13 +6,13 @@
   "start_time": 1785010840,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521da7063d2e08c42a355",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521da7063d2e08c42a356",
       "title": "Claude Opus 5",
       "links": [
         "https://www.anthropic.com/news/claude-opus-5"
@@ -20,7 +20,7 @@
       "time": "00:14:15"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521da7063d2e08c42a357",
       "title": "И меры были приняты",
       "links": [
         "https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434"
@@ -28,7 +28,7 @@
       "time": "00:32:09"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521da7063d2e08c42a358",
       "title": "OpenAI успешно атаковал Hugging Face",
       "links": [
         "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
@@ -36,7 +36,7 @@
       "time": "00:58:06"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521da7063d2e08c42a359",
       "title": "JEP 541: закат macOS/x64",
       "links": [
         "https://openjdk.org/jeps/541"
@@ -44,7 +44,7 @@
       "time": "01:26:36"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521da7063d2e08c42a35a",
       "title": "Почему это не работает",
       "links": [
         "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"

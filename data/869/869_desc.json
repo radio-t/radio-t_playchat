@@ -6,6 +6,7 @@
   "start_time": 1690661757,
   "topics": [
     {
+      "id": "6ab5212e7063d2e08c4287a0",
       "title": "Twitter теперь 'X'",
       "links": [
         "https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/"
@@ -13,6 +14,7 @@
       "time": "00:01:37"
     },
     {
+      "id": "6ab5212e7063d2e08c4287a1",
       "title": "AI Assistant в IDEА: упущенная возможность",
       "links": [
         "https://blog.jetbrains.com/idea/2023/06/ai-assistant-in-jetbrains-ides/"
@@ -20,6 +22,7 @@
       "time": "00:13:50"
     },
     {
+      "id": "6ab5212e7063d2e08c4287a2",
       "title": "AWS начнет просить плату за IPv4 адреса",
       "links": [
         "https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/"
@@ -27,6 +30,7 @@
       "time": "00:54:12"
     },
     {
+      "id": "6ab5212e7063d2e08c4287a3",
       "title": "Виртуальный смартфон",
       "links": [
         "https://cophone.io/"
@@ -34,6 +38,7 @@
       "time": "01:08:28"
     },
     {
+      "id": "6ab5212e7063d2e08c4287a4",
       "title": "Закат Stack Overflow",
       "links": [
         "https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow"
@@ -41,6 +46,7 @@
       "time": "01:22:58"
     },
     {
+      "id": "6ab5212e7063d2e08c4287a5",
       "title": "Stack Overflow добавляет новый сайт про AI",
       "links": [
         "https://sdtimes.com/ai/stack-overflow-announces-new-ai-solutions-to-better-serve-developers-information-from-its-platform/"
@@ -48,6 +54,7 @@
       "time": "01:34:28"
     },
     {
+      "id": "6ab5212e7063d2e08c4287a6",
       "title": "No-GIL режим завезут в Python",
       "links": [
         "https://lwn.net/Articles/939568/"
@@ -55,11 +62,13 @@
       "time": "01:38:52"
     },
     {
+      "id": "6ab5212e7063d2e08c4287a7",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2023/07/25/prep-869/"
       ],
       "time": "01:47:23"
     }
-  ]
+  ],
+  "tags": null
 }

@@ -6,6 +6,7 @@
   "start_time": 1690057026,
   "topics": [
     {
+      "id": "6ab5212d7063d2e08c427fe4",
       "title": "Самые важные привычки программиста",
       "links": [
         "https://puppycoding.com/2023/07/22/healthy-coding-habits/"
@@ -13,6 +14,7 @@
       "time": "00:07:25"
     },
     {
+      "id": "6ab5212d7063d2e08c427fe5",
       "title": "Apple удалит iMessage и FaceTime в UK, но не прогнется",
       "links": [
         "https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/"
@@ -20,6 +22,7 @@
       "time": "00:40:50"
     },
     {
+      "id": "6ab5212d7063d2e08c427fe6",
       "title": "Apple Maps вдруг стали хороши",
       "links": [
         "https://www.macrumors.com/2023/07/18/apple-maps-winning-over-haters/"
@@ -27,6 +30,7 @@
       "time": "00:52:21"
     },
     {
+      "id": "6ab5212d7063d2e08c427fe7",
       "title": "GPT-4 становится все хуже",
       "links": [
         "https://www.aisnakeoil.com/p/is-gpt-4-getting-worse-over-time"
@@ -34,11 +38,13 @@
       "time": "01:09:42"
     },
     {
+      "id": "6ab5212d7063d2e08c427fe8",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2023/07/18/prep-868/"
       ],
       "time": "01:53:27"
     }
-  ]
+  ],
+  "tags": null
 }

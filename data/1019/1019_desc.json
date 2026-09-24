@@ -6,13 +6,13 @@
   "start_time": 1782591686,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a299",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a29a",
       "title": "GPT-5.6 - семейство мощных моделей, но не для плебса",
       "links": [
         "https://openai.com/index/previewing-gpt-5-6-sol/"
@@ -20,7 +20,7 @@
       "time": "00:26:03"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a29b",
       "title": "Anthropic обвиняет Alibaba в экспроприации экспроприаторов",
       "links": [
         "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
@@ -28,7 +28,7 @@
       "time": "00:33:50"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a29c",
       "title": "Akrites - как нам обезопасить open source",
       "links": [
         "https://akrites.org/letter/"
@@ -36,7 +36,7 @@
       "time": "00:39:05"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a29d",
       "title": "MicroVMs через AWS Lambda",
       "links": [
         "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
@@ -44,7 +44,7 @@
       "time": "00:52:08"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a29e",
       "title": "Cloudflare и OAuth для всех",
       "links": [
         "https://blog.cloudflare.com/oauth-for-all/"
@@ -52,7 +52,7 @@
       "time": "00:59:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a29f",
       "title": "CVE-2026-LGTM",
       "links": [
         "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html"
@@ -60,7 +60,7 @@
       "time": "01:07:36"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d47063d2e08c42a2a0",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/06/25/prep-1019/"

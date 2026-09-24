@@ -193,7 +193,7 @@
       "id": "65c7cab535817eb3217eb5ab",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 49.53,
       "etime": 49.51,
       "text": "Digital Ocean."
@@ -1228,7 +1228,7 @@
       "id": "65c7cab535817eb3217eb61e",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 598.45,
       "etime": 599.07,
       "text": "Я тут слушаю."
@@ -1237,7 +1237,7 @@
       "id": "65c7cab535817eb3217eb61f",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 599.11,
       "etime": 601.94,
       "text": "Я хотела спросить, а сколько у вас AirPods живут?"
@@ -1255,7 +1255,7 @@
       "id": "65c7cab535817eb3217eb621",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 606.2,
       "etime": 607.86,
       "text": "И хотят еще зарядку."
@@ -1264,7 +1264,7 @@
       "id": "65c7cab535817eb3217eb622",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 607.9,
       "etime": 608.56,
       "text": "Подожди, дорогая."
@@ -1309,7 +1309,7 @@
       "id": "65c7cab535817eb3217eb627",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 613.62,
       "etime": 615.52,
       "text": "Это тоже не нормально."
@@ -1318,7 +1318,7 @@
       "id": "65c7cab535817eb3217eb628",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 615.54,
       "etime": 616.82,
       "text": "Сейчас у меня будет все нормально."
@@ -1327,7 +1327,7 @@
       "id": "65c7cab535817eb3217eb629",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 616.84,
       "etime": 618.49,
       "text": "Это просто временный сетап."
@@ -1480,7 +1480,7 @@
       "id": "65c7cab535817eb3217eb63a",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 674.3,
       "etime": 675.1,
       "text": "Я сейчас в Airpods заговорю."
@@ -1489,7 +1489,7 @@
       "id": "65c7cab535817eb3217eb63b",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Ksenks",
       "stime": 676.06,
       "etime": 677.66,
       "text": "Как вам, слышно меня?"
@@ -1705,7 +1705,7 @@
       "id": "65c7cab535817eb3217eb653",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 752.4,
       "etime": 750.64,
       "text": "250?"
@@ -6646,7 +6646,7 @@
       "id": "65c7cab535817eb3217eb878",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2879.83,
       "etime": 2879.81,
       "text": "Skype."
@@ -6763,7 +6763,7 @@
       "id": "65c7cab535817eb3217eb885",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "Ksenks",
       "stime": 2936.85,
       "etime": 2938.81,
       "text": "Так подожди, раз в неделю вы в офис ездите?"
@@ -7069,7 +7069,7 @@
       "id": "65c7cab535817eb3217eb8a7",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "Ksenks",
       "stime": 3095.83,
       "etime": 3096.41,
       "text": "Серьезно?"
@@ -7078,7 +7078,7 @@
       "id": "65c7cab535817eb3217eb8a8",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "Ksenks",
       "stime": 3096.71,
       "etime": 3097.81,
       "text": "У тебя такое было?"
@@ -7087,7 +7087,7 @@
       "id": "65c7cab535817eb3217eb8a9",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "Ksenks",
       "stime": 3097.87,
       "etime": 3098.75,
       "text": "Реально?"
@@ -7213,7 +7213,7 @@
       "id": "65c7cab535817eb3217eb8b7",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3156.88,
       "etime": 3156.86,
       "text": "Avoid hybrid calls."
@@ -7267,7 +7267,7 @@
       "id": "65c7cab535817eb3217eb8bd",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3188.53,
       "etime": 3184.13,
       "text": "In calls that have remote participants, everyone should use half their own equipment."
@@ -11110,7 +11110,7 @@
       "id": "65c7cab535817eb3217eba68",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "_artifact",
       "stime": 4937.82,
       "etime": 4938.94,
       "text": "Неа."
@@ -13720,7 +13720,7 @@
       "id": "65c7cab535817eb3217ebb8a",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "Ksenks",
       "stime": 5993.72,
       "etime": 5994.98,
       "text": "Ну, надо его..."
@@ -15151,7 +15151,7 @@
       "id": "65c7cab535817eb3217ebc29",
       "issue": 693,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6686.39,
       "etime": 6686.31,
       "text": "Battle Rocket."

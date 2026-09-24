@@ -6,7 +6,7 @@
   "start_time": 1562444055,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5204c7063d2e08c420e22",
       "title": "Выбери скучную технологию",
       "links": [
         "https://mcfunley.com/choose-boring-technology"
@@ -14,7 +14,7 @@
       "time": "00:05:32"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5204c7063d2e08c420e23",
       "title": "Lazydocker — GUI для Docker в терминале",
       "links": [
         "https://habr.com/ru/company/flant/blog/446700/"
@@ -22,7 +22,7 @@
       "time": "00:24:26"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5204c7063d2e08c420e24",
       "title": "Действительно ли Python GIL уже мертв?",
       "links": [
         "https://habr.com/ru/company/otus/blog/458694/"
@@ -30,7 +30,7 @@
       "time": "00:32:29"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5204c7063d2e08c420e25",
       "title": "Что не так с внешними key-value хранилищами",
       "links": [
         "https://blog.acolyer.org/2019/06/24/fast-key-value-stores/"
@@ -38,7 +38,7 @@
       "time": "01:03:47"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5204c7063d2e08c420e26",
       "title": "Из python, через Go и в Rust",
       "links": [
         "https://tech.allo-media.net/point/of/view/2018/03/22/from-python-to-go-to-rust.html"
@@ -46,7 +46,7 @@
       "time": "01:17:32"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5204c7063d2e08c420e27",
       "title": "Надо отвлекаться",
       "links": [
         "https://medium.com/better-programming/i-do-my-best-software-development-when-im-not-developing-dd8f18c7b378"
@@ -54,7 +54,7 @@
       "time": "01:40:48"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5204c7063d2e08c420e28",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2019/07/02/prep-657/"

@@ -850,7 +850,7 @@
       "id": "65c9a924fd8e211e7ee52261",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 431.95,
       "etime": 434.57,
       "text": "И оно бы само все стало."
@@ -859,7 +859,7 @@
       "id": "65c9a924fd8e211e7ee52262",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 434.63,
       "etime": 435.79,
       "text": "Понятно."
@@ -868,7 +868,7 @@
       "id": "65c9a924fd8e211e7ee52263",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 435.93,
       "etime": 436.63,
       "text": "Интересно."
@@ -1417,7 +1417,7 @@
       "id": "65c9a924fd8e211e7ee522a0",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 783.61,
       "etime": 783.67,
       "text": "Ну,"
@@ -3667,7 +3667,7 @@
       "id": "65c9a924fd8e211e7ee5239a",
       "issue": 457,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 2084.98,
       "etime": 2090.8,
       "text": "Если... Я не знаю просто, с чем это сравнить, так, чтобы это было совсем досконально понятно."
@@ -4126,7 +4126,7 @@
       "id": "65c9a924fd8e211e7ee523cd",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 2334.2,
       "etime": 2334.24,
       "text": "Да."
@@ -6097,7 +6097,7 @@
       "id": "65c9a924fd8e211e7ee524a8",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 3347.23,
       "etime": 3347.75,
       "text": "Ну, 181."
@@ -6916,7 +6916,7 @@
       "id": "65c9a924fd8e211e7ee52503",
       "issue": 457,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 3703.27,
       "etime": 3707.07,
       "text": "еще более прямоугольные, потом там вообще какой-то параллелепипед."
@@ -7762,7 +7762,7 @@
       "id": "65c9a924fd8e211e7ee52561",
       "issue": 457,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4083.14,
       "etime": 4085.54,
       "text": "Вот очень похожее устройство получается."
@@ -7897,7 +7897,7 @@
       "id": "65c9a924fd8e211e7ee52570",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4129.73,
       "etime": 4129.71,
       "text": "Outage."
@@ -7924,7 +7924,7 @@
       "id": "65c9a924fd8e211e7ee52573",
       "issue": 457,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4133.06,
       "etime": 4133.9,
       "text": "Ссылка говорит, что page not found."
@@ -8419,7 +8419,7 @@
       "id": "65c9a924fd8e211e7ee525aa",
       "issue": 457,
       "type": "cc",
-      "author": "PetrDidenko",
+      "author": "_artifact",
       "stime": 4354.24,
       "etime": 4359.11,
       "text": "Ну, ты уверен, что эта проблема... Доступна индийским инженерам?"
@@ -9508,7 +9508,7 @@
       "id": "65c9a924fd8e211e7ee52623",
       "issue": 457,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 4891.41,
       "etime": 4892.83,
       "text": "Конечно."
@@ -14035,7 +14035,7 @@
       "id": "65c9a924fd8e211e7ee5281a",
       "issue": 457,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 7039.09,
       "etime": 7042.71,
       "text": "Не-не-не, по-моему, это просто для хранения паролей."
@@ -14962,7 +14962,7 @@
       "id": "65c9a924fd8e211e7ee52881",
       "issue": 457,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 7493.19,
       "etime": 7496.92,
       "text": "Как-то там печальненько все уже."
@@ -15259,7 +15259,7 @@
       "id": "65c9a924fd8e211e7ee528a2",
       "issue": 457,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 7583.83,
       "etime": 7584.81,
       "text": "Пишите только Ксюше."

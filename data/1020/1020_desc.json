@@ -6,13 +6,13 @@
   "start_time": 1783196124,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a1",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a2",
       "title": "Непонятный Claude Sonnet 5 вышел",
       "links": [
         "https://www.anthropic.com/news/claude-sonnet-5"
@@ -20,7 +20,7 @@
       "time": "00:37:02"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a3",
       "title": "Возвращение Fable",
       "links": [
         "https://www.anthropic.com/news/redeploying-fable-5"
@@ -28,7 +28,7 @@
       "time": "00:49:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a4",
       "title": "Правила Страуструпа",
       "links": [
         "https://buttondown.com/hillelwayne/archive/stroustrups-rule/"
@@ -36,7 +36,7 @@
       "time": "00:58:20"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a5",
       "title": "Опять про SOLID и Clean Code",
       "links": [
         "https://devz.cl/posts/solid-never-felt-solid/"
@@ -44,7 +44,7 @@
       "time": "01:22:45"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a6",
       "title": "Safari MCP",
       "links": [
         "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/"
@@ -52,7 +52,7 @@
       "time": "01:41:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a7",
       "title": "Cloudflare посчитали все",
       "links": [
         "https://blog.cloudflare.com/agentic-internet-bot-report/"
@@ -60,7 +60,7 @@
       "time": "01:47:34"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521d57063d2e08c42a2a8",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/07/01/prep-1020/"

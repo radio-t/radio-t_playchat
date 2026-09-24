@@ -6,7 +6,7 @@
   "start_time": 1533414295,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cb5",
       "title": "Разговоры про шаблоны проектирования",
       "links": [
         "https://dev.to/powerwebdev/an-introduction-to-the-concept-of-design-patterns-o29"
@@ -14,7 +14,7 @@
       "time": "00:10:33"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cb6",
       "title": "Чему нас учит терминал",
       "links": [
         "https://brandur.org/interfaces"
@@ -22,7 +22,7 @@
       "time": "00:33:59"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cb7",
       "title": "Apache NetBeans 9.0",
       "links": [
         "https://sdtimes.com/java/apache-netbeans-incubating-9-0-is-now-available/"
@@ -30,7 +30,7 @@
       "time": "00:53:50"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cb8",
       "title": "Проводим Code Review культурно",
       "links": [
         "https://blog.plaid.com/building-an-inclusive-code-review-culture/"
@@ -38,7 +38,7 @@
       "time": "01:04:25"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cb9",
       "title": "Grumpy — из питона в Go",
       "links": [
         "https://github.com/grumpyhome/grumpy/blob/master/README.md"
@@ -46,7 +46,7 @@
       "time": "01:41:04"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cba",
       "title": "Go Cloud",
       "links": [
         "https://blog.golang.org/go-cloud"
@@ -54,7 +54,7 @@
       "time": "01:45:06"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cbb",
       "title": "Обновления Bitbucket",
       "links": [
         "https://blog.bitbucket.org/2018/07/19/13-new-bitbucket-cloud-features/"
@@ -62,7 +62,7 @@
       "time": "01:49:40"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201b7063d2e08c420cbc",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

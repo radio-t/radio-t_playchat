@@ -535,7 +535,7 @@
       "id": "65c9a590c3b4f4edbfb0bdb3",
       "issue": 449,
       "type": "cc",
-      "author": "PetrDidenko",
+      "author": "_artifact",
       "stime": 230.73,
       "etime": 231.81,
       "text": "Новый стандарт."
@@ -1390,7 +1390,7 @@
       "id": "65c9a590c3b4f4edbfb0be12",
       "issue": 449,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 656.6,
       "etime": 657.51,
       "text": "В чем проблема?"
@@ -1516,7 +1516,7 @@
       "id": "65c9a590c3b4f4edbfb0be20",
       "issue": 449,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 704.25,
       "etime": 706.65,
       "text": "Байткод тоже придется разобрать."
@@ -2434,7 +2434,7 @@
       "id": "65c9a590c3b4f4edbfb0be86",
       "issue": 449,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1136.88,
       "etime": 1137.86,
       "text": "Везде какие-то взрывы."
@@ -3487,7 +3487,7 @@
       "id": "65c9a590c3b4f4edbfb0befb",
       "issue": 449,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1602.12,
       "etime": 1602.26,
       "text": "Да."
@@ -3694,7 +3694,7 @@
       "id": "65c9a590c3b4f4edbfb0bf12",
       "issue": 449,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1674.12,
       "etime": 1675.4,
       "text": "Видите, такой пароль."
@@ -5719,7 +5719,7 @@
       "id": "65c9a590c3b4f4edbfb0bff3",
       "issue": 449,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2575.96,
       "etime": 2575.86,
       "text": "Redability.com."
@@ -6511,7 +6511,7 @@
       "id": "65c9a590c3b4f4edbfb0c04b",
       "issue": 449,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 2884.81,
       "etime": 2889.45,
       "text": "Слушай, на самом деле, эта вся разметка, она не такая уж трудоемкая."
@@ -6727,7 +6727,7 @@
       "id": "65c9a590c3b4f4edbfb0c063",
       "issue": 449,
       "type": "cc",
-      "author": "PetrDidenko",
+      "author": "_artifact",
       "stime": 2976.95,
       "etime": 2979.33,
       "text": "Не только с клавиатурами."
@@ -6781,7 +6781,7 @@
       "id": "65c9a590c3b4f4edbfb0c069",
       "issue": 449,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 2998.19,
       "etime": 2998.89,
       "text": "Забыли уже все?"
@@ -8095,7 +8095,7 @@
       "id": "65c9a590c3b4f4edbfb0c0fb",
       "issue": 449,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 3465.7,
       "etime": 3468.46,
       "text": "Вот это я понимаю."
@@ -10516,7 +10516,7 @@
       "id": "65c9a590c3b4f4edbfb0c208",
       "issue": 449,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4497.95,
       "etime": 4497.99,
       "text": "Да."
@@ -10642,7 +10642,7 @@
       "id": "65c9a590c3b4f4edbfb0c216",
       "issue": 449,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 4544.73,
       "etime": 4546.67,
       "text": "Это ж круто."
@@ -12415,7 +12415,7 @@
       "id": "65c9a590c3b4f4edbfb0c2db",
       "issue": 449,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "_artifact",
       "stime": 5319.91,
       "etime": 5322.05,
       "text": "Какой-то очень жестко технического."
@@ -15637,7 +15637,7 @@
       "id": "65c9a590c3b4f4edbfb0c441",
       "issue": 449,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6681.73,
       "etime": 6682.59,
       "text": "Это такое будет."
@@ -16357,7 +16357,7 @@
       "id": "65c9a590c3b4f4edbfb0c491",
       "issue": 449,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6993.48,
       "etime": 6995.15,
       "text": "Вкратце, мы все переживаем."

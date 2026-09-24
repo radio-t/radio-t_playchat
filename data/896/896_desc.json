@@ -6,13 +6,13 @@
   "start_time": 1707595985,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214c7063d2e08c429ec2",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214c7063d2e08c429ec3",
       "title": "Опыт использования GDD",
       "links": [
         "https://github.com/umputun/proxy-cron/blob/master/README.md"
@@ -20,7 +20,7 @@
       "time": "00:11:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214c7063d2e08c429ec4",
       "title": "Google Bard теперь Gemini и за деньги",
       "links": [
         "https://blog.google/products/gemini/bard-gemini-advanced-app/"
@@ -28,7 +28,7 @@
       "time": "00:29:29"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214c7063d2e08c429ec5",
       "title": "Выход Go 1.22",
       "links": [
         "https://go.dev/doc/go1.22"
@@ -36,7 +36,7 @@
       "time": "00:55:07"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214c7063d2e08c429ec6",
       "title": "Google уже не тот",
       "links": [
         "https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php"
@@ -44,7 +44,7 @@
       "time": "01:24:53"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214c7063d2e08c429ec7",
       "title": "Написание HTTP сервисов после 13 лет опыта",
       "links": [
         "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/"
@@ -52,7 +52,7 @@
       "time": "01:42:36"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214c7063d2e08c429ec8",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/02/06/prep-896/"

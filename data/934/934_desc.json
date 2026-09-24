@@ -6,13 +6,13 @@
   "start_time": 1731183390,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521717063d2e08c42a007",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521717063d2e08c42a008",
       "title": "Удаленное редактирование в Zed",
       "links": [
         "https://zed.dev/blog/remote-development"
@@ -20,7 +20,7 @@
       "time": "00:03:30"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521717063d2e08c42a009",
       "title": "Горький урок ABBYY",
       "links": [
         "https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/?fbclid=IwZXh0bgNhZW0CMTEAAR03YOvPa2EpFxRKKB8OEYV95CiWE30M1cwUZ51DTFZWQVIej4Em_P193Hc_aem_CxGY0nwrOYcxWgVglWuSLg"
@@ -28,7 +28,7 @@
       "time": "01:06:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521717063d2e08c42a00a",
       "title": "Meta против Google",
       "links": [
         "https://blog.kirillov.cc/posts/facebook-vs-google/"
@@ -36,7 +36,7 @@
       "time": "01:34:04"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521717063d2e08c42a00b",
       "title": "Raycast Notes прибыли",
       "links": [
         "https://www.raycast.com/blog/raycast-notes"
@@ -44,7 +44,7 @@
       "time": "01:41:41"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521717063d2e08c42a00c",
       "title": "C и C++ совсем никуда не годятся",
       "links": [
         "https://www.theregister.com/2024/11/08/the_us_government_wants_developers/"
@@ -52,7 +52,7 @@
       "time": "01:57:03"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521717063d2e08c42a00d",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/11/05/prep-934/"

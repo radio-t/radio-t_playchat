@@ -6,7 +6,7 @@
   "start_time": 1338750000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c42021f",
       "title": "Blockly для младших школьников",
       "links": [
         "http://code.google.com/p/google-blockly/"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c420220",
       "title": "Очереди SQS и ElasticMQ",
       "links": [
         "http://java.dzone.com/articles/elasticmq-05-release"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c420221",
       "title": "CAP 12 лет спустя",
       "links": [
         "http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c420222",
       "title": "Java не масштабируется, совсем все плохо",
       "links": [
         "http://www.theserverside.com/feature/Why-Java-Applications-Fail-to-Scale-Linearly"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c420223",
       "title": "Смешная гордость Scala и несмешное интервью",
       "links": [
         "http://capecoder.wordpress.com/2012/05/29/scala-adoption-continues-to-climb-rapidly-2/",
@@ -47,7 +47,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c420224",
       "title": "Einhorn — shared socket manager",
       "links": [
         "https://stripe.com/blog/meet-einhorn"
@@ -55,7 +55,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c420225",
       "title": "Vert.x в качестве асинхронного фрэймворка",
       "links": [
         "http://vertx.io/"
@@ -63,7 +63,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51efb7063d2e08c420226",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

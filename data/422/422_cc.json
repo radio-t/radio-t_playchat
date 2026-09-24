@@ -418,7 +418,7 @@
       "id": "65c9a528a8678ba87c33a760",
       "issue": 422,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 183.43,
       "etime": 185.19,
       "text": "Тут вот какое дело."
@@ -2146,7 +2146,7 @@
       "id": "65c9a528a8678ba87c33a820",
       "issue": 422,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "_artifact",
       "stime": 958.81,
       "etime": 962.05,
       "text": "Два последних слова сказать про Google."
@@ -3217,7 +3217,7 @@
       "id": "65c9a528a8678ba87c33a897",
       "issue": 422,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 1472.79,
       "etime": 1474.75,
       "text": "Понятное дело, это гораздо более законная часть."
@@ -5485,7 +5485,7 @@
       "id": "65c9a528a8678ba87c33a993",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2366.16,
       "etime": 2365.34,
       "text": "Chief Operating Officer."
@@ -6691,7 +6691,7 @@
       "id": "65c9a528a8678ba87c33aa19",
       "issue": 422,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 2885.22,
       "etime": 2886.6,
       "text": "Ну, ты же понимаешь, что это не..."
@@ -6925,7 +6925,7 @@
       "id": "65c9a528a8678ba87c33aa33",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2996.79,
       "etime": 2996.75,
       "text": "401."
@@ -7600,7 +7600,7 @@
       "id": "65c9a528a8678ba87c33aa7e",
       "issue": 422,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3282.17,
       "etime": 3283.77,
       "text": "То есть, ну, как... Сюрприз, да?"
@@ -8545,7 +8545,7 @@
       "id": "65c9a528a8678ba87c33aae7",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3672.63,
       "etime": 3671.97,
       "text": "Stack Engine?"
@@ -11875,7 +11875,7 @@
       "id": "65c9a528a8678ba87c33ac59",
       "issue": 422,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5074.38,
       "etime": 5076.98,
       "text": "Что-то пахнуло даже как-то."
@@ -11965,7 +11965,7 @@
       "id": "65c9a528a8678ba87c33ac63",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5100.78,
       "etime": 5099.71,
       "text": "WSDL."
@@ -12487,7 +12487,7 @@
       "id": "65c9a528a8678ba87c33ac9d",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5326.54,
       "etime": 5326.6,
       "text": "Да."
@@ -14296,7 +14296,7 @@
       "id": "65c9a528a8678ba87c33ad66",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5906.72,
       "etime": 5907.56,
       "text": "Ох."
@@ -14368,7 +14368,7 @@
       "id": "65c9a528a8678ba87c33ad6e",
       "issue": 422,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 5934.04,
       "etime": 5937.18,
       "text": "А дальше, кстати говоря, темы какие-то странные."
@@ -14377,7 +14377,7 @@
       "id": "65c9a528a8678ba87c33ad6f",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5937.2,
       "etime": 5937.18,
       "text": "Visual Studio 2015."
@@ -15061,7 +15061,7 @@
       "id": "65c9a528a8678ba87c33adbb",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6211.71,
       "etime": 6211.79,
       "text": "Да."
@@ -15898,7 +15898,7 @@
       "id": "65c9a528a8678ba87c33ae18",
       "issue": 422,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 6559.26,
       "etime": 6559.75,
       "text": "Понятно."
@@ -16438,7 +16438,7 @@
       "id": "65c9a528a8678ba87c33ae54",
       "issue": 422,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "_artifact",
       "stime": 6820,
       "etime": 6821.55,
       "text": "Такое тоже, к сожалению, бывает."
@@ -18913,7 +18913,7 @@
       "id": "65c9a528a8678ba87c33af67",
       "issue": 422,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 7760.31,
       "etime": 7761.53,
       "text": "Там работает очень просто."

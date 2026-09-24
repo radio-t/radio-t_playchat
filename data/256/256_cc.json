@@ -1165,7 +1165,7 @@
       "id": "65c921604c3e09efa4b8775b",
       "issue": 256,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "SPEAKER_NEEDS_REVIEW",
       "stime": 433.54,
       "etime": 436.61,
       "text": "Ну, понимаешь, я как бы побывал и в этом Израиле."
@@ -1354,7 +1354,7 @@
       "id": "65c921604c3e09efa4b87770",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 497.94,
       "etime": 498.36,
       "text": "Так вот сейчас."
@@ -1552,7 +1552,7 @@
       "id": "65c921604c3e09efa4b87786",
       "issue": 256,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "SPEAKER_NEEDS_REVIEW",
       "stime": 578.63,
       "etime": 579.69,
       "text": "Нет, ну что, нет."
@@ -2650,7 +2650,7 @@
       "id": "65c921604c3e09efa4b87800",
       "issue": 256,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "SPEAKER_NEEDS_REVIEW",
       "stime": 1080.55,
       "etime": 1081.97,
       "text": "Я только туда ничего не пишу."
@@ -3190,7 +3190,7 @@
       "id": "65c921604c3e09efa4b8783c",
       "issue": 256,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "SPEAKER_NEEDS_REVIEW",
       "stime": 1234.08,
       "etime": 1235.16,
       "text": "Как ты это определяешь?"
@@ -5611,7 +5611,7 @@
       "id": "65c921604c3e09efa4b87949",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2283.33,
       "etime": 2283.29,
       "text": "Facebook."
@@ -6349,7 +6349,7 @@
       "id": "65c921604c3e09efa4b8799b",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 2602.86,
       "etime": 2604.72,
       "text": "Чай пью."
@@ -6862,7 +6862,7 @@
       "id": "65c921604c3e09efa4b879d4",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 2825.89,
       "etime": 2826.09,
       "text": "Угу."
@@ -8473,7 +8473,7 @@
       "id": "65c921604c3e09efa4b87a87",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 3379.56,
       "etime": 3381.82,
       "text": "Это правда, да."
@@ -8482,7 +8482,7 @@
       "id": "65c921604c3e09efa4b87a88",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 3381.84,
       "etime": 3382.94,
       "text": "Это правда."
@@ -9868,7 +9868,7 @@
       "id": "65c921604c3e09efa4b87b22",
       "issue": 256,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "SPEAKER_NEEDS_REVIEW",
       "stime": 3982.2,
       "etime": 3984.3,
       "text": "Ну, нет, лет на 5, я думаю."
@@ -10426,7 +10426,7 @@
       "id": "65c921604c3e09efa4b87b60",
       "issue": 256,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "SPEAKER_NEEDS_REVIEW",
       "stime": 4296.33,
       "etime": 4303.39,
       "text": "И, собственно говоря, все, что нужно от UEFI Apple, это то, чтобы он запустил их загрузчик."
@@ -10570,7 +10570,7 @@
       "id": "65c921604c3e09efa4b87b70",
       "issue": 256,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "SPEAKER_NEEDS_REVIEW",
       "stime": 4369.66,
       "etime": 4372.72,
       "text": "А что, он должен был с Жномом до сих пор оставаться?"
@@ -11524,7 +11524,7 @@
       "id": "65c921604c3e09efa4b87bda",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4674.22,
       "etime": 4674.2,
       "text": "Falling in love."
@@ -11542,7 +11542,7 @@
       "id": "65c921604c3e09efa4b87bdc",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4675.52,
       "etime": 4675.48,
       "text": "Falling in love."
@@ -12784,7 +12784,7 @@
       "id": "65c921604c3e09efa4b87c66",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5163.16,
       "etime": 5163.1,
       "text": "250?"
@@ -13279,7 +13279,7 @@
       "id": "65c921604c3e09efa4b87c9d",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 5322.91,
       "etime": 5326.39,
       "text": "Примерно так."
@@ -16672,7 +16672,7 @@
       "id": "65c921604c3e09efa4b87e16",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6778.91,
       "etime": 6778.97,
       "text": "Да."
@@ -16888,7 +16888,7 @@
       "id": "65c921604c3e09efa4b87e2e",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 6856.11,
       "etime": 6856.83,
       "text": "Ого!"
@@ -17563,7 +17563,7 @@
       "id": "65c921604c3e09efa4b87e79",
       "issue": 256,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 7085.34,
       "etime": 7086.16,
       "text": "Нет."

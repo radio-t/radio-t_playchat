@@ -1462,7 +1462,7 @@
       "id": "65c9a4fd378d777b2468e14d",
       "issue": 411,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 656.72,
       "etime": 657.46,
       "text": "Страшное дело."
@@ -1777,7 +1777,7 @@
       "id": "65c9a4fd378d777b2468e170",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 803.47,
       "etime": 805.67,
       "text": "Но в лирике не так."
@@ -3649,7 +3649,7 @@
       "id": "65c9a4fd378d777b2468e240",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1590.16,
       "etime": 1594.13,
       "text": "Которые держат в себе все сразу."
@@ -4297,7 +4297,7 @@
       "id": "65c9a4fd378d777b2468e288",
       "issue": 411,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1857.11,
       "etime": 1861.67,
       "text": "Так я, да, предложила, надо было специалиста главного в Яндексе позвать."
@@ -5170,7 +5170,7 @@
       "id": "65c9a4fd378d777b2468e2e9",
       "issue": 411,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 2328.42,
       "etime": 2329.76,
       "text": "Слушай, а ты не ожидал?"
@@ -5719,7 +5719,7 @@
       "id": "65c9a4fd378d777b2468e326",
       "issue": 411,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2513.71,
       "etime": 2513.69,
       "text": "9."
@@ -5962,7 +5962,7 @@
       "id": "65c9a4fd378d777b2468e341",
       "issue": 411,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 2600.78,
       "etime": 2603.2,
       "text": "6+, телефон, который нужно носить в кармане."
@@ -6277,7 +6277,7 @@
       "id": "65c9a4fd378d777b2468e364",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 2690.95,
       "etime": 2692.31,
       "text": "Это без шуток, да."
@@ -6700,7 +6700,7 @@
       "id": "65c9a4fd378d777b2468e393",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 2873.8,
       "etime": 2874.44,
       "text": "Ужас какой."
@@ -8023,7 +8023,7 @@
       "id": "65c9a4fd378d777b2468e426",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3569.76,
       "etime": 3571.51,
       "text": "Что-то у тебя начинает скрежетать внутри."
@@ -9121,7 +9121,7 @@
       "id": "65c9a4fd378d777b2468e4a0",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4017.44,
       "etime": 4020.04,
       "text": "Кстати, мне он почему-то не отвечает."
@@ -9157,7 +9157,7 @@
       "id": "65c9a4fd378d777b2468e4a4",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4027.03,
       "etime": 4027.97,
       "text": "Да, наверное."
@@ -9292,7 +9292,7 @@
       "id": "65c9a4fd378d777b2468e4b3",
       "issue": 411,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 4082.43,
       "etime": 4084.13,
       "text": "А что такое вообще этот каталог?"
@@ -9328,7 +9328,7 @@
       "id": "65c9a4fd378d777b2468e4b7",
       "issue": 411,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4089.03,
       "etime": 4091.51,
       "text": "Нет, на Рамблер лучше не ходить."
@@ -9949,7 +9949,7 @@
       "id": "65c9a4fd378d777b2468e4fc",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4366.4,
       "etime": 4368.22,
       "text": "Мне так не кажется."
@@ -10336,7 +10336,7 @@
       "id": "65c9a4fd378d777b2468e527",
       "issue": 411,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4505.94,
       "etime": 4505.9,
       "text": "8.01?"
@@ -11155,7 +11155,7 @@
       "id": "65c9a4fd378d777b2468e582",
       "issue": 411,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4877.22,
       "etime": 4879.91,
       "text": "Это то, что нам описали в комментариях?"
@@ -11542,7 +11542,7 @@
       "id": "65c9a4fd378d777b2468e5ad",
       "issue": 411,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 5017.1,
       "etime": 5018.88,
       "text": "О, боже мой, какие дебилы."
@@ -12406,7 +12406,7 @@
       "id": "65c9a4fd378d777b2468e60d",
       "issue": 411,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5306.94,
       "etime": 5310.27,
       "text": "Извлечь и получить, это где там чекаут, а где пуш?"
@@ -12496,7 +12496,7 @@
       "id": "65c9a4fd378d777b2468e617",
       "issue": 411,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5329.48,
       "etime": 5336.19,
       "text": "У них, короче, по уму разные куски интерфейса переводили разные люди, потому что... Чтобы протолкнуть сначала."
@@ -12775,7 +12775,7 @@
       "id": "65c9a4fd378d777b2468e636",
       "issue": 411,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5425.09,
       "etime": 5425.07,
       "text": "Atlassian."
@@ -12892,7 +12892,7 @@
       "id": "65c9a4fd378d777b2468e643",
       "issue": 411,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5452.83,
       "etime": 5454.97,
       "text": "Лучшее в начале."
@@ -14728,7 +14728,7 @@
       "id": "65c9a4fd378d777b2468e70f",
       "issue": 411,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6364.86,
       "etime": 6364.32,
       "text": "The End of Linux."
@@ -15376,7 +15376,7 @@
       "id": "65c9a4fd378d777b2468e757",
       "issue": 411,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6638.11,
       "etime": 6638.89,
       "text": "У всех бывает так."

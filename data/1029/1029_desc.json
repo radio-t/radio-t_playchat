@@ -6,13 +6,13 @@
   "start_time": 1788640927,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a385",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a386",
       "title": "Claude Fable 5.1 - что нового",
       "links": [
         "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1"
@@ -20,7 +20,7 @@
       "time": "00:16:11"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a387",
       "title": "Fable 5.1 хорош по цене на задачу",
       "links": [
         "https://www.anthropic.com/claude-fable-and-mythos-5-1"
@@ -28,7 +28,7 @@
       "time": "00:21:16"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a388",
       "title": "GPT-6 Astra",
       "links": [
         "https://openai.com/index/gpt-6-astra/"
@@ -36,7 +36,7 @@
       "time": "00:24:53"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a389",
       "title": "Наконец что-то новое: Delta от создателей Zed",
       "links": [
         "https://zed.dev/blog/introducing-delta"
@@ -44,7 +44,7 @@
       "time": "01:26:18"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a38a",
       "title": "IBM Bob - смешно и грустно",
       "links": [
         "https://bob.ibm.com/"
@@ -52,7 +52,7 @@
       "time": "01:33:49"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a38b",
       "title": "GUI должны слиться с TUI",
       "links": [
         "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
@@ -60,7 +60,7 @@
       "time": "01:41:12"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521e27063d2e08c42a38c",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/09/01/prep-1029/"

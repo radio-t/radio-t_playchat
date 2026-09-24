@@ -6,7 +6,7 @@
   "start_time": 1414872000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f6c7063d2e08c420638",
       "title": "К 20й годовщине Design Patterns",
       "links": [
         "http://www.informit.com/articles/article.aspx?p=2249437"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f6c7063d2e08c420639",
       "title": "Consul Template",
       "links": [
         "https://hashicorp.com/blog/introducing-consul-template.html"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f6c7063d2e08c42063a",
       "title": "Конец рефакторинга",
       "links": [
         "http://prsm.tc/1sxml3"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f6c7063d2e08c42063b",
       "title": "MongoDB в памяти",
       "links": [
         "http://prsm.tc/QB0pTe"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f6c7063d2e08c42063c",
       "title": "Есть ли схема?",
       "links": [
         "http://blog.jooq.org/2014/10/20/stop-claiming-that-youre-using-a-schemaless-database/"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f6c7063d2e08c42063d",
       "title": "Быстрые SSD в GCE",
       "links": [
         "http://googlecloudplatform.blogspot.com/2014/10/announcing-beta-for-local-ssd.html"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f6c7063d2e08c42063e",
       "title": "Темы наших слушателей",
       "links": [
         "http://www.radio-t.com/p/2014/10/28/prep-416"

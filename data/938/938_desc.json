@@ -6,13 +6,13 @@
   "start_time": 1733603381,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521767063d2e08c42a024",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521767063d2e08c42a025",
       "title": "Выход ChatGPT Pro",
       "links": [
         "https://openai.com/index/introducing-chatgpt-pro/"
@@ -20,7 +20,7 @@
       "time": "00:12:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521767063d2e08c42a026",
       "title": "Проблема 70% для AI программирования",
       "links": [
         "https://addyo.substack.com/p/the-70-problem-hard-truths-about"
@@ -28,7 +28,7 @@
       "time": "00:28:34"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521767063d2e08c42a027",
       "title": "AI делает вас хуже",
       "links": [
         "https://slopwatch.com/posts/bad-programmer/"
@@ -36,7 +36,7 @@
       "time": "00:54:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521767063d2e08c42a028",
       "title": "Слабые указатели в Go",
       "links": [
         "https://victoriametrics.com/blog/go-weak-pointer/index.html"
@@ -44,7 +44,7 @@
       "time": "01:38:30"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521767063d2e08c42a029",
       "title": "Ошибки новых менеджеров",
       "links": [
         "https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/"
@@ -52,7 +52,7 @@
       "time": "01:59:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521767063d2e08c42a02a",
       "title": "Темы слушателей 938",
       "links": [
         "https://radio-t.com/p/2024/12/03/prep-938/"

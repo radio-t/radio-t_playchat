@@ -6,13 +6,13 @@
   "start_time": 1776543323,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a252",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a253",
       "title": "Безобидный readme.txt может сильно обидеть ваш iTerm",
       "links": [
         "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not"
@@ -20,7 +20,7 @@
       "time": "00:01:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a254",
       "title": "Выход Claude Opus 4.7, что-то не так",
       "links": [
         "https://www.anthropic.com/news/claude-opus-4-7"
@@ -28,7 +28,7 @@
       "time": "00:41:41"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a255",
       "title": "Как баг с cache TTL потратил наши токены",
       "links": [
         "https://github.com/anthropics/claude-code/issues/46829"
@@ -36,7 +36,7 @@
       "time": "00:59:41"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a256",
       "title": "Claude Design - теперь пришли за настоящими художниками",
       "links": [
         "https://www.anthropic.com/news/claude-design-anthropic-labs"
@@ -44,7 +44,7 @@
       "time": "01:12:14"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a257",
       "title": "Android CLI для агентов",
       "links": [
         "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html"
@@ -52,7 +52,7 @@
       "time": "01:21:43"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a258",
       "title": "Allbirds теперь тоже AI компания",
       "links": [
         "https://www.forbes.com/sites/zacharyfolk/2026/04/15/shoemaker-allbirds-suddenly-says-its-an-ai-company-and-stock-jumps-800/"
@@ -60,7 +60,7 @@
       "time": "01:35:43"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c67063d2e08c42a259",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/04/14/prep-1009/"

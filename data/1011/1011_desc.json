@@ -6,13 +6,13 @@
   "start_time": 1777753284,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a262",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a263",
       "title": "Ghostty уходит с GitHub",
       "links": [
         "https://mitchellh.com/writing/ghostty-leaving-github"
@@ -20,7 +20,7 @@
       "time": "00:32:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a264",
       "title": "Проблемы с доступностью GitHub",
       "links": [
         "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
@@ -28,7 +28,7 @@
       "time": "00:49:21"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a265",
       "title": "Как сделать правильный GitHub",
       "links": [
         "https://matduggan.com/if-i-could-make-my-own-github/"
@@ -36,7 +36,7 @@
       "time": "01:06:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a266",
       "title": "Zig как последний бастион без AI",
       "links": [
         "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -44,7 +44,7 @@
       "time": "01:22:02"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a267",
       "title": "Copy Fail",
       "links": [
         "https://copy.fail/"
@@ -52,7 +52,7 @@
       "time": "01:39:57"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a268",
       "title": "OpenAI пришли на Amazon Bedrock",
       "links": [
         "https://aws.amazon.com/bedrock/openai/"
@@ -60,7 +60,7 @@
       "time": "01:53:28"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a269",
       "title": "Zed теперь 1.0",
       "links": [
         "https://zed.dev/blog/zed-1-0"
@@ -68,7 +68,7 @@
       "time": "02:00:21"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521c97063d2e08c42a26a",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/04/29/prep-1011/"

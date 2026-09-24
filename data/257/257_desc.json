@@ -6,7 +6,7 @@
   "start_time": 1317582000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51edb7063d2e08c4200e8",
       "title": "Что нового в MongoDB 2.0",
       "links": [
         "http://blog.mongodb.org/post/10126837729/mongodb-2-0-released"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51edb7063d2e08c4200e9",
       "title": "Что хорошего в Cassandra 1.0",
       "links": [
         "http://www.datastax.com/dev/blog/whats-new-in-cassandra-1-0-improved-memory-and-disk-space-management"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51edb7063d2e08c4200ea",
       "title": "Такая странная архитектура LMAX",
       "links": [
         "http://martinfowler.com/articles/lmax.html"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51edb7063d2e08c4200eb",
       "title": "Disruptor — быстро, но странно",
       "links": [
         "http://code.google.com/p/disruptor/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51edb7063d2e08c4200ec",
       "title": "Что не так с Microsoft",
       "links": [
         "http://www.misfitgeek.com/2011/09/whats-wrong-with-microsoft/"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51edb7063d2e08c4200ed",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

@@ -6,7 +6,7 @@
   "start_time": 1521316800,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5200a7063d2e08c420c13",
       "title": "ACME v2 и Let's Encrypt завезли новые сертификаты",
       "links": [
         "https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5200a7063d2e08c420c14",
       "title": "Stack Overflow Developer Survey 2018",
       "links": [
         "https://insights.stackoverflow.com/survey/2018/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5200a7063d2e08c420c15",
       "title": "Гость про CQRS",
       "links": [
         "http://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5200a7063d2e08c420c16",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

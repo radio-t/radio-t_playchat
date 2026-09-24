@@ -6,7 +6,7 @@
   "start_time": 1346526000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f077063d2e08c420297",
       "title": "Релиз MongoDB 2.2 — что новенького",
       "links": [
         "http://www.opennet.ru/opennews/art.shtml?num=34702"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f077063d2e08c420298",
       "title": "ReactiveMongo в ассортименте",
       "links": [
         "https://github.com/zenexity/ReactiveMongo"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f077063d2e08c420299",
       "title": "Typesafe вырос на 300% и присматривается к рынку Java",
       "links": [
         "http://www.forbes.com/sites/petercohan/2012/08/30/typesafes-300-growth-targets-6-billion-java-market/"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f077063d2e08c42029a",
       "title": "Scala как новый Spring и почему это страшно",
       "links": [
         "http://www.theserverside.com/feature/Disruptive-forces-in-Java-Is-Scala-the-new-Spring-framework"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f077063d2e08c42029b",
       "title": "Почему OOP ужасен полностью и по частям",
       "links": [
         "http://harmful.cat-v.org/software/OO_programming/why_oo_sucks"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f077063d2e08c42029c",
       "title": "Так неужели он так уж плох?",
       "links": [
         "http://www.enrico-franchi.org/2012/08/does-object-oriented-programming-really.html"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f077063d2e08c42029d",
       "title": "Decorator Pattern для простых программистов",
       "links": [
         "http://zishanbilal.wordpress.com/2011/04/28/design-patterns-by-examples-decorator-pattern/"

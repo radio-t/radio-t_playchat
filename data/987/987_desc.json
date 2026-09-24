@@ -6,13 +6,13 @@
   "start_time": 1763238289,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a0",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a1",
       "title": "Go стукнуло 16",
       "links": [
         "https://go.dev/blog/16years"
@@ -20,7 +20,7 @@
       "time": "00:19:07"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a2",
       "title": "Beads: интересная память для агентов",
       "links": [
         "https://steve-yegge.medium.com/introducing-beads-a-coding-agent-memory-system-637d7d92514a"
@@ -28,7 +28,7 @@
       "time": "00:48:43"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a3",
       "title": "sudo-rs потому-что все лучше с растом",
       "links": [
         "https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10"
@@ -36,7 +36,7 @@
       "time": "00:58:54"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a4",
       "title": "Valve показали новую консоль и прочие радости",
       "links": [
         "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/"
@@ -44,7 +44,7 @@
       "time": "01:09:01"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a5",
       "title": "GPT-5.1 для всех",
       "links": [
         "https://openai.com/index/gpt-5-1-for-developers/"
@@ -52,7 +52,7 @@
       "time": "01:16:33"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a6",
       "title": "1Password теперь менее назойлив",
       "links": [
         "https://1password.com/blog/a-simpler-way-to-unlock-1password"
@@ -60,7 +60,7 @@
       "time": "01:32:30"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a7",
       "title": "Code Wiki",
       "links": [
         "https://codewiki.google/"
@@ -68,7 +68,7 @@
       "time": "01:39:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521ad7063d2e08c42a1a8",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/11/13/prep-987/"

@@ -6,13 +6,13 @@
   "start_time": 1708200771,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429ec9",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429eca",
       "title": "Sora очень впечатляет",
       "links": [
         "https://openai.com/sora"
@@ -20,7 +20,7 @@
       "time": "00:05:59"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429ecb",
       "title": "Радость против продуктивности",
       "links": [
         "https://www.atlassian.com/blog/devops/developer-experience-more-important"
@@ -28,7 +28,7 @@
       "time": "01:06:37"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429ecc",
       "title": "От Nginx отпочковался freenginx",
       "links": [
         "https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html"
@@ -36,7 +36,7 @@
       "time": "01:27:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429ecd",
       "title": "Из Go в Rust и код все еще читаем",
       "links": [
         "https://earthly.dev/blog/readability/"
@@ -44,7 +44,7 @@
       "time": "01:40:14"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429ece",
       "title": "Gemini 1.5 почти готова",
       "links": [
         "https://www.theverge.com/2024/2/15/24073457/google-gemini-1-5-ai-model-llm"
@@ -52,7 +52,7 @@
       "time": "01:58:44"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429ecf",
       "title": "Google Goose - как copilot, но другой",
       "links": [
         "https://www.businessinsider.com/google-goose-ai-model-language-ai-coding-2024-2"
@@ -60,7 +60,7 @@
       "time": "02:02:41"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214d7063d2e08c429ed0",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/02/13/prep-897/"

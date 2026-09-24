@@ -6,13 +6,13 @@
   "start_time": 1780776452,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521cf7063d2e08c42a286",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521cf7063d2e08c42a287",
       "title": "Как не надо называть комиты",
       "links": [
         "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
@@ -20,7 +20,7 @@
       "time": "00:37:04"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521cf7063d2e08c42a288",
       "title": "rsync отдался вибрационному программированию",
       "links": [
         "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0"
@@ -28,7 +28,7 @@
       "time": "00:54:21"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521cf7063d2e08c42a289",
       "title": "Не надо обновлять зависимости",
       "links": [
         "https://www.mendral.com/blog/you-should-not-update"
@@ -36,7 +36,7 @@
       "time": "01:02:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521cf7063d2e08c42a28a",
       "title": "Программисты готовы документировать для агентов, но не для людей",
       "links": [
         "https://blog.plover.com/meta/about-me.html"
@@ -44,7 +44,7 @@
       "time": "01:18:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521cf7063d2e08c42a28b",
       "title": "Uber начал подрезать токены",
       "links": [
         "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
@@ -52,7 +52,7 @@
       "time": "01:34:15"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521cf7063d2e08c42a28c",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/06/02/prep-1016/"

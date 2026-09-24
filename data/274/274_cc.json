@@ -922,7 +922,7 @@
       "id": "65c9218cbe83de83217fe3d9",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 354.22,
       "etime": 355.08,
       "text": "Да."
@@ -2434,7 +2434,7 @@
       "id": "65c9218cbe83de83217fe481",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 997.12,
       "etime": 997.16,
       "text": "Ну,"
@@ -2605,7 +2605,7 @@
       "id": "65c9218cbe83de83217fe494",
       "issue": 274,
       "type": "cc",
-      "author": "Lavale",
+      "author": "_artifact",
       "stime": 1065.5,
       "etime": 1067.82,
       "text": "Я не знаю, как вы живете."
@@ -2677,7 +2677,7 @@
       "id": "65c9218cbe83de83217fe49c",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1095.16,
       "etime": 1094.9,
       "text": "Significant reduction in crashing bugs."
@@ -2794,7 +2794,7 @@
       "id": "65c9218cbe83de83217fe4a9",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1134.82,
       "etime": 1134.8,
       "text": "Notifications better on the iPad."
@@ -2848,7 +2848,7 @@
       "id": "65c9218cbe83de83217fe4af",
       "issue": 274,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Umputun",
       "stime": 1155.22,
       "etime": 1156.7,
       "text": "А почему это убожество?"
@@ -3109,7 +3109,7 @@
       "id": "65c9218cbe83de83217fe4cc",
       "issue": 274,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Umputun",
       "stime": 1248.73,
       "etime": 1251.31,
       "text": "то оно у тебя всплывает экранчиком."
@@ -3685,7 +3685,7 @@
       "id": "65c9218cbe83de83217fe50c",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 1483.46,
       "etime": 1485.84,
       "text": "Померяться."
@@ -3991,7 +3991,7 @@
       "id": "65c9218cbe83de83217fe52e",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 1593.5,
       "etime": 1594.22,
       "text": "Одному."
@@ -5179,7 +5179,7 @@
       "id": "65c9218cbe83de83217fe5b2",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 2088.96,
       "etime": 2090.02,
       "text": "Я не понимаю тебя."
@@ -6178,7 +6178,7 @@
       "id": "65c9218cbe83de83217fe621",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 2533.58,
       "etime": 2534.62,
       "text": "Они у него есть."
@@ -6529,7 +6529,7 @@
       "id": "65c9218cbe83de83217fe648",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 2712.31,
       "etime": 2714.11,
       "text": "Какие меры?"
@@ -7033,7 +7033,7 @@
       "id": "65c9218cbe83de83217fe680",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2978.04,
       "etime": 2978.02,
       "text": "«We're not a search company anymore»."
@@ -7762,7 +7762,7 @@
       "id": "65c9218cbe83de83217fe6d1",
       "issue": 274,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Umputun",
       "stime": 3295.92,
       "etime": 3297.12,
       "text": "Вот совсем свежее мне."
@@ -9220,7 +9220,7 @@
       "id": "65c9218cbe83de83217fe773",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3887.72,
       "etime": 3887.7,
       "text": "Yahoo Answers."
@@ -9238,7 +9238,7 @@
       "id": "65c9218cbe83de83217fe775",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3893.44,
       "etime": 3893.42,
       "text": "Sketch a search."
@@ -9247,7 +9247,7 @@
       "id": "65c9218cbe83de83217fe776",
       "issue": 274,
       "type": "cc",
-      "author": "PetrDidenko",
+      "author": "_artifact",
       "stime": 3896.52,
       "etime": 3897.2,
       "text": "Это что такое?"
@@ -11290,7 +11290,7 @@
       "id": "65c9218cbe83de83217fe859",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4923.01,
       "etime": 4923.03,
       "text": "Я."
@@ -13225,7 +13225,7 @@
       "id": "65c9218cbe83de83217fe930",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5753.74,
       "etime": 5752.54,
       "text": "FBI.org."
@@ -14404,7 +14404,7 @@
       "id": "65c9218cbe83de83217fe9b3",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6234.93,
       "etime": 6234.91,
       "text": "Oil Rush."
@@ -15259,7 +15259,7 @@
       "id": "65c9218cbe83de83217fea12",
       "issue": 274,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Umputun",
       "stime": 6548.91,
       "etime": 6552.51,
       "text": "Приглашали, он не пришел."
@@ -15997,7 +15997,7 @@
       "id": "65c9218cbe83de83217fea64",
       "issue": 274,
       "type": "cc",
-      "author": "Lavale",
+      "author": "_artifact",
       "stime": 6856.32,
       "etime": 6858.12,
       "text": "Подготовился чувак."
@@ -16735,7 +16735,7 @@
       "id": "65c9218cbe83de83217feab6",
       "issue": 274,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 7170.3,
       "etime": 7168.98,
       "text": "JabberChat."

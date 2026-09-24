@@ -6,13 +6,13 @@
   "start_time": 1767471695,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b57063d2e08c42a1e0",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b57063d2e08c42a1e1",
       "title": "История про JDSL",
       "links": [
         "https://www.youtube.com/watch?v=kZGyz9jCUj0"
@@ -20,7 +20,7 @@
       "time": "00:46:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b57063d2e08c42a1e2",
       "title": "Миф о 90% снижении затрат",
       "links": [
         "https://sderosiaux.medium.com/the-90-cost-reduction-myth-in-ai-assisted-development-14d11c89f8d8"
@@ -28,7 +28,7 @@
       "time": "01:13:14"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b57063d2e08c42a1e3",
       "title": "Полезное для проверки ошибок в новом Go",
       "links": [
         "https://antonz.org/accepted/errors-astype/"
@@ -36,7 +36,7 @@
       "time": "01:48:08"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b57063d2e08c42a1e4",
       "title": "Темы слушателей 994",
       "links": [
         "https://radio-t.com/p/2026/01/02/prep-994/"

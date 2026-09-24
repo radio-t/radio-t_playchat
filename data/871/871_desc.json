@@ -6,6 +6,7 @@
   "start_time": 1691871602,
   "topics": [
     {
+      "id": "6ab521317063d2e08c428ec0",
       "title": "Каждому телефону по серверу",
       "links": [
         "https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/"
@@ -13,6 +14,7 @@
       "time": "00:01:25"
     },
     {
+      "id": "6ab521317063d2e08c428ec1",
       "title": "HashiCorp всех обидел и перешел на  Business Source License",
       "links": [
         "https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license"
@@ -20,6 +22,7 @@
       "time": "00:12:48"
     },
     {
+      "id": "6ab521317063d2e08c428ec2",
       "title": "Новинки в Go 1.21",
       "links": [
         "https://go.dev/doc/go1.21"
@@ -27,6 +30,7 @@
       "time": "00:32:02"
     },
     {
+      "id": "6ab521317063d2e08c428ec3",
       "title": "80% руководителей уже жалеют",
       "links": [
         "https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html"
@@ -34,11 +38,13 @@
       "time": "00:52:58"
     },
     {
+      "id": "6ab521317063d2e08c428ec4",
       "title": "Slack радикально обновился",
       "links": [
         "https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later"
       ],
       "time": "01:18:17"
     }
-  ]
+  ],
+  "tags": null
 }

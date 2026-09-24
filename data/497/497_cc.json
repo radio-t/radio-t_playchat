@@ -328,7 +328,7 @@
       "id": "65c9a9c29db8fec4b2d90a53",
       "issue": 497,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 144.62,
       "etime": 145.22,
       "text": "Не помнишь?"
@@ -616,7 +616,7 @@
       "id": "65c9a9c29db8fec4b2d90a73",
       "issue": 497,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 262.93,
       "etime": 264.21,
       "text": "Это был Cubasic."
@@ -2479,7 +2479,7 @@
       "id": "65c9a9c29db8fec4b2d90b42",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1263.02,
       "etime": 1258.4,
       "text": "GPS."
@@ -3649,7 +3649,7 @@
       "id": "65c9a9c29db8fec4b2d90bc4",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1977.17,
       "etime": 1977.15,
       "text": "Continuous Delivery."
@@ -4414,7 +4414,7 @@
       "id": "65c9a9c29db8fec4b2d90c19",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_06",
+      "author": "_artifact",
       "stime": 2321.35,
       "etime": 2324.01,
       "text": "Перла, перла ему хватает."
@@ -4567,7 +4567,7 @@
       "id": "65c9a9c29db8fec4b2d90c2a",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_06",
+      "author": "_artifact",
       "stime": 2381.9,
       "etime": 2383.56,
       "text": "Да-да."
@@ -5620,7 +5620,7 @@
       "id": "65c9a9c29db8fec4b2d90c9f",
       "issue": 497,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 2833.22,
       "etime": 2836.31,
       "text": "У них, по-моему, голова где-то в Калифорнии."
@@ -7816,7 +7816,7 @@
       "id": "65c9a9c29db8fec4b2d90d93",
       "issue": 497,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3777.24,
       "etime": 3780.26,
       "text": "Оно, кстати, не трекает, как ты бежишь."
@@ -10642,7 +10642,7 @@
       "id": "65c9a9c29db8fec4b2d90ecd",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5108.16,
       "etime": 5107.16,
       "text": "NixOS Package Manager."
@@ -11704,7 +11704,7 @@
       "id": "65c9a9c29db8fec4b2d90f43",
       "issue": 497,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5557.2,
       "etime": 5561.96,
       "text": "Короче, это... Держишь двумя руками и большими пальцами набираешь."
@@ -11938,7 +11938,7 @@
       "id": "65c9a9c29db8fec4b2d90f5d",
       "issue": 497,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5702.51,
       "etime": 5704.73,
       "text": "Ну да, видимо похруст."
@@ -14152,7 +14152,7 @@
       "id": "65c9a9c29db8fec4b2d91053",
       "issue": 497,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6596.26,
       "etime": 6597.38,
       "text": "Нет, что ты."
@@ -14656,7 +14656,7 @@
       "id": "65c9a9c29db8fec4b2d9108b",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6810.35,
       "etime": 6809.71,
       "text": "Selenium Automated Test Tool."
@@ -14917,7 +14917,7 @@
       "id": "65c9a9c29db8fec4b2d910a8",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6935.73,
       "etime": 6935.71,
       "text": "Swift 3.0."
@@ -15862,7 +15862,7 @@
       "id": "65c9a9c29db8fec4b2d91111",
       "issue": 497,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 7406.93,
       "etime": 7410.36,
       "text": "Force Touch на клавиатуре?"
@@ -16465,7 +16465,7 @@
       "id": "65c9a9c29db8fec4b2d91154",
       "issue": 497,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 7656.2,
       "etime": 7655.88,
       "text": "ClosureSpec."

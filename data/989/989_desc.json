@@ -6,13 +6,13 @@
   "start_time": 1764447590,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b0",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b1",
       "title": "Claude Opus 4.5 хорош",
       "links": [
         "https://www.anthropic.com/news/claude-opus-4-5"
@@ -20,7 +20,7 @@
       "time": "00:18:50"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b2",
       "title": "Reddit перешли с Python на Go и все стало лучше",
       "links": [
         "https://www.infoq.com/news/2025/11/reddit-comments-go-migration/"
@@ -28,7 +28,7 @@
       "time": "00:52:38"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b3",
       "title": "Обрастание проекта на одном примере",
       "links": [
         "https://github.com/umputun/stash/blob/master/README.md"
@@ -36,7 +36,7 @@
       "time": "01:01:59"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b4",
       "title": "Почему компании производят плохой код",
       "links": [
         "https://www.seangoedecke.com/bad-code-at-big-companies/"
@@ -44,7 +44,7 @@
       "time": "01:22:05"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b5",
       "title": "Kineto от JetBrains, тоже для вайб-кодеров",
       "links": [
         "https://kineto.dev/"
@@ -52,7 +52,7 @@
       "time": "01:44:29"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b6",
       "title": "Локальные LLM это фикция",
       "links": [
         "https://world.hey.com/dhh/local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b"
@@ -60,7 +60,7 @@
       "time": "01:53:14"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521af7063d2e08c42a1b7",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/11/25/prep-989/"

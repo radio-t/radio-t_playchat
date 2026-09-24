@@ -6,6 +6,7 @@
   "start_time": 1685218564,
   "topics": [
     {
+      "id": "6ab521247063d2e08c4270a8",
       "title": "Mimestream вышел",
       "links": [
         "https://mimestream.com/blog/whats-new-in-1.0"
@@ -13,6 +14,7 @@
       "time": "00:05:44"
     },
     {
+      "id": "6ab521247063d2e08c4270a9",
       "title": "Microsoft Build 2023",
       "links": [
         "https://www.theverge.com/23734104/microsoft-build-2023-ai-bing-copilot"
@@ -20,6 +22,7 @@
       "time": "00:29:13"
     },
     {
+      "id": "6ab521247063d2e08c4270aa",
       "title": "Хабру 17 лет",
       "links": [
         "https://habr.com/ru/companies/habr/articles/737764/"
@@ -27,6 +30,7 @@
       "time": "00:54:55"
     },
     {
+      "id": "6ab521247063d2e08c4270ab",
       "title": "Podman Desktop 1.0",
       "links": [
         "https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available"
@@ -34,6 +38,7 @@
       "time": "01:01:09"
     },
     {
+      "id": "6ab521247063d2e08c4270ac",
       "title": "GPT достало",
       "links": [
         "https://mkbaio.substack.com/p/please-stop-sending-me-emails-written"
@@ -41,6 +46,7 @@
       "time": "01:18:17"
     },
     {
+      "id": "6ab521247063d2e08c4270ad",
       "title": "VPN не надо использовать",
       "links": [
         "https://gist.github.com/joepie91/5a9909939e6ce7d09e29"
@@ -48,11 +54,13 @@
       "time": "01:28:21"
     },
     {
+      "id": "6ab521247063d2e08c4270ae",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2023/05/23/prep-860/"
       ],
       "time": "01:46:35"
     }
-  ]
+  ],
+  "tags": null
 }

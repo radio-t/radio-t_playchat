@@ -1201,7 +1201,7 @@
       "id": "65c9a5805dac3df1024b564a",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 537.04,
       "etime": 537.02,
       "text": "Indeed."
@@ -3154,7 +3154,7 @@
       "id": "65c9a5805dac3df1024b5723",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 1431.78,
       "etime": 1433.18,
       "text": "79."
@@ -3163,7 +3163,7 @@
       "id": "65c9a5805dac3df1024b5724",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 1431.82,
       "etime": 1433.18,
       "text": "Да, 79."
@@ -3172,7 +3172,7 @@
       "id": "65c9a5805dac3df1024b5725",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Umputun",
       "stime": 1434.46,
       "etime": 1436.23,
       "text": "Или 99 в канале."
@@ -3253,7 +3253,7 @@
       "id": "65c9a5805dac3df1024b572e",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1472.74,
       "etime": 1472.72,
       "text": "Apple.com."
@@ -3271,7 +3271,7 @@
       "id": "65c9a5805dac3df1024b5730",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1477.5,
       "etime": 1476,
       "text": "Mac."
@@ -3289,7 +3289,7 @@
       "id": "65c9a5805dac3df1024b5732",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1481.7,
       "etime": 1481.68,
       "text": "MacBook."
@@ -3919,7 +3919,7 @@
       "id": "65c9a5805dac3df1024b5778",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 1732.84,
       "etime": 1733.53,
       "text": "Нет."
@@ -5008,7 +5008,7 @@
       "id": "65c9a5805dac3df1024b57f1",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2209.41,
       "etime": 2209.47,
       "text": "Ммм."
@@ -7195,7 +7195,7 @@
       "id": "65c9a5805dac3df1024b58e4",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3180.79,
       "etime": 3181.73,
       "text": "А я, видишь, по-другому говорю."
@@ -8203,7 +8203,7 @@
       "id": "65c9a5805dac3df1024b5954",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3517.14,
       "etime": 3519.2,
       "text": "Я просто не пользуюсь совершенно."
@@ -8527,7 +8527,7 @@
       "id": "65c9a5805dac3df1024b5978",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3668.02,
       "etime": 3670.32,
       "text": "Ну да, это примерно одно и то же."
@@ -9634,7 +9634,7 @@
       "id": "65c9a5805dac3df1024b59f3",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4106.12,
       "etime": 4106.1,
       "text": "Oracle, VirtualBox, 3D Acceleration, Multiply Memory, Corruption, Vulnerability."
@@ -9931,7 +9931,7 @@
       "id": "65c9a5805dac3df1024b5a14",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4263.43,
       "etime": 4266.18,
       "text": "Ну, примерно так."
@@ -10318,7 +10318,7 @@
       "id": "65c9a5805dac3df1024b5a3f",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4410.64,
       "etime": 4412.7,
       "text": "Я, короче, к тому, что в..."
@@ -10381,7 +10381,7 @@
       "id": "65c9a5805dac3df1024b5a46",
       "issue": 444,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 4450.23,
       "etime": 4455.37,
       "text": "А как бы... А общего... А Product Owner не оказалось."
@@ -10975,7 +10975,7 @@
       "id": "65c9a5805dac3df1024b5a88",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4706.57,
       "etime": 4707.63,
       "text": "Для Android Wear."
@@ -11938,7 +11938,7 @@
       "id": "65c9a5805dac3df1024b5af3",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5109.88,
       "etime": 5112.68,
       "text": "Вот второй я совсем не понял."
@@ -13351,7 +13351,7 @@
       "id": "65c9a5805dac3df1024b5b90",
       "issue": 444,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5804.54,
       "etime": 5804.52,
       "text": "CVS?"
@@ -14332,7 +14332,7 @@
       "id": "65c9a5805dac3df1024b5bfd",
       "issue": 444,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6205.02,
       "etime": 6207.34,
       "text": "Я бы тоже обиделся."

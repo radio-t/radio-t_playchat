@@ -6,7 +6,7 @@
   "start_time": 1417896000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c420665",
       "title": "Как CoreOS и Docker посорились",
       "links": [
         "http://prsm.tc/zuzt2P"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c420666",
       "title": "Docker Machine, Swarm и Compose",
       "links": [
         "https://blog.docker.com/2014/12/announcing-docker-machine-swarm-and-compose-for-orchestrating-distributed-apps/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c420667",
       "title": "Docker Docker Hub Enterprise",
       "links": [
         "https://blog.docker.com/2014/12/docker-announces-docker-hub-enterprise/"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c420668",
       "title": "AWS Reserved Instance — обман трудящихся",
       "links": [
         "http://techcrunch.com/2014/12/02/aws-simplifies-ec2-reserved-instance-pricing/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c420669",
       "title": "AWS Data Transfer честно подешевел",
       "links": [
         "http://aws.amazon.com/blogs/aws/aws-data-transfer-price-reduction"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c42066a",
       "title": "Google анонсировал No-CAPTCHA",
       "links": [
         "http://geektimes.ru/post/242398/"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c42066b",
       "title": "Как No-CAPTCHA работает",
       "links": [
         "http://qnimate.com/how-does-googles-no-captcha-recaptcha-work/"
@@ -62,7 +62,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c42066c",
       "title": "JetBrains Xodus",
       "links": [
         "http://jetbrains.github.io/xodus/"
@@ -70,7 +70,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c42066d",
       "title": "GitHub был заблокирован",
       "links": [
         "http://techcrunch.com/2014/12/03/github-russia/"
@@ -78,7 +78,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c42066e",
       "title": "ORM как Anti-Pattern",
       "links": [
         "http://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html"
@@ -86,7 +86,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c42066f",
       "title": "Раскол nodejs",
       "links": [
         "http://habrahabr.ru/post/245013/"
@@ -94,7 +94,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f707063d2e08c420670",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

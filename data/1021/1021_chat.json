@@ -1,3 +1,1569 @@
 {
-  "chat": []
+  "chat": [
+    {
+      "id": "6ab521d77063d2e08c42a2b0",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Alex",
+      "datetime": 1783799957,
+      "text": "последнее время в клоде лимиты на 20 баксов по ощущениям стали в два раза больше чем было раньше"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b1",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "moremore24",
+      "author_name": "Segey",
+      "datetime": 1783799996,
+      "text": "Очень не хватает после названия сесии иконки клод/сodex. Руками дописываю «cc»/“codex”. \u003cbr/\u003e\u003cbr/\u003eВ целом приложение правильное. Спасибо. И кстати ограничение на два окна нормально. Дисциплинирует"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b2",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1783800080,
+      "text": "зачем руками? там есть cli который может это делать за тебя, попроси клод и кодекс, они сообразят"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b3",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783800080,
+      "text": "да, это случилось после их сделки с xAI"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b4",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "macw0rd",
+      "author_name": "Хомякович",
+      "datetime": 1783800123,
+      "text": "hiall!"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b5",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "moremore24",
+      "author_name": "Segey",
+      "datetime": 1783800156,
+      "text": "Чото не додумался. А сама идея рулить другими терминалами - вообще бобическая. Спасибо. Круто"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b6",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783800193,
+      "text": "холодненькая пошла"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b7",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "macw0rd",
+      "author_name": "Хомякович",
+      "datetime": 1783800212,
+      "text": "help!"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b8",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783800213,
+      "text": "news!, новости! \u003cem\u003e– 5 последних новостей для Радио-Т\u003c/em\u003e\u003cbr/\u003eанекдот!, анкедот!, joke!, chuck!, radiot!, oneliner!, facts!, excuse!, pirozhki!, zaibatsu!, excuse_en! \u003cem\u003e– расскажет анекдот или шутку\u003c/em\u003e\u003cbr/\u003eso! \u003cem\u003e– 1 случайный вопрос со StackOverflow\u003c/em\u003e\u003cbr/\u003eddg!, ?? \u003cem\u003e– поискать на DuckDuckGo, например: ddg! lambda\u003c/em\u003e\u003cbr/\u003esearch!, подкаст! \u003cem\u003e– искать в описаниях подкастов, например: search! lambda\u003c/em\u003e\u003cbr/\u003ewtf!, wtf? \u003cem\u003e– если не повезет, блокирует пользователя на какое-то время\u003c/em\u003e\u003cbr/\u003eban!, unban! \u003cem\u003e– забанить/разбанить (только для админов)\u003c/em\u003e\u003cbr/\u003eкогда?, when? \u003cem\u003e– расписание эфиров Радио-Т\u003c/em\u003e\u003cbr/\u003eБоремся за чистоту чата\u003cbr/\u003echat!, gpt!, ai!, чат! \u003cem\u003e– Спросите что-нибудь у ChatGPT\u003c/em\u003e\u003cbr/\u003esay! \u003cem\u003e– набраться мудрости\u003c/em\u003e\u003cbr/\u003eping \u003cem\u003e– ответит pong\u003c/em\u003e\u003cbr/\u003eпинг \u003cem\u003e– ответит понг\u003c/em\u003e\u003cbr/\u003eкто?, who? \u003cem\u003e– ведущие Радио-Т\u003c/em\u003e\u003cbr/\u003eкак?, how? \u003cem\u003e– online вещание Радио-Т\u003c/em\u003e\u003cbr/\u003eдоколе? \u003cem\u003e– день закрытия Радио-Т\u003c/em\u003e\u003cbr/\u003eправила, rules?, правила? \u003cem\u003e– правила общения в чате\u003c/em\u003e\u003cbr/\u003eвремя!, time!, который час? \u003cem\u003e– подcкажет время у ведущих\u003c/em\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2b9",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1783800214,
+      "text": "так рано кричать только нвчали 0-0 =)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ba",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800244,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e  прежде чем катить новую версию, гляньте ишью по вашим плагинами)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2bb",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "macw0rd",
+      "author_name": "Хомякович",
+      "datetime": 1783800278,
+      "text": "bobuk  то будет?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2bc",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800363,
+      "text": "А там ревдифф падает, там или агтерм надо фиксить, либо плагин)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2bd",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800382,
+      "text": "мне в agterm не хватает возможности сделать несколько сплитов в одном окне\u003cbr/\u003eлевый, правый терм, cmd+j, ctrl+~  - очень хорошо и удобно.\u003cbr/\u003eНо когда необходимо запустить пачку сервисов(которые взаимосвязаны) и не переключаясь мониторить их все, ну ведь удобно же иметь сплиты, разве нет?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2be",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800407,
+      "text": "Они есть, команд д вроде то"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2bf",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800446,
+      "text": "левый/правый - это я и имел ввиду cmd+d"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c0",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800496,
+      "text": "Я не понял, ладно, у меня сплитится)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c1",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1783800551,
+      "text": "У меня revdiff иногда открывается в ghosty вместо agterm"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c2",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800578,
+      "text": "так сплит делается по cmd+d\u003cbr/\u003eя же говорю про множественный сплит: вертикальные, горизонтальные и чтобы можно было подвигать границы\u003cbr/\u003eчтобы в одном окне все были сразу, понимаешь"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c3",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800584,
+      "text": "Я вот вчера ночью офигел что агтерм сам пошёл мне докер десктоп запустил. Другие бы упали)))"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c4",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800606,
+      "text": "та же история"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c5",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800615,
+      "text": "Понял, мб оно есть, надо покопаться в хелпе"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c6",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andryushkin",
+      "author_name": "andryushkin",
+      "datetime": 1783800639,
+      "text": "говорили больше двух не будет"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c7",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800640,
+      "text": "а ты еще попробуй удалить Ghostty и посмотри на agterm, там тогда шрифты пропадают нафиг"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c8",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800679,
+      "text": "так о том и речь, что часто надо запустить больше двух и наблюдать их одновременно, а не переключаться между окнами"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2c9",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andryushkin",
+      "author_name": "andryushkin",
+      "datetime": 1783800750,
+      "text": "umputun говорил, что будет до последнего стоять на том, что не больше двух"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ca",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "moremore24",
+      "author_name": "Segey",
+      "datetime": 1783800808,
+      "text": "Ага говорил"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2cb",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800812,
+      "text": "ну вот есть у тебя: фронт, бек, админка + 3 сервиса\u003cbr/\u003eи что, как животное переключаться между вкладками??"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2cc",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800821,
+      "text": "а не трех?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2cd",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783800825,
+      "text": "Лучше не переключаться вручную: используйте tiling window manager (i3/sway) — позволяет разместить фронт, бэк, админку и сервисы на одном экране; минус — требуется время на настройку и привыкание."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ce",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "KloggLV",
+      "author_name": "Alex Kirhenshtein",
+      "datetime": 1783800839,
+      "text": "Запусти в соседнем kitty"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2cf",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andryushkin",
+      "author_name": "andryushkin",
+      "datetime": 1783800852,
+      "text": "третье оверлей"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d0",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783800863,
+      "text": "так и делаю 😁️️️️️️\u003cbr/\u003eну хочется же чтобы нормально было, чтобы удалить kitty и все)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d1",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783800925,
+      "text": "я бы завёл оракула над output-ами который если что шлет вывод в claude на фикс. я что, животное на логи смотреть"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d2",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800976,
+      "text": "\u003ca href=\"https://github.com/Gaurav-Gosain/tuios\"\u003ehttps://github.com/Gaurav-Gosain/tuios\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d3",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783800993,
+      "text": "изврат, но чо поделать, если сильно хочется то)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d4",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "KloggLV",
+      "author_name": "Alex Kirhenshtein",
+      "datetime": 1783801005,
+      "text": "Зачем, это же purpose built  номинал - для всего остального есть другие"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d5",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "AK_2RC",
+      "author_name": "Alex Kovalev",
+      "datetime": 1783801084,
+      "text": "зачем миллион окон.. хрень\u003cbr/\u003ekitty решает задачу на ура\u003cbr/\u003eпросто при наличии такой фичи можно отказаться от kitty и все"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d6",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alek566",
+      "author_name": "Alek",
+      "datetime": 1783801280,
+      "text": "В Канаде даже дома нельзя голым ходить, если тебя могут увидеть соседи через окно"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d7",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "leskov_ilia",
+      "author_name": "Илья",
+      "datetime": 1783801371,
+      "text": "в наших палестинах я включаю кондей при 25🤷‍♂️"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d8",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "andryushkin",
+      "author_name": "andryushkin",
+      "datetime": 1783801464,
+      "text": "бывает влажность большая. люблю на ночь включать на 20"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2d9",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GrigoryKoposov",
+      "author_name": "Grigory Koposov",
+      "datetime": 1783801630,
+      "text": "начни с настольного"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2da",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783801645,
+      "text": "pin-pong наше все"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2db",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1783801669,
+      "text": "а кто-нибудь знает реалистичный теннис в VR? Я в настольный играю, очень похоже на реальный, прямо можно прокачивать технику, проверено на реале"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2dc",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783801690,
+      "text": "говорят паддел проще"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2dd",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783801699,
+      "text": "⚠️ Вещание подкаста началось - \u003ca href=\"https://stream.radio-t.com/\"\u003ehttps://stream.radio-t.com/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2de",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783801705,
+      "text": "ФУЙ Ksenia"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2df",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "host",
+      "author_name": "Ksenia",
+      "datetime": 1783801729,
+      "text": "Но Ельцин то в паддле не играл 😂"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e0",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783801745,
+      "text": "и где он теперь? 🤣"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e1",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1783802131,
+      "text": "Кажется, что umputun слегка \u0026#34;лукавит\u0026#34;, обозначая \u0026#34;мотоцикл\u0026#34; основной причиной прекращения своего подкаста 😉\u003cbr/\u003eСтолько лет никакое хобби не отменяло его, а вот, мол, появился \u0026#34;мотоцикл\u0026#34; и всё - пришлось делать выбор. Возможно мотлцикл и является одной из причин, но явно не основной 😊"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e2",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783802246,
+      "text": "Ksenia я просто ему грю, слыш, ты вот там повторяешь каждый раз всякое, наваяй ка скил со скриптом, чтоб не генерить каждый раз"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e3",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1783802277,
+      "text": "Кстати, superpowers активно развивается и вроде эти моменты там уже убрали, хотя это не точно"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e4",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1783802475,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e т.е. можно ему GDPR пдф-уу зашрузить и он сам по ней адекватный скилл сделает? Месяца 3 назад так не получалось 😊"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e5",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "im_slvr",
+      "author_name": "SLVR",
+      "datetime": 1783802853,
+      "text": "или не в том табе что запускался, к сожалени"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e6",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1783802941,
+      "text": "если написан подробный план, почему бы не использовать sonnet?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e7",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783802946,
+      "text": "Sonnet даёт модульную систему с явным управлением параметрами и переиспользованием модулей, но имеет меньше готовых высокоуровневых слоёв и примеров в сообществе по сравнению с Keras."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e8",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1783803103,
+      "text": "А зачем? Если на подписке"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2e9",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783803154,
+      "text": "пшто эта \u0026#34;дура\u0026#34; жрет токены как не в себя, имхо конечно, по этому я Fable ток на анализ даю, а вот кодить опус"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ea",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1783803179,
+      "text": "мне не хватает 100$ часто, особенно с fable, я его просил запускать субагентов на opus/sonnet, когда подзадача понятна, вроде есть эффект без потерь"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2eb",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "alek_sys",
+      "author_name": "Alexey Nesterov",
+      "datetime": 1783803182,
+      "text": "Так на подписке пофиг. Ну Fable да, там даже 20х не хватит, но Опус так вообще без проблем"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ec",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783803192,
+      "text": "соннет жрёт больше токенов чем экономит лимит"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ed",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1783803225,
+      "text": "это если думать надо"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ee",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783803259,
+      "text": "соннет наверно был бы неплох именно для запуска уже написанных скриптов, больше не для чего"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ef",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783803312,
+      "text": "тип Фэбл как аналитик/управленец, опус как имплементер, а вот всякое мелкое на уже чем то готовом, соннет - но я пока не понимаю как это сделать"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f0",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783803434,
+      "text": "Это прям GoT"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f1",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783803459,
+      "text": "Graph of Thoughts, где каждая мысль ещё и данные собирает"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f2",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mr_00ff",
+      "author_name": "Ilya",
+      "datetime": 1783803715,
+      "text": "Он сам определяет да. Fable часто запускает разные модели, в том числе и haiku"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f3",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1783803750,
+      "image_url": "https://chat.radio-t.com/logs/1021/AgACAgEAAx0CUPxcWQABCvMQalKvZkL589L29deyFsav3IK3184AAsINaxvdOJBGc0l4OYn4FTkBAAMCAAN5AAM8BA",
+      "image_width": 1280,
+      "image_height": 765,
+      "text": ""
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f4",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783803797,
+      "text": "всё начинается с шариков а заканчивается эмоджи"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f5",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783803817,
+      "text": "⚠️ GPT-5.6: Frontier intelligence that scales with your ambition - \u003ca href=\"https://openai.com/index/gpt-5-6/\"\u003ehttps://openai.com/index/gpt-5-6/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f6",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1783803830,
+      "text": "Оптом использования workflows поделитесь - может быть в ralphex внедрить для параллельного выполнения тасок или пакетов тасок?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f7",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783804116,
+      "text": "\u0026lt;offtopic\u0026gt;\u003cbr/\u003e я чет не понял, а agterm не умеет сплитить панельки для agent swarms? Пока слушаю вас попросил проанализировать дифф в саб-агенте, а оно мне вон оно чо \u003ccode\u003eError: To use agent swarms, install tmux:\u003c/code\u003e wtf? \u003cbr/\u003e\u0026lt;/offtopic\u0026gt;"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f8",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783804146,
+      "text": "она вроде уже пошустрее стала"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2f9",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1783804231,
+      "text": "это не атерм не умеет, это cc не соображает"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2fa",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783804273,
+      "text": "ну оно же, если я верно понимаю, должно через agtermctl подобное обрабатывать?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2fb",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "host",
+      "author_nickname": "umputun",
+      "author_name": "Umputun U",
+      "datetime": 1783804339,
+      "text": "тебе надо cc спрашивать почему он не сообразил"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2fc",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783804352,
+      "text": "окей, пасиб"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2fd",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783804455,
+      "text": "На работе приходится читать код, его потом на ревью коллегам отдавать, а они могут и прочитать.\u003cbr/\u003e\u003cbr/\u003eНо начал пет-проектик дома — ни строки пока не написал. И только пару раз только в реализацию тестов заглядывал чтобы пояснить агенту что он как-то плохо его написал, ибо бажина не починилась.\u003cbr/\u003e\u003cbr/\u003eЗачем мне его читать, если могу спросить агента как оно устроено?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2fe",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783804456,
+      "text": "можно читать чтобы учиться )"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a2ff",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783804461,
+      "text": "я тут начал читать диффы и вот нифига я не согласен, ну либо надо реально сперва написать тонну всего(( а эт надо было раньше читать тогда диффы, а не сейчас))))"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a300",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783804470,
+      "text": "при хорошем фундаменте действительно можно не особо читать. разве что тесты можно проглянуть, что соответствуют изначальное бизнес-логике"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a301",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783804510,
+      "text": "Даже без разницы, как оно там написано особо. Я единственный раз только на архитектуру влиял, чтобы сделать фронтовую часть такую, которую проще тестировать ему будет, не сильно страдая на моках лапши."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a302",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783804534,
+      "text": "ну ты же в плане не напишешь где использовать String::new() или String::with_capacity"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a303",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783804625,
+      "text": "На такое нужно бенчей всяких и профайлов памяти поделать, а потом сказать \u0026#34;го сделаем blazing fast\u0026#34;."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a304",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783804699,
+      "text": "Лол, и каким образом поплатился? Аж интересно стало что за кейс где мисы по алокаторам строки это прям страшно"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a305",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783804784,
+      "text": "Быстро, дешево, качественно - выберите два - никто не отменял."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a306",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783804785,
+      "text": "да пока нигде, просто у меня вызвало вопросы, пошел с ним поговорил, пошел идскуссы в интернете, еще когда человеки общались сами, почитал и понял что шляпа какая то в том кейсе, где оно впендюрило"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a307",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783804801,
+      "text": "так оно всегда дорого)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a308",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783804829,
+      "text": "Арену скиллов делать, видимо. Чтобы выполняло минимум пару них и потом нужно было выбрать лучший)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a309",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783804851,
+      "text": "А, понял. Просто преалок стринга более вумная, поэтому \u0026#34;это нам надо\u0026#34;))"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a30a",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783804900,
+      "text": "2026 век, вопрос о стрингах все ещё актуален)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a30b",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783804928,
+      "text": "на исторических данных сравнивать"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a30c",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783805009,
+      "text": "наоборот, with_capacity это преалок умный, тип если ты в строку много раз добавляешь еще че то, то тип разница с просто new на один преалок, тип лишний раз не ходить не выделять память, вроде так"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a30d",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783805010,
+      "text": "Так тож можно, прогнать на последние десять применений скиллов последних хотя бы. Но для этого заранее нужно соломки постелить, чтобы и чаты те прикапывать, и ревизию кода, чтобы воспроизвести те же условия можно было."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a30e",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783805013,
+      "text": "Скилл удовлетворённости текущих пользователей и customer retention, или рост клиентской базы за счёт новых фичей очень нужен."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a30f",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783805038,
+      "text": "⚠️ Apple sues OpenAI, accuses ex-employees of stealing trade secrets - 9to5Mac - \u003ca href=\"https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/\"\u003ehttps://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a310",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783805045,
+      "text": "\u003cstrong\u003eApple sues OpenAI, accuses ex-employees of stealing trade secrets - 9to5Mac\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e**Кратко:** Apple подала в суд на OpenAI, обвинив бывших сотрудников в краже коммерческой тайны ради OpenAI, описав использованные методы, вовлечённых лиц и требуя запретительных мер и возмещения убытков.\u003cbr/\u003e\u003cbr/\u003e- Иск утверждает, что бывшие сотрудники Apple, включая Чана Лю и Тан Тана, вынесли секреты компании и передали их OpenAI для развития аппаратного бизнеса.\u003cbr/\u003e- Тан Тан, бывший вице‑президент по дизайну, якобы использовал внутренние сведения Apple при собеседованиях и просил приносить «наглядные» комплектующие с рабочих мест.\u003cbr/\u003e- По версии Apple, кандидатам предлагали приносить прототипы, CAD‑файлы и раскрывать методологии, поставщиков и выбор компонентов во время интервью в OpenAI.\u003cbr/\u003e- Чан Лю обвиняется в эксплуатации уязвимости для скачивания более тысячи страниц конфиденциальных инженерных материалов и в не возвращении служебного ноутбука.\u003cbr/\u003e- Apple также утверждает, что OpenAI через партнёров пыталась копировать фирменные технологии обработки металла и запрашивала у поставщиков целенаправленную техническую информацию.\u003cbr/\u003e- В иске отмечено, что более 400 бывших сотрудников Apple уже работают в OpenAI, а её аппаратные усилия связаны с Jony Ive и приобретением io.\u003cbr/\u003e- Компания требует судебных запретов и компенсации, заявляя, что раскрытые факты — лишь «вершина айсберга» и что OpenAI не ответила на прежние обращения Apple."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a311",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1783805172,
+      "text": "А это в итоге не приведет к тому, что в какой-то момент критичный размер неконсистентности в архитектуре настанет, что добавление фичи или изменение будет требовать даже от агента изменения по всей кодовой базе, что даже при наличии адекватного регресса может привести к неприятным проблемам, а хуже то, что вожжи-то уже отпустили, никто не знает как оно там все написано и почему"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a312",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783805205,
+      "text": "Да, я это и имел ввиду, просто криво мысль сформулировал.\u003cbr/\u003e\u003cbr/\u003eЯ хотел сказать что заморачиваться такими мелкими оптимизациями, зачастую не имеет смысла. А вот когнитивную сложность раздувает значимо. На пол секунды дольше нужно будет думать, когда встретишь with_capacity"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a313",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783805300,
+      "text": "Это из чего следует Юю"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a314",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783805402,
+      "text": "Тогда я попрошу его сделать большой маркдаун с описанием текущей архитектуры, спрошу по нему какие там есть инконсистентности и попрошу план чтобы сделать красивше.\u003cbr/\u003e\u003cbr/\u003eИ пока он шуршит — немного почитаю эту сводку сам, может тоже идей каких-то ему дам."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a315",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1783805430,
+      "text": "Ну я выводы не делаю, так как сам не знаю ответа. Но если предположить, то в общем и целом, договориться между собой агенту смогут, особенно, что часто они пытаются замоделировать реальный мир в коде, что часто неверно, но так как изначальная задача сформулирована не инженерно, а как хотелка бизнесовая, то такие проблемы могут возникнуть"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a316",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783805458,
+      "text": "я нуб в расте прост, по этому мне чисто для селфимпрувмент, как сказала бы Ксения)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a317",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783805485,
+      "text": "я нуб в расте прост, по этому мне чисто для селфимпрувмент, как сказала бы Ксения)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a318",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783805485,
+      "text": "Хотя я верю, что когда проект будет сильно большой (пока там каких-то 20к строк кода вродь), то да, может стать тяжко. Но ничо, кусочками будем в модули выделять и переделывать)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a319",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1783805492,
+      "text": "Ну он расскажет, что у нас все сделано по inversion dependency принципу, а на самом деле в каждом файлике рандомных интерфейсов накидает"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a31a",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783805655,
+      "text": "Тут не просто перекупили таланты, а вынесли бумаги какие-то?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a31b",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1783805705,
+      "text": "Ну вы расскажите потом как оно, может уже можно уйти от чтения кода"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a31c",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783805782,
+      "text": "Apple в своё время так M1 начали делать - просто скупали талантов AMD, Intel."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a31d",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783805923,
+      "text": "⚠️ Introducing GPT-Live - \u003ca href=\"https://openai.com/index/introducing-gpt-live/\"\u003ehttps://openai.com/index/introducing-gpt-live/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a31e",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783805979,
+      "text": "на русском моделька стала с ещё более прибалтийским акцентом говорить 🙂 по английски да, пушка"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a31f",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "burov",
+      "author_name": "Dima B",
+      "datetime": 1783806120,
+      "text": "надо GPT-Live позвать, чтобы вместо Грея перебивала 😁"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a320",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "GuriaFS",
+      "author_name": "Aleksei Gurianov",
+      "datetime": 1783806151,
+      "text": "gpt live мне тьютора по языку заменила"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a321",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "akostenko",
+      "author_name": "😕 🍴",
+      "datetime": 1783806310,
+      "text": "о, огонь, будет еще удобней в пробке по пути с работы стоять"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a322",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "Alek566",
+      "author_name": "Alek",
+      "datetime": 1783806383,
+      "text": "Gemini можно бесплатно пользоваться"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a323",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "frikiT",
+      "author_name": "frikiT",
+      "datetime": 1783806825,
+      "text": "У меня также но в 2 лвл, 1 в кити и другой ятакже делаю в хердр, резюм если там был агент когда закрываю терминал"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a324",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783806863,
+      "text": "я с мужиком тож болтал еще до этой модели"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a325",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "likhomanenko",
+      "author_name": "Artem Likhomanenko",
+      "datetime": 1783806877,
+      "text": "вот и думайте"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a326",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783806927,
+      "text": "⚠️ I Think I Have LLM Burnout - \u003ca href=\"https://www.alecscollon.com/blog/llm-burnout/\"\u003ehttps://www.alecscollon.com/blog/llm-burnout/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a327",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783806933,
+      "text": "\u003cstrong\u003eI Think I Have LLM Burnout\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Я много использую LLM, работа изменилась — от кода к управлению и ревью LLM‑вывода. Это повысило продуктивность, но повторяющиеся ошибки, стиль и галлюцинации вызывают усталость и раздражение, пока нет ясной стратегии справиться с этим.\u003cbr/\u003e\u003cbr/\u003e- Использование: ежедневно часы взаимодействия с Claude, Codex, Qwen и ChatGPT; реже обычный веб‑поиск, чаще чтение AI‑текста.\u003cbr/\u003e- Смена роли: теперь задача — проектировать, описывать LLM, ревьюить сгенерированный код и дорабатывать финальную реализацию.\u003cbr/\u003e- Плюсы: LLM предлагают новые подходы, расширяют зоны комфорта и ускоряют рутинные запросы.\u003cbr/\u003e- Минусы: повторяющиеся ошибки, галлюцинации, однотипный стиль, эмодзи и фрагментированность утомляют при постоянном чтении.\u003cbr/\u003e- Эмоции: смесь продуктивности и раздражения — усталость от однообразия и ожидание предсказуемых проблем в ответах.\u003cbr/\u003e- Попытки справиться: персонализация, критический ревью вывода, переход к проверенным источникам при сомнении.\u003cbr/\u003e- Неясные шаги: пока нет решения; автор готов терпеть и надеется найти стратегию, чтобы не «потерять обед»."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a328",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783807081,
+      "text": "А промпт подтюнить, чтобы она так не делала?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a329",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783807138,
+      "text": "Так все придумано до нас) люди тоже договариваться не умеют, код читать не хотят и вообще ведут себя в точности как нейронки, но в 10-100 раз медленнее. Но жить то как-то надо.\u003cbr/\u003eПоэтому придумали целые ISO и даже для программистов IEC, где рассказывается что такое Traceability, ADR (architecture description) и как это сувать в eam (enterprise architecture management).\u003cbr/\u003eЕсть очень интересный, на мой взгляд, проект для этого всего. Всего 1 бинарник:\u003cbr/\u003e\u003ca href=\"https://github.com/cledouarec/sara\"\u003ehttps://github.com/cledouarec/sara\u003c/a\u003e\u003cbr/\u003eИли, для староверов, JVM комбаин с более продвинутой функциональностью:\u003cbr/\u003e\u003ca href=\"https://github.com/itsallcode/openfasttrace\"\u003ehttps://github.com/itsallcode/openfasttrace\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a32a",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783807151,
+      "text": "Клод - единственный, кто пишет более менее литературно. С добивками. С темпом. С расстановкой и не всегда ровными полными предложениями. А тире с кавычками и я могу писать."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a32b",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783807214,
+      "text": "no fluff, get precise"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a32c",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1783807409,
+      "text": "Rfc/adr - это не про тактический дизайн программы. Разница в том, что человек, который пишет код обычно имеет примерное представление в голове как он должен выглядеть, потому что он знает как модель реального мира ложится на абстракции программы. \u003cbr/\u003eПосмотрел на sara, выглядит, что в коде это прочитать будет гораздо проще"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a32d",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783807510,
+      "text": "Я всегда прошу искать только major problems, сообщить о мелких, но ничего с ними не делать. Если ещё накопать примеров что значит этот \u0026#34;major\u0026#34; — то вполне нормально перестаёт находить всякую ерунду бесконечно лишь бы найти."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a32e",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783807523,
+      "text": "представить,что клод на напишет десяток придирок, невозможно"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a32f",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783807622,
+      "text": "Сильное заявление, даже интересно было бы представить мир, в котором это действительно так)"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a330",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1783807707,
+      "text": "А у вас обычно как системные аналитики описали юз-кейсы, такими же абстракциями оно все и едет в код?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a331",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "a_arkhipov",
+      "author_name": "Anton Arkhipov",
+      "datetime": 1783807841,
+      "text": "Всегда можно попросить переписать какой-нить крупный проект например на раст и проверить тестами"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a332",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783808000,
+      "text": "⚠️ Why developers are ditching GitHub for Codeberg and self-hosting alternatives - \u003ca href=\"https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/\"\u003ehttps://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a333",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "mkots",
+      "author_name": "mkots",
+      "datetime": 1783808094,
+      "text": "Вот ровно потому, что маппинг там далеко не 1 к 1, код и не может быть единственным источником истины.\u003cbr/\u003eЕсли абстракции аналитиков не совпадают с кодом, то как мне, например, писать под это дело валидатопы? Я не могу тестировать код по коду-- это бессмысленно. Мне нужна четкая трассировка: вот этот странный технический костыль в коде написан ради вот этого конкретного юз-кейса. Если этой связи нет нигде, кроме головы разработчика, то при любой смене команды или серьезном рефакторинге эта модель реального мира просто рассыпется"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a334",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783808218,
+      "text": "\u003ca href=\"https://codeberg.org/Codeberg-Infrastructure/forgejo\"\u003ehttps://codeberg.org/Codeberg-Infrastructure/forgejo\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a335",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783808232,
+      "text": "Там из модификаций только визуалы"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a336",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783808616,
+      "text": "Неуловимый Forgejo"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a337",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783808807,
+      "text": "⚠️ Темы слушателей 021 - \u003ca href=\"https://radio-t.com/p/2026/07/09/prep-1021/\"\u003ehttps://radio-t.com/p/2026/07/09/prep-1021/\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a338",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783808825,
+      "text": "[1/14] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eDmitry Verkhoturov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase\"\u003eBenchmarking Coding Agents on Databricks’ Multi-Million Line Codebase\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003etl;dr pi рвёт claude code с теми же моделями как тузик грелку, решение задач стабильно дешевле при похожем качестве\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eBenchmarking Coding Agents on Databricks’ Multi-Million Line Codebase | Databricks Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКраткое резюме: Databricks протестировал кодовые агенты на миллионах строк кода внутри компании, оценив качество и стоимость; результаты показали, что сочетание моделей (включая открытые) и правильные «harness»-решения дают лучшую эффективность.\u003cbr/\u003e\u003cbr/\u003e- Бенчмарк: задачи взяты из реальных PR с тестами и ограничены по объёму, чтобы отражать рабочие сценарии инженеров Databricks.\u003cbr/\u003e- Результаты: модели и окружения сгруппировались в три уровня способностей; лучшие модели дороже, но не всегда экономичнее на задачу.\u003cbr/\u003e- Открытые модели: GLM 5.2 показала уровень, достаточный для ежедневных задач и выгодна по стоимости в ряде случаев.\u003cbr/\u003e- Цена за токен vs цена за задачу: низкая стоимость токена не гарантирует низкой стоимости задачи из‑за различий в эффективности рассуждения.\u003cbr/\u003e- Влияние harness: способ подачи контекста (например, Pi vs. нативные) сильно меняет стоимость и количество шагов при одинаковом качестве.\u003cbr/\u003e- Процесс сборки: фильтрация по свежести, ручные PR, наличию тестов, само‑содержательности и сквозной проверке для корректных задач.\u003cbr/\u003e- Вывод: внутренний бенчмарк даёт надёжные данные для оптимизации использования агентов; планируется расширять набор задач и автоматизировать маршрутизацию моделей."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a339",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783808825,
+      "text": "[2/14] \u003cstrong\u003e+7\u003c/strong\u003e от \u003cstrong\u003eIlkin Galoev\u003c/strong\u003e\u003cbr/\u003e\u003cem\u003eУмпутун был прав, появилась контора, которая разгребает за вайбкодерами, стартап Slopfix, берут $10 тысяч за неделю работы￼\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003ca href=\"https://vc.ru/ai/3018459-startap-slopfix-iz-polshi-optimizaciya-koda?ysclid=mrevq7x9xv216453758\"\u003ehttps://vc.ru/ai/3018459-startap-slopfix-iz-p...\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eError: \u003cpre\u003efailed to get summary from cache: can\u0026#39;t get content for https://vc.ru/ai/3018459-startap-slopfix-iz-polshi-optimizaciya-koda?ysclid=mrevq7x9xv216453758: can\u0026#39;t get summary for https://vc.ru/ai/3018459-startap-slopfix-iz-polshi-optimizaciya-koda?ysclid=mrevq7x9xv216453758: Get \u0026#34;https://ureadability.radio-t.com/api/content/v1/parser?token=undefined\u0026amp;url=https://vc.ru/ai/3018459-startap-slopfix-iz-polshi-optimizaciya-koda?ysclid=mrevq7x9xv216453758\u0026#34;: context deadline exceeded (Client.Timeout exceeded while awaiting headers)\u003c/pre\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a33a",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783808825,
+      "text": "[3/14] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eNikita Podelenko\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://bun.com/blog/bun-in-rust\"\u003ehttps://bun.com/blog/bun-in-rust\u003c/a\u003e\u003cem\u003e\u003cbr/\u003e\u003cbr/\u003eИстория переписывания Bun на Rust\u003cbr/\u003e\u003cbr/\u003e\u003c/em\u003e\u003cem\u003e\u003cbr/\u003ePre-merge, this took 5.9 billion uncached input tokens, 690 million output tokens, and 72 billion cached input token reads — around $165,000 at API pricing. By hand, I think this would’ve taken 3 engineers with full context on the codebase about a year, during which time we wouldn’t be able to improve Node.js compatibility, fix bugs, fix security issues or implement new features. We never would’ve done that. The realistic alternative was to do nothing and keep fixing the bugs at the top of this post forever.\u003cbr/\u003e\u003cbr/\u003eThis is the bleeding edge of what’s possible today. I used a pre-release version of Claude Fable 5, a Mythos-class model. Claude Code’s dynamic workflows kept 64 Claudes running for 11 days (I would’ve had to write my own harness to pull this off otherwise)\u003cbr/\u003e\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eRewriting Bun in Rust | Bun Blog\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Антропик приобрёл Bun; проект переписали из Zig в Rust с помощью Claude Fable 5 за 11 дней, чтобы улучшить безопасность и надёжность, сохранив поведение и тесты. Применялись ASAN, fuzzing и жёсткий adversarial code review.\u003cbr/\u003e\u003cbr/\u003e- Приобретение и контекст: Bun приобрёл Anthropic; автор использовал предрелиз Claude Fable 5 для массовой механической портации кода из Zig в Rust, сохраняя архитектуру и тестовую базу.\u003cbr/\u003e- Причины переписывания: Zig дал скорость и выполнение, но смешение GC и ручного управления памятью привело к use-after-free, утечкам и крашам, требующим системного решения.\u003cbr/\u003e- Меры безопасности: добавили ASAN в компилятор Zig, запускали тесты с ASAN, круглосуточно фуззили API (Fuzzilli) и покрыли множество end-to-end тестов утечек памяти.\u003cbr/\u003e- Подход к портации: решили делать механическую портацию «как трансляция» — сохранить поведение, затем постепенно рефакторить в идиоматичный Rust; тесты написаны на TypeScript, поэтому независимы от языка выполнения.\u003cbr/\u003e- Процесс и инструменты: около 50 динамических рабочих процессов Claude Code в петлях в течение 11 дней, автоматическая генерация портирования, исправление ошибок компиляции и запуск полного тест-сьюта.\u003cbr/\u003e- Контроль качества: использовали adversarial review (отдельные Claude-роли) с минимумом одного реализатора и двух ревьюеров; при ошибках улучшали процесс генерации, а не правили код вручную."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a33b",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783808825,
+      "text": "[4/14] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eLeonid Korsakov\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.anthropic.com/news/reflect-with-claude\"\u003ehttps://www.anthropic.com/news/reflect-with-claude\u003c/a\u003e\u003cem\u003e – «Представляем способ осмыслить то, как вы используете Claude»\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003eA new way to reflect on how you use Claude \\ Anthropic\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКратко: Бета‑функция «Рефлексия» в Claude показывает, как вы используете ИИ, визуализирует паттерны за 1/3/6/12 месяцев, помогает сформировать привычки, развивать навыки работы с ИИ и предлагает настройки приватности и перерывов.\u003cbr/\u003e\u003cbr/\u003e- Панель отражает использование Claude: ключевые темы, типы задач и частота за выбранный период (1/3/6/12 месяцев).\u003cbr/\u003e- Показывает, когда вы чаще всего пользуетесь Claude и на что тратите время; скоро добавят итоговое время использования.\u003cbr/\u003e- Встроенные вопросы побуждают задуматься: что вы всё ещё хотите делать самостоятельно, даже если Claude справится быстрее.\u003cbr/\u003e- Можно задать «тихие часы» и напоминания о перерыве; уведомления легко отключаются.\u003cbr/\u003e- 4D AI Fluency: Делегирование, Описание, Разборчивость и Добросовестность — оценки и примеры вашей работы с Claude.\u003cbr/\u003e- Приватность: инкогнито‑чаты и связанные файлы не используются; медицинские интеграции исключены; данные остаются в отчёте и не используются иначе.\u003cbr/\u003e- Доступно в бете для Free/Pro/Max с включённой памятью; включите в настройках веб‑или десктоп‑версии."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a33c",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "bot",
+      "author_nickname": "radiot_superbot",
+      "author_name": "radio-t bot",
+      "datetime": 1783808826,
+      "text": "[5/14] \u003cstrong\u003e+5\u003c/strong\u003e от \u003cstrong\u003eHerman Starzhynski\u003c/strong\u003e\u003cbr/\u003e\u003ca href=\"https://www.oreilly.com/radar/loop-engineering/\"\u003ehttps://www.oreilly.com/radar/loop-engineering/\u003c/a\u003e\u003cem\u003e – Loop engineering is replacing yourself as the person who prompts the agent. You design the system that does it instead.\u003c/em\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e\u003cbr/\u003eLoop Engineering – O’Reilly\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003eКороткое резюме:\u003cbr/\u003eLoop engineering — проектирование автономных «петель», которые сами формируют, выполняют и проверяют задачи с помощью агентов, заменяя ручное постоянное промптингование; ключевые части: автоматизации, worktrees, навыки, коннекторы, субагенты и память, но верификация остаётся за человеком.\u003cbr/\u003e\u003cbr/\u003e- Что такое петля: система, которая автоматически находит работу, раздает её агентам, проверяет результаты и решает следующий шаг без постоянного вмешательства человека.\u003cbr/\u003e- Автоматизации: расписания, триаж и повторные /goal или /loop запуски, которые поддерживают непрерывную работу и отправляют результаты в inbox или архив.\u003cbr/\u003e- Worktrees: отдельные рабочие директории (git worktree) для изоляции параллельных агентов, чтобы избежать конфликтов файлов и веток.\u003cbr/\u003e- Навыки (skills): \u003ca href=\"https://SKILL.md\"\u003eSKILL.md\u003c/a\u003e и сопутствующие файлы, где фиксируется контекст проекта и правила, чтобы агенты не «перегенерировали» цели заново.\u003cbr/\u003e- Плагины и коннекторы: MCP-подключения к таск-трекерам, CI, API и Slack, чтобы петля могла действовать в реальной среде (открывать PR, обновлять тикеты).\u003cbr/\u003e- Субагенты: разделение ролей — генератор и проверяющий (разные инструкции/модели) для уменьшения ошибок и повышения доверия к автоматическим решениям.\u003cbr/\u003e- Ограничения: петля ускоряет работу, но не снимает ответственность — верификация, понимание и предотвращение «когнитивной капитуляции» остаются за инженером."
+    },
+    {
+      "id": "6ab521d77063d2e08c42a33d",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "vicktim",
+      "author_name": "Victor Kim",
+      "datetime": 1783808940,
+      "text": "Она рассыпается именно потому, что моделировать программу через объекты реального мира неверно. При этом связь, конечно, есть, она выражена интерфейсами и доменными компонентами. Задача программиста же не просто перевести из одного shitty языка аналитиков в другой программисткий, а сделать систему, где выстроить доменную границу сервиса так, что юз-кейс лишь небольшая часть самого сервиса, это если говорить исключительно про бизнесовую часть, в остальном в принципе задача понимать как компьютер работает, а понимать уже предполагает, что мы предоставляем как работает каждый слой абстракций. Хотя в целом часто может быть программа исключительно один юз-кейс, тогда вполне можно обойтись и без этого"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a33e",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1783808952,
+      "text": "\u003ca class=\"mention\" href=\"https://t.me/umputun\"\u003e@umputun\u003c/a\u003e бери Жданов - хороший понятный пример )) там и поезд прямой был"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a33f",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783809082,
+      "text": "когда-то в Британии тоже была имперская система ж, но другая немножко"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a340",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783809100,
+      "text": "собственно поэтому она и имперская 🙂"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a341",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "livalex",
+      "author_name": "Alexey Livadnyi",
+      "datetime": 1783809403,
+      "text": "кажется, что это Остапы Бендеры нашего времени - рановато еще, не наигрались еще"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a342",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "fcoder",
+      "author_name": "Andrew Demonov",
+      "datetime": 1783809686,
+      "text": "это не про переписывание бан на раст - это про реакцию автора зига на переписывание и на поливание говном автора бана"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a343",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783809726,
+      "text": "так теперь bun лучше deno или догнал просто?"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a344",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783809752,
+      "image_url": "https://chat.radio-t.com/logs/1021/AgACAgIAAx0CUPxcWQABCvNlalLG2DXn4VDHztz_Ztb1WvxaXNAAAigYaxv1BZhKOdb3VRMzL_4BAAMCAAN4AAM8BA",
+      "image_width": 500,
+      "image_height": 521,
+      "text": ""
+    },
+    {
+      "id": "6ab521d77063d2e08c42a345",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "ruliov",
+      "author_name": "Alexander Ruliov",
+      "datetime": 1783809791,
+      "text": "Там, кстати, и постгрес на раст переписали) \u003ca href=\"https://github.com/malisper/pgrust\"\u003ehttps://github.com/malisper/pgrust\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a346",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "popstas",
+      "author_name": "Stanislav Popov",
+      "datetime": 1783809798,
+      "text": "litellm тоже начали переписывать - \u003ca href=\"https://docs.litellm.ai/blog/litellm-rust-launch\"\u003ehttps://docs.litellm.ai/blog/litellm-rust-launch\u003c/a\u003e"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a347",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783809885,
+      "text": "это чтобы в браузере в wasm запускать"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a348",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783810662,
+      "text": "за rtk спасибо большое, помогает"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a349",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "alterfo",
+      "author_name": "Oleg Sidorkin",
+      "datetime": 1783810741,
+      "text": "В клоде это в феврале закрыли"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a34a",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_nickname": "pkarpovich",
+      "author_name": "Pavel Karpovich",
+      "datetime": 1783811377,
+      "text": "Star City"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a34b",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Dmitry",
+      "datetime": 1783811397,
+      "text": "Не зря выбрал подкаст вместо футбола.\u003cbr/\u003eПодкаст закончился уже, а Англия до сих пор играет"
+    },
+    {
+      "id": "6ab521d77063d2e08c42a34c",
+      "issue": 1021,
+      "type": "chat",
+      "author_type": "listener",
+      "author_name": "Bright \u0026 Beach",
+      "datetime": 1783811638,
+      "text": "в чернобыле ключевые моменты из последней серии максимально переврали"
+    }
+  ]
 }

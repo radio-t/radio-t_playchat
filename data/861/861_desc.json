@@ -6,6 +6,7 @@
   "start_time": 1685823104,
   "topics": [
     {
+      "id": "6ab521257063d2e08c4270af",
       "title": "Reddit API стал очень дорогим",
       "links": [
         "https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing"
@@ -13,6 +14,7 @@
       "time": "00:04:02"
     },
     {
+      "id": "6ab521257063d2e08c4270b0",
       "title": "LLM не подходит для программистов",
       "links": [
         "https://www.infoworld.com/article/3697272/are-large-language-models-wrong-for-coding.html"
@@ -20,6 +22,7 @@
       "time": "00:25:41"
     },
     {
+      "id": "6ab521257063d2e08c4270b1",
       "title": "fq - как jq но для бинарных данных",
       "links": [
         "https://github.com/wader/fq/blob/master/README.md"
@@ -27,6 +30,7 @@
       "time": "00:38:21"
     },
     {
+      "id": "6ab521257063d2e08c4270b2",
       "title": "Опять про DI",
       "links": [
         "https://martinfowler.com/articles/dependency-composition.html"
@@ -34,6 +38,7 @@
       "time": "00:43:39"
     },
     {
+      "id": "6ab521257063d2e08c4270b3",
       "title": "Angry Miao HATSU Wireless Split Ergonomic Keyboard",
       "links": [
         "https://drop.com/buy/angry-miao-hatsu-wireless-ergonomic-split-ergo-keyboard?referer=YXXZ8A"
@@ -41,11 +46,13 @@
       "time": "01:05:13"
     },
     {
+      "id": "6ab521257063d2e08c4270b4",
       "title": "Темы наших слушателей",
       "links": [
         "https://radio-t.com/p/2023/05/30/prep-861"
       ],
       "time": "2:23:10"
     }
-  ]
+  ],
+  "tags": null
 }

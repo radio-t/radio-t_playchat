@@ -6,7 +6,7 @@
   "start_time": 1410030000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f657063d2e08c4205f5",
       "title": "DigitalOcean продвигает CoreOS в массы",
       "links": [
         "http://techcrunch.com/2014/09/05/digitalocean-partners-with-coreos-to-bring-large-scale-cluster-deployments-to-its-platform/"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f657063d2e08c4205f6",
       "title": "Страсти вокруг Markdown",
       "links": [
         "http://habrahabr.ru/post/235611/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f657063d2e08c4205f7",
       "title": "Если бы они были оружием",
       "links": [
         "http://bjorn.tipling.com/if-programming-languages-were-weapons"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f657063d2e08c4205f8",
       "title": "ZooKeeper — Царь горы",
       "links": [
         "http://prsm.tc/DAkIk2"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f657063d2e08c4205f9",
       "title": "Consul — новый и интересный кандидат",
       "links": [
         "http://progrium.com/blog/2014/08/20/consul-service-discovery-with-docker/"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f657063d2e08c4205fa",
       "title": "Скажем нет Акторам и прочим Green Threads на JVM",
       "links": [
         "http://boundary.com/blog/2014/09/03/no-you-cant-have-a-pony/"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f657063d2e08c4205fb",
       "title": "Apache CouchDB",
       "links": [
         "http://www.infoq.com/articles/apache-couchdb-the-definitive-introduction"

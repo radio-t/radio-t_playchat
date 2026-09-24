@@ -6,13 +6,13 @@
   "start_time": 1720296000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521617063d2e08c429f74",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521617063d2e08c429f75",
       "title": "5 причин почему PostgreSQL, а не Mongo",
       "links": [
         "https://blog.logto.io/postgresql-vs-mongodb/"
@@ -20,7 +20,7 @@
       "time": "00:06:18"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521617063d2e08c429f76",
       "title": "Программистский кризис наших дней",
       "links": [
         "https://wryl.tech/log/2024/the-software-crisis.html"
@@ -28,7 +28,7 @@
       "time": "00:46:46"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521617063d2e08c429f77",
       "title": "AI не заменит джуниоров",
       "links": [
         "https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/"
@@ -36,7 +36,7 @@
       "time": "01:03:23"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521617063d2e08c429f78",
       "title": "AI в Google в работе разработчиков",
       "links": [
         "https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/"
@@ -44,7 +44,7 @@
       "time": "01:31:14"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521617063d2e08c429f79",
       "title": "ChatGPT’s приложение для Mac немного опозорилось",
       "links": [
         "https://arstechnica.com/ai/2024/07/chatgpts-much-heralded-mac-app-was-storing-conversations-as-plain-text/"
@@ -52,7 +52,7 @@
       "time": "01:41:45"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521617063d2e08c429f7a",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/07/02/prep-917/"
@@ -60,6 +60,6 @@
       "time": "01:44:23"
     }
   ],
-  "verified": true,
-  "tags": null
+  "tags": null,
+  "verified": true
 }

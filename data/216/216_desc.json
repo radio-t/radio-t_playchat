@@ -6,7 +6,7 @@
   "start_time": 1291579200,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff89",
       "title": "Три \"R\" для чистоты вашего кода",
       "links": [
         "http://agile.dzone.com/news/three-rs-clean-code"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff8a",
       "title": "Ловить всегда",
       "links": [
         "http://www.theregister.co.uk/2006/01/11/exception_handling/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff8b",
       "title": "Не бросать никогда",
       "links": [
         "http://www.i-programmer.info/professional-programmer/i-programmer/1547-no-exceptions-ever.html"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff8c",
       "title": "Static против dynamic",
       "links": [
         "http://www.johndcook.com/blog/2010/12/01/static-versus-dynamic-typing/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff8d",
       "title": "Странное: SQL для NoSQL",
       "links": [
         "http://thediscoblog.com/2010/12/01/sql-for-the-nosql/"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff8e",
       "title": "Закат NoSQL для CouchDB",
       "links": [
         "http://www.readwriteweb.com/cloud/2010/11/the-end-of-nosql.php"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff8f",
       "title": "10 ошибок всех программистов",
       "links": [
         "http://www.techradar.com/news/software/applications/10-mistakes-every-programmer-makes-909424"
@@ -62,7 +62,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff90",
       "title": "200 строк, которые сделали чудо",
       "links": [
         "http://www.phoronix.com/scan.php?page=article\u0026item=linux_2637_video\u0026num=1"
@@ -70,7 +70,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51eb17063d2e08c41ff91",
       "title": "Взлом Git-репозитория проекта X.Org",
       "links": [
         "http://www.opennet.ru/opennews/art.shtml?num=28745"

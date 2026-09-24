@@ -6,7 +6,7 @@
   "start_time": 1375556400,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c42042a",
       "title": "Новое в Bootstrap 3.0",
       "links": [
         "http://antjanus.com/blog/web-design-tips/web-design-elements/best-new-features-in-bootstrap-3-0/"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c42042b",
       "title": "6 уроков от Dropbox",
       "links": [
         "http://highscalability.com/blog/2011/3/14/6-lessons-from-dropbox-one-million-files-saved-every-15-minu.html"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c42042c",
       "title": "Как перейти от 2,000 к 200M",
       "links": [
         "http://mashable.com/2013/07/30/dropbox-scaling/"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c42042d",
       "title": "Для чего надо Message Queue",
       "links": [
         "http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c42042e",
       "title": "NoSQL и Cargo Cult мышление",
       "links": [
         "http://programming.oreilly.com/2013/07/nosql-choices-to-misfit-or-cargo-cult.html"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c42042f",
       "title": "Новая VCS от JetBrains",
       "links": [
         "http://www.youtube.com/watch?v=PR8BhFv9KAU\u0026feature=youtu.be"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c420430",
       "title": "Пара слов про SQL injection",
       "links": [
         "http://www.troyhunt.com/2013/07/everything-you-wanted-to-know-about-sql.html"
@@ -62,7 +62,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f327063d2e08c420431",
       "title": "Новые мелкости в Elastic Load Balancing",
       "links": [
         "http://aws.typepad.com/aws/2013/07/elastic-load-balancing-adds-support-for-proxy-protocol.html"

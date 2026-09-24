@@ -6,13 +6,13 @@
   "start_time": 1754770869,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a12d",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a12e",
       "title": "Google передумали ломать интернет",
       "links": [
         "https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/"
@@ -20,7 +20,7 @@
       "time": "00:23:08"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a12f",
       "title": "gpt-oss от OpenAI",
       "links": [
         "https://openai.com/index/introducing-gpt-oss/"
@@ -28,7 +28,7 @@
       "time": "00:30:25"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a130",
       "title": "Claude Opus 4.1",
       "links": [
         "https://www.anthropic.com/news/claude-opus-4-1"
@@ -36,7 +36,7 @@
       "time": "01:03:35"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a131",
       "title": "Громкий выход GPT-5",
       "links": [
         "https://openai.com/index/introducing-gpt-5/"
@@ -44,7 +44,7 @@
       "time": "01:09:03"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a132",
       "title": "Надо читать код",
       "links": [
         "https://etsd.tech/posts/rtfc/"
@@ -52,7 +52,7 @@
       "time": "01:54:06"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a133",
       "title": "IntelliJ IDEA 2025.2 - сломали все",
       "links": [
         "https://blog.jetbrains.com/idea/2025/08/intellij-idea-2025-2/"
@@ -60,7 +60,7 @@
       "time": "02:04:42"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219d7063d2e08c42a134",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/08/06/prep-973/"

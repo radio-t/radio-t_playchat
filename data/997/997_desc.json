@@ -6,13 +6,13 @@
   "start_time": 1769285997,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b87063d2e08c42a1f6",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b87063d2e08c42a1f7",
       "title": "Свежий опрос разработчиков на Go",
       "links": [
         "https://go.dev/blog/survey2025"
@@ -20,7 +20,7 @@
       "time": "00:25:39"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b87063d2e08c42a1f8",
       "title": "Почему взрослые программисты дают проектам умереть",
       "links": [
         "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/"
@@ -28,7 +28,7 @@
       "time": "01:08:03"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b87063d2e08c42a1f9",
       "title": "30 лет ReactOS",
       "links": [
         "https://reactos.org/blogs/30yrs-of-ros//"
@@ -36,7 +36,7 @@
       "time": "01:18:50"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b87063d2e08c42a1fa",
       "title": "Десятилетний цикл избавления от программистов",
       "links": [
         "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html"
@@ -44,7 +44,7 @@
       "time": "01:26:07"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b87063d2e08c42a1fb",
       "title": "Пришло время мягкого",
       "links": [
         "https://www.qu8n.com/posts/most-important-software-engineering-skill-2026"
@@ -52,7 +52,7 @@
       "time": "01:49:33"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521b87063d2e08c42a1fc",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2026/01/20/prep-997/"

@@ -6,7 +6,7 @@
   "start_time": 1307300400,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51ecb7063d2e08c42006d",
       "title": "Мы дождались версии 3",
       "links": [
         "https://lkml.org/lkml/2011/5/29/204"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51ecb7063d2e08c42006e",
       "title": "TeamCity от первого лица",
       "links": [
         "http://www.jetbrains.com/teamcity/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51ecb7063d2e08c42006f",
       "title": "Что у нас со Scala",
       "links": [
         "http://blog.lexspoon.org/2011/06/martin-odersky-on-state-of-scala.html"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51ecb7063d2e08c420070",
       "title": "Такая противоречивая Netty",
       "links": [
         "http://www.redmonk.com/jgovernor/2011/05/12/typesafe-the-polyglot-revolution-continues-apace/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51ecb7063d2e08c420071",
       "title": "GitHub всех обогнал",
       "links": [
         "http://habrahabr.ru/blogs/Git/120535/"
@@ -46,13 +46,13 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51ecb7063d2e08c420072",
       "title": "Смесь бульдога с терминалом",
       "links": [],
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51ecb7063d2e08c420073",
       "title": "Темы(/p/2011/06/01/prep-241/) наших слушателей",
       "links": [],
       "time": ""

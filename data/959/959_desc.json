@@ -6,13 +6,13 @@
   "start_time": 1746303122,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0bd",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0be",
       "title": "Claude Code заработал с Max Plan",
       "links": [
         "https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan"
@@ -20,7 +20,7 @@
       "time": "00:09:48"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0bf",
       "title": "OpenAI откатил угодливые изменения",
       "links": [
         "https://openai.com/index/expanding-on-sycophancy/"
@@ -28,7 +28,7 @@
       "time": "00:31:05"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0c0",
       "title": "Redis вновь open source",
       "links": [
         "https://antirez.com/news/151"
@@ -36,7 +36,7 @@
       "time": "01:05:31"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0c1",
       "title": "JetBrains удалил то, что не стоило трогать",
       "links": [
         "https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/"
@@ -44,7 +44,7 @@
       "time": "01:10:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0c2",
       "title": "Microsoft отказывается от паролей",
       "links": [
         "https://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default"
@@ -52,7 +52,7 @@
       "time": "01:19:38"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0c3",
       "title": "Не так уж и хорош этот ваш AI",
       "links": [
         "https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/"
@@ -60,7 +60,7 @@
       "time": "01:29:21"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0c4",
       "title": "Raycast для iOS",
       "links": [
         "https://www.raycast.com/blog/raycast-for-ios"
@@ -68,7 +68,7 @@
       "time": "01:42:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0c5",
       "title": "Куда растет Go",
       "links": [
         "https://blog.jetbrains.com/research/2025/04/is-golang-still-growing-go-language-popularity-trends-in-2024/"
@@ -76,7 +76,7 @@
       "time": "01:47:55"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5218e7063d2e08c42a0c6",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/04/29/prep-959/"

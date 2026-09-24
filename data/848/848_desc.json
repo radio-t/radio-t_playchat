@@ -6,7 +6,7 @@
   "start_time": 1677960826,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c421374",
       "title": "JEP 430, String Templates – это очень странно",
       "links": [
         "https://openjdk.org/jeps/430"
@@ -14,7 +14,7 @@
       "time": "00:04:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c421375",
       "title": "Не используйте нормальные мониторы",
       "links": [
         "https://bt.ht/monitor/"
@@ -22,7 +22,7 @@
       "time": "00:24:28"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c421376",
       "title": "SCO наезд, 20 лет спустя",
       "links": [
         "https://lwn.net/SubscriberLink/924577/75ae0a1538029fcc/"
@@ -30,7 +30,7 @@
       "time": "00:38:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c421377",
       "title": "Новые цены на GitLab Premium",
       "links": [
         "https://about.gitlab.com/blog/2023/03/02/gitlab-premium-update/"
@@ -38,7 +38,7 @@
       "time": "00:44:39"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c421378",
       "title": "ChatGPT API теперь доступен",
       "links": [
         "https://openai.com/blog/introducing-chatgpt-and-whisper-apis"
@@ -46,7 +46,7 @@
       "time": "00:52:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c421379",
       "title": "DuckDB может и JSON",
       "links": [
         "https://duckdb.org/2023/03/03/json.html"
@@ -54,7 +54,7 @@
       "time": "00:59:48"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c42137a",
       "title": "Чистый код против производительности",
       "links": [
         "https://www.computerenhance.com/p/clean-code-horrible-performance"
@@ -62,7 +62,7 @@
       "time": "01:25:31"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521167063d2e08c42137b",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2023/02/28/prep-848/"

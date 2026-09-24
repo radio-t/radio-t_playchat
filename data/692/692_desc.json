@@ -6,7 +6,7 @@
   "start_time": 1583612983,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520707063d2e08c420f11",
       "title": "DigitalOcean Container Registry",
       "links": [
         "https://www.digitalocean.com/products/container-registry/?utm_medium=email"
@@ -14,7 +14,7 @@
       "time": "00:02:28"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520707063d2e08c420f12",
       "title": "Что не так с Git Flow",
       "links": [
         "https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/"
@@ -22,7 +22,7 @@
       "time": "00:10:37"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520707063d2e08c420f13",
       "title": "Что не так с совершенным кодом",
       "links": [
         "https://frederickvanbrabant.com/post/2020-02-07-the-economics-of-clean-code/"
@@ -30,7 +30,7 @@
       "time": "00:41:48"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520707063d2e08c420f14",
       "title": "8 проблем кубернетиса",
       "links": [
         "https://pythonspeed.com/articles/dont-need-kubernetes/"
@@ -38,7 +38,7 @@
       "time": "00:51:15"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520707063d2e08c420f15",
       "title": "Тенденция тоста параметров с CLI",
       "links": [
         "https://danluu.com/cli-complexity/"
@@ -46,7 +46,7 @@
       "time": "01:27:43"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520707063d2e08c420f16",
       "title": "CLUI - Graphical Command Line",
       "links": [
         "https://blog.repl.it/clui"
@@ -54,7 +54,7 @@
       "time": "01:31:08"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520707063d2e08c420f17",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2020/03/03/prep-692/"

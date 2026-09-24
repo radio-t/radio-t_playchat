@@ -652,7 +652,7 @@
       "id": "65c9a99d34d4c3c4d21220a2",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 250.78,
       "etime": 251.89,
       "text": "Вот она первая."
@@ -1174,7 +1174,7 @@
       "id": "65c9a99d34d4c3c4d21220dc",
       "issue": 487,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "_artifact",
       "stime": 499.26,
       "etime": 503.34,
       "text": "Я не думаю, что оно вообще нужно."
@@ -1552,7 +1552,7 @@
       "id": "65c9a99d34d4c3c4d2122106",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Umputun",
       "stime": 653.06,
       "etime": 653.78,
       "text": "Да ладно."
@@ -1786,7 +1786,7 @@
       "id": "65c9a99d34d4c3c4d2122120",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 715.18,
       "etime": 716.64,
       "text": "Все в PHD."
@@ -1921,7 +1921,7 @@
       "id": "65c9a99d34d4c3c4d212212f",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 773.02,
       "etime": 772.58,
       "text": "DRBD."
@@ -2335,7 +2335,7 @@
       "id": "65c9a99d34d4c3c4d212215d",
       "issue": 487,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 959.78,
       "etime": 963.02,
       "text": "Хотя он говорит, что он с сарказмом танцует."
@@ -2488,7 +2488,7 @@
       "id": "65c9a99d34d4c3c4d212216e",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 1022.42,
       "etime": 1025.54,
       "text": "Я думаю, что Amazon еще может и приплачивать, знаешь."
@@ -2866,7 +2866,7 @@
       "id": "65c9a99d34d4c3c4d2122198",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Umputun",
       "stime": 1244.46,
       "etime": 1246.14,
       "text": "Это какая-то очень неплохая."
@@ -3388,7 +3388,7 @@
       "id": "65c9a99d34d4c3c4d21221d2",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1463.16,
       "etime": 1464.3,
       "text": "Слушайте, ну, тему уже выбрали."
@@ -3406,7 +3406,7 @@
       "id": "65c9a99d34d4c3c4d21221d4",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1464.98,
       "etime": 1465.83,
       "text": "Чего?"
@@ -3631,7 +3631,7 @@
       "id": "65c9a99d34d4c3c4d21221ed",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1562.31,
       "etime": 1564.37,
       "text": "Я, конечно, вот это уже проверил."
@@ -4180,7 +4180,7 @@
       "id": "65c9a99d34d4c3c4d212222a",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1841.63,
       "etime": 1842.49,
       "text": "Может быть, может быть."
@@ -4324,7 +4324,7 @@
       "id": "65c9a99d34d4c3c4d212223a",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1916.11,
       "etime": 1917.45,
       "text": "Отличная проблеровка."
@@ -4684,7 +4684,7 @@
       "id": "65c9a99d34d4c3c4d2122262",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 2078.97,
       "etime": 2080.17,
       "text": "Такой же, как предыдущие Eclipse?"
@@ -5503,7 +5503,7 @@
       "id": "65c9a99d34d4c3c4d21222bd",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 2397.86,
       "etime": 2399.26,
       "text": "Покажи, есть UMAX."
@@ -6358,7 +6358,7 @@
       "id": "65c9a99d34d4c3c4d212231c",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 2801.74,
       "etime": 2803.49,
       "text": "Что, остались еще?"
@@ -7591,7 +7591,7 @@
       "id": "65c9a99d34d4c3c4d21223a5",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3328.87,
       "etime": 3328.35,
       "text": "Amazon Echo."
@@ -7636,7 +7636,7 @@
       "id": "65c9a99d34d4c3c4d21223aa",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 3335.37,
       "etime": 3336.29,
       "text": "Как ты ее призываешь."
@@ -8608,7 +8608,7 @@
       "id": "65c9a99d34d4c3c4d2122416",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3725.46,
       "etime": 3727.8,
       "text": "Ой, ну это так банально, да камон."
@@ -9490,7 +9490,7 @@
       "id": "65c9a99d34d4c3c4d2122478",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 4100.13,
       "etime": 4100.89,
       "text": "Это очень важно."
@@ -10102,7 +10102,7 @@
       "id": "65c9a99d34d4c3c4d21224bc",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4436.22,
       "etime": 4437.48,
       "text": "Типа того, да, типа того."
@@ -10588,7 +10588,7 @@
       "id": "65c9a99d34d4c3c4d21224f2",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4649.36,
       "etime": 4649.02,
       "text": "Shared Dictionary."
@@ -10723,7 +10723,7 @@
       "id": "65c9a99d34d4c3c4d2122501",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Umputun",
       "stime": 4688.88,
       "etime": 4691.02,
       "text": "Миллион, миллион, миллион."
@@ -11416,7 +11416,7 @@
       "id": "65c9a99d34d4c3c4d212254e",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4943.07,
       "etime": 4942.31,
       "text": "12 520."
@@ -12874,7 +12874,7 @@
       "id": "65c9a99d34d4c3c4d21225f0",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Umputun",
       "stime": 5530.16,
       "etime": 5530.24,
       "text": "Да."
@@ -13972,7 +13972,7 @@
       "id": "65c9a99d34d4c3c4d212266a",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 6019.39,
       "etime": 6021.27,
       "text": "Но оно серьезно снизилось."
@@ -14062,7 +14062,7 @@
       "id": "65c9a99d34d4c3c4d2122674",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6057.1,
       "etime": 6059.42,
       "text": "Он же прямо зажигает."
@@ -14404,7 +14404,7 @@
       "id": "65c9a99d34d4c3c4d212269a",
       "issue": 487,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6196.1,
       "etime": 6204.2,
       "text": "Там же у них все есть какие-то такие моменты, которые им могут помочь победить, я бы так сказала, слабости в кавычках."
@@ -14440,7 +14440,7 @@
       "id": "65c9a99d34d4c3c4d212269e",
       "issue": 487,
       "type": "cc",
-      "author": "PetrDidenko",
+      "author": "Ksenks",
       "stime": 6213.54,
       "etime": 6218.92,
       "text": "Маккейна вспомнила, что у него давно это было."
@@ -14548,7 +14548,7 @@
       "id": "65c9a99d34d4c3c4d21226aa",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6260.44,
       "etime": 6263.12,
       "text": "Нет, сейчас это сильная разница."
@@ -15160,7 +15160,7 @@
       "id": "65c9a99d34d4c3c4d21226ee",
       "issue": 487,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6616.04,
       "etime": 6617.06,
       "text": "В общем, круто, я считаю."
@@ -15178,7 +15178,7 @@
       "id": "65c9a99d34d4c3c4d21226f0",
       "issue": 487,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 6619.5,
       "etime": 6622.98,
       "text": "Прелестно, прелестно."

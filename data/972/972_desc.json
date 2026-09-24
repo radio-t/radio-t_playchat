@@ -6,13 +6,13 @@
   "start_time": 1754166319,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219c7063d2e08c42a126",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219c7063d2e08c42a127",
       "title": "Все в коде на самом деле dicts/maps",
       "links": [
         "https://roman.pt/posts/dont-let-dicts-spoil-your-code/"
@@ -20,7 +20,7 @@
       "time": "00:03:40"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219c7063d2e08c42a128",
       "title": "Claude Code подрезает активных пользователей",
       "links": [
         "https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/"
@@ -28,7 +28,7 @@
       "time": "00:41:29"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219c7063d2e08c42a129",
       "title": "JetBrains работают на языком для AI",
       "links": [
         "https://www.infoworld.com/article/4029053/jetbrains-working-on-higher-abstraction-programming-language.html?ref=dailydev"
@@ -36,7 +36,7 @@
       "time": "01:05:34"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219c7063d2e08c42a12a",
       "title": "Aspire 9.4",
       "links": [
         "https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/"
@@ -44,7 +44,7 @@
       "time": "01:19:26"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219c7063d2e08c42a12b",
       "title": "Proton Authenticator для 2FA",
       "links": [
         "https://proton.me/authenticator"
@@ -52,7 +52,7 @@
       "time": "01:49:26"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5219c7063d2e08c42a12c",
       "title": "Темы слушателей 972",
       "links": [
         "https://radio-t.com/p/2025/07/29/prep-972/"

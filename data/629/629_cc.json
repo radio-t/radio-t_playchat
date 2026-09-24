@@ -5242,7 +5242,7 @@
       "id": "65c9cc639d1bbe1ac1d1b7b3",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 2218.71,
       "etime": 2220.03,
       "text": "Стабилизатор?"
@@ -6151,7 +6151,7 @@
       "id": "65c9cc639d1bbe1ac1d1b818",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "_artifact",
       "stime": 2576.83,
       "etime": 2578.35,
       "text": "В полиэтиленовом мешке?"
@@ -7447,7 +7447,7 @@
       "id": "65c9cc639d1bbe1ac1d1b8a8",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 3034.35,
       "etime": 3033.79,
       "text": "Red?"
@@ -10615,7 +10615,7 @@
       "id": "65c9cc639d1bbe1ac1d1ba08",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 4387.75,
       "etime": 4388.47,
       "text": "100 миллионов."
@@ -11587,7 +11587,7 @@
       "id": "65c9cc639d1bbe1ac1d1ba74",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "_artifact",
       "stime": 4862.16,
       "etime": 4862.84,
       "text": "Ну."
@@ -12838,7 +12838,7 @@
       "id": "65c9cc639d1bbe1ac1d1baff",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5456.47,
       "etime": 5456.61,
       "text": "Нет."
@@ -13288,7 +13288,7 @@
       "id": "65c9cc639d1bbe1ac1d1bb31",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 5639.43,
       "etime": 5641.13,
       "text": "Там что-то, по-моему, апрель, июнь."
@@ -14179,7 +14179,7 @@
       "id": "65c9cc639d1bbe1ac1d1bb94",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 5993.93,
       "etime": 5994.87,
       "text": "Давайте."
@@ -14440,7 +14440,7 @@
       "id": "65c9cc639d1bbe1ac1d1bbb1",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6088.62,
       "etime": 6088.1,
       "text": "Windows Sandbox."
@@ -15115,7 +15115,7 @@
       "id": "65c9cc639d1bbe1ac1d1bbfc",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_02",
+      "author": "_artifact",
       "stime": 6376.1,
       "etime": 6378.06,
       "text": "Ардуина."
@@ -16303,7 +16303,7 @@
       "id": "65c9cc639d1bbe1ac1d1bc80",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6926.61,
       "etime": 6926.77,
       "text": "Так, «I do not like go»."
@@ -17968,7 +17968,7 @@
       "id": "65c9cc639d1bbe1ac1d1bd39",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "_artifact",
       "stime": 7692.54,
       "etime": 7692.76,
       "text": "Неа."
@@ -19750,7 +19750,7 @@
       "id": "65c9cc639d1bbe1ac1d1bdff",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 8298.33,
       "etime": 8299.55,
       "text": "Так и послали."
@@ -19768,7 +19768,7 @@
       "id": "65c9cc639d1bbe1ac1d1be01",
       "issue": 629,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 8304.45,
       "etime": 8304.87,
       "text": "Чуть-чуть."

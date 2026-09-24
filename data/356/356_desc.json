@@ -6,7 +6,7 @@
   "start_time": 1378580400,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f377063d2e08c420450",
       "title": "Мифы о NoSQL",
       "links": [
         "http://www.itexto.com.br/devkico/en/?p=20"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f377063d2e08c420451",
       "title": "Новое вокруг AWS",
       "links": [
         "http://aws.typepad.com/aws/2013/09/new-aws-command-line-interface-cli.html"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f377063d2e08c420452",
       "title": "Vert.x",
       "links": [
         "http://vertx.io/docs.html"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f377063d2e08c420453",
       "title": "GitHub против BitBucket",
       "links": [
         "http://www.makeuseof.com/tag/love-github-4-reasons-why-you-should-host-your-code-on-bitbucket/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f377063d2e08c420454",
       "title": "Wire Protocol Buffers",
       "links": [
         "http://corner.squareup.com/2013/08/introducing-wire.html"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f377063d2e08c420455",
       "title": "Что такое Aspect Oriented Programming",
       "links": [
         "http://know.cujojs.com/tutorials/aop/intro-to-aspect-oriented-programming"

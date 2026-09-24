@@ -463,7 +463,7 @@
       "id": "65c9a9cd187a568afbee0b2b",
       "issue": 500,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 152.93,
       "etime": 152.91,
       "text": "512."
@@ -2101,7 +2101,7 @@
       "id": "65c9a9cd187a568afbee0be1",
       "issue": 500,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 744.28,
       "etime": 745.72,
       "text": "Появился ты все-таки немножко раньше."
@@ -2110,7 +2110,7 @@
       "id": "65c9a9cd187a568afbee0be2",
       "issue": 500,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 746.49,
       "etime": 748.13,
       "text": "мне кажется."
@@ -2236,7 +2236,7 @@
       "id": "65c9a9cd187a568afbee0bf0",
       "issue": 500,
       "type": "cc",
-      "author": "PetrDidenko",
+      "author": "_artifact",
       "stime": 785.22,
       "etime": 786.74,
       "text": "Он молчит просто."
@@ -2335,7 +2335,7 @@
       "id": "65c9a9cd187a568afbee0bfb",
       "issue": 500,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "_artifact",
       "stime": 812.89,
       "etime": 814.49,
       "text": "Я помню этот момент, да."
@@ -2344,7 +2344,7 @@
       "id": "65c9a9cd187a568afbee0bfc",
       "issue": 500,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "_artifact",
       "stime": 814.53,
       "etime": 816.77,
       "text": "Подкаст меняет людей."
@@ -5332,7 +5332,7 @@
       "id": "65c9a9cd187a568afbee0d48",
       "issue": 500,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1908.76,
       "etime": 1908.74,
       "text": "Siri?"
@@ -10543,7 +10543,7 @@
       "id": "65c9a9cd187a568afbee0f8b",
       "issue": 500,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4315.65,
       "etime": 4317.59,
       "text": "Народ начал покупать из расчета."
@@ -10606,7 +10606,7 @@
       "id": "65c9a9cd187a568afbee0f92",
       "issue": 500,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4325,
       "etime": 4326.2,
       "text": "Майкрософт упал сразу."
@@ -11551,7 +11551,7 @@
       "id": "65c9a9cd187a568afbee0ffb",
       "issue": 500,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4784.11,
       "etime": 4784.09,
       "text": "Container Resource Service."
@@ -11884,7 +11884,7 @@
       "id": "65c9a9cd187a568afbee1020",
       "issue": 500,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4878.78,
       "etime": 4879.64,
       "text": "На андроиде."
@@ -12505,7 +12505,7 @@
       "id": "65c9a9cd187a568afbee1065",
       "issue": 500,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5092.58,
       "etime": 5097.16,
       "text": "Они придумали свою... Это база данных."
@@ -12865,7 +12865,7 @@
       "id": "65c9a9cd187a568afbee108d",
       "issue": 500,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5260.47,
       "etime": 5260.33,
       "text": "Clickhouse.yandex."
@@ -12883,7 +12883,7 @@
       "id": "65c9a9cd187a568afbee108f",
       "issue": 500,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5266.88,
       "etime": 5271.11,
       "text": "Ну, пользы никакой, конечно, но, тем не менее, решили, что почему бы нет, в конце концов."
@@ -13423,7 +13423,7 @@
       "id": "65c9a9cd187a568afbee10cb",
       "issue": 500,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5524.77,
       "etime": 5525.97,
       "text": "А каким образом?"
@@ -13558,7 +13558,7 @@
       "id": "65c9a9cd187a568afbee10da",
       "issue": 500,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5577.6,
       "etime": 5578.84,
       "text": "Ты все время это делаешь?"
@@ -14278,7 +14278,7 @@
       "id": "65c9a9cd187a568afbee112a",
       "issue": 500,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5890.63,
       "etime": 5891.83,
       "text": "Конечно."
@@ -14971,7 +14971,7 @@
       "id": "65c9a9cd187a568afbee1177",
       "issue": 500,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 6220.34,
       "etime": 6222.9,
       "text": "И что, и по программисту-то и будет вообще-то?"
@@ -16654,7 +16654,7 @@
       "id": "65c9a9cd187a568afbee1232",
       "issue": 500,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 7030.71,
       "etime": 7030.69,
       "text": "Habitat SH."
@@ -16681,7 +16681,7 @@
       "id": "65c9a9cd187a568afbee1235",
       "issue": 500,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 7038.11,
       "etime": 7039.75,
       "text": "Я, честно, не смотрел."
@@ -17068,7 +17068,7 @@
       "id": "65c9a9cd187a568afbee1260",
       "issue": 500,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 7204.89,
       "etime": 7208.92,
       "text": "Ну, во-первых, есть хорошая тема про LG Search."
@@ -18355,7 +18355,7 @@
       "id": "65c9a9cd187a568afbee12ef",
       "issue": 500,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 7755.69,
       "etime": 7752.84,
       "text": "Digital Ocean."

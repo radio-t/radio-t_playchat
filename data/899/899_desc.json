@@ -6,13 +6,13 @@
   "start_time": 1709410881,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214f7063d2e08c429edc",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214f7063d2e08c429edd",
       "title": "GitHub Copilot польза измерена научным путем",
       "links": [
         "https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/"
@@ -20,7 +20,7 @@
       "time": "00:09:03"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214f7063d2e08c429ede",
       "title": "Белый дом посоветовал список языков",
       "links": [
         "https://www.bleepingcomputer.com/news/security/white-house-urges-devs-to-switch-to-memory-safe-programming-languages/"
@@ -28,7 +28,7 @@
       "time": "00:48:21"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214f7063d2e08c429edf",
       "title": "FastUI для питона",
       "links": [
         "https://github.com/pydantic/FastUI/blob/main/README.md"
@@ -36,7 +36,7 @@
       "time": "01:08:32"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214f7063d2e08c429ee0",
       "title": "Смешно но как в жизни",
       "links": [
         "https://www.theolognion.com/p/company-forgets-why-they-exist-after-11-week-migration-to-kubernetes"
@@ -44,7 +44,7 @@
       "time": "01:24:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214f7063d2e08c429ee1",
       "title": "Apple вернет PWA в Европу",
       "links": [
         "https://appleinsider.com/articles/24/03/01/apple-reverses-course-on-death-of-progressive-web-apps-in-eu"
@@ -52,7 +52,7 @@
       "time": "01:32:14"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5214f7063d2e08c429ee2",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/02/29/prep-899/"

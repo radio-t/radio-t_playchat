@@ -6,13 +6,13 @@
   "start_time": 1725740505,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fbf",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fc0",
       "title": "2M пользователей, но нет денег",
       "links": [
         "https://exercism.org/blog/september-2024-restructure"
@@ -20,7 +20,7 @@
       "time": "00:03:25"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fc1",
       "title": "А вот этот собрал $1М только через GitHub Sponsors",
       "links": [
         "https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook"
@@ -28,7 +28,7 @@
       "time": "00:11:12"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fc2",
       "title": "Откровения бывшего инженера Sonos",
       "links": [
         "https://old.reddit.com/r/sonos/comments/1f79vk6/former_sonos_engineer_here_heartbroken_by_the_app/"
@@ -36,7 +36,7 @@
       "time": "00:30:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fc3",
       "title": "Оптимизация кода для grep",
       "links": [
         "https://morizbuesing.com/blog/greppability-code-metric/"
@@ -44,7 +44,7 @@
       "time": "01:01:28"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fc4",
       "title": "Goja: нативный JavaScript для Go",
       "links": [
         "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime"
@@ -52,7 +52,7 @@
       "time": "01:14:46"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fc5",
       "title": "Go против Python для лямбд",
       "links": [
         "https://atakanerbas.com/programming/2024/08/29/go-vs-python-serverless.html"
@@ -60,7 +60,7 @@
       "time": "01:29:26"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521697063d2e08c429fc6",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/09/03/prep-925/"

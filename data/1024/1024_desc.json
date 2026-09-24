@@ -6,13 +6,13 @@
   "start_time": 1785615508,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521dc7063d2e08c42a35b",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521dc7063d2e08c42a35c",
       "title": "GitHub завезли Stacked pull requests",
       "links": [
         "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
@@ -20,7 +20,7 @@
       "time": "00:47:36"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521dc7063d2e08c42a35d",
       "title": "Человек, в современном цикле разработки, устал",
       "links": [
         "https://pydantic.dev/articles/the-human-in-the-loop-is-tired"
@@ -28,7 +28,7 @@
       "time": "01:04:44"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521dc7063d2e08c42a35e",
       "title": "Superlogical - пока непонятно",
       "links": [
         "https://mitchellh.com/writing/superlogical"
@@ -36,7 +36,7 @@
       "time": "01:22:30"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521dc7063d2e08c42a35f",
       "title": "VPN оказывается нужен не только негодяям и преступникам",
       "links": [
         "https://remysharp.com/links/2026-07-23-35890312"
@@ -44,7 +44,7 @@
       "time": "01:29:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521dc7063d2e08c42a360",
       "title": "GPT 5.6 Sol пытался рулить бизнесом",
       "links": [
         "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
@@ -52,7 +52,7 @@
       "time": "01:37:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521dc7063d2e08c42a361",
       "title": "Бенчмарки Kimi K3, Opus 5, Grok 4.5 и всего прочего",
       "links": [
         "https://quesma.com/blog/baba-kimi-k3-opus-5/"

@@ -175,7 +175,7 @@
       "id": "65c9bba0cd665e582019ac8f",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 44.39,
       "etime": 42.85,
       "text": "Digital Ocean."
@@ -562,7 +562,7 @@
       "id": "65c9bba0cd665e582019acba",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 296.46,
       "etime": 296.44,
       "text": "Elastic Block Storage."
@@ -2119,7 +2119,7 @@
       "id": "65c9bba0cd665e582019ad67",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1051.62,
       "etime": 1051.6,
       "text": "General Default."
@@ -3226,7 +3226,7 @@
       "id": "65c9bba0cd665e582019ade2",
       "issue": 502,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1593.09,
       "etime": 1594.05,
       "text": "Ну, хочется же."
@@ -3730,7 +3730,7 @@
       "id": "65c9bba0cd665e582019ae1a",
       "issue": 502,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1820.89,
       "etime": 1822.23,
       "text": "А как ты просто пережил?"
@@ -5611,7 +5611,7 @@
       "id": "65c9bba0cd665e582019aeeb",
       "issue": 502,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 2692.4,
       "etime": 2693.02,
       "text": "Ну, почему нет?"
@@ -7420,7 +7420,7 @@
       "id": "65c9bba0cd665e582019afb4",
       "issue": 502,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3468.01,
       "etime": 3469.19,
       "text": "Нормальный вроде бы такой API."
@@ -9436,7 +9436,7 @@
       "id": "65c9bba0cd665e582019b094",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4288.84,
       "etime": 4288.82,
       "text": "TCD."
@@ -9544,7 +9544,7 @@
       "id": "65c9bba0cd665e582019b0a0",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4325.82,
       "etime": 4325.4,
       "text": "CP."
@@ -11182,7 +11182,7 @@
       "id": "65c9bba0cd665e582019b156",
       "issue": 502,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5024.43,
       "etime": 5029.77,
       "text": "В темах слушателей есть в самом начале очень неплохая такая темка."
@@ -11281,7 +11281,7 @@
       "id": "65c9bba0cd665e582019b161",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_03",
+      "author": "_artifact",
       "stime": 5074.35,
       "etime": 5076.25,
       "text": "Прикольно."
@@ -12091,7 +12091,7 @@
       "id": "65c9bba0cd665e582019b1bb",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5374.08,
       "etime": 5374.18,
       "text": "Да."
@@ -13270,7 +13270,7 @@
       "id": "65c9bba0cd665e582019b23e",
       "issue": 502,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5861.38,
       "etime": 5862.42,
       "text": "То есть прямо настолько?"
@@ -13387,7 +13387,7 @@
       "id": "65c9bba0cd665e582019b24b",
       "issue": 502,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5914.5,
       "etime": 5915.9,
       "text": "Слушай, а кто-то ещё, по-моему, был, нет?"
@@ -13738,7 +13738,7 @@
       "id": "65c9bba0cd665e582019b272",
       "issue": 502,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 6062.13,
       "etime": 6064.69,
       "text": "У меня то же самое было."
@@ -14287,7 +14287,7 @@
       "id": "65c9bba0cd665e582019b2af",
       "issue": 502,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6279.37,
       "etime": 6281.27,
       "text": "Он же только десктоп."
@@ -14431,7 +14431,7 @@
       "id": "65c9bba0cd665e582019b2bf",
       "issue": 502,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6325.75,
       "etime": 6325.09,
       "text": "Happens Apps."
@@ -15088,7 +15088,7 @@
       "id": "65c9bba0cd665e582019b308",
       "issue": 502,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6597.8,
       "etime": 6598.78,
       "text": "Да, конечно."
@@ -15250,7 +15250,7 @@
       "id": "65c9bba0cd665e582019b31a",
       "issue": 502,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6668.29,
       "etime": 6669.07,
       "text": "Ну, типа того, да."

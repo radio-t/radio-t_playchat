@@ -148,7 +148,7 @@
       "id": "65c9cc14666bbffef7ebed99",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_00",
+      "author": "Ksenks",
       "stime": 25.91,
       "etime": 27.43,
       "text": "Я сказала «привет»."
@@ -571,7 +571,7 @@
       "id": "65c9cc14666bbffef7ebedc8",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 210.54,
       "etime": 211.42,
       "text": "Так тебе понятно?"
@@ -1219,7 +1219,7 @@
       "id": "65c9cc14666bbffef7ebee10",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_00",
+      "author": "Ksenks",
       "stime": 486.95,
       "etime": 488.71,
       "text": "Да, кофе там."
@@ -1273,7 +1273,7 @@
       "id": "65c9cc14666bbffef7ebee16",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_00",
+      "author": "Ksenks",
       "stime": 499.8,
       "etime": 500.74,
       "text": "Ну, можно, да, наверное."
@@ -3883,7 +3883,7 @@
       "id": "65c9cc14666bbffef7ebef38",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Bobuk",
       "stime": 1610.64,
       "etime": 1611.02,
       "text": "А посмотри."
@@ -5098,7 +5098,7 @@
       "id": "65c9cc14666bbffef7ebefbf",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 2119.02,
       "etime": 2119.96,
       "text": "Потому что он пурровер."
@@ -6061,7 +6061,7 @@
       "id": "65c9cc14666bbffef7ebf02a",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2543.16,
       "etime": 2543.14,
       "text": "450."
@@ -10282,7 +10282,7 @@
       "id": "65c9cc14666bbffef7ebf1ff",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Bobuk",
       "stime": 4355.04,
       "etime": 4357.3,
       "text": "Как-то еще хуже."
@@ -10291,7 +10291,7 @@
       "id": "65c9cc14666bbffef7ebf200",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Bobuk",
       "stime": 4357.36,
       "etime": 4359.36,
       "text": "Ну ладно, давай."
@@ -18112,7 +18112,7 @@
       "id": "65c9cc14666bbffef7ebf565",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Bobuk",
       "stime": 7604.26,
       "etime": 7606.74,
       "text": "Ну, суров, суров."
@@ -19516,7 +19516,7 @@
       "id": "65c9cc14666bbffef7ebf601",
       "issue": 611,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Bobuk",
       "stime": 8256.02,
       "etime": 8257.06,
       "text": "В рекламу."

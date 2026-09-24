@@ -6,7 +6,7 @@
   "start_time": 1407006000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f617063d2e08c4205cf",
       "title": "Павел Емельянов о CRIU",
       "links": [
         "http://criu.org/Main_Page"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f617063d2e08c4205d0",
       "title": "О контейнерах и особенностях их миграции",
       "links": [
         "http://www.opennet.ru/opennews/art.shtml?num=40126"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f617063d2e08c4205d1",
       "title": "Почему Docker так популярен?",
       "links": [
         "https://www.docker.com"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f617063d2e08c4205d2",
       "title": "Route 53 убивает GoDaddy",
       "links": [
         "http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/registrar.html"
@@ -38,13 +38,13 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f617063d2e08c4205d3",
       "title": "О светлячках и зайцах",
       "links": [],
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f617063d2e08c4205d4",
       "title": "NoSQL никуда не годится",
       "links": [
         "http://www.itworld.com/big-data/428717/nosql-no-go-once-again"
@@ -52,7 +52,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f617063d2e08c4205d5",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

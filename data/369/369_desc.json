@@ -6,7 +6,7 @@
   "start_time": 1386442800,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f427063d2e08c4204be",
       "title": "Выход IntelliJ IDEA 13",
       "links": [
         "http://blog.jetbrains.com/idea/2013/12/intellij-idea-13-is-released-work-miracles-in-java-and-beyond/"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f427063d2e08c4204bf",
       "title": "DigitalOcean теперь с AMS2",
       "links": [
         "https://www.digitalocean.com/blog_posts/digitalocean-announces-second-amsterdam-datacenter-ams2"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f427063d2e08c4204c0",
       "title": "Google Compute Engine доступен для всех",
       "links": [
         "http://habrahabr.ru/post/204644/"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f427063d2e08c4204c1",
       "title": "Tim Fox о Vert.x",
       "links": [
         "http://www.jclarity.com/2013/12/04/stalwarts-in-tech-an-interview-with-tim-fox-why-vert-is-better-than-nodejs/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f427063d2e08c4204c2",
       "title": "Наброс по поводу Scala",
       "links": [
         "http://overwatering.org/blog/2013/12/scala-1-star-would-not-program-again/"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f427063d2e08c4204c3",
       "title": "По поводу магии autowiring",
       "links": [
         "http://blog.frankel.ch/tag/autowiring"

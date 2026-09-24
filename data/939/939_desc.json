@@ -6,13 +6,13 @@
   "start_time": 1734208163,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521777063d2e08c42a02b",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521777063d2e08c42a02c",
       "title": "Беда с зависимостями",
       "links": [
         "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
@@ -20,7 +20,7 @@
       "time": "00:07:20"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521777063d2e08c42a02d",
       "title": "Новые возможности Apple Intelligence",
       "links": [
         "https://www.apple.com/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/"
@@ -28,7 +28,7 @@
       "time": "01:11:46"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521777063d2e08c42a02e",
       "title": "Sora уже тут но пока не очень впечатляет",
       "links": [
         "https://openai.com/index/sora-is-here/"
@@ -36,7 +36,7 @@
       "time": "01:43:15"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521777063d2e08c42a02f",
       "title": "Квантовая революция наступила",
       "links": [
         "https://blog.google/technology/research/google-willow-quantum-chip/"
@@ -44,7 +44,7 @@
       "time": "02:01:04"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521777063d2e08c42a030",
       "title": "Темы слушателей 939",
       "links": [
         "https://radio-t.com/p/2024/12/10/prep-939/"

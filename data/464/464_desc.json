@@ -6,7 +6,7 @@
   "start_time": 1443902400,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207f8",
       "title": "Otto заменяет Vagrant",
       "links": [
         "https://www.ottoproject.io/intro/index.html"
@@ -14,7 +14,7 @@
       "time": "00:04:59"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207f9",
       "title": "Nomad — кластер от HashiCorp",
       "links": [
         "https://hashicorp.com/blog/nomad.html"
@@ -22,7 +22,7 @@
       "time": "00:17:09"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207fa",
       "title": "Зачем учить новый язык?",
       "links": [
         "http://www.webcodegeeks.com/web-development/learn-new-programming-language/"
@@ -30,7 +30,7 @@
       "time": "00:37:51"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207fb",
       "title": "Доступна IntelliJ IDEA 15 Preview",
       "links": [
         "http://habrahabr.ru/company/JetBrains/blog/268117/"
@@ -38,7 +38,7 @@
       "time": "00:47:02"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207fc",
       "title": "Git Large File Storage",
       "links": [
         "https://github.com/blog/2069-git-large-file-storage-v1-0"
@@ -46,7 +46,7 @@
       "time": "00:55:20"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207fd",
       "title": "Новый AWS Storage",
       "links": [
         "https://aws.amazon.com/blogs/aws/aws-storage-update-new-lower-cost-s3-storage-option-glacier-price-reduction/"
@@ -54,7 +54,7 @@
       "time": "01:01:48"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207fe",
       "title": "Парковка для EC2",
       "links": [
         "http://www.parkmycloud.com/2015/09/15/you-want-me-to-do-what-with-my-ec2-instances/"
@@ -62,7 +62,7 @@
       "time": "01:05:35"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c4207ff",
       "title": "Rackspace и с Amazon?",
       "links": [
         "http://www.theregister.co.uk/2015/09/30/rackspace_amazon_sure_you_can_buy_their_cloud_from_us/"
@@ -70,7 +70,7 @@
       "time": "01:32:41"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f967063d2e08c420800",
       "title": "Темы наших слушателей",
       "links": [
         "https://radio-t.com/p/2015/09/29/prep-464/"

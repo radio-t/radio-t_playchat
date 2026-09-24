@@ -6,13 +6,13 @@
   "start_time": 1759004635,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a167",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a168",
       "title": "OpenAI придумали как померить влияние моделей",
       "links": [
         "https://openai.com/index/gdpval/"
@@ -20,7 +20,7 @@
       "time": "00:32:37"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a169",
       "title": "Последнее поколение программистов",
       "links": [
         "https://www.xipu.li/posts/the-last-programmers"
@@ -28,7 +28,7 @@
       "time": "00:42:45"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a16a",
       "title": "ChatGPT Pulse",
       "links": [
         "https://openai.com/index/introducing-chatgpt-pulse/"
@@ -36,7 +36,7 @@
       "time": "01:02:35"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a16b",
       "title": "GitHub Copilot CLI вышел",
       "links": [
         "https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/"
@@ -44,7 +44,7 @@
       "time": "01:06:53"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a16c",
       "title": "Ggithub/spec-kit: сложно но интересно",
       "links": [
         "https://github.com/github/spec-kit"
@@ -52,7 +52,7 @@
       "time": "01:10:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a16d",
       "title": "Cloudflare добавили сервис для Email",
       "links": [
         "https://blog.cloudflare.com/email-service/"
@@ -60,7 +60,7 @@
       "time": "01:17:21"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a16e",
       "title": "Cap'n Web: новая RPC для веба",
       "links": [
         "https://blog.cloudflare.com/capnweb-javascript-rpc-library/"
@@ -68,7 +68,7 @@
       "time": "01:22:18"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a16f",
       "title": "Libghostty открывает перспективы",
       "links": [
         "https://mitchellh.com/writing/libghostty-is-coming"
@@ -76,7 +76,7 @@
       "time": "01:27:12"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a170",
       "title": "Странный рейтинг языков на 2025 год",
       "links": [
         "https://spectrum.ieee.org/top-programming-languages-2025"
@@ -84,7 +84,7 @@
       "time": "01:36:22"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521a57063d2e08c42a171",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/09/23/prep-980/"

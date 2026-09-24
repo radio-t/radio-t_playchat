@@ -6,6 +6,7 @@
   "start_time": 1689453085,
   "topics": [
     {
+      "id": "6ab5212c7063d2e08c427831",
       "title": "Первые 3% всего за 30 лет",
       "links": [
         "https://linuxiac.com/linux-hits-3-percent-market-share/"
@@ -13,6 +14,7 @@
       "time": "00:02:13"
     },
     {
+      "id": "6ab5212c7063d2e08c427832",
       "title": "Unchecked Java",
       "links": [
         "https://github.com/rogerkeays/unchecked"
@@ -20,6 +22,7 @@
       "time": "00:23:24"
     },
     {
+      "id": "6ab5212c7063d2e08c427833",
       "title": "Все телефоны получат заменяемые батареи к 2027",
       "links": [
         "https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/"
@@ -27,6 +30,7 @@
       "time": "00:54:19"
     },
     {
+      "id": "6ab5212c7063d2e08c427834",
       "title": "Podman Desktop 1.2",
       "links": [
         "https://podman-desktop.io/blog/podman-desktop-release-1.2"
@@ -34,6 +38,7 @@
       "time": "01:06:18"
     },
     {
+      "id": "6ab5212c7063d2e08c427835",
       "title": "Выход GitHub merge queue",
       "links": [
         "https://github.blog/2023-07-12-github-merge-queue-is-generally-available/"
@@ -41,6 +46,7 @@
       "time": "01:12:22"
     },
     {
+      "id": "6ab5212c7063d2e08c427836",
       "title": "xAI победит ChatGPT",
       "links": [
         "https://www.bloomberg.com/news/articles/2023-07-12/musk-unveils-xai-as-way-to-understand-true-nature-of-universe#xj4y7vzkg"
@@ -48,6 +54,7 @@
       "time": "01:17:57"
     },
     {
+      "id": "6ab5212c7063d2e08c427837",
       "title": "Intel закрывает линейку NUC",
       "links": [
         "https://www.servethehome.com/intel-exiting-the-pc-business-as-it-stops-investment-in-the-intel-nuc/"
@@ -55,11 +62,13 @@
       "time": "01:28:54"
     },
     {
+      "id": "6ab5212c7063d2e08c427838",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2023/07/11/prep-867/"
       ],
       "time": "01:36:28"
     }
-  ]
+  ],
+  "tags": null
 }

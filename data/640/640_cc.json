@@ -2776,7 +2776,7 @@
       "id": "65c9cc907062e88c466a54cf",
       "issue": 640,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1228.55,
       "etime": 1222.85,
       "text": "Simple."
@@ -8302,7 +8302,7 @@
       "id": "65c9cc907062e88c466a5735",
       "issue": 640,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "_artifact",
       "stime": 3933.2,
       "etime": 3934.88,
       "text": "То есть к теме плохо подготовилась?"
@@ -10552,7 +10552,7 @@
       "id": "65c9cc907062e88c466a582f",
       "issue": 640,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "_artifact",
       "stime": 4990.12,
       "etime": 4990.82,
       "text": "Понятно, да."
@@ -16672,7 +16672,7 @@
       "id": "65c9cc907062e88c466a5ad7",
       "issue": 640,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "_artifact",
       "stime": 7543.83,
       "etime": 7545.49,
       "text": "А это что такое?"
@@ -19426,7 +19426,7 @@
       "id": "65c9cc907062e88c466a5c09",
       "issue": 640,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 8901.59,
       "etime": 8894.07,
       "text": "Thanos.js."
@@ -19480,7 +19480,7 @@
       "id": "65c9cc907062e88c466a5c0f",
       "issue": 640,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 8918.88,
       "etime": 8918.86,
       "text": "Randomly deleting half of the files."
@@ -22576,7 +22576,7 @@
       "id": "65c9cc907062e88c466a5d67",
       "issue": 640,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "_artifact",
       "stime": 10211.68,
       "etime": 10212.12,
       "text": "Да, да, да."

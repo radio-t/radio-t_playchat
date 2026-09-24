@@ -49,7 +49,7 @@
       "id": "65c9a56bbfe13923b2a7ebd5",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 11.02,
       "etime": 10.1,
       "text": "438."
@@ -391,7 +391,7 @@
       "id": "65c9a56bbfe13923b2a7ebfb",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Ksenks",
       "stime": 169.57,
       "etime": 169.93,
       "text": "Да."
@@ -409,7 +409,7 @@
       "id": "65c9a56bbfe13923b2a7ebfd",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Ksenks",
       "stime": 171.59,
       "etime": 172.53,
       "text": "Отвалился?"
@@ -481,7 +481,7 @@
       "id": "65c9a56bbfe13923b2a7ec05",
       "issue": 438,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 200.37,
       "etime": 202.22,
       "text": "Дженерики и умный компилятор?"
@@ -1588,7 +1588,7 @@
       "id": "65c9a56bbfe13923b2a7ec80",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 774.52,
       "etime": 778.1,
       "text": "Просто гугл в своем репертуаре сделал что-то полезное, а потом закрыл."
@@ -3739,7 +3739,7 @@
       "id": "65c9a56bbfe13923b2a7ed6f",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1783.72,
       "etime": 1785.74,
       "text": "Его же нельзя выкатывать с такой скоростью."
@@ -3829,7 +3829,7 @@
       "id": "65c9a56bbfe13923b2a7ed79",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 1827.99,
       "etime": 1829.09,
       "text": "Спрашивают, Rust зарелизила?"
@@ -3847,7 +3847,7 @@
       "id": "65c9a56bbfe13923b2a7ed7b",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Ksenks",
       "stime": 1835.28,
       "etime": 1835.52,
       "text": "Еще год."
@@ -4603,7 +4603,7 @@
       "id": "65c9a56bbfe13923b2a7edcf",
       "issue": 438,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 2211.14,
       "etime": 2216.16,
       "text": "Так, это 7 причин, почему фреймворки – это новые языки программирования."
@@ -7348,7 +7348,7 @@
       "id": "65c9a56bbfe13923b2a7ef00",
       "issue": 438,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3395.37,
       "etime": 3397.21,
       "text": "Ну или на крайний случай Бобука."
@@ -7933,7 +7933,7 @@
       "id": "65c9a56bbfe13923b2a7ef41",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3672.72,
       "etime": 3673.74,
       "text": "Ну, конечно."
@@ -7951,7 +7951,7 @@
       "id": "65c9a56bbfe13923b2a7ef43",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 3675.98,
       "etime": 3677.42,
       "text": "То есть, прямо вот увлекательно."
@@ -8752,7 +8752,7 @@
       "id": "65c9a56bbfe13923b2a7ef9c",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4029.98,
       "etime": 4031.34,
       "text": "Мы придумали очень простую штуку."
@@ -8779,7 +8779,7 @@
       "id": "65c9a56bbfe13923b2a7ef9f",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4039.72,
       "etime": 4042.48,
       "text": "Как будто бы кто-то стучит по клавиатуре."
@@ -8842,7 +8842,7 @@
       "id": "65c9a56bbfe13923b2a7efa6",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 4061.41,
       "etime": 4065.57,
       "text": "Да, безусловно, каждое изобретение на Земле вообще придумывается по 50 раз."
@@ -12748,7 +12748,7 @@
       "id": "65c9a56bbfe13923b2a7f158",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5880.86,
       "etime": 5882.34,
       "text": "Куда надо – это куда?"
@@ -12829,7 +12829,7 @@
       "id": "65c9a56bbfe13923b2a7f161",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Ksenks",
       "stime": 5906.98,
       "etime": 5907.62,
       "text": "Окей."
@@ -13756,7 +13756,7 @@
       "id": "65c9a56bbfe13923b2a7f1c8",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6298.31,
       "etime": 6299.46,
       "text": "Пусть конвертируют в акции."
@@ -13981,7 +13981,7 @@
       "id": "65c9a56bbfe13923b2a7f1e1",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6382.74,
       "etime": 6382.72,
       "text": "Object ID."
@@ -14800,7 +14800,7 @@
       "id": "65c9a56bbfe13923b2a7f23c",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 6746.74,
       "etime": 6748.59,
       "text": "Тут спрашивают, у Бабака урежут зарплату."
@@ -15916,7 +15916,7 @@
       "id": "65c9a56bbfe13923b2a7f2b8",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 7216.86,
       "etime": 7216.98,
       "text": "Да."
@@ -16177,7 +16177,7 @@
       "id": "65c9a56bbfe13923b2a7f2d5",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 7301.4,
       "etime": 7304.02,
       "text": "Подожди, подожди, подожди."
@@ -17158,7 +17158,7 @@
       "id": "65c9a56bbfe13923b2a7f342",
       "issue": 438,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 7647.96,
       "etime": 7650.02,
       "text": "Ну, практически, да."
@@ -18085,7 +18085,7 @@
       "id": "65c9a56bbfe13923b2a7f3a9",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8279.12,
       "etime": 8279.42,
       "text": "Пойдем?"
@@ -18094,7 +18094,7 @@
       "id": "65c9a56bbfe13923b2a7f3aa",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8279.44,
       "etime": 8279.58,
       "text": "Да."
@@ -18103,7 +18103,7 @@
       "id": "65c9a56bbfe13923b2a7f3ab",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8279.68,
       "etime": 8280.7,
       "text": "Конечно."
@@ -18121,7 +18121,7 @@
       "id": "65c9a56bbfe13923b2a7f3ad",
       "issue": 438,
       "type": "cc",
-      "author": "SPEAKER_01",
+      "author": "Ksenks",
       "stime": 8281.7,
       "etime": 8284.4,
       "text": "Спокойной ночи."

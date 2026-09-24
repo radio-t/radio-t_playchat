@@ -6,7 +6,7 @@
   "start_time": 1467490529,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb87063d2e08c420966",
       "title": "Amazon Elastic File System — теперь на самом деле",
       "links": [
         "https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-production-ready-in-three-regions/"
@@ -14,7 +14,7 @@
       "time": "00:02:23"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb87063d2e08c420967",
       "title": "Мои соболезнования: теперь вы поддерживаете популярный проект с открытым исходным кодом",
       "links": [
         "https://habrahabr.ru/post/304550/"
@@ -22,7 +22,7 @@
       "time": "00:45:53"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb87063d2e08c420968",
       "title": "Взгляд на APFS",
       "links": [
         "http://arstechnica.com/apple/2016/06/a-zfs-developers-analysis-of-the-good-and-bad-in-apples-new-apfs-file-system/"
@@ -30,7 +30,7 @@
       "time": "01:04:02"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb87063d2e08c420969",
       "title": "Etcd3",
       "links": [
         "https://coreos.com/blog/etcd3-a-new-etcd.html"
@@ -38,7 +38,7 @@
       "time": "01:07:24"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb87063d2e08c42096a",
       "title": "Как завести себе google.com",
       "links": [
         "https://www.computest.nl/blog/startencrypt-considered-harmful-today/"
@@ -46,7 +46,7 @@
       "time": "01:22:05"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb87063d2e08c42096b",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

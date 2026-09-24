@@ -157,7 +157,7 @@
       "id": "65c7ca96dd876b730e43cdf5",
       "issue": 699,
       "type": "cc",
-      "author": "Umputun",
+      "author": "_ad",
       "stime": 44.88,
       "etime": 46.02,
       "text": "Правильно, Грей?"
@@ -175,7 +175,7 @@
       "id": "65c7ca96dd876b730e43cdf7",
       "issue": 699,
       "type": "cc",
-      "author": "Umputun",
+      "author": "_ad",
       "stime": 46.72,
       "etime": 48.96,
       "text": "Поехали."
@@ -1480,7 +1480,7 @@
       "id": "65c7ca96dd876b730e43ce88",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 617.96,
       "etime": 617.88,
       "text": "GNU Linux."
@@ -2101,7 +2101,7 @@
       "id": "65c7ca96dd876b730e43cecd",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 865.7,
       "etime": 865.68,
       "text": "1.13 Go, 3.8 Python."
@@ -2542,7 +2542,7 @@
       "id": "65c7ca96dd876b730e43cefe",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1046.83,
       "etime": 1046.93,
       "text": "Много?"
@@ -2551,7 +2551,7 @@
       "id": "65c7ca96dd876b730e43ceff",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1046.95,
       "etime": 1046.93,
       "text": "6, 5?"
@@ -2920,7 +2920,7 @@
       "id": "65c7ca96dd876b730e43cf28",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "_artifact",
       "stime": 1158.91,
       "etime": 1161.44,
       "text": "Что за хостовая операционная система?"
@@ -3271,7 +3271,7 @@
       "id": "65c7ca96dd876b730e43cf4f",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1327.64,
       "etime": 1327.6,
       "text": "Fedora."
@@ -4441,7 +4441,7 @@
       "id": "65c7ca96dd876b730e43cfd1",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1928.32,
       "etime": 1927.44,
       "text": "Time and material."
@@ -9373,7 +9373,7 @@
       "id": "65c7ca96dd876b730e43d1f5",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4582.11,
       "etime": 4582.09,
       "text": "10%."
@@ -10165,7 +10165,7 @@
       "id": "65c7ca96dd876b730e43d24d",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "_artifact",
       "stime": 4955.45,
       "etime": 4957.26,
       "text": "Ты это видела весь Фейсбук?"
@@ -15169,7 +15169,7 @@
       "id": "65c7ca96dd876b730e43d479",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6863.77,
       "etime": 6864.81,
       "text": "Да."
@@ -17302,7 +17302,7 @@
       "id": "65c7ca96dd876b730e43d566",
       "issue": 699,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "_artifact",
       "stime": 7708.9,
       "etime": 7710.76,
       "text": "Пока-пока."

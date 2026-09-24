@@ -6,7 +6,7 @@
   "start_time": 1370113200,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2c7063d2e08c4203f2",
       "title": "Ubuntu баг № 1 исправлен",
       "links": [
         "http://habrahabr.ru/post/181570/"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2c7063d2e08c4203f3",
       "title": "К 7-му юбилею Hadoop",
       "links": [
         "http://blog.cloudera.com/blog/2013/04/seven-thoughts-on-hadoops-seventh-birthday/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2c7063d2e08c4203f4",
       "title": "Программировать сложно",
       "links": [
         "http://www.nilunder.com/blog/2013/04/28/programming-is-not-easy/"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2c7063d2e08c4203f5",
       "title": "Как правильно издеваться над разработчиками",
       "links": [
         "http://www.infoworld.com/d/application-development/16-ways-torture-developers-215773"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2c7063d2e08c4203f6",
       "title": "Восход Google Go",
       "links": [
         "http://arstechnica.com/information-technology/2013/05/my-favorite-programming-language-googles-go-has-some-coders-raving/"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2c7063d2e08c4203f7",
       "title": "Образовательная часть - что есть O(log n)",
       "links": [
         "http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly/2307314"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2c7063d2e08c4203f8",
       "title": "Некоторые модели конкурентного программирования в питоне",
       "links": [
         "http://www.devmusings.com/blog/2013/05/23/python-concurrency/"

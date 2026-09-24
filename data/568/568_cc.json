@@ -508,7 +508,7 @@
       "id": "65c9c3d56cf9fe5660b9603d",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 230.61,
       "etime": 230.59,
       "text": "NASDAQ GS."
@@ -544,7 +544,7 @@
       "id": "65c9c3d56cf9fe5660b96041",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 239.83,
       "etime": 239.69,
       "text": "Yahoo Finance."
@@ -670,7 +670,7 @@
       "id": "65c9c3d56cf9fe5660b9604f",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "Ksenks",
       "stime": 278.13,
       "etime": 279.79,
       "text": "Сейчас давай расскажу."
@@ -679,7 +679,7 @@
       "id": "65c9c3d56cf9fe5660b96050",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "Ksenks",
       "stime": 279.89,
       "etime": 280.51,
       "text": "Давай расскажу."
@@ -1507,7 +1507,7 @@
       "id": "65c9c3d56cf9fe5660b960ac",
       "issue": 568,
       "type": "cc",
-      "author": "Bobuk",
+      "author": "_artifact",
       "stime": 680.82,
       "etime": 682.38,
       "text": "Ревенью составляет 101 процент."
@@ -2713,7 +2713,7 @@
       "id": "65c9c3d56cf9fe5660b96132",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1345.5,
       "etime": 1345.48,
       "text": "20."
@@ -2731,7 +2731,7 @@
       "id": "65c9c3d56cf9fe5660b96134",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1348.7,
       "etime": 1348.68,
       "text": "20."
@@ -3721,7 +3721,7 @@
       "id": "65c9c3d56cf9fe5660b961a2",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Umputun",
       "stime": 1756.17,
       "etime": 1759.03,
       "text": "Ты как реплика сет."
@@ -4279,7 +4279,7 @@
       "id": "65c9c3d56cf9fe5660b961e0",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2008.31,
       "etime": 2008.29,
       "text": "Cancel."
@@ -5008,7 +5008,7 @@
       "id": "65c9c3d56cf9fe5660b96231",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Umputun",
       "stime": 2329.84,
       "etime": 2333.76,
       "text": "Мне кажется, это опасный терминатор."
@@ -6997,7 +6997,7 @@
       "id": "65c9c3d56cf9fe5660b9630e",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "Ksenks",
       "stime": 3233.9,
       "etime": 3235.84,
       "text": "Так он оригинально уже пришел."
@@ -8995,7 +8995,7 @@
       "id": "65c9c3d56cf9fe5660b963ec",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 4108.46,
       "etime": 4108.44,
       "text": "225."
@@ -10129,7 +10129,7 @@
       "id": "65c9c3d56cf9fe5660b9646a",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "Ksenks",
       "stime": 4696.9,
       "etime": 4698.65,
       "text": "Делают ее текущей."
@@ -11344,7 +11344,7 @@
       "id": "65c9c3d56cf9fe5660b964f1",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5392.42,
       "etime": 5392.4,
       "text": "Core i5."
@@ -13459,7 +13459,7 @@
       "id": "65c9c3d56cf9fe5660b965dc",
       "issue": 568,
       "type": "cc",
-      "author": "Bobuk",
+      "author": "_artifact",
       "stime": 6305.57,
       "etime": 6307.65,
       "text": "А шо ж ты?"
@@ -17536,7 +17536,7 @@
       "id": "65c9c3d56cf9fe5660b967a1",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "Umputun",
       "stime": 8418.99,
       "etime": 8420.77,
       "text": "Мне теперь приносят темы в Flipboard и Google и Apple News."
@@ -17617,7 +17617,7 @@
       "id": "65c9c3d56cf9fe5660b967aa",
       "issue": 568,
       "type": "cc",
-      "author": "SPEAKER_07",
+      "author": "Ksenks",
       "stime": 8450.45,
       "etime": 8451.29,
       "text": "Нет, все нормально."

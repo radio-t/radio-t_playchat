@@ -283,7 +283,7 @@
       "id": "65c9a530833fbc1fc5f49735",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 97.03,
       "etime": 97.01,
       "text": "Yes, and?"
@@ -3316,7 +3316,7 @@
       "id": "65c9a530833fbc1fc5f49886",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1318.24,
       "etime": 1318.22,
       "text": "Linux."
@@ -3505,7 +3505,7 @@
       "id": "65c9a530833fbc1fc5f4989b",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1380.14,
       "etime": 1379.06,
       "text": "X3."
@@ -3523,7 +3523,7 @@
       "id": "65c9a530833fbc1fc5f4989d",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1382.2,
       "etime": 1382.18,
       "text": "Xorg."
@@ -4621,7 +4621,7 @@
       "id": "65c9a530833fbc1fc5f49917",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 1771.1,
       "etime": 1776.88,
       "text": "Сейчас уже сложно сказать, но, в общем, ну, когда-то у них 30% смартфонов было."
@@ -8977,7 +8977,7 @@
       "id": "65c9a530833fbc1fc5f49afb",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 3749.99,
       "etime": 3752.17,
       "text": "Слушай, а может проблема в том, как кого опрашивали?"
@@ -9049,7 +9049,7 @@
       "id": "65c9a530833fbc1fc5f49b03",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 3786.38,
       "etime": 3791.58,
       "text": "На самом деле, во-первых, там есть пункт Other, это во-первых."
@@ -10264,7 +10264,7 @@
       "id": "65c9a530833fbc1fc5f49b8a",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4345.31,
       "etime": 4352.57,
       "text": "На самом деле спонсор это хороший разработчик, кстати, тоже украинский."
@@ -11353,7 +11353,7 @@
       "id": "65c9a530833fbc1fc5f49c03",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 4867.54,
       "etime": 4869.12,
       "text": "Это, по-моему, не таргетировано Америкой."
@@ -11470,7 +11470,7 @@
       "id": "65c9a530833fbc1fc5f49c10",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4901.3,
       "etime": 4904,
       "text": "Потому что они же, в общем, и подарочек пообещали."
@@ -12271,7 +12271,7 @@
       "id": "65c9a530833fbc1fc5f49c69",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5187.85,
       "etime": 5187.83,
       "text": "Penetration."
@@ -12703,7 +12703,7 @@
       "id": "65c9a530833fbc1fc5f49c99",
       "issue": 424,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5352.06,
       "etime": 5352.42,
       "text": "Вот и все."
@@ -13414,7 +13414,7 @@
       "id": "65c9a530833fbc1fc5f49ce8",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 5591.58,
       "etime": 5590.86,
       "text": "Java?"
@@ -13675,7 +13675,7 @@
       "id": "65c9a530833fbc1fc5f49d05",
       "issue": 424,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 5713.21,
       "etime": 5713.71,
       "text": "Ужас-ужас."
@@ -14539,7 +14539,7 @@
       "id": "65c9a530833fbc1fc5f49d65",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 6114.86,
       "etime": 6117.8,
       "text": "Обойти внимание, что перезагружаться не та и была."
@@ -15160,7 +15160,7 @@
       "id": "65c9a530833fbc1fc5f49daa",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6371.67,
       "etime": 6371.65,
       "text": "Whatever."
@@ -16222,7 +16222,7 @@
       "id": "65c9a530833fbc1fc5f49e20",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 6749.76,
       "etime": 6749.74,
       "text": "Slack."
@@ -16834,7 +16834,7 @@
       "id": "65c9a530833fbc1fc5f49e64",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 7044.78,
       "etime": 7047.64,
       "text": "Вот тут Алекс Мак написал... Подожди, подожди, дай Ксюша сказать."
@@ -18184,7 +18184,7 @@
       "id": "65c9a530833fbc1fc5f49efa",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 7729.75,
       "etime": 7729.73,
       "text": "Stripe?"
@@ -18868,7 +18868,7 @@
       "id": "65c9a530833fbc1fc5f49f46",
       "issue": 424,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 8034.51,
       "etime": 8035.24,
       "text": "Ну, типа того."
@@ -19714,7 +19714,7 @@
       "id": "65c9a530833fbc1fc5f49fa4",
       "issue": 424,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 8411.48,
       "etime": 8413.44,
       "text": "Ты же пытался найти клавиши."
@@ -23035,7 +23035,7 @@
       "id": "65c9a530833fbc1fc5f4a115",
       "issue": 424,
       "type": "cc",
-      "author": "Alek.sys",
+      "author": "_artifact",
       "stime": 9852.65,
       "etime": 9856.65,
       "text": "А, нет, в России 10 дней, по-моему, каникул."
@@ -23062,7 +23062,7 @@
       "id": "65c9a530833fbc1fc5f4a118",
       "issue": 424,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "_artifact",
       "stime": 9860.96,
       "etime": 9862.62,
       "text": "Я имею в виду, каникулы разрываются."
@@ -23395,7 +23395,7 @@
       "id": "65c9a530833fbc1fc5f4a13d",
       "issue": 424,
       "type": "cc",
-      "author": "Umputun",
+      "author": "_ad",
       "stime": 9970.9,
       "etime": 9972.68,
       "text": "Несомненно, сохранился."
@@ -23404,7 +23404,7 @@
       "id": "65c9a530833fbc1fc5f4a13e",
       "issue": 424,
       "type": "cc",
-      "author": "Bobuk",
+      "author": "_ad",
       "stime": 9972.7,
       "etime": 9973.1,
       "text": "Ну, поехали."

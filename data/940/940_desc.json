@@ -6,13 +6,13 @@
   "start_time": 1734812281,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a031",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a032",
       "title": "Итоги 2024 от Cloudflare",
       "links": [
         "https://blog.cloudflare.com/radar-2024-year-in-review/"
@@ -20,7 +20,7 @@
       "time": "00:01:49"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a033",
       "title": "Veo 2 and Imagen 3 внушают уважение",
       "links": [
         "https://blog.google/technology/google-labs/video-image-generation-update-december-2024/"
@@ -28,7 +28,7 @@
       "time": "00:24:18"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a034",
       "title": "Google AI научился трюкам О1",
       "links": [
         "https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/"
@@ -36,7 +36,7 @@
       "time": "00:34:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a035",
       "title": "OpenAI представили o3 модели",
       "links": [
         "https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/"
@@ -44,7 +44,7 @@
       "time": "00:45:20"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a036",
       "title": "Grok для всех, но не такой, как обещали",
       "links": [
         "https://x.ai/blog/grok-1212"
@@ -52,7 +52,7 @@
       "time": "00:51:04"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a037",
       "title": "mouseless для энтузиастов клавиатуры",
       "links": [
         "https://mouseless.click/"
@@ -60,7 +60,7 @@
       "time": "01:11:59"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a038",
       "title": "Go опрос за 2024",
       "links": [
         "https://go.dev/blog/survey2024-h2-results"
@@ -68,7 +68,7 @@
       "time": "01:19:35"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521787063d2e08c42a039",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/12/17/prep-940/"

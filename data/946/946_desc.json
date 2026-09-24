@@ -6,13 +6,13 @@
   "start_time": 1738440000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5217f7063d2e08c42a05a",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5217f7063d2e08c42a05b",
       "title": "OpenAI o3-mini",
       "links": [
         "https://openai.com/index/openai-o3-mini/"
@@ -20,7 +20,7 @@
       "time": "00:39:55"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5217f7063d2e08c42a05c",
       "title": "Разговоры вокруг DeepSeek",
       "links": [
         "https://semianalysis.com/2025/01/31/deepseek-debates/"
@@ -28,7 +28,7 @@
       "time": "01:02:05"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5217f7063d2e08c42a05d",
       "title": "Эффективное использование AI для анализа кода и PR",
       "links": [
         "https://www.qodo.ai/blog/effective-code-suggestions-llms-less-is-more/"
@@ -36,7 +36,7 @@
       "time": "01:37:20"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5217f7063d2e08c42a05e",
       "title": "Go 1.24 и его спорное улучшение зависимостей",
       "links": [
         "https://www.jvt.me/posts/2025/01/27/go-tools-124/"
@@ -44,7 +44,7 @@
       "time": "01:50:36"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5217f7063d2e08c42a05f",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/01/30/prep-946/"

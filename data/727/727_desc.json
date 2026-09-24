@@ -6,7 +6,7 @@
   "start_time": 1604779959,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c421017",
       "title": "GitHub утек, но не совсем",
       "links": [
         "https://arstechnica.com/information-technology/2020/11/githubs-source-code-was-leaked-on-github-last-night-sort-of/"
@@ -14,7 +14,7 @@
       "time": "00:02:22"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c421018",
       "title": "sops для управления секретами",
       "links": [
         "https://github.com/mozilla/sops"
@@ -22,7 +22,7 @@
       "time": "00:13:29"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c421019",
       "title": "Amazon ответит на происки Docker Hub",
       "links": [
         "https://sdtimes.com/cloud/amazon-offers-advice-on-docker-hub-rate-limits-announces-new-public-container-registry/"
@@ -30,7 +30,7 @@
       "time": "00:18:26"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c42101a",
       "title": "Python обогнал Java",
       "links": [
         "https://www.techradar.com/news/python-finally-topples-java-as-the-worlds-second-most-popular-programming-language"
@@ -38,7 +38,7 @@
       "time": "00:25:39"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c42101b",
       "title": "Telegram Bot API",
       "links": [
         "https://core.telegram.org/bots/api"
@@ -46,7 +46,7 @@
       "time": "00:44:20"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c42101c",
       "title": "Из Vim на IntelliJ",
       "links": [
         "https://browntreelabs.com/from-vim-to-intellij/"
@@ -54,7 +54,7 @@
       "time": "00:52:17"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c42101d",
       "title": "Anu - еще одна DSCV",
       "links": [
         "https://anu.dev/"
@@ -62,7 +62,7 @@
       "time": "01:06:12"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c42101e",
       "title": "Как победить баги",
       "links": [
         "https://dev.to/lxkuz/the-art-of-war-how-to-beat-the-bugs-faster-and-harder-2e4g"
@@ -70,7 +70,7 @@
       "time": "01:12:01"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c42101f",
       "title": "Сертификаты Let's Encrypt перестанут восприниматься на 33% Android-устройств",
       "links": [
         "https://www.opennet.ru/opennews/art.shtml?num=54043"
@@ -78,7 +78,7 @@
       "time": "01:33:50"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c421020",
       "title": "The Raspberry Pi 400",
       "links": [
         "https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-teardown-and-review"
@@ -86,7 +86,7 @@
       "time": "01:45:35"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab520947063d2e08c421021",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2020/11/03/prep-727/"

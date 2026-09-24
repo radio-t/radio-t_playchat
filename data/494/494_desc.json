@@ -6,7 +6,7 @@
   "start_time": 1462652070,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c42091c",
       "title": "Command Line для DigitalOcean",
       "links": [
         "https://www.digitalocean.com/company/blog/introducing-doctl/"
@@ -14,7 +14,7 @@
       "time": "00:01:04"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c42091d",
       "title": "IBM запускает QAAS",
       "links": [
         "http://techcrunch.com/2016/05/03/ibm-brings-experimental-quantum-computing-to-the-cloud/"
@@ -22,7 +22,7 @@
       "time": "00:13:01"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c42091e",
       "title": "Sourcegraph",
       "links": [
         "https://sourcegraph.com/blog/announcing-the-sourcegraph-chrome-extension-for/"
@@ -30,7 +30,7 @@
       "time": "00:19:09"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c42091f",
       "title": "Как ищут программисты",
       "links": [
         "http://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/"
@@ -38,7 +38,7 @@
       "time": "00:35:36"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c420920",
       "title": "Типы не нужны если есть TDD",
       "links": [
         "http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html"
@@ -46,7 +46,7 @@
       "time": "00:46:17"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c420921",
       "title": "Java Annotations это ошибка?",
       "links": [
         "https://dzone.com/articles/java-annotations-are-a-big-mistake"
@@ -54,7 +54,7 @@
       "time": "00:53:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c420922",
       "title": "Craig Wright это Satoshi Nakamoto или нет",
       "links": [
         "https://www.nikcub.com/posts/craig-wright-is-not-satoshi-nakamoto/"
@@ -62,7 +62,7 @@
       "time": "01:05:23"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c420923",
       "title": "NodeJS после года мучений",
       "links": [
         "http://geekforbrains.com/post/after-a-year-of-nodejs-in-production"
@@ -70,7 +70,7 @@
       "time": "01:29:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51fb17063d2e08c420924",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""

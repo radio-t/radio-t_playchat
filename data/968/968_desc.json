@@ -6,13 +6,13 @@
   "start_time": 1751748378,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521977063d2e08c42a106",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521977063d2e08c42a107",
       "title": "Написание кода никогда не было проблемой",
       "links": [
         "https://ordep.dev/posts/writing-code-was-never-the-bottleneck"
@@ -20,7 +20,7 @@
       "time": "00:22:40"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521977063d2e08c42a108",
       "title": "Хуки для CC",
       "links": [
         "https://docs.anthropic.com/en/docs/claude-code/hooks"
@@ -28,7 +28,7 @@
       "time": "00:50:50"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521977063d2e08c42a109",
       "title": "Аферист или гипер-активный программист",
       "links": [
         "https://newsletter.pragmaticengineer.com/p/the-10x-overlemployed-engineer"
@@ -36,7 +36,7 @@
       "time": "01:04:57"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521977063d2e08c42a10a",
       "title": "Кэш как абстракция",
       "links": [
         "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
@@ -44,7 +44,7 @@
       "time": "01:28:53"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521977063d2e08c42a10b",
       "title": "Аргумент против public/protected/private",
       "links": [
         "https://catern.com/private.html"
@@ -52,7 +52,7 @@
       "time": "01:47:30"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521977063d2e08c42a10c",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2025/07/02/prep-968/"

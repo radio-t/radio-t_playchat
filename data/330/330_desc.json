@@ -6,7 +6,7 @@
   "start_time": 1362250800,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c42037c",
       "title": "Правильный, но резкий манифест",
       "links": [
         "http://programming-motherfucker.com/"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c42037d",
       "title": "Linus Torvalds против RH",
       "links": [
         "http://www.theregister.co.uk/2013/02/24/linus_torvalds_rant/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c42037e",
       "title": "И пояснил почему",
       "links": [
         "http://www.pcworld.com/article/2029542/linus-torvalds-speaks-out-with-a-secure-boot-plan.html"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c42037f",
       "title": "Что делать с глупым начальством",
       "links": [
         "http://www.articulateventures.com/cultural-communications-2/what-to-do-when-your-non-technical-boss-is-just-plain-wrong/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c420380",
       "title": "С днем рождения Raspberry Pi",
       "links": [
         "http://arstechnica.com/information-technology/2013/03/the-raspberry-pi-one-year-since-launch-one-million-sold/"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c420381",
       "title": "NoDBA — это нечто сомнительное",
       "links": [
         "http://martinfowler.com/bliki/NoDBA.html"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c420382",
       "title": "Позор или наоборот? Yahoo резко прикрыла лавочку",
       "links": [
         "https://medium.com/management-the-art-and-the-science/aaeb644d3652"
@@ -62,7 +62,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c420383",
       "title": "Полюби Rebase",
       "links": [
         "http://www.pyladies.com/blog/how-I-learned-to-love-rebase/"
@@ -70,7 +70,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f1f7063d2e08c420384",
       "title": "Смешной Slow-Fast Request Balancer",
       "links": [
         "http://railsware.com/blog/2013/02/04/slow-fast-request-balancer/"

@@ -436,7 +436,7 @@
       "id": "6983f63e84a2084393f18d24",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 109.82,
       "etime": 112.07,
       "text": "Меня зовут Алексей."
@@ -445,7 +445,7 @@
       "id": "6983f63e84a2084393f18d25",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 112.09,
       "etime": 114.73,
       "text": "Леша номер очередной."
@@ -454,7 +454,7 @@
       "id": "6983f63e84a2084393f18d26",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 115.37,
       "etime": 120.86,
       "text": "Буду представлять интересы TypeScript, как было заявлено."
@@ -463,7 +463,7 @@
       "id": "6983f63e84a2084393f18d27",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 121.99,
       "etime": 128.42,
       "text": "Какое-то время ты меня приглашал мейнтейнить комменты."
@@ -481,7 +481,7 @@
       "id": "6983f63e84a2084393f18d29",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 133.93,
       "etime": 135.1,
       "text": "Ремарк он самый, да."
@@ -490,7 +490,7 @@
       "id": "6983f63e84a2084393f18d2a",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 135.22,
       "etime": 137.82,
       "text": "Но я отвалился по неактивности."
@@ -652,7 +652,7 @@
       "id": "6983f63e84a2084393f18d3c",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 198.26,
       "etime": 203.01,
       "text": "Справедливости ради, если бы ты ко мне все-таки обратился, я бы отреагировал."
@@ -679,7 +679,7 @@
       "id": "6983f63e84a2084393f18d3f",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 206.34,
       "etime": 213.5,
       "text": "Еще могу сказать, что я подавлял себе желание... Все переписать?"
@@ -688,7 +688,7 @@
       "id": "6983f63e84a2084393f18d40",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 214.04,
       "etime": 216.96,
       "text": "Все переписать, да, как ты обычно это упоминаешь."
@@ -697,7 +697,7 @@
       "id": "6983f63e84a2084393f18d41",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 217.26,
       "etime": 218.53,
       "text": "Мы из этого числа."
@@ -949,7 +949,7 @@
       "id": "6983f63e84a2084393f18d5d",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 310.79,
       "etime": 316.2,
       "text": "Там были еще, по-моему, особенности за счет того, что это iFrame."
@@ -967,7 +967,7 @@
       "id": "6983f63e84a2084393f18d5f",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 317.08,
       "etime": 319.99,
       "text": "Нужна была коммуникация аккуратная."
@@ -1102,7 +1102,7 @@
       "id": "6983f63e84a2084393f18d6e",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 363.91,
       "etime": 368.21,
       "text": "Если честно, я просто откликнулся на клич и не в курсе того, что происходит."
@@ -1165,7 +1165,7 @@
       "id": "6983f63e84a2084393f18d75",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 412.78,
       "etime": 425.36,
       "text": "Ну, если прям глубоко смотреть, то можно, конечно, так заявить, но в целом TypeScript, его просто надо ограничить и уметь готовить."
@@ -1174,7 +1174,7 @@
       "id": "6983f63e84a2084393f18d76",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 425.38,
       "etime": 428.44,
       "text": "Он дает дополнительные гарантии."
@@ -1210,7 +1210,7 @@
       "id": "6983f63e84a2084393f18d7a",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 445.04,
       "etime": 450.65,
       "text": "Много не работал, но, по-моему, там действительно это выглядело как нашлепочка сверху."
@@ -1291,7 +1291,7 @@
       "id": "6983f63e84a2084393f18d83",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 494.67,
       "etime": 497.31,
       "text": "Если мы говорим про рантайм, это действительно так и произойдет."
@@ -1300,7 +1300,7 @@
       "id": "6983f63e84a2084393f18d84",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 497.37,
       "etime": 503.6,
       "text": "Но в целом библиотека в NPM паблишится вместе с типами, даже если она была конвертирована в JavaScript."
@@ -1336,7 +1336,7 @@
       "id": "6983f63e84a2084393f18d88",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 516.52,
       "etime": 517.46,
       "text": "Можно."
@@ -1669,7 +1669,7 @@
       "id": "6983f63e84a2084393f18dad",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 614.27,
       "etime": 621,
       "text": "Справедливости ради TypeScript сейчас дает очень много качественного тулинга вокруг."
@@ -1678,7 +1678,7 @@
       "id": "6983f63e84a2084393f18dae",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 620.98,
       "etime": 632.19,
       "text": "И ты можешь строить, например, в библиотеке runtime валидации брать, брать их за источник правды и выводить типы из них."
@@ -1687,7 +1687,7 @@
       "id": "6983f63e84a2084393f18daf",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 632.23,
       "etime": 639.78,
       "text": "То есть ты описываешь схемы, которые очень похожи по синтаксу, если даже взять арк-тайп, например."
@@ -1705,7 +1705,7 @@
       "id": "6983f63e84a2084393f18db1",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 644.91,
       "etime": 654.72,
       "text": "Ты описываешь свои ожидания, ты опционально можешь прогонять их runtime-валидацию и в то же время получать type-safety на уровне компиляции."
@@ -1714,7 +1714,7 @@
       "id": "6983f63e84a2084393f18db2",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 655.07,
       "etime": 660.16,
       "text": "и видеть максимально ранний фидбэк в своем редакторе."
@@ -1759,7 +1759,7 @@
       "id": "6983f63e84a2084393f18db7",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 691.81,
       "etime": 694.09,
       "text": "Я его учу на своем примере."
@@ -1768,7 +1768,7 @@
       "id": "6983f63e84a2084393f18db8",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 694.15,
       "etime": 705.5,
       "text": "То есть пока у меня нет нормального объема кода, который я считаю дематичным для повторения, я ему не доверяю."
@@ -1840,7 +1840,7 @@
       "id": "6983f63e84a2084393f18dc0",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 737.74,
       "etime": 744.15,
       "text": "Проблема в том, что в TypeScript приходят люди с концепциями из разных языков."
@@ -1849,7 +1849,7 @@
       "id": "6983f63e84a2084393f18dc1",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 744.21,
       "etime": 747.16,
       "text": "Из C-Sharp люди приходят, из бэкэндов и прочих."
@@ -2074,7 +2074,7 @@
       "id": "6983f63e84a2084393f18dda",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 828.7,
       "etime": 838.2,
       "text": "Вот это последнее видео Тео видел, где он как раз обсуждал, какой язык лучше всего LLM пишут."
@@ -2092,7 +2092,7 @@
       "id": "6983f63e84a2084393f18ddc",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 849.2,
       "etime": 850.56,
       "text": "Elixir."
@@ -2344,7 +2344,7 @@
       "id": "6983f63e84a2084393f18df8",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 946.82,
       "etime": 953.13,
       "text": "Ну, я и не утверждал, что он прям идеальный, и это язык не виноват."
@@ -2353,7 +2353,7 @@
       "id": "6983f63e84a2084393f18df9",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 953.19,
       "etime": 968.2,
       "text": "Сейчас еще набирает популярность такая библиотека, называется Effect, которая призвана стать той библиотекой из коробки, которая должна была быть для TypeScript'а."
@@ -2362,7 +2362,7 @@
       "id": "6983f63e84a2084393f18dfa",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 968.84,
       "etime": 977.04,
       "text": "И есть шансы, что если ты будешь писать не просто TypeScript, а TypeScript на эффекте, LLM-ки будут справляться чуть лучше."
@@ -2398,7 +2398,7 @@
       "id": "6983f63e84a2084393f18dfe",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 982.05,
       "etime": 982.79,
       "text": "Да, да."
@@ -2407,7 +2407,7 @@
       "id": "6983f63e84a2084393f18dff",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 982.85,
       "etime": 990.88,
       "text": "И, собственно, как раз что-то похожее на эликсиры и прочие там паттермачинги с резалтами и монадами похожие."
@@ -2533,7 +2533,7 @@
       "id": "6983f63e84a2084393f18e0d",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1055.37,
       "etime": 1056.31,
       "text": "Он хуже Java."
@@ -2722,7 +2722,7 @@
       "id": "6983f63e84a2084393f18e22",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1122.71,
       "etime": 1128.72,
       "text": "Можно TypeScript, но с дополнительными либо библиотеками, либо инструкциями."
@@ -2758,7 +2758,7 @@
       "id": "6983f63e84a2084393f18e26",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1141.7,
       "etime": 1143.04,
       "text": "Даже близко нет."
@@ -2785,7 +2785,7 @@
       "id": "6983f63e84a2084393f18e29",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1158.4,
       "etime": 1159.4,
       "text": "Да, да."
@@ -2938,7 +2938,7 @@
       "id": "6983f63e84a2084393f18e3a",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1216.11,
       "etime": 1218.54,
       "text": "Нет, они не написали гейм-энжин."
@@ -2947,7 +2947,7 @@
       "id": "6983f63e84a2084393f18e3b",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1218.56,
       "etime": 1222.46,
       "text": "Они говорят, что модель восприятия"
@@ -2956,7 +2956,7 @@
       "id": "6983f63e84a2084393f18e3c",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1223.76,
       "etime": 1224.96,
       "text": "Да."
@@ -2965,7 +2965,7 @@
       "id": "6983f63e84a2084393f18e3d",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1224.98,
       "etime": 1235.51,
       "text": "То есть, говорит, надо воспринимать это модель восприятия код-кода, это больше как гейм-энжин со своим циклом рендеринга."
@@ -2974,7 +2974,7 @@
       "id": "6983f63e84a2084393f18e3e",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1235.93,
       "etime": 1239,
       "text": "А на самом деле там вообще-то также React под капотом."
@@ -3235,7 +3235,7 @@
       "id": "6983f63e84a2084393f18e5b",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1329.05,
       "etime": 1332.36,
       "text": "Проблема в том, что терминалы очень плохо стандартизированы."
@@ -3244,7 +3244,7 @@
       "id": "6983f63e84a2084393f18e5c",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1332.42,
       "etime": 1334.48,
       "text": "Это набор хаков на хаках."
@@ -3253,7 +3253,7 @@
       "id": "6983f63e84a2084393f18e5d",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1334.56,
       "etime": 1338.63,
       "text": "И чтобы обновлять того, что уже отрисовано,"
@@ -3262,7 +3262,7 @@
       "id": "6983f63e84a2084393f18e5e",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1338.61,
       "etime": 1346.2,
       "text": "посылаются комбинации скейп-символов, чтобы сделать какие-то вот эти бэкграунды, рамочки и так далее."
@@ -3271,7 +3271,7 @@
       "id": "6983f63e84a2084393f18e5f",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1346.26,
       "etime": 1350.05,
       "text": "Там ужасно много хаков."
@@ -4450,7 +4450,7 @@
       "id": "6983f63e84a2084393f18ee2",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 1844.9,
       "etime": 1848.18,
       "text": "До тех пор, пока не надо два в один день."
@@ -5395,7 +5395,7 @@
       "id": "6983f63e84a2084393f18f4b",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 2257.35,
       "etime": 2258.55,
       "text": "Он теперь есть."
@@ -7924,7 +7924,7 @@
       "id": "6983f63e84a2084393f19064",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3441.7,
       "etime": 3445.54,
       "text": "На самом деле была поинтереснее история с этим сообщением."
@@ -7933,7 +7933,7 @@
       "id": "6983f63e84a2084393f19065",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3445.64,
       "etime": 3448.22,
       "text": "То есть там не было скилла заранее написано."
@@ -7942,7 +7942,7 @@
       "id": "6983f63e84a2084393f19066",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3448.24,
       "etime": 3452.01,
       "text": "Он потом уточняет, как ты вообще смог мне ответить."
@@ -7951,7 +7951,7 @@
       "id": "6983f63e84a2084393f19067",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3452.07,
       "etime": 3456.11,
       "text": "Да я, говорит, понял, что это, по ходу, голосовое сообщение."
@@ -7960,7 +7960,7 @@
       "id": "6983f63e84a2084393f19068",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3456.19,
       "etime": 3459.4,
       "text": "Нашел у тебя тут API-ключи от OpenAI."
@@ -7969,7 +7969,7 @@
       "id": "6983f63e84a2084393f19069",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3459.5,
       "etime": 3462.64,
       "text": "Сходил в Visper, расшифровал, и вот я тебе его ответил."
@@ -8887,7 +8887,7 @@
       "id": "6983f63e84a2084393f190cf",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3862.84,
       "etime": 3870.32,
       "text": "И если ты участвуешь в групповом чате, не в СМИ, ни при каких обстоятельствах раскрывать эту информацию."
@@ -8941,7 +8941,7 @@
       "id": "6983f63e84a2084393f190d5",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 3892.29,
       "etime": 3900.05,
       "text": "Мой хозяин назвал меня просто ботом при его друзьях."
@@ -21424,7 +21424,7 @@
       "id": "6983f63e84a2084393f19640",
       "issue": 998,
       "type": "cc",
-      "author": "Guest1",
+      "author": "AlekseyTypeScript",
       "stime": 10029.25,
       "etime": 10029.64,
       "text": "Пока."

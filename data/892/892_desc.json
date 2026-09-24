@@ -3,10 +3,10 @@
   "date": "2024-01-13",
   "audio": "https://cdn.radio-t.com/rt_podcast892.mp3",
   "cover": "https://radio-t.com/images/radio-t/rt892.jpg",
-  "start_time": 1705177032,
+  "start_time": 0,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521487063d2e08c429ea8",
       "title": "Все становится еще хуже с работой",
       "links": [
         "https://www.vice.com/en/article/g5y37j/thousands-of-software-engineers-say-the-job-market-is-getting-much-worse"
@@ -14,7 +14,7 @@
       "time": "00:09:04"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521487063d2e08c429ea9",
       "title": "Выход ChatGPT Team",
       "links": [
         "https://openai.com/blog/introducing-chatgpt-team"
@@ -22,7 +22,7 @@
       "time": "00:56:31"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521487063d2e08c429eaa",
       "title": "Выход сомнительного GPT Store",
       "links": [
         "https://openai.com/blog/introducing-the-gpt-store"
@@ -30,7 +30,7 @@
       "time": "01:02:09"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521487063d2e08c429eab",
       "title": "Уволенная из Cloudflare очень обиделась",
       "links": [
         "https://news.ycombinator.com/item?id=38963678"
@@ -38,7 +38,7 @@
       "time": "01:25:31"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521487063d2e08c429eac",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/01/09/prep-892/"
@@ -46,6 +46,5 @@
       "time": "02:07:47"
     }
   ],
-  "tags": null,
-  "verified": "full"
+  "tags": null
 }

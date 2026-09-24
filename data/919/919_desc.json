@@ -6,13 +6,13 @@
   "start_time": 1721506406,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f82",
       "title": "Вступление",
       "links": [],
       "time": "00:00:00"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f83",
       "title": "CrowdStrike случился",
       "links": [
         "https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod"
@@ -20,7 +20,7 @@
       "time": "00:00:39"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f84",
       "title": "Рекомендованная починка и 15 ребутов",
       "links": [
         "https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/"
@@ -28,7 +28,7 @@
       "time": "00:24:34"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f85",
       "title": "Microsoft разогнал бездельников из DEI",
       "links": [
         "https://readwrite.com/microsoft-shuts-down-diversity-equality-and-inclusion-team/"
@@ -36,7 +36,7 @@
       "time": "00:34:56"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f86",
       "title": "Анти-функциональные опции в Go",
       "links": [
         "https://rednafi.com/go/dysfunctional_options_pattern/"
@@ -44,7 +44,7 @@
       "time": "01:14:52"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f87",
       "title": "Короткие линки от Google перестанут работать",
       "links": [
         "https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/"
@@ -52,7 +52,7 @@
       "time": "01:39:29"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f88",
       "title": "GitLab ищет покупателя",
       "links": [
         "https://finance.yahoo.com/news/exclusive-google-backed-software-developer-060252892.html"
@@ -60,7 +60,7 @@
       "time": "01:55:27"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f89",
       "title": "GPT-4o mini",
       "links": [
         "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/"
@@ -68,7 +68,7 @@
       "time": "02:06:28"
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab521637063d2e08c429f8a",
       "title": "Темы слушателей",
       "links": [
         "https://radio-t.com/p/2024/07/16/prep-919/"
@@ -76,6 +76,6 @@
       "time": "02:06:29"
     }
   ],
-  "verified": true,
-  "tags": null
+  "tags": null,
+  "verified": true
 }

@@ -6,7 +6,7 @@
   "start_time": 1373137200,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2f7063d2e08c42040a",
       "title": "Вышло ядро Linux 3.10 с ARM big.LITTLE",
       "links": [
         "http://habrahabr.ru/post/185178/",
@@ -15,7 +15,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2f7063d2e08c42040b",
       "title": "Почему динамические языки не подходят",
       "links": [
         "http://williamedwardscoder.tumblr.com/post/54327549368/dynamic-languages-are-unmaintainable-and-unit-testing"
@@ -23,7 +23,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2f7063d2e08c42040c",
       "title": "Rod Johnson против Scala–тусовки",
       "links": [
         "http://www.petrikainulainen.net/software-development/general/rod-johnson-is-right-the-scala-community-need-to-grow-up/"
@@ -31,7 +31,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2f7063d2e08c42040d",
       "title": "Такой странный Datomic",
       "links": [
         "http://theholyjava.wordpress.com/2013/06/16/making-sense-out-of-datomic-the-revolutionary-non-nosql-database/"
@@ -39,7 +39,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2f7063d2e08c42040e",
       "title": "Очередные programming trends",
       "links": [
         "http://www.dodgycoder.net/p/programming-trends.html"
@@ -47,7 +47,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab51f2f7063d2e08c42040f",
       "title": "DynamoDB научили транзакциям",
       "links": [
         "http://aws.typepad.com/aws/2013/07/dynamodb-transaction-library.html"

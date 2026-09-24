@@ -139,7 +139,7 @@
       "id": "65c9234aabad0379f4445f7c",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 74.05,
       "etime": 75.33,
       "text": "Вопросы утверждения."
@@ -148,7 +148,7 @@
       "id": "65c9234aabad0379f4445f7d",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 75.35,
       "etime": 76.77,
       "text": "Мне стало страшно."
@@ -157,7 +157,7 @@
       "id": "65c9234aabad0379f4445f7e",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 76.81,
       "etime": 78.07,
       "text": "Откуда ты знаешь?"
@@ -301,7 +301,7 @@
       "id": "65c9234aabad0379f4445f8e",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 124.31,
       "etime": 125.89,
       "text": "Какой-то кошмар."
@@ -310,7 +310,7 @@
       "id": "65c9234aabad0379f4445f8f",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 126.55,
       "etime": 129.05,
       "text": "Вермут это очень вкусно, водка это ужасно."
@@ -319,7 +319,7 @@
       "id": "65c9234aabad0379f4445f90",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 129.09,
       "etime": 131.49,
       "text": "Зачем из вермута делать водку?"
@@ -355,7 +355,7 @@
       "id": "65c9234aabad0379f4445f94",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 137.52,
       "etime": 141.98,
       "text": "Так а мартини тоже бывает, по-моему, ну, бывает как раз чизана."
@@ -364,7 +364,7 @@
       "id": "65c9234aabad0379f4445f95",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 142.02,
       "etime": 144.76,
       "text": "Нет, там есть вид, по-моему, чизана, ну, тип."
@@ -373,7 +373,7 @@
       "id": "65c9234aabad0379f4445f96",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 145.59,
       "etime": 148.39,
       "text": "Они у нас же разные бывают, белые, розовые."
@@ -778,7 +778,7 @@
       "id": "65c9234aabad0379f4445fc3",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 287.47,
       "etime": 288.39,
       "text": "Почему?"
@@ -787,7 +787,7 @@
       "id": "65c9234aabad0379f4445fc4",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 288.59,
       "etime": 293.91,
       "text": "У меня было время, когда я очень активно пилила всякие Linux-дистрибутивы."
@@ -796,7 +796,7 @@
       "id": "65c9234aabad0379f4445fc5",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 293.93,
       "etime": 296.93,
       "text": "Я, правда, больше люблю CentOS, но как-то она мне ближе."
@@ -805,7 +805,7 @@
       "id": "65c9234aabad0379f4445fc6",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 297.17,
       "etime": 299.11,
       "text": "Но Ubuntu и Debian тоже трогала."
@@ -814,7 +814,7 @@
       "id": "65c9234aabad0379f4445fc7",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 299.19,
       "etime": 300.15,
       "text": "Меня удивило, что у них Python 2.7."
@@ -823,7 +823,7 @@
       "id": "65c9234aabad0379f4445fc8",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 301.77,
       "etime": 306.73,
       "text": "Через 5 лет Python 2.7 это будет совсем старина блинная."
@@ -1102,7 +1102,7 @@
       "id": "65c9234aabad0379f4445fe7",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 389.08,
       "etime": 389.06,
       "text": "2.6?"
@@ -1966,7 +1966,7 @@
       "id": "65c9234aabad0379f4446047",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 659.54,
       "etime": 659.52,
       "text": "Zen Cloud Platform."
@@ -2047,7 +2047,7 @@
       "id": "65c9234aabad0379f4446050",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 686.53,
       "etime": 686.51,
       "text": "Jigsaw Download."
@@ -2380,7 +2380,7 @@
       "id": "65c9234aabad0379f4446075",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 785.54,
       "etime": 785.52,
       "text": "GCE?"
@@ -3397,7 +3397,7 @@
       "id": "65c9234aabad0379f44460e6",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1137.25,
       "etime": 1138.27,
       "text": "А Google, можно?"
@@ -3406,7 +3406,7 @@
       "id": "65c9234aabad0379f44460e7",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1138.33,
       "etime": 1139.67,
       "text": "Да, да, да."
@@ -3415,7 +3415,7 @@
       "id": "65c9234aabad0379f44460e8",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1139.69,
       "etime": 1150.66,
       "text": "Google говорит, что Ubuntu и Red Hat, они не совсем хотят иметь с ними дело, потому что это люди, которые хотят делать деньги, а Ubuntu это бесплатно и поэтому прекрасно."
@@ -3442,7 +3442,7 @@
       "id": "65c9234aabad0379f44460eb",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1160.25,
       "etime": 1161.81,
       "text": "Погоди, погоди, погоди."
@@ -3469,7 +3469,7 @@
       "id": "65c9234aabad0379f44460ee",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1167.97,
       "etime": 1175.65,
       "text": "Я это знаю от товарища из Google, который комментирует эту ситуацию, статью, которую мы обсуждаем."
@@ -3478,7 +3478,7 @@
       "id": "65c9234aabad0379f44460ef",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1175.75,
       "etime": 1181.59,
       "text": "Вот он говорит так, что Ubuntu дебен, потому что это не люди, которые хотят сделать деньги."
@@ -3541,7 +3541,7 @@
       "id": "65c9234aabad0379f44460f6",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1200.55,
       "etime": 1200.53,
       "text": "Financial Times."
@@ -3784,7 +3784,7 @@
       "id": "65c9234aabad0379f4446111",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1319.21,
       "etime": 1328.42,
       "text": "Ну, если решить, что это просто какой-то такой рекламный момент и привлечение внимания, то провержение, наверное, должно быть позже, чтобы был еще один инфоповод."
@@ -3793,7 +3793,7 @@
       "id": "65c9234aabad0379f4446112",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1328.5,
       "etime": 1342.19,
       "text": "Ну, а суть слуха в том, что Microsoft хочет вернуть в новом апдейте Windows 8, который называется Blue или там 8.1, собирается вернуть кнопочку пуск."
@@ -3802,7 +3802,7 @@
       "id": "65c9234aabad0379f4446113",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1342.21,
       "etime": 1344.11,
       "text": "Вы бы о ней скучали?"
@@ -4117,7 +4117,7 @@
       "id": "65c9234aabad0379f4446136",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1455.57,
       "etime": 1460.66,
       "text": "Кажется, главная проблема, что люди просто не знали, вот именно навигация."
@@ -4126,7 +4126,7 @@
       "id": "65c9234aabad0379f4446137",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1460.94,
       "etime": 1474.37,
       "text": "Возможно, если вернуть просто точку входа, то, к чему пользователи привыкли, как-то действительно стинания или ругов, как говорит Женя, будет меньше."
@@ -4207,7 +4207,7 @@
       "id": "65c9234aabad0379f4446140",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 1513.37,
       "etime": 1519.73,
       "text": "Значит, Microsoft... Есть такая девушка Тамия Реллер."
@@ -4252,7 +4252,7 @@
       "id": "65c9234aabad0379f4446145",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 1534.76,
       "etime": 1534.64,
       "text": "Head of Marketing and Finance for the Windows Business."
@@ -4279,7 +4279,7 @@
       "id": "65c9234aabad0379f4446148",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 1536.46,
       "etime": 1537.64,
       "text": "В интервью с Financial Times она сказала..."
@@ -4288,7 +4288,7 @@
       "id": "65c9234aabad0379f4446149",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 1544.29,
       "etime": 1556.56,
       "text": "что ключевые аспекты того, как программное обеспечение изменится, в общем, они изменятся."
@@ -4423,7 +4423,7 @@
       "id": "65c9234aabad0379f4446158",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 1655.26,
       "etime": 1659.5,
       "text": "Практически нет прямых цитат из интервью."
@@ -4432,7 +4432,7 @@
       "id": "65c9234aabad0379f4446159",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 1659.54,
       "etime": 1662.11,
       "text": "Непонятно, что за интервью."
@@ -4657,7 +4657,7 @@
       "id": "65c9234aabad0379f4446172",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1760.85,
       "etime": 1769.96,
       "text": "Если будущее наступило раньше, если они пытались обогнать время, и сейчас они это не выпилят, они просто канут в лето вместе с этим будущим."
@@ -4666,7 +4666,7 @@
       "id": "65c9234aabad0379f4446173",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1770,
       "etime": 1779.11,
       "text": "И потом какая-нибудь очень известная нам компания переизобретет это в нужное время, в нужном месте, и будет все хорошо."
@@ -4855,7 +4855,7 @@
       "id": "65c9234aabad0379f4446188",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1852.92,
       "etime": 1855.16,
       "text": "А из какого угла она это поддерживает?"
@@ -4981,7 +4981,7 @@
       "id": "65c9234aabad0379f4446196",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 1895.33,
       "etime": 1897.67,
       "text": "Нет, там фишка даже не в этом."
@@ -5044,7 +5044,7 @@
       "id": "65c9234aabad0379f444619d",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1919.86,
       "etime": 1921.56,
       "text": "Я вот хотела продолжить."
@@ -5053,7 +5053,7 @@
       "id": "65c9234aabad0379f444619e",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1921.6,
       "etime": 1929.9,
       "text": "Вот если ты не гик и не фанат продуктивити, вот ты просто человек, ты пользовался всегда Windows, домохозяйка, рецепты смотришь."
@@ -5071,7 +5071,7 @@
       "id": "65c9234aabad0379f44461a0",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1933.77,
       "etime": 1936.45,
       "text": "Нет, я просто гипотетического человека."
@@ -5080,7 +5080,7 @@
       "id": "65c9234aabad0379f44461a1",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1936.49,
       "etime": 1939.79,
       "text": "Вот таким людям им не нужны эти глобальные изменения."
@@ -5089,7 +5089,7 @@
       "id": "65c9234aabad0379f44461a2",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1939.81,
       "etime": 1942.67,
       "text": "Они уже привыкли, как у них все было, там по кнопочке «пуск»."
@@ -5098,7 +5098,7 @@
       "id": "65c9234aabad0379f44461a3",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1943.17,
       "etime": 1945.81,
       "text": "там, нажимают на Яндекс, это интернет."
@@ -5107,7 +5107,7 @@
       "id": "65c9234aabad0379f44461a4",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1945.85,
       "etime": 1952.6,
       "text": "То есть у них все привычно, и тут им эти плитки, они просто их фрустируют и пугают."
@@ -5143,7 +5143,7 @@
       "id": "65c9234aabad0379f44461a8",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1959.03,
       "etime": 1960.03,
       "text": "Тут еще момент."
@@ -5152,7 +5152,7 @@
       "id": "65c9234aabad0379f44461a9",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1960.09,
       "etime": 1962.61,
       "text": "Если, например, они берут iOS, там все по-другому."
@@ -5161,7 +5161,7 @@
       "id": "65c9234aabad0379f44461aa",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1962.65,
       "etime": 1964.45,
       "text": "Вроде нет такого диссонанса."
@@ -5170,7 +5170,7 @@
       "id": "65c9234aabad0379f44461ab",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1964.47,
       "etime": 1967.59,
       "text": "То есть ты учишься и изучаешь новые концепции."
@@ -5179,7 +5179,7 @@
       "id": "65c9234aabad0379f44461ac",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 1967.65,
       "etime": 1976.94,
       "text": "А тут все как было, но вот то, что некоторые вещи изменились, и ты теперь не знаешь, как сделать привычное, оно пугает."
@@ -5188,7 +5188,7 @@
       "id": "65c9234aabad0379f44461ad",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 1976.98,
       "etime": 1982.69,
       "text": "Я просто смотрю по своим друзьям, которые пользуются Windows, которые не гики в продуктивите."
@@ -5521,7 +5521,7 @@
       "id": "65c9234aabad0379f44461d2",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2125.88,
       "etime": 2125.86,
       "text": "The New Windows."
@@ -5602,7 +5602,7 @@
       "id": "65c9234aabad0379f44461db",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 2142.74,
       "etime": 2146.42,
       "text": "А их же прекрасно уже обстебал в своем имя Стив Джобс."
@@ -5746,7 +5746,7 @@
       "id": "65c9234aabad0379f44461eb",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 2209.48,
       "etime": 2211.92,
       "text": "Не выпускали бы Windows 8, а сразу бы перешли к Windows 9."
@@ -5782,7 +5782,7 @@
       "id": "65c9234aabad0379f44461ef",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2223.32,
       "etime": 2224.53,
       "text": "Тут еще на контрастах."
@@ -5791,7 +5791,7 @@
       "id": "65c9234aabad0379f44461f0",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 2224.59,
       "etime": 2232.36,
       "text": "Если они будут не показывать версию между, то следующая, новая версия, она не будет казаться такой крутой."
@@ -5809,7 +5809,7 @@
       "id": "65c9234aabad0379f44461f2",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2235.12,
       "etime": 2236.08,
       "text": "Ну, да."
@@ -5818,7 +5818,7 @@
       "id": "65c9234aabad0379f44461f3",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2236.18,
       "etime": 2238.44,
       "text": "Мне кажется, что есть в этом какой-то эффект."
@@ -5899,7 +5899,7 @@
       "id": "65c9234aabad0379f44461fc",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2288.64,
       "etime": 2287.4,
       "text": "6."
@@ -6007,7 +6007,7 @@
       "id": "65c9234aabad0379f4446208",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_99",
+      "author": "_artifact_99",
       "stime": 2310.65,
       "etime": 2310.79,
       "text": "Нет."
@@ -6016,7 +6016,7 @@
       "id": "65c9234aabad0379f4446209",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2311.03,
       "etime": 2313.33,
       "text": "Если сразу переключиться в десктоп-мод, да?"
@@ -6025,7 +6025,7 @@
       "id": "65c9234aabad0379f444620a",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2313.43,
       "etime": 2317.6,
       "text": "Я думаю, VPN ты настраивал не в режиме плашечек."
@@ -6349,7 +6349,7 @@
       "id": "65c9234aabad0379f444622e",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2427.24,
       "etime": 2429.18,
       "text": "Яйцо тоже прекрасно."
@@ -6520,7 +6520,7 @@
       "id": "65c9234aabad0379f4446241",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2474.85,
       "etime": 2479.43,
       "text": "Вы думаете, 100 тысяч скачиваний это все были дети?"
@@ -6565,7 +6565,7 @@
       "id": "65c9234aabad0379f4446246",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 2497,
       "etime": 2498.93,
       "text": "Конечно, да, пистолет-освободитель."
@@ -6619,7 +6619,7 @@
       "id": "65c9234aabad0379f444624c",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2516.85,
       "etime": 2517.69,
       "text": "Такое разрешение нужно."
@@ -6637,7 +6637,7 @@
       "id": "65c9234aabad0379f444624e",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2518.51,
       "etime": 2519.67,
       "text": "А тут без разрешения."
@@ -6655,7 +6655,7 @@
       "id": "65c9234aabad0379f4446250",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2521.68,
       "etime": 2529.35,
       "text": "Ну, ты принтер купил, скачал на Pirate Bay и чувствуешь себя просто, я не знаю, таким воинственным нарушителем."
@@ -6664,7 +6664,7 @@
       "id": "65c9234aabad0379f4446251",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2529.37,
       "etime": 2532.01,
       "text": "А тут с разрешения купил за 100 баксов пистолет."
@@ -6673,7 +6673,7 @@
       "id": "65c9234aabad0379f4446252",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2532.09,
       "etime": 2533.19,
       "text": "Скучно как-то."
@@ -6736,7 +6736,7 @@
       "id": "65c9234aabad0379f4446259",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2557.76,
       "etime": 2559.55,
       "text": "В переулке по голове могут дать."
@@ -6745,7 +6745,7 @@
       "id": "65c9234aabad0379f444625a",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 2559.57,
       "etime": 2564.79,
       "text": "Это же для суровых гиков, которые не выходят из квартиры, но хотят какую-нибудь веселую игрушку."
@@ -6979,7 +6979,7 @@
       "id": "65c9234aabad0379f4446274",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2647.51,
       "etime": 2649.89,
       "text": "А там разрывает что-то, что ли?"
@@ -6988,7 +6988,7 @@
       "id": "65c9234aabad0379f4446275",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2649.93,
       "etime": 2651.29,
       "text": "Почему он одноразовый?"
@@ -7222,7 +7222,7 @@
       "id": "65c9234aabad0379f444628f",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 2739.22,
       "etime": 2753.81,
       "text": "Ну, в общем, если вы переживаете из-за правительства Америки, то можете не переживать, можете сходить на Pirate Bay, да, и вот если у вас уже есть такой поюзанный восьмитысячный принтер, то вы без проблем все напечатаете, никакой коздеб вам не помеха."
@@ -7231,7 +7231,7 @@
       "id": "65c9234aabad0379f4446290",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 2753.83,
       "etime": 2758.59,
       "text": "Слушайте, ребят, а не проще пойти купить пневматический пистолет?"
@@ -7501,7 +7501,7 @@
       "id": "65c9234aabad0379f44462ae",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2861.74,
       "etime": 2864.56,
       "text": "Нет, лет уже так 15 не говорят."
@@ -7528,7 +7528,7 @@
       "id": "65c9234aabad0379f44462b1",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2868.88,
       "etime": 2871.71,
       "text": "Да, ну что-то про детство так вспоминается, да."
@@ -7636,7 +7636,7 @@
       "id": "65c9234aabad0379f44462bd",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 2923.13,
       "etime": 2927.59,
       "text": "А может он заинтересуется, скажет, что это такое, давай меняться, твой на мой."
@@ -7645,7 +7645,7 @@
       "id": "65c9234aabad0379f44462be",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 2927.63,
       "etime": 2932.57,
       "text": "Но тут на Хаббе сразу же вспомнили пистолет, с которым ходил герой Бодрова,"
@@ -8077,7 +8077,7 @@
       "id": "65c9234aabad0379f44462ee",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3083.94,
       "etime": 3098.58,
       "text": "Мне кажется, то, как выглядит этот пистолет, и то, какой он ненастоящий, наоборот, нам дает понять, как много времени нам нужно еще, чтобы как в фантастических книжках печатать себе дома все."
@@ -8113,7 +8113,7 @@
       "id": "65c9234aabad0379f44462f2",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3113.71,
       "etime": 3114.45,
       "text": "Как ты думаешь..."
@@ -8122,7 +8122,7 @@
       "id": "65c9234aabad0379f44462f3",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3115.03,
       "etime": 3124.66,
       "text": "Если бы никто не мешал, извини, что перевела, но понятно, что если это действительно начнет взрывать экономику, то появятся несогласные, и это все будет тормозиться."
@@ -8131,7 +8131,7 @@
       "id": "65c9234aabad0379f44462f4",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3124.7,
       "etime": 3128.4,
       "text": "Но, предположим, никто этой технологии не мешает, она развивается."
@@ -8140,7 +8140,7 @@
       "id": "65c9234aabad0379f44462f5",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3128.46,
       "etime": 3133.04,
       "text": "Через сколько лет я смогу напечатать себе дома, я не знаю, все что угодно."
@@ -8149,7 +8149,7 @@
       "id": "65c9234aabad0379f44462f6",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3133.1,
       "etime": 3134.32,
       "text": "Другой дом."
@@ -8158,7 +8158,7 @@
       "id": "65c9234aabad0379f44462f7",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3134.58,
       "etime": 3135.4,
       "text": "Другой дом, да."
@@ -8464,7 +8464,7 @@
       "id": "65c9234aabad0379f4446319",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3262.74,
       "etime": 3268.67,
       "text": "Если это вещь делается не абсолютно пластиковой, то это вещь очень сложная для 3D принтера."
@@ -8608,7 +8608,7 @@
       "id": "65c9234aabad0379f4446329",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3343.67,
       "etime": 3347.15,
       "text": "Представляю, через 10 лет каждый сам себе фрезеровщик."
@@ -8617,7 +8617,7 @@
       "id": "65c9234aabad0379f444632a",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3347.19,
       "etime": 3349.15,
       "text": "Кажется, будет классно."
@@ -9076,7 +9076,7 @@
       "id": "65c9234aabad0379f444635d",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3525.61,
       "etime": 3527.19,
       "text": "Да, я тоже об этом подумала."
@@ -9085,7 +9085,7 @@
       "id": "65c9234aabad0379f444635e",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3527.23,
       "etime": 3531.76,
       "text": "А в медицине разве нет идей создавать такой материал, очень похожий?"
@@ -9265,7 +9265,7 @@
       "id": "65c9234aabad0379f4446372",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 3595.28,
       "etime": 3600.84,
       "text": "Waze это не очень стартап, вообще-то говоря, родом из Израиля."
@@ -9346,7 +9346,7 @@
       "id": "65c9234aabad0379f444637b",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 3626.1,
       "etime": 3630.94,
       "text": "Причем карту они строят по сигналам с места."
@@ -9733,7 +9733,7 @@
       "id": "65c9234aabad0379f44463a6",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 3847.22,
       "etime": 3853.76,
       "text": "Так вот, они видят свою миссию как некий альтернативный способ картографии в современном мире."
@@ -9769,7 +9769,7 @@
       "id": "65c9234aabad0379f44463aa",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3875.96,
       "etime": 3877.57,
       "text": "Нет, в смысле, а что с ним случилось?"
@@ -9787,7 +9787,7 @@
       "id": "65c9234aabad0379f44463ac",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3882.08,
       "etime": 3883.72,
       "text": "Это какого-то Яндекса."
@@ -9796,7 +9796,7 @@
       "id": "65c9234aabad0379f44463ad",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3884.41,
       "etime": 3889.47,
       "text": "Ну, пробки по Москве знает, наверное, ну, не наверное, знает только Яндекс."
@@ -9805,7 +9805,7 @@
       "id": "65c9234aabad0379f44463ae",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3889.57,
       "etime": 3890.67,
       "text": "Более-менее нормально."
@@ -9958,7 +9958,7 @@
       "id": "65c9234aabad0379f44463bf",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 3941.7,
       "etime": 3943.19,
       "text": "То есть они яркость уменьшают?"
@@ -9985,7 +9985,7 @@
       "id": "65c9234aabad0379f44463c2",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3945.84,
       "etime": 3955.57,
       "text": "Это, видимо, после того, как их все ругали с Google Now, что Google Now жирает батарейку на iOS очень быстро, и они решили сделать ход конем и экономить батарейку."
@@ -10021,7 +10021,7 @@
       "id": "65c9234aabad0379f44463c6",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3965.41,
       "etime": 3971.84,
       "text": "Ну да, это, мне кажется, очень сурово, когда ты едешь и какое-нибудь напряженное движение."
@@ -10030,7 +10030,7 @@
       "id": "65c9234aabad0379f44463c7",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 3971.88,
       "etime": 3977.73,
       "text": "Ну, в общем, не очень хочется отрываться на то, чтобы заходить в настройки, включать яркость и чертыхаться на гугл."
@@ -10363,7 +10363,7 @@
       "id": "65c9234aabad0379f44463ec",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 4078.28,
       "etime": 4081.19,
       "text": "Только халява прокатит."
@@ -10408,7 +10408,7 @@
       "id": "65c9234aabad0379f44463f1",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4099.02,
       "etime": 4101.4,
       "text": "Это исключительно действительно игровая механика."
@@ -11038,7 +11038,7 @@
       "id": "65c9234aabad0379f4446437",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 4438.77,
       "etime": 4440.95,
       "text": "Почему ты хочешь весь снести?"
@@ -11047,7 +11047,7 @@
       "id": "65c9234aabad0379f4446438",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 4440.97,
       "etime": 4445.12,
       "text": "Инстаграм не стал хуже от Фейсбука, может быть, даже стал в чем-то лучше."
@@ -11137,7 +11137,7 @@
       "id": "65c9234aabad0379f4446442",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 4488.13,
       "etime": 4503.08,
       "text": "Ну, мне кажется, что вот эта вот идея их интеграции с Фейсбуком, она и сам Инстаграм несколько пиарит, потому что появляются в ленте, например, фотографии, что полайкали твои друзья, скажем, в Инстаграме."
@@ -11146,7 +11146,7 @@
       "id": "65c9234aabad0379f4446443",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 4503.12,
       "etime": 4505.34,
       "text": "То есть это почти какой-то аналог ретвитов."
@@ -11164,7 +11164,7 @@
       "id": "65c9234aabad0379f4446445",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 4515.99,
       "etime": 4521.71,
       "text": "А до этого Инстаграм, я бы не сказала, что у них новые фичи были там каждую неделю."
@@ -11173,7 +11173,7 @@
       "id": "65c9234aabad0379f4446446",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 4521.79,
       "etime": 4522.43,
       "text": "Не было такого?"
@@ -11758,7 +11758,7 @@
       "id": "65c9234aabad0379f4446487",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 4717.09,
       "etime": 4721.66,
       "text": "Нет, а я хотела узнать, в Европе же большинство карт чипованы, а в Америке нет?"
@@ -11812,7 +11812,7 @@
       "id": "65c9234aabad0379f444648d",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4744.12,
       "etime": 4749.67,
       "text": "Это, кстати говоря, означает, что ими нельзя будет заплатить в интернете, не имея карты в руке."
@@ -11830,7 +11830,7 @@
       "id": "65c9234aabad0379f444648f",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4751.22,
       "etime": 4757.81,
       "text": "Но при этом у американцев совершенно спокойно обходят всякие чипы, они просто проводят, там же еще и магнитная лента есть."
@@ -11839,7 +11839,7 @@
       "id": "65c9234aabad0379f4446490",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4757.85,
       "etime": 4760.81,
       "text": "Поэтому они спокойно ее прокатывают и все."
@@ -11929,7 +11929,7 @@
       "id": "65c9234aabad0379f444649a",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 4803.22,
       "etime": 4803.3,
       "text": "Угу."
@@ -12118,7 +12118,7 @@
       "id": "65c9234aabad0379f44464af",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 4864.48,
       "etime": 4867.82,
       "text": "Ну, то есть там Rolex, машины и все такое прочее."
@@ -12802,7 +12802,7 @@
       "id": "65c9234aabad0379f44464fb",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5128.36,
       "etime": 5130.16,
       "text": "А опасности больше всего?"
@@ -12991,7 +12991,7 @@
       "id": "65c9234aabad0379f4446510",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5210.85,
       "etime": 5213.25,
       "text": "Нет, слушайте, они нигде не брали слипы."
@@ -13009,7 +13009,7 @@
       "id": "65c9234aabad0379f4446512",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5217.84,
       "etime": 5224.16,
       "text": "Значит, они, значит, взяли совершенно банальной картой, да?"
@@ -13027,7 +13027,7 @@
       "id": "65c9234aabad0379f4446514",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5232.86,
       "etime": 5245.03,
       "text": "Значит, дальше, по сути, единственная хакерская часть, которую они использовали, они вот эту процессинговую компанию, когда хакнули, они на определенных картах убрали лимит."
@@ -13243,7 +13243,7 @@
       "id": "65c9234aabad0379f444652c",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5297.09,
       "etime": 5301.53,
       "text": "Более того, сейчас банки очень активно занимаются образованием."
@@ -13270,7 +13270,7 @@
       "id": "65c9234aabad0379f444652f",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5317.89,
       "etime": 5327.22,
       "text": "Да, я согласна, это сейчас очень популярная вещь, то есть даже там, например, у нас на работе вплоть до того, что предупреждали, как это должно выглядеть и что бывают случаи, когда..."
@@ -13279,7 +13279,7 @@
       "id": "65c9234aabad0379f4446530",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5329.08,
       "etime": 5340.8,
       "text": "Когда люди попадали тем, что у них снимали все деньги Сейчас банки идут навстречу и возвращают деньги Если действительно было доказано, что ты попал в такую ситуацию Но это большие проблемы"
@@ -13702,7 +13702,7 @@
       "id": "65c9234aabad0379f444655f",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5565.22,
       "etime": 5568.38,
       "text": "Они такие все продвинутые и все такое прочее."
@@ -14008,7 +14008,7 @@
       "id": "65c9234aabad0379f4446581",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5719.6,
       "etime": 5723.8,
       "text": "Да-да-да, я читала ее всю неделю, наслаждалась каждым словом."
@@ -14017,7 +14017,7 @@
       "id": "65c9234aabad0379f4446582",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5723.96,
       "etime": 5733.24,
       "text": "Мне понравилась основная идея, что андроид, возможно, выиграл битву, но проиграл войну."
@@ -14026,7 +14026,7 @@
       "id": "65c9234aabad0379f4446583",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5733.3,
       "etime": 5736.8,
       "text": "Одна из причин... То есть он представляет..."
@@ -14035,7 +14035,7 @@
       "id": "65c9234aabad0379f4446584",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5739.06,
       "etime": 5743.34,
       "text": "представлять себе вот эту модель, которая пользуется Android, то есть просто увеличить market share."
@@ -14044,7 +14044,7 @@
       "id": "65c9234aabad0379f4446585",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5743.52,
       "etime": 5751.97,
       "text": "То есть основная идея в какой-то момент была просто «у кого больше пользователей, тот и молодец»."
@@ -14053,7 +14053,7 @@
       "id": "65c9234aabad0379f4446586",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5751.99,
       "etime": 5755.63,
       "text": "А оказалось, что так это не работает сейчас."
@@ -14062,7 +14062,7 @@
       "id": "65c9234aabad0379f4446587",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5755.69,
       "etime": 5764.35,
       "text": "То есть у кого больше пользователей, это не обязательно означает того, у кого больше денег, например."
@@ -14071,7 +14071,7 @@
       "id": "65c9234aabad0379f4446588",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5765.41,
       "etime": 5781.52,
       "text": "А деньги, они это прямо очень связаны с тем, например, вот первое, когда какой-то вендор выпускает свое приложение, он рассматривает платформы и важно, для какой платформы он выпускает сначала."
@@ -14080,7 +14080,7 @@
       "id": "65c9234aabad0379f4446589",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5781.56,
       "etime": 5785.9,
       "text": "То есть большинство производителей приложений сначала это делают под iOS."
@@ -14089,7 +14089,7 @@
       "id": "65c9234aabad0379f444658a",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5785.96,
       "etime": 5791.36,
       "text": "И более того, приложение более качественное под iOS, потому что там можно заработать денег."
@@ -14098,7 +14098,7 @@
       "id": "65c9234aabad0379f444658b",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5791.44,
       "etime": 5793.74,
       "text": "Есть, конечно, еще какие-то моменты, но вот..."
@@ -14188,7 +14188,7 @@
       "id": "65c9234aabad0379f4446595",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5828.53,
       "etime": 5833.24,
       "text": "Я думаю, что в нашем чате будут все за Android, а не за iOS."
@@ -14197,7 +14197,7 @@
       "id": "65c9234aabad0379f4446596",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5833.28,
       "etime": 5835.84,
       "text": "Потому что гики любят страдать."
@@ -14206,7 +14206,7 @@
       "id": "65c9234aabad0379f4446597",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5835.86,
       "etime": 5836.64,
       "text": "И это Android."
@@ -14215,7 +14215,7 @@
       "id": "65c9234aabad0379f4446598",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5836.8,
       "etime": 5837.48,
       "text": "Подожди."
@@ -14377,7 +14377,7 @@
       "id": "65c9234aabad0379f44465aa",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 5916.5,
       "etime": 5918.02,
       "text": "А почему сразу не зарабатывать?"
@@ -14386,7 +14386,7 @@
       "id": "65c9234aabad0379f44465ab",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 5918.04,
       "etime": 5922.78,
       "text": "Зачем выбирать модель, которая только потом, возможно, ты будешь зарабатывать деньги?"
@@ -14494,7 +14494,7 @@
       "id": "65c9234aabad0379f44465b7",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 5981.59,
       "etime": 5986.77,
       "text": "Слушайте, на самом деле, статья-то очень коротенькая и означает очень простую вещь."
@@ -14719,7 +14719,7 @@
       "id": "65c9234aabad0379f44465d0",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6097.91,
       "etime": 6100.49,
       "text": "Да, дадут фору любому iOS-пользователю."
@@ -14854,7 +14854,7 @@
       "id": "65c9234aabad0379f44465df",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6175.34,
       "etime": 6180.38,
       "text": "Нет, ну просто открытость и закрытость иногда имеются немножко в виду, немножко в другом смысле."
@@ -14863,7 +14863,7 @@
       "id": "65c9234aabad0379f44465e0",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6180.48,
       "etime": 6186.97,
       "text": "Например, в плане файловой системы, что на Android ты можешь использовать, ну, у тебя есть доступ к файловой системе."
@@ -14872,7 +14872,7 @@
       "id": "65c9234aabad0379f44465e1",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6187.01,
       "etime": 6195.91,
       "text": "Вот те 7% гиков, их действительно напрягает то, что на iOS они не могут там записать музыку, как они хотят."
@@ -14881,7 +14881,7 @@
       "id": "65c9234aabad0379f44465e2",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6195.93,
       "etime": 6196.37,
       "text": "Ты понимаешь?"
@@ -14953,7 +14953,7 @@
       "id": "65c9234aabad0379f44465ea",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6248.64,
       "etime": 6261.82,
       "text": "Нет, да, документация, да, но иногда, вот, я не знаю, поймешь ты, не поймешь, но иногда очень важно посмотреть, как это действительно внутри написано, и когда про Android можно посмотреть исходный код, это иногда правда удобно."
@@ -14962,7 +14962,7 @@
       "id": "65c9234aabad0379f44465eb",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 6261.84,
       "etime": 6262.84,
       "text": "И ужаснуться."
@@ -14971,7 +14971,7 @@
       "id": "65c9234aabad0379f44465ec",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 6262.86,
       "etime": 6263.76,
       "text": "Подожди, подожди, нет, ты..."
@@ -14980,7 +14980,7 @@
       "id": "65c9234aabad0379f44465ed",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6265.62,
       "etime": 6272.89,
       "text": "Например, на iOS иногда очень полезно бывает посмотреть приватные фреймворки и функции."
@@ -14989,7 +14989,7 @@
       "id": "65c9234aabad0379f44465ee",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6272.91,
       "etime": 6278.69,
       "text": "То есть это есть на GitHub, это просто там класс дампов сделано, но это действительно бывает полезно."
@@ -14998,7 +14998,7 @@
       "id": "65c9234aabad0379f44465ef",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6278.75,
       "etime": 6279.86,
       "text": "Кроме документации."
@@ -15007,7 +15007,7 @@
       "id": "65c9234aabad0379f44465f0",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6279.88,
       "etime": 6281.14,
       "text": "Вот то же самое на Android."
@@ -15016,7 +15016,7 @@
       "id": "65c9234aabad0379f44465f1",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6281.18,
       "etime": 6284.8,
       "text": "Ты можешь посмотреть не только вот эти хедеры, ты можешь посмотреть просто имплементацию."
@@ -15025,7 +15025,7 @@
       "id": "65c9234aabad0379f44465f2",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6284.86,
       "etime": 6286.16,
       "text": "Иногда действительно полезно."
@@ -15034,7 +15034,7 @@
       "id": "65c9234aabad0379f44465f3",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6286.52,
       "etime": 6291.7,
       "text": "Но это не для гиков, и это не те люди, которые говорят, вот она такая же закрытая, как Windows."
@@ -15043,7 +15043,7 @@
       "id": "65c9234aabad0379f44465f4",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6292.64,
       "etime": 6294.75,
       "text": "Это разработчики, это совсем другое."
@@ -15052,7 +15052,7 @@
       "id": "65c9234aabad0379f44465f5",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6294.77,
       "etime": 6299.67,
       "text": "Они не будут говорить про эту закрытость и иметь в виду ее как что-то там другое."
@@ -15115,7 +15115,7 @@
       "id": "65c9234aabad0379f44465fc",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6328.66,
       "etime": 6333.95,
       "text": "Тут, понимаешь, иногда подается, ты хочешь сделать что-то такое, что Apple не хочет, чтобы ты делал."
@@ -15133,7 +15133,7 @@
       "id": "65c9234aabad0379f44465fe",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6339.39,
       "etime": 6340.29,
       "text": "Да, да."
@@ -15142,7 +15142,7 @@
       "id": "65c9234aabad0379f44465ff",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6340.31,
       "etime": 6343.28,
       "text": "Apple завещает нам не хотеть, но все хотят."
@@ -15151,7 +15151,7 @@
       "id": "65c9234aabad0379f4446600",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6343.44,
       "etime": 6355.16,
       "text": "И как бы вот... Причем вот в приложениях, в классных приложениях, которые все считают прям вау и лучшими, они все частенько делают что-нибудь такое, что Apple вроде как не хотела."
@@ -15160,7 +15160,7 @@
       "id": "65c9234aabad0379f4446601",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6355.2,
       "etime": 6355.89,
       "text": "Хотя потом Apple..."
@@ -15169,7 +15169,7 @@
       "id": "65c9234aabad0379f4446602",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6356.55,
       "etime": 6370.66,
       "text": "Возможно, признает это нормальным путем развития и, да, там, включит это в паблик-фреймворки, но вначале вот иногда тебе нужно быть первопроходцем, и тогда, да, нужно узнать, что там, приватного или еще как-нибудь."
@@ -15196,7 +15196,7 @@
       "id": "65c9234aabad0379f4446605",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 6377.57,
       "etime": 6380.55,
       "text": "Ну, там не сидя была, а какой-то предыдущий вариант."
@@ -15241,7 +15241,7 @@
       "id": "65c9234aabad0379f444660a",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 6390.01,
       "etime": 6391.89,
       "text": "После первопроходцев."
@@ -15304,7 +15304,7 @@
       "id": "65c9234aabad0379f4446611",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 6402.63,
       "etime": 6408.27,
       "text": "Но, к счастью, ему есть где скрывать эти провода, которые тянутся от него к газетке."
@@ -15610,7 +15610,7 @@
       "id": "65c9234aabad0379f4446633",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 6522.01,
       "etime": 6522.89,
       "text": "Ну, делали, точнее."
@@ -15817,7 +15817,7 @@
       "id": "65c9234aabad0379f444664a",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6602.46,
       "etime": 6606.9,
       "text": "А почему они нападают на Google, а не на Apple, не на iOS?"
@@ -15826,7 +15826,7 @@
       "id": "65c9234aabad0379f444664b",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6606.94,
       "etime": 6625.13,
       "text": "Вот если говорить про телефоны, например, то они, по-моему, их платформа как-то достаточно похожа больше на iOS, то есть они целят достаточно дорогой сегмент, то есть не в нищебродов, они проверяют свои приложения, то есть у них модерируемый их магазин."
@@ -15835,7 +15835,7 @@
       "id": "65c9234aabad0379f444664c",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6625.17,
       "etime": 6626.29,
       "text": "Почему они тогда против Google?"
@@ -15889,7 +15889,7 @@
       "id": "65c9234aabad0379f4446652",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 6639.92,
       "etime": 6643.72,
       "text": "То есть они договорились, решили, что ты на них, а я на них."
@@ -16582,7 +16582,7 @@
       "id": "65c9234aabad0379f444669f",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 6958.79,
       "etime": 6971.57,
       "text": "Мне кажется, Microsoft просто думали, что никто не заметит, так как у них очень мало пользователей, и никто не заметит, что они позволяют с YouTube скачивать ролики."
@@ -16852,7 +16852,7 @@
       "id": "65c9234aabad0379f44466bd",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 7086.11,
       "etime": 7089.49,
       "text": "Мне кажется, у тебя сил тогда не хватит."
@@ -18940,7 +18940,7 @@
       "id": "65c9234aabad0379f44467a5",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 7879.83,
       "etime": 7885.01,
       "text": "А зачем они ходят с фейковыми, чтобы... А там мы просто раздавали."
@@ -19156,7 +19156,7 @@
       "id": "65c9234aabad0379f44467bd",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 7992.21,
       "etime": 7992.33,
       "text": "Угу."
@@ -19255,7 +19255,7 @@
       "id": "65c9234aabad0379f44467c8",
       "issue": 340,
       "type": "cc",
-      "author": "Marin_k_a",
+      "author": "Ksenks",
       "stime": 8053.95,
       "etime": 8066.47,
       "text": "Нет, но он там просто еще жалуется на то, что все идеи по поводу внедрения каких-то новых моментов разбиваются, а то, что нет, давайте поддержим не то, а это."
@@ -19264,7 +19264,7 @@
       "id": "65c9234aabad0379f44467c9",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8066.49,
       "etime": 8070.45,
       "text": "Ну, в общем, да, разработчик, который ругает менеджмент, по сути."
@@ -19273,7 +19273,7 @@
       "id": "65c9234aabad0379f44467ca",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8070.51,
       "etime": 8071.32,
       "text": "Конечно, именно так."
@@ -20074,7 +20074,7 @@
       "id": "65c9234aabad0379f4446823",
       "issue": 340,
       "type": "cc",
-      "author": "EldarMurtazin",
+      "author": "Gray",
       "stime": 8350.87,
       "etime": 8351.91,
       "text": "Ну, короче, да."
@@ -20173,7 +20173,7 @@
       "id": "65c9234aabad0379f444682e",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8398.26,
       "etime": 8398.96,
       "text": "Да-да-да."
@@ -20344,7 +20344,7 @@
       "id": "65c9234aabad0379f4446841",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8466.32,
       "etime": 8468.1,
       "text": "Для погуглить тема, а не для гиковского выпуска."
@@ -20470,7 +20470,7 @@
       "id": "65c9234aabad0379f444684f",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8508.74,
       "etime": 8510.56,
       "text": "Я старалась не заснуть."
@@ -20497,7 +20497,7 @@
       "id": "65c9234aabad0379f4446852",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_05",
+      "author": "Ksenks",
       "stime": 8517.73,
       "etime": 8519.15,
       "text": "Тёлки."
@@ -20542,7 +20542,7 @@
       "id": "65c9234aabad0379f4446857",
       "issue": 340,
       "type": "cc",
-      "author": "SPEAKER_04",
+      "author": "_artifact",
       "stime": 8524.42,
       "etime": 8526.2,
       "text": "Давайте заканчиваем."

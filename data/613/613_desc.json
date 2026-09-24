@@ -6,7 +6,7 @@
   "start_time": 1535832000,
   "topics": [
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420cd9",
       "title": "Amazon EC2 T3",
       "links": [
         "https://aws.amazon.com/about-aws/whats-new/2018/08/introducing-amazon-ec2-t3-instances/?fc=p_2"
@@ -14,7 +14,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420cda",
       "title": "AWS уронило цену на Lightsail",
       "links": [
         "https://techcrunch.com/2018/08/23/aws-cuts-the-price-of-most-of-its-lightsail-virtual-private-servers-in-half/"
@@ -22,7 +22,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420cdb",
       "title": "Go 1.11",
       "links": [
         "https://blog.golang.org/go1.11"
@@ -30,7 +30,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420cdc",
       "title": "Проект Athens",
       "links": [
         "https://open.microsoft.com/2018/08/28/announcing-project-athens-gophersource-go-community/"
@@ -38,7 +38,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420cdd",
       "title": "Go 2 Draft",
       "links": [
         "https://blog.golang.org/go2draft"
@@ -46,7 +46,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420cde",
       "title": "Зачем учить еще один DSL",
       "links": [
         "https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html"
@@ -54,7 +54,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420cdf",
       "title": "Gitpod — странное IDE для GitHub",
       "links": [
         "https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886"
@@ -62,7 +62,7 @@
       "time": ""
     },
     {
-      "id": "000000000000000000000000",
+      "id": "6ab5201f7063d2e08c420ce0",
       "title": "Темы наших слушателей",
       "links": [],
       "time": ""
