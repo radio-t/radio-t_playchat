@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"math"
 	"net/http"
 	"os"
 	"regexp"
@@ -510,6 +511,181 @@ func writeEmptyCcFiles() {
 	}
 }
 
+// ssaDoc — минимальный текстовый разбор SSA для доступа к полям Dialogue по имени колонки.
+// Используется, т.к. go-astisub жёстко пишет фиксированный набор полей, а нам нужно
+// читать/писать произвольные поля (Style, Effect) и формировать урезанный N_cc.ssa.
+type ssaDoc struct {
+	lines      []string       // строки файла (без завершающих \r)
+	cols       map[string]int // имя колонки (в нижнем регистре) -> индекс в Dialogue
+	fieldCount int            // число колонок в Format блока [Events]
+	dialogues  []int          // индексы строк-Dialogue в lines
+	eol        string         // разделитель строк, определённый по исходнику
+}
+
+// parseSSADoc разбирает текст SSA: колонки Format блока [Events] и строки-Dialogue.
+func parseSSADoc(text string) ssaDoc {
+	d := ssaDoc{cols: map[string]int{}, eol: "\n"}
+	if strings.Contains(text, "\r\n") {
+		d.eol = "\r\n"
+	}
+
+	for _, raw := range strings.Split(text, "\n") {
+		d.lines = append(d.lines, strings.TrimSuffix(raw, "\r"))
+	}
+
+	inEvents := false
+	for i, raw := range d.lines {
+		line := strings.TrimSpace(raw)
+		if line == "" {
+			continue
+		}
+		if strings.HasPrefix(line, "[") && strings.HasSuffix(line, "]") {
+			inEvents = strings.EqualFold(line, "[Events]")
+			continue
+		}
+		if !inEvents {
+			continue
+		}
+		if strings.HasPrefix(line, "Format:") {
+			names := strings.Split(strings.TrimSpace(strings.TrimPrefix(line, "Format:")), ",")
+			d.fieldCount = len(names)
+			d.cols = make(map[string]int, len(names))
+			for idx, n := range names {
+				d.cols[strings.ToLower(strings.TrimSpace(n))] = idx
+			}
+			continue
+		}
+		if header, _, ok := strings.Cut(line, ":"); ok && strings.TrimSpace(header) == "Dialogue" {
+			d.dialogues = append(d.dialogues, i)
+		}
+	}
+	return d
+}
+
+// dialogueParts разбивает строку-Dialogue li на префикс (до содержимого) и поля.
+// Полей ровно fieldCount; последнее поле (Text) поглощает лишние запятые.
+func (d ssaDoc) dialogueParts(li int) (prefix string, parts []string, ok bool) {
+	if li < 0 || li >= len(d.lines) {
+		return "", nil, false
+	}
+	line := d.lines[li]
+	ci := strings.Index(line, ":")
+	if ci < 0 {
+		return "", nil, false
+	}
+	rest := line[ci+1:]
+	lead := len(rest) - len(strings.TrimLeft(rest, " \t"))
+	prefix = line[:ci+1+lead]
+	parts = strings.Split(rest[lead:], ",")
+	if d.fieldCount > 0 && len(parts) > d.fieldCount {
+		parts[d.fieldCount-1] = strings.Join(parts[d.fieldCount-1:], ",")
+		parts = parts[:d.fieldCount]
+	}
+	return prefix, parts, true
+}
+
+// render собирает текст файла из строк lines, используя исходный разделитель строк.
+func (d ssaDoc) render(lines []string) string {
+	return strings.Join(lines, d.eol)
+}
+
+// buildMinimalSSA формирует публикуемый N_cc.ssa с единственными полями
+// Start, End, Style (id реплики), Name, Text; остальные поля отбрасываются.
+func buildMinimalSSA(doc ssaDoc, ids []string) string {
+	startIdx, okStart := doc.cols["start"]
+	endIdx, okEnd := doc.cols["end"]
+	nameIdx, okName := doc.cols["name"]
+	textIdx, okText := doc.cols["text"]
+	if !okStart || !okEnd || !okName || !okText {
+		return ""
+	}
+
+	var b strings.Builder
+	b.WriteString("[Script Info]")
+	b.WriteString(doc.eol)
+	b.WriteString("ScriptType: v4.00")
+	b.WriteString(doc.eol)
+	b.WriteString(doc.eol)
+	b.WriteString("[Events]")
+	b.WriteString(doc.eol)
+	b.WriteString("Format: Start, End, Style, Name, Text")
+	b.WriteString(doc.eol)
+
+	for i, li := range doc.dialogues {
+		if i >= len(ids) {
+			break
+		}
+		_, parts, ok := doc.dialogueParts(li)
+		if !ok || startIdx >= len(parts) || endIdx >= len(parts) || nameIdx >= len(parts) || textIdx >= len(parts) {
+			continue
+		}
+		b.WriteString("Dialogue: ")
+		b.WriteString(parts[startIdx])
+		b.WriteString(",")
+		b.WriteString(parts[endIdx])
+		b.WriteString(",")
+		b.WriteString(ids[i])
+		b.WriteString(",")
+		b.WriteString(parts[nameIdx])
+		b.WriteString(",")
+		b.WriteString(parts[textIdx])
+		b.WriteString(doc.eol)
+	}
+	return b.String()
+}
+
+// cueKey — ключ сопоставления реплик по таймингам (сотые доли секунды).
+type cueKey struct {
+	start int64
+	end   int64
+}
+
+// cueKeyFromDuration переводит тайминги astisub в ключ (сотые доли секунды).
+func cueKeyFromDuration(start, end time.Duration) cueKey {
+	const cs = 10 * time.Millisecond
+	return cueKey{start: int64(start / cs), end: int64(end / cs)}
+}
+
+// cueKeyFromSeconds переводит секунды из N_cc.json в ключ (сотые доли секунды).
+func cueKeyFromSeconds(start, end float64) cueKey {
+	return cueKey{start: int64(math.Round(start * 100)), end: int64(math.Round(end * 100))}
+}
+
+// loadExistingCcIDsIndex строит индекс id по таймингам из уже сгенерированного N_cc.json.
+// Значения хранятся списками: корректно обрабатывает реплики с одинаковыми таймингами.
+func loadExistingCcIDsIndex(path string) map[cueKey][]ObjectID {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil
+	}
+	var subs Subs
+	if err := json.Unmarshal(data, &subs); err != nil {
+		return nil
+	}
+	index := make(map[cueKey][]ObjectID, len(subs.Subs))
+	for _, s := range subs.Subs {
+		if s.Id.IsZero() {
+			continue
+		}
+		k := cueKeyFromSeconds(s.Stime, s.Etime)
+		index[k] = append(index[k], s.Id)
+	}
+	return index
+}
+
+// parseObjectID распознаёт непустой hex ObjectID (24 символа). "0" и мусор → false.
+func parseObjectID(s string) (ObjectID, bool) {
+	s = strings.TrimSpace(s)
+	if len(s) != 24 {
+		return NilObjectID, false
+	}
+	id, err := ObjectIDFromHex(s)
+	if err != nil || id.IsZero() {
+		return NilObjectID, false
+	}
+	return id, true
+}
+
 func createCcFile(issue int) {
 	const loc = "createCcFile"
 	infoLog.Printf("(%s) Обработка субтитров для выпуска %d", loc, issue)
@@ -533,39 +709,124 @@ func createCcFile(issue int) {
 		return
 	}
 
-	data, err := os.ReadFile(ccSrcFile)
+	rawData, err := os.ReadFile(ccSrcFile)
 	if err != nil {
 		errLog.Printf("(%s) Ошибка чтения файла субтитров %s: %v", loc, ccSrcFile, err)
 		hasError = true
 		return
 	}
-	_ = os.WriteFile(ccSsaFile, data, 0644)
 
-	ssa, err := as.OpenFile(ccSrcFile)
+	// id реплик хранятся в поле Style файла tmp/06_manual.ssa (hex ObjectID).
+	// Стабильные id нужны, чтобы при перегенерации N_cc.json не менялись ключи (git-friendly).
+	doc := parseSSADoc(string(rawData))
+	styleIdx, hasStyle := doc.cols["style"]
+	effectIdx, hasEffect := doc.cols["effect"]
+	if !hasStyle {
+		warnLog.Printf("(%s) В %s нет колонки Style — id реплик не будут персистентными", loc, ccSrcFile)
+	}
+
+	parsed, err := as.ReadFromSSA(strings.NewReader(string(rawData)))
 	if err != nil {
 		errLog.Printf("(%s) Ошибка парсинга ssa-файла %s: %v", loc, ccSrcFile, err)
 		hasError = true
 		return
 	}
 
-	subs := &Subs{Subs: []CCLine{}}
+	if len(parsed.Items) != len(doc.dialogues) {
+		warnLog.Printf("(%s) Число разобранных реплик %d не совпадает с числом Dialogue-строк %d", loc, len(parsed.Items), len(doc.dialogues))
+	}
 
-	for _, item := range ssa.Items {
+	existingIndex := loadExistingCcIDsIndex(ccJsonFile)
+	indexPos := make(map[cueKey]int, len(existingIndex))
+
+	updated := make([]string, len(doc.lines))
+	copy(updated, doc.lines)
+	persist := false
+
+	subs := &Subs{Subs: []CCLine{}}
+	ids := make([]string, len(parsed.Items))
+	usedIDs := make(map[ObjectID]bool, len(parsed.Items))
+
+	for idx, item := range parsed.Items {
+		var styleVal string
+		if hasStyle && idx < len(doc.dialogues) {
+			if _, parts, ok := doc.dialogueParts(doc.dialogues[idx]); ok && styleIdx < len(parts) {
+				styleVal = strings.TrimSpace(parts[styleIdx])
+			}
+		}
+		styleID, styleIsID := parseObjectID(styleVal)
+
+		var id ObjectID
+		var ok bool
+
+		// (1) Совпадение по таймингам с уже опубликованным N_cc.json: сохраняем ранее
+		//     выданный id. Сопоставление по времени, а не по позиции — вставка/удаление
+		//     реплики не сдвигает id остальных.
+		key := cueKeyFromDuration(item.StartAt, item.EndAt)
+		if list, found := existingIndex[key]; found && indexPos[key] < len(list) {
+			id, ok = list[indexPos[key]], true
+			indexPos[key]++
+		}
+		// (2) Иначе — id из поля Style (например, если тайминги реплики изменили).
+		if !ok && styleIsID {
+			id, ok = styleID, true
+		}
+		// (3) Иначе (первый запуск) — новый id.
+		if !ok {
+			id = NewObjectID()
+		}
+		// Уникальность id (важно для doc-id в Meilisearch).
+		for usedIDs[id] {
+			id = NewObjectID()
+		}
+		usedIDs[id] = true
+
+		// Синхронизируем поле Style рабочего 06_manual.ssa с выбранным id; старое
+		// значение Style (если это не id) уносим в начало Effect.
+		if hasStyle && idx < len(doc.dialogues) && styleVal != id.Hex() {
+			li := doc.dialogues[idx]
+			if prefix, parts, okp := doc.dialogueParts(li); okp {
+				if hasEffect && effectIdx < len(parts) && styleVal != "" && !styleIsID {
+					parts[effectIdx] = strings.TrimSpace(styleVal + " " + parts[effectIdx])
+				}
+				parts[styleIdx] = id.Hex()
+				updated[li] = prefix + strings.Join(parts, ",")
+				persist = true
+			}
+		}
+
+		ids[idx] = id.Hex()
+
 		var author string
 		if len(item.Lines) > 0 {
 			author = item.Lines[0].VoiceName
 		}
-		ccLine := &CCLine{
-			Id:     NewObjectID(),
+
+		subs.Subs = append(subs.Subs, CCLine{
+			Id:     id,
 			Issue:  issue,
 			Type:   "cc",
 			Author: author,
 			Stime:  item.StartAt.Seconds(),
 			Etime:  item.EndAt.Seconds(),
 			Text:   fmt.Sprintf("%s", item),
-		}
+		})
+	}
 
-		subs.Subs = append(subs.Subs, *ccLine)
+	// Сохраняем id (и перенос старых Style в Effect) обратно в рабочий 06_manual.ssa
+	if persist {
+		if err := os.WriteFile(ccSrcFile, []byte(doc.render(updated)), 0644); err != nil {
+			warnLog.Printf("(%s) Не удалось сохранить id в %s: %v", loc, ccSrcFile, err)
+		} else {
+			infoLog.Printf("(%s) id реплик сохранены в поле Style файла %s", loc, ccSrcFile)
+		}
+	}
+
+	// Публикуемый N_cc.ssa: только Start, End, Style (id), Name, Text
+	if minimal := buildMinimalSSA(doc, ids); minimal != "" {
+		_ = os.WriteFile(ccSsaFile, []byte(minimal), 0644)
+	} else {
+		warnLog.Printf("(%s) Не удалось сформировать минимальный N_cc.ssa (нет нужных колонок)", loc)
 	}
 
 	jsonData, err := json.MarshalIndent(subs, "", "  ")
